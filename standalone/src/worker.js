@@ -93,6 +93,26 @@ function normaliseAdzuna(item) {
   };
 }
 
+export function normaliseIberdrola(item) {
+  const sourceUrl = `https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola${item.externalPath || ""}`;
+  return {
+    id: `iberdrola:${item.externalPath || item.title}`,
+    source: "Iberdrola Careers",
+    sourceUrl: canonicalUrl(sourceUrl),
+    title: cleanText(item.title),
+    company: "Iberdrola",
+    location: cleanText(item.locationsText) || "Ubicación no indicada",
+    country: cleanText(item.locationsText),
+    modality: "No indicada",
+    contractType: "No indicado",
+    area: "Energía",
+    publishedAt: null,
+    description: cleanText(item.bulletFields?.join(", ")),
+    requirements: "",
+    remote: /remote|remoto/i.test(`${item.title} ${item.locationsText}`),
+  };
+}
+
 export function normaliseAndDeduplicate(sourceGroups, includeRemote) {
   const urlKeys = new Set();
   const contentKeys = new Set();
@@ -154,12 +174,30 @@ async function searchAdzuna(query, location, env) {
   return (payload.results || []).map(normaliseAdzuna);
 }
 
+async function fetchIberdrolaPage(query, offset) {
+  const response = await fetch("https://iberdrola.wd3.myworkdayjobs.com/wday/cxs/iberdrola/Iberdrola/jobs", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Accept: "application/json" },
+    body: JSON.stringify({ limit: SOURCE_LIMIT, offset, searchText: broadenAdzunaQuery(query) }),
+  });
+  if (!response.ok) throw new Error(`Fuente corporativa no disponible (${response.status})`);
+  return response.json();
+}
+
+async function searchIberdrola(query) {
+  const firstPage = await fetchIberdrolaPage(query, 0);
+  const total = Math.min(Number(firstPage.total) || 0, 250);
+  const offsets = Array.from({ length: Math.max(0, Math.ceil(total / SOURCE_LIMIT) - 1) }, (_, index) => (index + 1) * SOURCE_LIMIT);
+  const extraPages = await Promise.all(offsets.map(offset => fetchIberdrolaPage(query, offset)));
+  return [firstPage, ...extraPages].flatMap(payload => payload.jobPostings || []).map(normaliseIberdrola);
+}
+
 async function search(request, env) {
   const url = new URL(request.url);
   const query = cleanText(url.searchParams.get("q") || "").slice(0, 100);
   const location = cleanText(url.searchParams.get("location") || "Madrid").slice(0, 80);
   const includeRemote = url.searchParams.get("remote") === "true";
-  const enabled = new Set((url.searchParams.get("sources") || "arbeitnow,jobicy,adzuna").split(","));
+  const enabled = new Set((url.searchParams.get("sources") || "arbeitnow,jobicy,adzuna,iberdrola").split(","));
   const jobs = [];
   const sourceErrors = [];
 
@@ -167,6 +205,7 @@ async function search(request, env) {
     ["arbeitnow", searchArbeitnow],
     ["jobicy", () => searchJobicy(query)],
     ["adzuna", () => searchAdzuna(query, location, env)],
+    ["iberdrola", () => searchIberdrola(query)],
   ];
 
   await Promise.all(sources.map(async ([name, operation]) => {
@@ -179,8 +218,11 @@ async function search(request, env) {
   }));
 
   const results = normaliseAndDeduplicate(jobs, includeRemote);
-  const activeSources = [...enabled].filter(name => name !== "adzuna" || Boolean(env.ADZUNA_APP_ID && env.ADZUNA_APP_KEY));
-  if (enabled.has("adzuna") && !activeSources.includes("adzuna")) {
+  const sourceLabels = { arbeitnow: "Arbeitnow", jobicy: "Jobicy", adzuna: "Adzuna", iberdrola: "Iberdrola Careers" };
+  const activeSources = [...enabled]
+    .filter(name => name !== "adzuna" || Boolean(env.ADZUNA_APP_ID && env.ADZUNA_APP_KEY))
+    .map(name => sourceLabels[name] || name);
+  if (enabled.has("adzuna") && !activeSources.includes("Adzuna")) {
     sourceErrors.push({ source: "Adzuna", message: "Configura la clave gratuita en el Worker para activar esta fuente" });
   }
   return new Response(JSON.stringify({

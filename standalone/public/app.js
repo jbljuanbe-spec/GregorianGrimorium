@@ -1,6 +1,7 @@
 import { normaliseAndDeduplicate, searchPublicSources } from "./sources.js";
-import { findTargetCompany, targetCompanies } from "./targetCompanies.js";
-import { explainKeywordFit, extractProfileFromCvText, requiredExperienceYears } from "./profileAnalysis.js";
+import { targetCompanies } from "./targetCompanies.js";
+import { extractProfileFromCvText } from "./profileAnalysis.js";
+import { rankAndFilterJobs } from "./ranking.js";
 
 const defaults = {
   headline: "Desarrollo de Negocio Internacional · Comercio Exterior · Relaciones Institucionales",
@@ -27,26 +28,6 @@ const elements = {
 };
 
 function split(value) { return value.split(/[,;\n|]/).map(item => item.trim().toLocaleLowerCase("es-ES")).filter(Boolean); }
-function text(value = "") { return String(value).toLocaleLowerCase("es-ES"); }
-function match(job) {
-  const keywordFit = explainKeywordFit(profile, job);
-  const keywords = keywordFit.profileTags;
-  const matched = keywordFit.matched;
-  const locationScore = split(profile.locations).some(place => text(job.location).includes(place)) ? 15 : job.modality === "Remoto" ? 8 : 0;
-  const languageLabels = ["inglés", "ingles", "italiano", "español", "espanol", "francés", "frances", "alemán", "aleman"];
-  const requested = languageLabels.filter(language => corpus.includes(language));
-  const known = languageLabels.filter(language => text(profile.languages).includes(language));
-  const languageScore = !requested.length ? 10 : Math.round(requested.filter(language => known.includes(language)).length / requested.length * 10);
-  const targetCompany = findTargetCompany(job.company);
-  const targetBoost = targetCompany ? 8 : 0;
-  const requiredYears = requiredExperienceYears(`${job.title} ${job.description} ${job.requirements}`);
-  const profileYears = Number(profile.yearsExperience) || 0;
-  const experienceScore = !requiredYears || !profileYears ? 0 : profileYears >= requiredYears ? 7 : -20;
-  const score = Math.min(100, Math.max(0, Math.round(matched.length / Math.max(keywords.length, 1) * 75) + locationScore + languageScore + targetBoost + experienceScore));
-  const missing = keywordFit.missing.slice(0, 4);
-  const locationVeto = split(profile.locations).length && locationScore === 0 && job.modality !== "Remoto";
-  return { ...job, fit: { score: locationVeto ? Math.min(score, 35) : score, matched: matched.slice(0, 7), missing, locationVeto, targetCompany, requiredYears, profileYears, experienceFit: !requiredYears || !profileYears || profileYears >= requiredYears } };
-}
 
 function formatDate(value) { if (!value) return "Fecha no indicada"; const date = new Date(value); return Number.isNaN(date.valueOf()) ? "Fecha no indicada" : date.toLocaleDateString("es-ES", { day: "numeric", month: "short" }); }
 
@@ -82,9 +63,8 @@ function renderSearchHistory() {
 
 function render(jobs, sourceNames, errors, effectiveQuery) {
   elements.results.replaceChildren();
-  elements.empty.hidden = Boolean(jobs.length);
-  const filtered = jobs.map(match).filter(job => elements.experienceFilter.value !== "fit" || job.fit.experienceFit);
-  const sorted = filtered.sort((a, b) => b.fit.score - a.fit.score);
+  const sorted = rankAndFilterJobs(profile, jobs, elements.experienceFilter.value);
+  elements.empty.hidden = Boolean(sorted.length);
   const newCount = sorted.filter(job => !seen.has(job.sourceUrl)).length;
   elements.summary.replaceChildren();
   const summaryLine = document.createElement("span");
@@ -118,11 +98,12 @@ async function search() {
   elements.searchButton.disabled = true; elements.searchButton.textContent = "Buscando…";
   elements.summary.textContent = "Consultando fuentes autorizadas y eliminando duplicados…";
   try {
-    const publicSources = sources.filter(source => source !== "adzuna");
+    const workerSources = sources.filter(source => ["adzuna", "iberdrola"].includes(source));
+    const publicSources = sources.filter(source => !workerSources.includes(source));
     const payload = await searchPublicSources({ query, sources: publicSources, includeRemote: remote });
-    if (sources.includes("adzuna")) {
+    if (workerSources.length) {
       try {
-        const params = new URLSearchParams({ q: query, location, sources: "adzuna", remote: String(remote) });
+        const params = new URLSearchParams({ q: query, location, sources: workerSources.join(","), remote: String(remote) });
         const response = await fetch(`/api/search?${params}`);
         if (response.ok) {
           const adzuna = await response.json();
@@ -130,10 +111,10 @@ async function search() {
           payload.sources = [...new Set([...payload.sources, ...(adzuna.sources || [])])];
           payload.sourceErrors.push(...(adzuna.sourceErrors || []));
         } else {
-          payload.sourceErrors.push({ source: "Adzuna", message: "Configura la clave gratuita en el Worker para activar esta fuente" });
+          payload.sourceErrors.push({ source: "Fuentes de Worker", message: "No se pudo recuperar la fuente seleccionada" });
         }
       } catch {
-        payload.sourceErrors.push({ source: "Adzuna", message: "Configura la clave gratuita en el Worker para activar esta fuente" });
+        payload.sourceErrors.push({ source: "Fuentes de Worker", message: "No se pudo recuperar la fuente seleccionada" });
       }
     }
     saveSearchHistory({ query, location, sources, remote, searchedAt: new Date().toISOString() });

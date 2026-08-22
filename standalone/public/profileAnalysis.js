@@ -35,6 +35,10 @@ const ROLE_PATTERNS = [
 
 const clean = (value = "") => String(value).replace(/\s+/g, " ").trim();
 const normalise = (value = "") => clean(value).toLocaleLowerCase("es-ES").normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9+/# ]/g, " ").replace(/\s+/g, " ").trim();
+const LOCATION_NAMES = ["Madrid", "Barcelona", "Valencia", "Bilbao", "Sevilla", "Málaga", "Zaragoza", "Valladolid", "España", "Spain"];
+const AREA_PATTERNS = [
+  ["internacionalización", /internacionalizaci[oó]n|exportaci[oó]n|comercio exterior/i], ["defensa y aeroespacial", /defensa|aeroespacial|aerospace/i], ["energía", /energ[ií]a|renovable|renewable/i], ["banca y financiación", /banca|financiaci[oó]n|fintech/i], ["relaciones institucionales", /relaciones institucionales|asuntos p[uú]blicos|public affairs/i],
+];
 
 export function extractKeywordTags(text) {
   const corpus = normalise(text);
@@ -57,6 +61,16 @@ export function explainKeywordFit(profile, job) {
   const matched = jobTags.filter(tag => profileNormalised.has(normalise(tag)) || profileText.includes(normalise(tag)));
   const missing = jobTags.filter(tag => !matched.includes(tag));
   return { matched, missing, profileTags, jobTags };
+}
+
+export function locationAdjustment(preferredLocations, offerLocation, modality) {
+  const preferences = String(preferredLocations || "").split(/[,;\n|]/).map(normalise).filter(Boolean);
+  const location = normalise(offerLocation);
+  const isRemote = /remoto|remote/i.test(modality || "");
+  const matches = !preferences.length || preferences.some(place => location.includes(place));
+  if (matches) return { score: 15, review: false, penalty: 0 };
+  if (isRemote) return { score: 8, review: false, penalty: 0 };
+  return { score: 0, review: true, penalty: 12 };
 }
 
 export function extractExperienceYears(text) {
@@ -82,11 +96,17 @@ export function extractProfileFromCvText(text) {
   const roles = ROLE_PATTERNS.filter(([, pattern]) => pattern.test(normalized)).map(([role]) => role);
   const years = extractExperienceYears(normalized);
   const languages = ["inglés", "italiano", "francés", "alemán", "portugués"].filter(language => lower.includes(language));
+  const areas = AREA_PATTERNS.filter(([, pattern]) => pattern.test(normalized)).map(([area]) => area);
+  const locations = LOCATION_NAMES.filter(location => new RegExp(`\\b${location.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i").test(normalized));
   return {
+    headline: roles.length ? roles.slice(0, 2).join(" · ") : "Perfil profesional extraído del CV",
     yearsExperience: years ? String(years) : "",
     keywords: keywords.join(", "),
     roles: roles.join(", "),
+    areas: areas.join(", "),
+    locations: locations.join(", "),
     languages: languages.join(", "),
     summary: clean(normalized.slice(0, 650)),
+    experience: clean(normalized.slice(0, 1800)),
   };
 }

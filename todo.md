@@ -37,15 +37,24 @@
 - [x] Renderizar el historial de consultas con nodos DOM seguros y comprobar su comportamiento sin inyección de HTML.
 - [x] Documentar los vetos de ranking y las reglas de seguridad del repositorio MIT aplicables al buscador independiente.
 - [ ] Confirmar que las credenciales de Adzuna se guardaron como secretos del Worker y verificar resultados españoles reales tras la rotación.
-- [ ] Cargar el perfil profesional completo del CV en la versión autónoma y hacerlo visible y editable.
-- [ ] Ampliar las consultas a Adzuna y las fuentes públicas para recuperar un volumen suficiente de ofertas españolas relevantes.
-- [ ] Ajustar la clasificación para priorizar adecuación sin descartar prematuramente resultados potencialmente válidos.
-- [ ] Definir una lista inicial de unas 100 empresas objetivo alineadas con desarrollo de negocio, comercio exterior, industria, energía, banca y relaciones institucionales.
-- [ ] Incorporar fuentes corporativas verificables y consultas ampliadas que complementen Adzuna sin scraping no autorizado de LinkedIn o Google.
+- [x] Cargar el perfil profesional completo del CV en la versión autónoma y hacerlo visible y editable.
+- [x] Ampliar las consultas a Adzuna y las fuentes públicas para recuperar un volumen suficiente de ofertas españolas relevantes.
+- [x] Ajustar la clasificación para priorizar adecuación sin descartar prematuramente resultados potencialmente válidos.
+- [x] Definir una lista inicial de unas 100 empresas objetivo alineadas con desarrollo de negocio, comercio exterior, industria, energía, banca y relaciones institucionales.
+- [x] Incorporar fuentes corporativas verificables y consultas ampliadas que complementen Adzuna sin scraping no autorizado de LinkedIn o Google.
 - [ ] Crear un radar corporativo con filtro de empresas objetivo, deduplicación y enlaces directos de candidatura.
 - [x] Permitir importar un CV localmente para extraer y editar el perfil de búsqueda sin subir el archivo a un servidor.
 - [x] Añadir años de experiencia al perfil y detectar el mínimo solicitado en cada oferta para filtrarlo y explicarlo.
 - [x] Mejorar la normalización, ponderación y presentación de coincidencias y carencias de palabras clave.
 - [x] Normalizar keywords de perfil y oferta mediante acentos, variantes, sinónimos y deduplicación antes de calcular el ranking.
 - [x] Generar coincidencias y carencias explicables mediante etiquetas consistentes en lugar de fragmentos ruidosos de descripciones.
+- [x] Completar la extracción local del CV con titular, áreas objetivo, ubicaciones y experiencia detallada, no solo competencias iniciales.
+- [x] Añadir cobertura corporativa verificable y pruebas de recuperación que amplíen Adzuna con vacantes reales de empresas objetivo.
+- [x] Añadir pruebas de ranking para confirmar que oportunidades potencialmente válidas no se hunden por penalizaciones rígidas de ubicación.
 - [ ] Sustituir las variables de texto de Adzuna por secretos y rotar la clave visible antes de mantener la integración activa.
+- [ ] Ampliar gradualmente el radar de cien empresas con conectores ATS públicos confirmados, mostrando de forma transparente qué compañías se consultan realmente.
+- [x] Corregir el flujo real de puntuación del navegador y cubrirlo con una prueba ejecutable.
+- [x] Añadir pruebas de integración del conector Iberdrola, incluyendo respuesta vacía y error de fuente.
+- [x] Mostrar explícitamente en la interfaz qué fuente corporativa se consultó en cada búsqueda.
+- [x] Recuperar de forma acotada las páginas necesarias del ATS corporativo y conservar la señal de país de sus enlaces de candidatura.
+- [x] Cubrir una respuesta corporativa vacía y mantener visible el estado vacío con las fuentes consultadas.
