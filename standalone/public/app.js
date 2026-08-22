@@ -99,7 +99,7 @@ async function search() {
   elements.searchButton.disabled = true; elements.searchButton.textContent = "Buscando…";
   elements.summary.textContent = "Consultando fuentes autorizadas y eliminando duplicados…";
   try {
-    const workerSources = sources.filter(source => ["adzuna", "iberdrola"].includes(source));
+    const workerSources = sources.filter(source => ["adzuna", "iberdrola", "santander"].includes(source));
     const publicSources = sources.filter(source => !workerSources.includes(source));
     const payload = await searchPublicSources({ query, sources: publicSources, includeRemote: remote });
     if (workerSources.length) {

@@ -64,3 +64,5 @@
 - [x] Ajustar la deduplicación para eliminar solo la misma vacante, manteniendo posiciones distintas de una misma empresa.
 - [x] Aplicar deduplicación híbrida por ID de requisición o ATS para eliminar la misma vacante sindicada sin ocultar posiciones distintas similares.
 - [x] Ocultar el botón y panel desplegable de las cien empresas para evitar que obstruyan el menú, preservando el filtro de radar en la búsqueda.
+- [x] Conectar Santander Careers al grupo de fuentes del Worker desde la interfaz para que su casilla ejecute la consulta corporativa real.
+- [ ] Verificar tras publicar que la interfaz servida envía Santander Careers al Worker y no la trata como fuente pública.
