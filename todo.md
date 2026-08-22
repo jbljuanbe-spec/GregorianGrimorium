@@ -1,0 +1,21 @@
+# Project TODO
+
+- [x] Analizar los CV compartidos y consolidar un perfil profesional editable, con experiencia, competencias, preferencias y palabras clave.
+- [x] Revisar el repositorio de referencia y adaptar su enfoque a una aplicación privada orientada a España.
+- [x] Investigar fuentes públicas y oficiales de ofertas españolas que permitan enlaces de candidatura fiables.
+- [x] Diseñar y aplicar el esquema de datos para perfil, ofertas, estados de seguimiento y comparaciones privadas.
+- [x] Construir la interfaz elegante y responsive de panel, catálogo, filtros, ficha de oferta y comparador.
+- [x] Implementar búsqueda y filtros por ubicación, modalidad, contrato, área y fecha.
+- [x] Implementar un ranking de adecuación explicable que resalte coincidencias y carencias de palabras clave.
+- [x] Implementar guardados y seguimiento de candidaturas con estados pendiente, favorita, aplicada y descartada.
+- [x] Incorporar pruebas unitarias para el cálculo de puntuación, filtros y transiciones de estado.
+- [x] Verificar la experiencia en escritorio y móvil, la privacidad y los flujos de error o vacío.
+- [ ] Crear y sincronizar un repositorio privado de GitHub con el código final y la documentación de uso.
+- [x] Implementar una ficha completa de oferta con requisitos, condiciones, notas, candidatura y lectura detallada de adecuación.
+- [x] Añadir estados de carga, error y vacío coherentes en las vistas privadas principales.
+- [x] Verificar mediante pruebas los filtros del catálogo y los estados de seguimiento de candidaturas.
+- [x] Añadir estados de carga explícitos y consistentes en resumen, perfil y comparador.
+- [x] Añadir pruebas de comportamiento para filtros de catálogo y actualización de estados de candidatura.
+- [x] Validar resultados concretos de los filtros de catálogo sobre ofertas de ejemplo controladas.
+- [x] Verificar visualmente las vistas móviles de resumen y comparador.
+- [x] Documentar y comprobar los estados de carga, error y vacío de las vistas privadas principales.
