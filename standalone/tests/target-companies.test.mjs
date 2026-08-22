@@ -20,4 +20,7 @@ test("prioriza los portales oficiales corregidos para Indra y empresas con rutas
   assert.equal(byName("Acciona"), "https://acciona.wd3.myworkdayjobs.com/es/ACCIONA_Employment_Channel");
   assert.equal(byName("CaixaBank"), "https://caixabankcareers.com/");
   assert.equal(byName("Wallapop"), "https://job-boards.eu.greenhouse.io/wallapop");
+  assert.equal(byName("Endesa"), "https://www.endesa.com/en/talent/job-vacancies");
+  assert.equal(byName("Enagás"), "https://enagas.wd3.myworkdayjobs.com/Portal_Externo");
+  assert.equal(byName("GE Vernova"), "https://careers.gevernova.com/");
 });
