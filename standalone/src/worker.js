@@ -1,0 +1,190 @@
+const SOURCE_LIMIT = 50;
+const RESULT_LIMIT = 60;
+
+const responseHeaders = {
+  "Content-Type": "application/json; charset=utf-8",
+  "Cache-Control": "no-store",
+};
+
+function cleanText(value = "") {
+  return String(value)
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;|&#x27;|&quot;|&amp;/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function canonicalUrl(value) {
+  try {
+    const url = new URL(value);
+    url.hash = "";
+    ["utm_source", "utm_medium", "utm_campaign", "ref", "source"].forEach(key => url.searchParams.delete(key));
+    return url.toString();
+  } catch {
+    return "";
+  }
+}
+
+function normalizedKey(job) {
+  return [job.company, job.title, job.location]
+    .map(value => cleanText(value).toLocaleLowerCase("es-ES").normalize("NFD").replace(/[\u0300-\u036f]/g, ""))
+    .join("|");
+}
+
+function isSpainOrRemote(job, includeRemote) {
+  const location = `${job.location || ""} ${job.country || ""}`.toLocaleLowerCase("es-ES");
+  return location.includes("spain") || location.includes("españa") || location.includes("madrid") || location.includes("barcelona") || location.includes("valencia") || location.includes("bilbao") || location.includes("sevilla") || (includeRemote && job.remote === true);
+}
+
+function normaliseArbeitnow(item) {
+  return {
+    id: `arbeitnow:${item.slug || canonicalUrl(item.url)}`,
+    source: "Arbeitnow",
+    sourceUrl: canonicalUrl(item.url),
+    title: cleanText(item.title),
+    company: cleanText(item.company_name),
+    location: cleanText(item.location) || "Ubicación no indicada",
+    country: cleanText(item.location),
+    modality: item.remote ? "Remoto" : "No indicada",
+    contractType: cleanText(item.job_types?.join(", ")) || "No indicado",
+    area: "Oferta de empleo",
+    publishedAt: item.created_at ? new Date(item.created_at * 1000).toISOString() : null,
+    description: cleanText(item.description),
+    requirements: cleanText(item.tags?.join(", ")),
+    remote: Boolean(item.remote),
+  };
+}
+
+function normaliseJobicy(item) {
+  return {
+    id: `jobicy:${item.id || canonicalUrl(item.url)}`,
+    source: "Jobicy",
+    sourceUrl: canonicalUrl(item.url),
+    title: cleanText(item.jobTitle),
+    company: cleanText(item.companyName),
+    location: cleanText(item.jobGeo) || "Remoto",
+    country: cleanText(item.jobGeo),
+    modality: "Remoto",
+    contractType: cleanText(item.jobType?.join(", ")) || "No indicado",
+    area: cleanText(item.jobIndustry?.join(", ")) || "Remoto internacional",
+    publishedAt: item.pubDate || null,
+    description: cleanText(item.jobExcerpt || item.jobDescription),
+    requirements: cleanText(item.jobLevel || ""),
+    remote: true,
+  };
+}
+
+function normaliseAdzuna(item) {
+  return {
+    id: `adzuna:${item.id || canonicalUrl(item.redirect_url)}`,
+    source: "Adzuna",
+    sourceUrl: canonicalUrl(item.redirect_url),
+    title: cleanText(item.title),
+    company: cleanText(item.company?.display_name),
+    location: cleanText(item.location?.display_name),
+    country: cleanText(item.location?.area?.join(", ")),
+    modality: "No indicada",
+    contractType: cleanText(item.contract_type) || "No indicado",
+    area: cleanText(item.category?.label) || "Oferta de empleo",
+    publishedAt: item.created || null,
+    description: cleanText(item.description),
+    requirements: "",
+    remote: /remote|remoto/i.test(`${item.title} ${item.description}`),
+  };
+}
+
+export function normaliseAndDeduplicate(sourceGroups, includeRemote) {
+  const urlKeys = new Set();
+  const contentKeys = new Set();
+  const output = [];
+
+  sourceGroups.flat().forEach(job => {
+    if (!job.title || !job.company || !job.sourceUrl || !isSpainOrRemote(job, includeRemote)) return;
+    const urlKey = canonicalUrl(job.sourceUrl);
+    const contentKey = normalizedKey(job);
+    if (urlKeys.has(urlKey) || contentKeys.has(contentKey)) return;
+    urlKeys.add(urlKey);
+    contentKeys.add(contentKey);
+    output.push({ ...job, sourceUrl: urlKey });
+  });
+
+  return output
+    .sort((a, b) => Date.parse(b.publishedAt || "") - Date.parse(a.publishedAt || ""))
+    .slice(0, RESULT_LIMIT);
+}
+
+async function fetchJson(url) {
+  const response = await fetch(url, { headers: { Accept: "application/json" } });
+  if (!response.ok) throw new Error(`Fuente no disponible (${response.status})`);
+  return response.json();
+}
+
+async function searchArbeitnow() {
+  const payload = await fetchJson("https://www.arbeitnow.com/api/job-board-api");
+  return (payload.data || []).slice(0, SOURCE_LIMIT).map(normaliseArbeitnow);
+}
+
+async function searchJobicy(query) {
+  const url = new URL("https://jobicy.com/api/v2/remote-jobs");
+  url.searchParams.set("count", String(SOURCE_LIMIT));
+  if (query) url.searchParams.set("tag", query);
+  const payload = await fetchJson(url.toString());
+  return (payload.jobs || []).map(normaliseJobicy);
+}
+
+async function searchAdzuna(query, location, env) {
+  if (!env.ADZUNA_APP_ID || !env.ADZUNA_APP_KEY) return [];
+  const url = new URL("https://api.adzuna.com/v1/api/jobs/es/search/1");
+  url.searchParams.set("app_id", env.ADZUNA_APP_ID);
+  url.searchParams.set("app_key", env.ADZUNA_APP_KEY);
+  url.searchParams.set("what", query || "internacionalización");
+  if (location) url.searchParams.set("where", location);
+  url.searchParams.set("results_per_page", String(SOURCE_LIMIT));
+  url.searchParams.set("content-type", "application/json");
+  const payload = await fetchJson(url.toString());
+  return (payload.results || []).map(normaliseAdzuna);
+}
+
+async function search(request, env) {
+  const url = new URL(request.url);
+  const query = cleanText(url.searchParams.get("q") || "").slice(0, 100);
+  const location = cleanText(url.searchParams.get("location") || "Madrid").slice(0, 80);
+  const includeRemote = url.searchParams.get("remote") === "true";
+  const enabled = new Set((url.searchParams.get("sources") || "arbeitnow,jobicy,adzuna").split(","));
+  const jobs = [];
+  const sourceErrors = [];
+
+  const sources = [
+    ["arbeitnow", searchArbeitnow],
+    ["jobicy", () => searchJobicy(query)],
+    ["adzuna", () => searchAdzuna(query, location, env)],
+  ];
+
+  await Promise.all(sources.map(async ([name, operation]) => {
+    if (!enabled.has(name)) return;
+    try {
+      jobs.push(await operation());
+    } catch (error) {
+      sourceErrors.push({ source: name, message: error instanceof Error ? error.message : "Fuente no disponible" });
+    }
+  }));
+
+  const results = normaliseAndDeduplicate(jobs, includeRemote);
+  return new Response(JSON.stringify({
+    query,
+    location,
+    generatedAt: new Date().toISOString(),
+    sources: [...enabled].filter(name => name !== "adzuna" || Boolean(env.ADZUNA_APP_ID && env.ADZUNA_APP_KEY)),
+    sourceErrors,
+    results,
+  }), { headers: responseHeaders });
+}
+
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    if (url.pathname === "/api/health") return new Response(JSON.stringify({ ok: true, service: "byscador-search" }), { headers: responseHeaders });
+    if (url.pathname === "/api/search") return search(request, env);
+    return env.ASSETS.fetch(request);
+  },
+};

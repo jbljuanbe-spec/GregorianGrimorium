@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0e3a34" />
+    <title>Byscador · Búsqueda activa</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Playfair+Display:opsz,wght@6..120,600;6..120,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar"><a class="brand" href="/"><span>▣</span><strong>Byscador</strong><small>BÚSQUEDA ACTIVA</small></a><button id="profile-toggle" class="outline">Editar perfil</button></header>
+    <main>
+      <section class="hero"><p class="eyebrow">OFERTAS REALES · ESPAÑA</p><h1>Busca. Filtra. Decide.</h1><p>Consulta fuentes abiertas, deduplica resultados y ordénalos frente a tus propios criterios profesionales.</p></section>
+      <section class="search-card" aria-label="Buscar ofertas"><div class="query-row"><label><span>Puesto o palabras clave</span><input id="query" value="desarrollo de negocio internacional" maxlength="100" /></label><label><span>Ubicación</span><input id="location" value="Madrid" maxlength="80" /></label><button id="search-button">Buscar ofertas</button></div><div class="source-row"><span>Fuentes</span><label><input type="checkbox" name="source" value="arbeitnow" checked /> Arbeitnow</label><label><input type="checkbox" name="source" value="jobicy" checked /> Jobicy</label><label><input type="checkbox" name="source" value="adzuna" checked /> Adzuna <small id="adzuna-note">(al añadir clave)</small></label><label><input type="checkbox" id="include-remote" /> incluir remoto internacional</label></div></section>
+      <section class="summary" id="summary"><span>Introduce una consulta y selecciona <strong>Buscar ofertas</strong>.</span></section>
+      <section id="results" class="results" aria-live="polite"></section>
+      <section id="empty-state" class="empty-state"><h2>Tu perfil guía el orden.</h2><p>Las búsquedas guardan el historial de URLs vistas en este dispositivo. Las vacantes ya conocidas no reaparecen como novedades.</p></section>
+    </main>
+    <aside id="profile-panel" class="profile-panel" hidden><div class="panel-heading"><div><p class="eyebrow">CRITERIOS PRIVADOS</p><h2>Tu perfil de adecuación</h2></div><button id="profile-close" class="icon" aria-label="Cerrar">×</button></div><p>Se guarda solo en este navegador. Describe únicamente habilidades reales.</p><form id="profile-form"><label>Palabras clave<input name="keywords" /></label><label>Puestos objetivo<input name="roles" /></label><label>Sectores objetivo<input name="areas" /></label><label>Ubicación preferida<input name="locations" /></label><label>Idiomas<input name="languages" /></label><button type="submit">Guardar criterios</button></form></aside>
+    <template id="result-template"><article class="job-card"><div class="score"><strong></strong><span>/100</span></div><div class="job-main"><div class="job-heading"><div><p class="source"></p><h2></h2><p class="company"></p></div><time></time></div><div class="tags"></div><p class="description"></p><div class="fit"><div><small>COINCIDE</small><p class="matched"></p></div><div><small>POR REVISAR</small><p class="missing"></p></div></div></div><a class="apply" target="_blank" rel="noreferrer">Abrir candidatura ↗</a></article></template>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

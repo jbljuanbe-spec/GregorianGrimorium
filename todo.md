@@ -19,3 +19,13 @@
 - [x] Validar resultados concretos de los filtros de catálogo sobre ofertas de ejemplo controladas.
 - [x] Verificar visualmente las vistas móviles de resumen y comparador.
 - [x] Documentar y comprobar los estados de carga, error y vacío de las vistas privadas principales.
+- [ ] Auditar y eliminar las dependencias de autenticación, datos y alojamiento específicas de Manus.
+- [ ] Adaptar el frontend para una ejecución independiente con persistencia local o externa configurable.
+- [ ] Configurar el repositorio privado para un despliegue independiente desde GitHub.
+- [ ] Verificar y documentar el enlace de uso sin dependencia de créditos de Manus.
+- [x] Analizar los módulos de búsqueda, ranking y seguridad del repositorio MIT de referencia para reutilizar sus patrones permitidos.
+- [x] Investigar y seleccionar fuentes españolas con API o acceso público autorizado para recuperar ofertas reales.
+- [ ] Implementar la ingestión bajo demanda de ofertas, deduplicación por URL y ordenación automática por adecuación.
+- [ ] Añadir una experiencia de búsqueda activa con historial de consulta, fuentes utilizadas y resultados verificables.
+- [x] Comparar alternativas gratuitas a Adzuna y seleccionar la combinación inicial de fuentes para España.
+- [x] Documentar los vetos de ranking y las reglas de seguridad del repositorio MIT aplicables al buscador independiente.
