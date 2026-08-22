@@ -1,5 +1,5 @@
 const SOURCE_LIMIT = 50;
-const RESULT_LIMIT = 60;
+const RESULT_LIMIT = 120;
 
 const cleanText = (value = "") => String(value).replace(/<[^>]+>/g, " ").replace(/&nbsp;|&#x27;|&quot;|&amp;/g, " ").replace(/\s+/g, " ").trim();
 

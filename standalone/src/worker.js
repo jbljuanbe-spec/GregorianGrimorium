@@ -1,5 +1,5 @@
 const SOURCE_LIMIT = 50;
-const RESULT_LIMIT = 60;
+const RESULT_LIMIT = 120;
 
 const responseHeaders = {
   "Content-Type": "application/json; charset=utf-8",
@@ -132,12 +132,21 @@ async function searchJobicy(query) {
   return (payload.jobs || []).map(normaliseJobicy);
 }
 
+export function broadenAdzunaQuery(query) {
+  const normalized = cleanText(query).toLocaleLowerCase("es-ES");
+  if (/desarrollo.*negocio|business development|comercial/.test(normalized)) return "desarrollo de negocio";
+  if (/comercio exterior|exportaci[oó]n|internacionalizaci[oó]n/.test(normalized)) return "comercio exterior";
+  if (/relaciones institucionales|asuntos p[uú]blicos|public affairs/.test(normalized)) return "asuntos públicos";
+  if (/mercado|inteligencia/.test(normalized)) return "análisis de mercado";
+  return query || "desarrollo de negocio";
+}
+
 async function searchAdzuna(query, location, env) {
   if (!env.ADZUNA_APP_ID || !env.ADZUNA_APP_KEY) return [];
   const url = new URL("https://api.adzuna.com/v1/api/jobs/es/search/1");
   url.searchParams.set("app_id", env.ADZUNA_APP_ID);
   url.searchParams.set("app_key", env.ADZUNA_APP_KEY);
-  url.searchParams.set("what", query || "internacionalización");
+  url.searchParams.set("what", broadenAdzunaQuery(query));
   if (location) url.searchParams.set("where", location);
   url.searchParams.set("results_per_page", String(SOURCE_LIMIT));
   url.searchParams.set("content-type", "application/json");
@@ -176,6 +185,7 @@ async function search(request, env) {
   }
   return new Response(JSON.stringify({
     query,
+    effectiveQuery: enabled.has("adzuna") ? broadenAdzunaQuery(query) : query,
     location,
     generatedAt: new Date().toISOString(),
     sources: activeSources,

@@ -36,3 +36,11 @@
 - [x] Guardar y mostrar un historial de consultas para relanzar búsquedas anteriores desde el navegador.
 - [x] Renderizar el historial de consultas con nodos DOM seguros y comprobar su comportamiento sin inyección de HTML.
 - [x] Documentar los vetos de ranking y las reglas de seguridad del repositorio MIT aplicables al buscador independiente.
+- [ ] Confirmar que las credenciales de Adzuna se guardaron como secretos del Worker y verificar resultados españoles reales tras la rotación.
+- [ ] Cargar el perfil profesional completo del CV en la versión autónoma y hacerlo visible y editable.
+- [ ] Ampliar las consultas a Adzuna y las fuentes públicas para recuperar un volumen suficiente de ofertas españolas relevantes.
+- [ ] Ajustar la clasificación para priorizar adecuación sin descartar prematuramente resultados potencialmente válidos.
+- [ ] Definir una lista inicial de unas 100 empresas objetivo alineadas con desarrollo de negocio, comercio exterior, industria, energía, banca y relaciones institucionales.
+- [ ] Incorporar fuentes corporativas verificables y consultas ampliadas que complementen Adzuna sin scraping no autorizado de LinkedIn o Google.
+- [ ] Crear un radar corporativo con filtro de empresas objetivo, deduplicación y enlaces directos de candidatura.
+- [ ] Sustituir las variables de texto de Adzuna por secretos y rotar la clave visible antes de mantener la integración activa.

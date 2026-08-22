@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { normaliseAndDeduplicate } from "../public/sources.js";
+import { broadenAdzunaQuery, normaliseAndDeduplicate } from "../src/worker.js";
 
 test("deduplica por URL y conserva solamente resultados de España", () => {
   const job = {
@@ -16,4 +16,10 @@ test("incluye puestos remotos solo cuando el usuario lo habilita", () => {
   const job = { title: "Remote role", company: "Empresa", location: "Anywhere", country: "", remote: true, sourceUrl: "https://example.com/remote", source: "Prueba", modality: "Remoto", contractType: "Indefinido", area: "Internacional", description: "", requirements: "", publishedAt: null };
   assert.equal(normaliseAndDeduplicate([[job]], false).length, 0);
   assert.equal(normaliseAndDeduplicate([[job]], true).length, 1);
+});
+
+test("amplía consultas demasiado específicas hacia un término de mercado con mayor cobertura", () => {
+  assert.equal(broadenAdzunaQuery("desarrollo de negocio internacional"), "desarrollo de negocio");
+  assert.equal(broadenAdzunaQuery("relaciones institucionales"), "asuntos públicos");
+  assert.equal(broadenAdzunaQuery("comercio exterior"), "comercio exterior");
 });
