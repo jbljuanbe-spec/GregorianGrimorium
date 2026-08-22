@@ -67,3 +67,4 @@
 - [x] Conectar Santander Careers al grupo de fuentes del Worker desde la interfaz para que su casilla ejecute la consulta corporativa real.
 - [x] Verificar tras publicar que la interfaz servida envía Santander Careers al Worker y no la trata como fuente pública.
 - [ ] Auditar y corregir los enlaces de carrera del radar, empezando por Indra Empleo, mediante los portales oficiales vigentes.
+- [x] Corregir y publicar los enlaces reportados y una primera tanda de destinos obsoletos, incluido Indra Group, con verificación oficial documentada.
