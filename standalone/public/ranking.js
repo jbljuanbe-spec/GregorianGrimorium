@@ -40,3 +40,9 @@ export function rankAndFilterJobs(profile, jobs, experienceFilter = "all") {
     .filter(job => experienceFilter !== "fit" || job.fit.experienceFit)
     .sort((a, b) => b.fit.score - a.fit.score);
 }
+
+export function filterByTargetCompany(jobs, selection = "all") {
+  if (selection === "all") return jobs;
+  if (selection === "target") return jobs.filter(job => Boolean(job.fit.targetCompany));
+  return jobs.filter(job => job.fit.targetCompany?.name === selection);
+}

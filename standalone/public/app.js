@@ -1,7 +1,7 @@
 import { normaliseAndDeduplicate, searchPublicSources } from "./sources.js";
 import { targetCompanies } from "./targetCompanies.js";
 import { extractProfileFromCvText } from "./profileAnalysis.js";
-import { rankAndFilterJobs } from "./ranking.js";
+import { filterByTargetCompany, rankAndFilterJobs } from "./ranking.js";
 
 const defaults = {
   headline: "Desarrollo de Negocio Internacional · Comercio Exterior · Relaciones Institucionales",
@@ -21,9 +21,10 @@ const searchHistoryKey = "byscador-standalone-search-history";
 const profile = { ...defaults, ...JSON.parse(localStorage.getItem(profileKey) || "{}") };
 const seen = new Set(JSON.parse(localStorage.getItem(seenKey) || "[]"));
 let searchHistory = JSON.parse(localStorage.getItem(searchHistoryKey) || "[]");
+let latestSearch = null;
 const elements = {
   query: document.querySelector("#query"), location: document.querySelector("#location"), searchButton: document.querySelector("#search-button"), profileHeadline: document.querySelector("#profile-headline"), profileSummary: document.querySelector("#profile-summary"), profileKeywords: document.querySelector("#profile-keywords"),
-  results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"), targetList: document.querySelector("#target-list"), targetToggle: document.querySelector("#target-toggle"), targetCount: document.querySelector("#target-count"), experienceFilter: document.querySelector("#experience-filter"), cvFile: document.querySelector("#cv-file"), cvStatus: document.querySelector("#cv-status"),
+  results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"), targetList: document.querySelector("#target-list"), targetToggle: document.querySelector("#target-toggle"), targetCount: document.querySelector("#target-count"), experienceFilter: document.querySelector("#experience-filter"), targetFilter: document.querySelector("#target-company-filter"), cvFile: document.querySelector("#cv-file"), cvStatus: document.querySelector("#cv-status"),
   profilePanel: document.querySelector("#profile-panel"), profileToggle: document.querySelector("#profile-toggle"), profileClose: document.querySelector("#profile-close"), profileForm: document.querySelector("#profile-form"), history: document.querySelector("#search-history"),
 };
 
@@ -63,7 +64,7 @@ function renderSearchHistory() {
 
 function render(jobs, sourceNames, errors, effectiveQuery) {
   elements.results.replaceChildren();
-  const sorted = rankAndFilterJobs(profile, jobs, elements.experienceFilter.value);
+  const sorted = filterByTargetCompany(rankAndFilterJobs(profile, jobs, elements.experienceFilter.value), elements.targetFilter.value);
   elements.empty.hidden = Boolean(sorted.length);
   const newCount = sorted.filter(job => !seen.has(job.sourceUrl)).length;
   elements.summary.replaceChildren();
@@ -118,7 +119,8 @@ async function search() {
       }
     }
     saveSearchHistory({ query, location, sources, remote, searchedAt: new Date().toISOString() });
-    render(payload.results || [], payload.sources || [], payload.sourceErrors || [], payload.effectiveQuery || query);
+    latestSearch = { jobs: payload.results || [], sources: payload.sources || [], errors: payload.sourceErrors || [], effectiveQuery: payload.effectiveQuery || query };
+    render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery);
   } catch (error) {
     elements.summary.textContent = error instanceof Error ? error.message : "No se pudo completar la búsqueda";
   } finally { elements.searchButton.disabled = false; elements.searchButton.textContent = "Buscar ofertas"; }
@@ -163,6 +165,7 @@ function renderTargetRadar() {
   elements.targetCount.textContent = String(targetCompanies.length);
   elements.targetList.replaceChildren();
   targetCompanies.forEach(target => {
+    const option = document.createElement("option"); option.value = target.name; option.textContent = target.name; elements.targetFilter.append(option);
     const link = document.createElement("a");
     link.href = target.careersUrl; link.target = "_blank"; link.rel = "noreferrer";
     const name = document.createElement("strong"); name.textContent = target.name;
@@ -177,6 +180,7 @@ elements.profileClose.addEventListener("click", () => { elements.profilePanel.hi
 elements.profileForm.addEventListener("submit", event => { event.preventDefault(); new FormData(elements.profileForm).forEach((value, name) => { profile[name] = value; }); localStorage.setItem(profileKey, JSON.stringify(profile)); renderProfileSnapshot(); elements.profilePanel.hidden = true; });
 elements.searchButton.addEventListener("click", search);
 elements.experienceFilter.addEventListener("change", () => { if (elements.results.children.length) search(); });
+elements.targetFilter.addEventListener("change", () => { if (latestSearch) render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery); });
 elements.cvFile.addEventListener("change", importCv);
 elements.targetToggle.addEventListener("click", () => { const hidden = elements.targetList.hidden; elements.targetList.hidden = !hidden; elements.targetToggle.textContent = hidden ? "Ocultar empresas" : "Ver empresas objetivo"; });
 renderSearchHistory();

@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { rankAndFilterJobs, rankJob } from "../public/ranking.js";
+import { filterByTargetCompany, rankAndFilterJobs, rankJob } from "../public/ranking.js";
 
 test("el ranking real conserva una oferta fuerte de empresa objetivo fuera de Madrid como revisión", () => {
   const profile = {
@@ -22,4 +22,10 @@ test("el filtro de experiencia puede dejar un estado vacío sin ocultar la fuent
   const profile = { keywords: "desarrollo de negocio", roles: "", areas: "", experience: "", languages: "inglés", locations: "Madrid", yearsExperience: "3" };
   const jobs = [{ title: "Desarrollo de negocio", company: "Iberdrola", location: "Madrid, Spain", modality: "Presencial", area: "Energía", description: "Se requieren mínimo 8 años de experiencia", requirements: "" }];
   assert.equal(rankAndFilterJobs(profile, jobs, "fit").length, 0);
+});
+
+test("el filtro de radar conserva solo resultados de empresas objetivo o de una empresa concreta", () => {
+  const jobs = [{ fit: { targetCompany: { name: "Iberdrola" } } }, { fit: { targetCompany: { name: "Santander" } } }, { fit: { targetCompany: null } }];
+  assert.equal(filterByTargetCompany(jobs, "target").length, 2);
+  assert.deepEqual(filterByTargetCompany(jobs, "Iberdrola"), [jobs[0]]);
 });

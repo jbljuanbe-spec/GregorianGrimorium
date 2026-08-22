@@ -12,6 +12,7 @@ La aplicación debe recuperar ofertas reales bajo demanda, conservar su URL de o
 | [Arbeitnow](https://www.arbeitnow.com/api/job-board-api) | Fuente pública complementaria. | Consulta bajo demanda sin clave. |
 | [Jobicy](https://jobicy.com/api/v2/remote-jobs) | Fuente pública complementaria para remoto. | Consulta bajo demanda sin clave; requiere activar remoto para presentar resultados. |
 | [Iberdrola Careers](https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola) | Primer conector corporativo oficial. | Feed público de Workday; recuperación acotada y paginada, con filtro posterior de España. |
+| [Santander Careers](https://santander.wd3.myworkdayjobs.com/en/SantanderCareers) | Segundo conector corporativo oficial. | Feed público de Workday; recuperación acotada y paginada, con filtro posterior de España. |
 | [Empléate](https://www.empleate.gob.es/empleo/#/) | Fuente pública estatal y enlace de consulta. | Se mantiene como fuente enlazada hasta confirmar una interfaz programática autorizada. |
 | Portales corporativos | Búsqueda dirigida en empresas objetivo y URL de candidatura. | Conectores individuales únicamente si existe API pública o feed autorizado. |
 
@@ -32,7 +33,7 @@ No se automatizarán candidaturas, no se usarán sesiones personales de LinkedIn
 | Jooble | La documentación exige clave de API. | Cobertura agregada amplia; el acceso gratuito y sus cuotas deben confirmarse en el registro de la cuenta. | Fuente secundaria opcional, no base del diseño gratuito. |
 | Empléate | Consulta pública. | Agregador público estatal; no se ha confirmado una API pública de integración. | Enlace y búsqueda dirigida hasta disponer de una interfaz autorizada. |
 
-La combinación inicial más sólida sin pago es **Adzuna para España**, con **Arbeitnow** y **Jobicy** como complementos públicos, e **Iberdrola Careers** como primera fuente corporativa verificable. Los cien portales del radar no equivalen a cien conectores: solo los conectores que aparecen como fuente de búsqueda recuperan vacantes automáticamente. Ninguna alternativa permite recopilar legítimamente "todo" InfoJobs, LinkedIn, Google Jobs e Indeed sin las condiciones o acuerdos de cada portal.
+La combinación inicial más sólida sin pago es **Adzuna para España**, con **Arbeitnow** y **Jobicy** como complementos públicos, e **Iberdrola Careers** y **Santander Careers** como fuentes corporativas verificables. Los cien portales del radar no equivalen a cien conectores: solo los conectores que aparecen como fuente de búsqueda recuperan vacantes automáticamente. Ninguna alternativa permite recopilar legítimamente "todo" InfoJobs, LinkedIn, Google Jobs e Indeed sin las condiciones o acuerdos de cada portal.
 
 ## Patrones adaptados del repositorio MIT
 

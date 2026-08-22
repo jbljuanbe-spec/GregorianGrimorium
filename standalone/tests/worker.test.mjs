@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import worker, { broadenAdzunaQuery, normaliseAndDeduplicate, normaliseIberdrola } from "../src/worker.js";
+import worker, { broadenAdzunaQuery, normaliseAndDeduplicate, normaliseIberdrola, normaliseSantander } from "../src/worker.js";
 
 test("deduplica por URL y conserva solamente resultados de España", () => {
   const job = {
@@ -33,6 +33,12 @@ test("normaliza vacantes oficiales de Iberdrola con enlace directo de candidatur
 test("reconoce España en la ruta oficial aunque Workday resuma la ubicación", () => {
   const job = normaliseIberdrola({ title: "Vacante", externalPath: "/job/Spain-Bilbao/R-88", locationsText: "3 Locations", bulletFields: [] });
   assert.equal(normaliseAndDeduplicate([[job]], false).length, 1);
+});
+
+test("normaliza vacantes oficiales de Santander con su URL corporativa de candidatura", () => {
+  const job = normaliseSantander({ title: "Business Development", externalPath: "/job/Madrid/R-22", locationsText: "Madrid, Spain", bulletFields: ["R-22"] });
+  assert.equal(job.company, "Santander");
+  assert.match(job.sourceUrl, /santander\.wd3\.myworkdayjobs\.com/);
 });
 
 test("recupera una vacante española desde el conector oficial de Iberdrola", async () => {
@@ -100,6 +106,23 @@ test("recorre páginas corporativas acotadas para no perder una vacante español
     assert.equal(calls, 5);
     assert.equal(payload.results.length, 1);
     assert.equal(payload.results[0].location, "Spain, Madrid");
+  } finally {
+    globalThis.fetch = originalFetch;
+  }
+});
+
+test("recupera una vacante española desde el conector oficial de Santander", async () => {
+  const originalFetch = globalThis.fetch;
+  globalThis.fetch = async (url, options) => {
+    assert.match(String(url), /santander\.wd3\.myworkdayjobs\.com/);
+    assert.equal(JSON.parse(options.body).limit, 20);
+    return new Response(JSON.stringify({ total: 1, jobPostings: [{ title: "Responsable Desarrollo de Negocio", externalPath: "/job/Spain-Madrid/R-22", locationsText: "Spain, Madrid", bulletFields: ["R-22"] }] }), { headers: { "Content-Type": "application/json" } });
+  };
+  try {
+    const response = await worker.fetch(new Request("https://example.test/api/search?q=desarrollo%20de%20negocio&sources=santander"), { ASSETS: { fetch: () => new Response("not used") } });
+    const payload = await response.json();
+    assert.equal(payload.results[0].company, "Santander");
+    assert.deepEqual(payload.sources, ["Santander Careers"]);
   } finally {
     globalThis.fetch = originalFetch;
   }

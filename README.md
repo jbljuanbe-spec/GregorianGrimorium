@@ -16,6 +16,7 @@ Esta versión consulta fuentes compatibles bajo demanda, deduplica por URL y ord
 | [Arbeitnow](https://www.arbeitnow.com/api/job-board-api) | Fuente pública complementaria. | Vacantes con presencia en España y algunas oportunidades remotas si se activan. |
 | [Jobicy](https://jobicy.com/api/v2/remote-jobs) | Fuente pública complementaria. | Oportunidades remotas; se muestran solo cuando se habilita esa modalidad. |
 | [Iberdrola Careers](https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola) | Conector corporativo oficial activo. | Consulta paginada y acotada del ATS público de Iberdrola; se retienen las vacantes con señal de España y se enlaza la candidatura original. |
+| [Santander Careers](https://santander.wd3.myworkdayjobs.com/en/SantanderCareers) | Conector corporativo oficial activo. | Consulta paginada y acotada del ATS público de Santander; se retienen las vacantes con señal de España y se enlaza la candidatura original. |
 | Radar de 100 empresas objetivo | Activo como directorio de carrera. | Enlaces a los portales oficiales; solo las empresas con conector marcado como fuente se consultan automáticamente. |
 
 > **Transparencia de cobertura.** LinkedIn, Google Jobs, InfoJobs e Indeed se facilitan como destinos de consulta manual cuando corresponda. La aplicación no automatiza su extracción ni utiliza sesiones personales sin una autorización o API aplicable.

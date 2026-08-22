@@ -115,6 +115,26 @@ export function normaliseIberdrola(item) {
   };
 }
 
+export function normaliseSantander(item) {
+  const sourceUrl = `https://santander.wd3.myworkdayjobs.com/en/SantanderCareers${item.externalPath || ""}`;
+  return {
+    id: `santander:${item.externalPath || item.title}`,
+    source: "Santander Careers",
+    sourceUrl: canonicalUrl(sourceUrl),
+    title: cleanText(item.title),
+    company: "Santander",
+    location: cleanText(item.locationsText) || "Ubicación no indicada",
+    country: cleanText(`${item.locationsText} ${item.externalPath}`),
+    modality: "No indicada",
+    contractType: "No indicado",
+    area: "Banca",
+    publishedAt: null,
+    description: cleanText(item.bulletFields?.join(", ")),
+    requirements: "",
+    remote: /remote|remoto/i.test(`${item.title} ${item.locationsText}`),
+  };
+}
+
 export function normaliseAndDeduplicate(sourceGroups, includeRemote) {
   const urlKeys = new Set();
   const contentKeys = new Set();
@@ -194,12 +214,30 @@ async function searchIberdrola(query) {
   return [firstPage, ...extraPages].flatMap(payload => payload.jobPostings || []).map(normaliseIberdrola);
 }
 
+async function fetchSantanderPage(query, offset) {
+  const response = await fetch("https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Accept: "application/json" },
+    body: JSON.stringify({ limit: WORKDAY_PAGE_SIZE, offset, searchText: broadenAdzunaQuery(query) }),
+  });
+  if (!response.ok) throw new Error(`Fuente corporativa no disponible (${response.status})`);
+  return response.json();
+}
+
+async function searchSantander(query) {
+  const firstPage = await fetchSantanderPage(query, 0);
+  const total = Math.min(Number(firstPage.total) || 0, WORKDAY_PAGE_SIZE * MAX_WORKDAY_PAGES);
+  const offsets = Array.from({ length: Math.max(0, Math.ceil(total / WORKDAY_PAGE_SIZE) - 1) }, (_, index) => (index + 1) * WORKDAY_PAGE_SIZE);
+  const extraPages = await Promise.all(offsets.map(offset => fetchSantanderPage(query, offset)));
+  return [firstPage, ...extraPages].flatMap(payload => payload.jobPostings || []).map(normaliseSantander);
+}
+
 async function search(request, env) {
   const url = new URL(request.url);
   const query = cleanText(url.searchParams.get("q") || "").slice(0, 100);
   const location = cleanText(url.searchParams.get("location") || "Madrid").slice(0, 80);
   const includeRemote = url.searchParams.get("remote") === "true";
-  const enabled = new Set((url.searchParams.get("sources") || "arbeitnow,jobicy,adzuna,iberdrola").split(","));
+  const enabled = new Set((url.searchParams.get("sources") || "arbeitnow,jobicy,adzuna,iberdrola,santander").split(","));
   const jobs = [];
   const sourceErrors = [];
 
@@ -208,6 +246,7 @@ async function search(request, env) {
     ["jobicy", () => searchJobicy(query)],
     ["adzuna", () => searchAdzuna(query, location, env)],
     ["iberdrola", () => searchIberdrola(query)],
+    ["santander", () => searchSantander(query)],
   ];
 
   await Promise.all(sources.map(async ([name, operation]) => {
@@ -220,7 +259,7 @@ async function search(request, env) {
   }));
 
   const results = normaliseAndDeduplicate(jobs, includeRemote);
-  const sourceLabels = { arbeitnow: "Arbeitnow", jobicy: "Jobicy", adzuna: "Adzuna", iberdrola: "Iberdrola Careers" };
+  const sourceLabels = { arbeitnow: "Arbeitnow", jobicy: "Jobicy", adzuna: "Adzuna", iberdrola: "Iberdrola Careers", santander: "Santander Careers" };
   const activeSources = [...enabled]
     .filter(name => name !== "adzuna" || Boolean(env.ADZUNA_APP_ID && env.ADZUNA_APP_KEY))
     .map(name => sourceLabels[name] || name);
