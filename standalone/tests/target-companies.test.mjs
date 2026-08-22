@@ -23,4 +23,7 @@ test("prioriza los portales oficiales corregidos para Indra y empresas con rutas
   assert.equal(byName("Endesa"), "https://www.endesa.com/en/talent/job-vacancies");
   assert.equal(byName("Enagás"), "https://enagas.wd3.myworkdayjobs.com/Portal_Externo");
   assert.equal(byName("GE Vernova"), "https://careers.gevernova.com/");
+  assert.equal(byName("IAG"), "https://www.iairgroup.com/people-and-careers/working-at-iag/");
+  assert.equal(byName("Air Europa"), "https://empleo.aireuropa.com/");
+  assert.equal(byName("ICEX"), "https://www.icex.es/es/ofertas-empleo-publico");
 });
