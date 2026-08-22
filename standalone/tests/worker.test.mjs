@@ -30,11 +30,19 @@ test("normaliza vacantes oficiales de Iberdrola con enlace directo de candidatur
   assert.match(job.sourceUrl, /myworkdayjobs\.com/);
 });
 
+test("reconoce España en la ruta oficial aunque Workday resuma la ubicación", () => {
+  const job = normaliseIberdrola({ title: "Vacante", externalPath: "/job/Spain-Bilbao/R-88", locationsText: "3 Locations", bulletFields: [] });
+  assert.equal(normaliseAndDeduplicate([[job]], false).length, 1);
+});
+
 test("recupera una vacante española desde el conector oficial de Iberdrola", async () => {
   const originalFetch = globalThis.fetch;
   globalThis.fetch = async (url, options) => {
     assert.match(String(url), /iberdrola\.wd3\.myworkdayjobs\.com/);
     assert.equal(options.method, "POST");
+    const request = JSON.parse(options.body);
+    assert.equal(request.searchText, "desarrollo de negocio");
+    assert.equal(request.limit, 20);
     return new Response(JSON.stringify({ jobPostings: [{ title: "Business Development", externalPath: "/job/Madrid/R-42", locationsText: "Madrid, Spain", bulletFields: [] }] }), { headers: { "Content-Type": "application/json" } });
   };
   try {
@@ -81,7 +89,7 @@ test("recorre páginas corporativas acotadas para no perder una vacante español
   globalThis.fetch = async (_url, options) => {
     calls += 1;
     const { offset } = JSON.parse(options.body);
-    const jobPostings = offset === 50
+    const jobPostings = offset === 80
       ? [{ title: "Gestor de negocio", externalPath: "/job/Spain-Madrid/R-99", locationsText: "Spain, Madrid", bulletFields: [] }]
       : [{ title: "Role abroad", externalPath: "/job/United-Kingdom/R-01", locationsText: "United Kingdom", bulletFields: [] }];
     return new Response(JSON.stringify({ total: 100, jobPostings }), { headers: { "Content-Type": "application/json" } });
@@ -89,7 +97,7 @@ test("recorre páginas corporativas acotadas para no perder una vacante español
   try {
     const response = await worker.fetch(new Request("https://example.test/api/search?sources=iberdrola"), { ASSETS: { fetch: () => new Response("not used") } });
     const payload = await response.json();
-    assert.equal(calls, 2);
+    assert.equal(calls, 5);
     assert.equal(payload.results.length, 1);
     assert.equal(payload.results[0].location, "Spain, Madrid");
   } finally {

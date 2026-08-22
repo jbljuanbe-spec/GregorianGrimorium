@@ -1,5 +1,7 @@
 const SOURCE_LIMIT = 50;
 const RESULT_LIMIT = 120;
+const WORKDAY_PAGE_SIZE = 20;
+const MAX_WORKDAY_PAGES = 5;
 
 const responseHeaders = {
   "Content-Type": "application/json; charset=utf-8",
@@ -102,7 +104,7 @@ export function normaliseIberdrola(item) {
     title: cleanText(item.title),
     company: "Iberdrola",
     location: cleanText(item.locationsText) || "Ubicación no indicada",
-    country: cleanText(item.locationsText),
+    country: cleanText(`${item.locationsText} ${item.externalPath}`),
     modality: "No indicada",
     contractType: "No indicado",
     area: "Energía",
@@ -178,7 +180,7 @@ async function fetchIberdrolaPage(query, offset) {
   const response = await fetch("https://iberdrola.wd3.myworkdayjobs.com/wday/cxs/iberdrola/Iberdrola/jobs", {
     method: "POST",
     headers: { "Content-Type": "application/json", Accept: "application/json" },
-    body: JSON.stringify({ limit: SOURCE_LIMIT, offset, searchText: broadenAdzunaQuery(query) }),
+    body: JSON.stringify({ limit: WORKDAY_PAGE_SIZE, offset, searchText: broadenAdzunaQuery(query) }),
   });
   if (!response.ok) throw new Error(`Fuente corporativa no disponible (${response.status})`);
   return response.json();
@@ -186,8 +188,8 @@ async function fetchIberdrolaPage(query, offset) {
 
 async function searchIberdrola(query) {
   const firstPage = await fetchIberdrolaPage(query, 0);
-  const total = Math.min(Number(firstPage.total) || 0, 250);
-  const offsets = Array.from({ length: Math.max(0, Math.ceil(total / SOURCE_LIMIT) - 1) }, (_, index) => (index + 1) * SOURCE_LIMIT);
+  const total = Math.min(Number(firstPage.total) || 0, WORKDAY_PAGE_SIZE * MAX_WORKDAY_PAGES);
+  const offsets = Array.from({ length: Math.max(0, Math.ceil(total / WORKDAY_PAGE_SIZE) - 1) }, (_, index) => (index + 1) * WORKDAY_PAGE_SIZE);
   const extraPages = await Promise.all(offsets.map(offset => fetchIberdrolaPage(query, offset)));
   return [firstPage, ...extraPages].flatMap(payload => payload.jobPostings || []).map(normaliseIberdrola);
 }

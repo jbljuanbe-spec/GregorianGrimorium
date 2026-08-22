@@ -58,3 +58,6 @@
 - [x] Mostrar explícitamente en la interfaz qué fuente corporativa se consultó en cada búsqueda.
 - [x] Recuperar de forma acotada las páginas necesarias del ATS corporativo y conservar la señal de país de sus enlaces de candidatura.
 - [x] Cubrir una respuesta corporativa vacía y mantener visible el estado vacío con las fuentes consultadas.
+- [x] Corregir el parámetro de consulta del ATS de Iberdrola para evitar respuestas 400 en la URL publicada y validar el feed real.
+- [x] Ajustar el tamaño de página del ATS de Iberdrola a su máximo aceptado y conservar una consulta paginada acotada.
+- [ ] Sincronizar la corrección final del conector corporativo y verificar en la URL publicada que no devuelve el error 400 previo.
