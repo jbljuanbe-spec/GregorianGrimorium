@@ -19,18 +19,20 @@
 - [x] Validar resultados concretos de los filtros de catálogo sobre ofertas de ejemplo controladas.
 - [x] Verificar visualmente las vistas móviles de resumen y comparador.
 - [x] Documentar y comprobar los estados de carga, error y vacío de las vistas privadas principales.
-- [ ] Auditar y eliminar las dependencias de autenticación, datos y alojamiento específicas de Manus.
-- [ ] Adaptar el frontend para una ejecución independiente con persistencia local o externa configurable.
-- [ ] Configurar el repositorio privado para un despliegue independiente desde GitHub.
-- [ ] Verificar y documentar el enlace de uso sin dependencia de créditos de Manus.
+- [x] Auditar y eliminar las dependencias de autenticación, datos y alojamiento específicas de Manus en la versión autónoma.
+- [x] Adaptar el frontend para una ejecución independiente con persistencia local o externa configurable.
+- [x] Configurar el repositorio privado para un despliegue independiente desde GitHub y Cloudflare.
+- [x] Verificar y documentar el enlace de uso sin dependencia de créditos de Manus.
 - [x] Analizar los módulos de búsqueda, ranking y seguridad del repositorio MIT de referencia para reutilizar sus patrones permitidos.
 - [x] Investigar y seleccionar fuentes españolas con API o acceso público autorizado para recuperar ofertas reales.
-- [ ] Implementar la ingestión bajo demanda de ofertas, deduplicación por URL y ordenación automática por adecuación.
-- [ ] Añadir una experiencia de búsqueda activa con historial de consulta, fuentes utilizadas y resultados verificables.
-- [ ] Comparar alternativas gratuitas a Adzuna y seleccionar la combinación inicial de fuentes para España.
-- [ ] Publicar la aplicación autónoma mediante una alternativa a GitHub Pages y verificar su URL pública.
-- [ ] Configurar una ruta de alojamiento gratuita sin requisito de GitHub Pages de pago.
-- [ ] Corregir el despliegue de Cloudflare para ejecutar el Worker autónomo desde `standalone/` sin detección de Vite.
-- [ ] Retirar el flujo fallido de GitHub Pages y documentar la URL gratuita de Cloudflare.
-- [ ] Conectar Adzuna opcionalmente mediante el Worker sin exponer su clave en el navegador.
+- [x] Implementar la ingestión bajo demanda de ofertas, deduplicación por URL y ordenación automática por adecuación.
+- [x] Añadir una experiencia de búsqueda activa con historial de consulta, fuentes utilizadas y resultados verificables.
+- [x] Comparar alternativas gratuitas a Adzuna y seleccionar la combinación inicial de fuentes para España.
+- [x] Publicar la aplicación autónoma mediante una alternativa a GitHub Pages y verificar su URL pública.
+- [x] Configurar una ruta de alojamiento gratuita sin requisito de GitHub Pages de pago.
+- [x] Corregir el despliegue de Cloudflare para ejecutar el Worker autónomo desde `standalone/` sin detección de Vite.
+- [x] Retirar el flujo fallido de GitHub Pages y documentar la URL gratuita de Cloudflare.
+- [x] Conectar Adzuna opcionalmente mediante el Worker sin exponer su clave en el navegador.
+- [x] Guardar y mostrar un historial de consultas para relanzar búsquedas anteriores desde el navegador.
+- [x] Renderizar el historial de consultas con nodos DOM seguros y comprobar su comportamiento sin inyección de HTML.
 - [x] Documentar los vetos de ranking y las reglas de seguridad del repositorio MIT aplicables al buscador independiente.

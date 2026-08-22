@@ -10,12 +10,14 @@ const defaults = {
 
 const profileKey = "byscador-standalone-profile";
 const seenKey = "byscador-standalone-seen";
+const searchHistoryKey = "byscador-standalone-search-history";
 const profile = { ...defaults, ...JSON.parse(localStorage.getItem(profileKey) || "{}") };
 const seen = new Set(JSON.parse(localStorage.getItem(seenKey) || "[]"));
+let searchHistory = JSON.parse(localStorage.getItem(searchHistoryKey) || "[]");
 const elements = {
   query: document.querySelector("#query"), location: document.querySelector("#location"), searchButton: document.querySelector("#search-button"),
   results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"),
-  profilePanel: document.querySelector("#profile-panel"), profileToggle: document.querySelector("#profile-toggle"), profileClose: document.querySelector("#profile-close"), profileForm: document.querySelector("#profile-form"),
+  profilePanel: document.querySelector("#profile-panel"), profileToggle: document.querySelector("#profile-toggle"), profileClose: document.querySelector("#profile-close"), profileForm: document.querySelector("#profile-form"), history: document.querySelector("#search-history"),
 };
 
 function split(value) { return value.split(/[,;\n|]/).map(item => item.trim().toLocaleLowerCase("es-ES")).filter(Boolean); }
@@ -39,13 +41,48 @@ function match(job) {
 
 function formatDate(value) { if (!value) return "Fecha no indicada"; const date = new Date(value); return Number.isNaN(date.valueOf()) ? "Fecha no indicada" : date.toLocaleDateString("es-ES", { day: "numeric", month: "short" }); }
 
+function saveSearchHistory(entry) {
+  const key = `${entry.query.toLocaleLowerCase("es-ES")}|${entry.location.toLocaleLowerCase("es-ES")}|${entry.sources.join(",")}|${entry.remote}`;
+  searchHistory = [entry, ...searchHistory.filter(item => `${item.query.toLocaleLowerCase("es-ES")}|${item.location.toLocaleLowerCase("es-ES")}|${item.sources.join(",")}|${item.remote}` !== key)].slice(0, 6);
+  localStorage.setItem(searchHistoryKey, JSON.stringify(searchHistory));
+  renderSearchHistory();
+}
+
+function renderSearchHistory() {
+  elements.history.replaceChildren();
+  if (!searchHistory.length) return;
+  const title = document.createElement("p"); title.className = "history-label"; title.textContent = "CONSULTAS RECIENTES"; elements.history.append(title);
+  searchHistory.forEach(entry => {
+    const button = document.createElement("button");
+    button.className = "history-item";
+    const queryLabel = document.createElement("strong");
+    const detailLabel = document.createElement("span");
+    const selectedSources = Array.isArray(entry.sources) ? entry.sources : [];
+    queryLabel.textContent = String(entry.query || "Búsqueda amplia");
+    detailLabel.textContent = `${String(entry.location || "España")} · ${selectedSources.join(", ")}`;
+    button.append(queryLabel, detailLabel);
+    button.addEventListener("click", () => {
+      elements.query.value = entry.query; elements.location.value = entry.location;
+      document.querySelector("#include-remote").checked = entry.remote;
+      document.querySelectorAll('input[name="source"]').forEach(input => { input.checked = selectedSources.includes(input.value); });
+      search();
+    });
+    elements.history.append(button);
+  });
+}
+
 function render(jobs, sourceNames, errors) {
   elements.results.replaceChildren();
   elements.empty.hidden = Boolean(jobs.length);
   const sorted = jobs.map(match).sort((a, b) => b.fit.score - a.fit.score);
   const newCount = sorted.filter(job => !seen.has(job.sourceUrl)).length;
-  elements.summary.innerHTML = `<span><strong>${sorted.length}</strong> ofertas verificables · <strong>${newCount}</strong> nuevas para este navegador · Fuentes: ${sourceNames.join(", ") || "ninguna"}</span>`;
-  if (errors.length) elements.summary.insertAdjacentHTML("beforeend", `<small>${errors.map(error => `${error.source}: ${error.message}`).join(" · ")}</small>`);
+  elements.summary.replaceChildren();
+  const summaryLine = document.createElement("span");
+  const resultCount = document.createElement("strong"); resultCount.textContent = String(sorted.length);
+  const newResultCount = document.createElement("strong"); newResultCount.textContent = String(newCount);
+  summaryLine.append(resultCount, " ofertas verificables · ", newResultCount, ` nuevas para este navegador · Fuentes: ${sourceNames.join(", ") || "ninguna"}`);
+  elements.summary.append(summaryLine);
+  if (errors.length) { const errorLine = document.createElement("small"); errorLine.textContent = errors.map(error => `${error.source}: ${error.message}`).join(" · "); elements.summary.append(errorLine); }
   sorted.forEach(job => {
     const node = elements.template.content.cloneNode(true);
     node.querySelector(".score strong").textContent = job.fit.score;
@@ -53,7 +90,8 @@ function render(jobs, sourceNames, errors) {
     node.querySelector("h2").textContent = job.title;
     node.querySelector(".company").textContent = `${job.company} · ${job.location} · ${job.modality}`;
     node.querySelector("time").textContent = formatDate(job.publishedAt);
-    node.querySelector(".tags").innerHTML = [job.area, job.contractType].filter(Boolean).map(tag => `<span>${tag}</span>`).join("");
+    const tags = node.querySelector(".tags");
+    [job.area, job.contractType].filter(Boolean).forEach(tag => { const tagNode = document.createElement("span"); tagNode.textContent = String(tag); tags.append(tagNode); });
     node.querySelector(".description").textContent = job.description || "La fuente no ha publicado un resumen de la oferta.";
     node.querySelector(".matched").textContent = job.fit.matched.join(" · ") || "Coincidencia parcial por revisar";
     node.querySelector(".missing").textContent = job.fit.missing.join(" · ") || "Sin carencias explícitas detectadas";
@@ -88,6 +126,7 @@ async function search() {
         payload.sourceErrors.push({ source: "Adzuna", message: "Configura la clave gratuita en el Worker para activar esta fuente" });
       }
     }
+    saveSearchHistory({ query, location, sources, remote, searchedAt: new Date().toISOString() });
     render(payload.results || [], payload.sources || [], payload.sourceErrors || []);
   } catch (error) {
     elements.summary.textContent = error instanceof Error ? error.message : "No se pudo completar la búsqueda";
@@ -99,3 +138,4 @@ elements.profileToggle.addEventListener("click", () => { elements.profilePanel.h
 elements.profileClose.addEventListener("click", () => { elements.profilePanel.hidden = true; });
 elements.profileForm.addEventListener("submit", event => { event.preventDefault(); new FormData(elements.profileForm).forEach((value, name) => { profile[name] = value; }); localStorage.setItem(profileKey, JSON.stringify(profile)); elements.profilePanel.hidden = true; });
 elements.searchButton.addEventListener("click", search);
+renderSearchHistory();
