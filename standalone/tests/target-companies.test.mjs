@@ -13,3 +13,11 @@ test("reconoce empresas objetivo en resultados agregados para priorizarlas", () 
   assert.equal(findTargetCompany("Iberdrola Clientes")?.name, "Iberdrola");
   assert.equal(findTargetCompany("Empresa ajena"), undefined);
 });
+
+test("prioriza los portales oficiales corregidos para Indra y empresas con rutas renovadas", () => {
+  const byName = name => targetCompanies.find(company => company.name === name)?.careersUrl;
+  assert.equal(byName("Indra"), "https://careers.indragroup.com/");
+  assert.equal(byName("Acciona"), "https://acciona.wd3.myworkdayjobs.com/es/ACCIONA_Employment_Channel");
+  assert.equal(byName("CaixaBank"), "https://caixabankcareers.com/");
+  assert.equal(byName("Wallapop"), "https://job-boards.eu.greenhouse.io/wallapop");
+});
