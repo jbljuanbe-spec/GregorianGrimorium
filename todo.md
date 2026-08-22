@@ -43,4 +43,9 @@
 - [ ] Definir una lista inicial de unas 100 empresas objetivo alineadas con desarrollo de negocio, comercio exterior, industria, energía, banca y relaciones institucionales.
 - [ ] Incorporar fuentes corporativas verificables y consultas ampliadas que complementen Adzuna sin scraping no autorizado de LinkedIn o Google.
 - [ ] Crear un radar corporativo con filtro de empresas objetivo, deduplicación y enlaces directos de candidatura.
+- [x] Permitir importar un CV localmente para extraer y editar el perfil de búsqueda sin subir el archivo a un servidor.
+- [x] Añadir años de experiencia al perfil y detectar el mínimo solicitado en cada oferta para filtrarlo y explicarlo.
+- [x] Mejorar la normalización, ponderación y presentación de coincidencias y carencias de palabras clave.
+- [ ] Normalizar keywords de perfil y oferta mediante acentos, variantes, sinónimos y deduplicación antes de calcular el ranking.
+- [ ] Generar coincidencias y carencias explicables mediante etiquetas consistentes en lugar de fragmentos ruidosos de descripciones.
 - [ ] Sustituir las variables de texto de Adzuna por secretos y rotar la clave visible antes de mantener la integración activa.

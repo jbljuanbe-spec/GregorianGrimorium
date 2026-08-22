@@ -1,10 +1,12 @@
 import { normaliseAndDeduplicate, searchPublicSources } from "./sources.js";
 import { findTargetCompany, targetCompanies } from "./targetCompanies.js";
+import { explainKeywordFit, extractProfileFromCvText, requiredExperienceYears } from "./profileAnalysis.js";
 
 const defaults = {
   headline: "Desarrollo de Negocio Internacional · Comercio Exterior · Relaciones Institucionales",
   summary: "Profesional internacional orientado a inteligencia de mercado, expansión comercial, coordinación institucional y análisis de oportunidades en entornos regulados.",
   experience: "Desarrollo de negocio internacional, comercio exterior, análisis de mercado, gestión de stakeholders, programas institucionales y coordinación con interlocutores públicos y privados.",
+  yearsExperience: "",
   keywords: "internacionalización, desarrollo de negocio, comercio exterior, business development, análisis de mercado, inteligencia regulatoria, relaciones institucionales, exportación, ICEX, Incoterms, Power BI, Excel, SAP, CRM, KPIs, aeroespacial, defensa, Italia, EMEA",
   roles: "desarrollo de negocio internacional, comercio exterior, relaciones institucionales, asuntos públicos, project manager internacional, analista de mercados",
   areas: "internacionalización, defensa y aeroespacial, asociaciones sectoriales, cámaras de comercio, energía, industria, promoción exterior",
@@ -20,16 +22,16 @@ const seen = new Set(JSON.parse(localStorage.getItem(seenKey) || "[]"));
 let searchHistory = JSON.parse(localStorage.getItem(searchHistoryKey) || "[]");
 const elements = {
   query: document.querySelector("#query"), location: document.querySelector("#location"), searchButton: document.querySelector("#search-button"), profileHeadline: document.querySelector("#profile-headline"), profileSummary: document.querySelector("#profile-summary"), profileKeywords: document.querySelector("#profile-keywords"),
-  results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"), targetList: document.querySelector("#target-list"), targetToggle: document.querySelector("#target-toggle"), targetCount: document.querySelector("#target-count"),
+  results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"), targetList: document.querySelector("#target-list"), targetToggle: document.querySelector("#target-toggle"), targetCount: document.querySelector("#target-count"), experienceFilter: document.querySelector("#experience-filter"), cvFile: document.querySelector("#cv-file"), cvStatus: document.querySelector("#cv-status"),
   profilePanel: document.querySelector("#profile-panel"), profileToggle: document.querySelector("#profile-toggle"), profileClose: document.querySelector("#profile-close"), profileForm: document.querySelector("#profile-form"), history: document.querySelector("#search-history"),
 };
 
 function split(value) { return value.split(/[,;\n|]/).map(item => item.trim().toLocaleLowerCase("es-ES")).filter(Boolean); }
 function text(value = "") { return String(value).toLocaleLowerCase("es-ES"); }
 function match(job) {
-  const corpus = text(`${job.title} ${job.area} ${job.description} ${job.requirements}`);
-  const keywords = [...new Set([...split(profile.keywords), ...split(profile.roles), ...split(profile.areas), ...split(profile.experience)])];
-  const matched = keywords.filter(keyword => corpus.includes(keyword));
+  const keywordFit = explainKeywordFit(profile, job);
+  const keywords = keywordFit.profileTags;
+  const matched = keywordFit.matched;
   const locationScore = split(profile.locations).some(place => text(job.location).includes(place)) ? 15 : job.modality === "Remoto" ? 8 : 0;
   const languageLabels = ["inglés", "ingles", "italiano", "español", "espanol", "francés", "frances", "alemán", "aleman"];
   const requested = languageLabels.filter(language => corpus.includes(language));
@@ -37,12 +39,13 @@ function match(job) {
   const languageScore = !requested.length ? 10 : Math.round(requested.filter(language => known.includes(language)).length / requested.length * 10);
   const targetCompany = findTargetCompany(job.company);
   const targetBoost = targetCompany ? 8 : 0;
-  const score = Math.min(100, Math.round(matched.length / Math.max(keywords.length, 1) * 75) + locationScore + languageScore + targetBoost);
-  const rawRequirements = split(job.requirements || job.description).filter(item => item.length > 3).slice(0, 12);
-  const profileText = text(`${profile.keywords} ${profile.roles} ${profile.areas} ${profile.languages} ${profile.experience}`);
-  const missing = rawRequirements.filter(requirement => !profileText.includes(requirement)).slice(0, 4);
+  const requiredYears = requiredExperienceYears(`${job.title} ${job.description} ${job.requirements}`);
+  const profileYears = Number(profile.yearsExperience) || 0;
+  const experienceScore = !requiredYears || !profileYears ? 0 : profileYears >= requiredYears ? 7 : -20;
+  const score = Math.min(100, Math.max(0, Math.round(matched.length / Math.max(keywords.length, 1) * 75) + locationScore + languageScore + targetBoost + experienceScore));
+  const missing = keywordFit.missing.slice(0, 4);
   const locationVeto = split(profile.locations).length && locationScore === 0 && job.modality !== "Remoto";
-  return { ...job, fit: { score: locationVeto ? Math.min(score, 35) : score, matched: matched.slice(0, 7), missing, locationVeto, targetCompany } };
+  return { ...job, fit: { score: locationVeto ? Math.min(score, 35) : score, matched: matched.slice(0, 7), missing, locationVeto, targetCompany, requiredYears, profileYears, experienceFit: !requiredYears || !profileYears || profileYears >= requiredYears } };
 }
 
 function formatDate(value) { if (!value) return "Fecha no indicada"; const date = new Date(value); return Number.isNaN(date.valueOf()) ? "Fecha no indicada" : date.toLocaleDateString("es-ES", { day: "numeric", month: "short" }); }
@@ -80,7 +83,8 @@ function renderSearchHistory() {
 function render(jobs, sourceNames, errors, effectiveQuery) {
   elements.results.replaceChildren();
   elements.empty.hidden = Boolean(jobs.length);
-  const sorted = jobs.map(match).sort((a, b) => b.fit.score - a.fit.score);
+  const filtered = jobs.map(match).filter(job => elements.experienceFilter.value !== "fit" || job.fit.experienceFit);
+  const sorted = filtered.sort((a, b) => b.fit.score - a.fit.score);
   const newCount = sorted.filter(job => !seen.has(job.sourceUrl)).length;
   elements.summary.replaceChildren();
   const summaryLine = document.createElement("span");
@@ -94,7 +98,7 @@ function render(jobs, sourceNames, errors, effectiveQuery) {
     node.querySelector(".score strong").textContent = job.fit.score;
     node.querySelector(".source").textContent = `${job.source}${job.fit.targetCompany ? ` · empresa objetivo: ${job.fit.targetCompany.name}` : ""}${job.fit.locationVeto ? " · ubicación por revisar" : ""}`;
     node.querySelector("h2").textContent = job.title;
-    node.querySelector(".company").textContent = `${job.company} · ${job.location} · ${job.modality}`;
+    node.querySelector(".company").textContent = `${job.company} · ${job.location} · ${job.modality}${job.fit.requiredYears ? ` · requiere ${job.fit.requiredYears}+ años` : ""}`;
     node.querySelector("time").textContent = formatDate(job.publishedAt);
     const tags = node.querySelector(".tags");
     [job.area, job.contractType].filter(Boolean).forEach(tag => { const tagNode = document.createElement("span"); tagNode.textContent = String(tag); tags.append(tagNode); });
@@ -139,6 +143,34 @@ async function search() {
   } finally { elements.searchButton.disabled = false; elements.searchButton.textContent = "Buscar ofertas"; }
 }
 
+async function readCvText(file) {
+  if (file.size > 8 * 1024 * 1024) throw new Error("El CV supera el límite local de 8 MB");
+  const extension = file.name.split(".").pop()?.toLocaleLowerCase("es-ES");
+  if (["txt", "md"].includes(extension)) return file.text();
+  const arrayBuffer = await file.arrayBuffer();
+  if (extension === "docx" && window.mammoth) return (await window.mammoth.extractRawText({ arrayBuffer })).value;
+  if (extension === "pdf" && window.pdfjsLib) {
+    window.pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
+    const document = await window.pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+    const pages = await Promise.all([...Array(document.numPages)].map(async (_, index) => (await (await document.getPage(index + 1)).getTextContent()).items.map(item => item.str).join(" ")));
+    return pages.join("\n");
+  }
+  throw new Error("Usa un CV .docx, .pdf, .txt o .md");
+}
+
+async function importCv(event) {
+  const file = event.target.files?.[0];
+  if (!file) return;
+  elements.cvStatus.textContent = "Leyendo el CV solo en este navegador…";
+  try {
+    const extracted = extractProfileFromCvText(await readCvText(file));
+    Object.entries(extracted).forEach(([name, value]) => { if (value) { profile[name] = value; const field = elements.profileForm.elements.namedItem(name); if (field) field.value = value; } });
+    localStorage.setItem(profileKey, JSON.stringify(profile));
+    renderProfileSnapshot();
+    elements.cvStatus.textContent = "Perfil extraído localmente. Revisa y guarda los campos antes de buscar.";
+  } catch (error) { elements.cvStatus.textContent = error instanceof Error ? error.message : "No se pudo leer el CV"; }
+}
+
 function renderProfileSnapshot() {
   elements.profileHeadline.textContent = profile.headline;
   elements.profileSummary.textContent = profile.summary;
@@ -163,6 +195,8 @@ elements.profileToggle.addEventListener("click", () => { elements.profilePanel.h
 elements.profileClose.addEventListener("click", () => { elements.profilePanel.hidden = true; });
 elements.profileForm.addEventListener("submit", event => { event.preventDefault(); new FormData(elements.profileForm).forEach((value, name) => { profile[name] = value; }); localStorage.setItem(profileKey, JSON.stringify(profile)); renderProfileSnapshot(); elements.profilePanel.hidden = true; });
 elements.searchButton.addEventListener("click", search);
+elements.experienceFilter.addEventListener("change", () => { if (elements.results.children.length) search(); });
+elements.cvFile.addEventListener("change", importCv);
 elements.targetToggle.addEventListener("click", () => { const hidden = elements.targetList.hidden; elements.targetList.hidden = !hidden; elements.targetToggle.textContent = hidden ? "Ocultar empresas" : "Ver empresas objetivo"; });
 renderSearchHistory();
 renderProfileSnapshot();
