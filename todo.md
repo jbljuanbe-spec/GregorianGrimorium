@@ -60,4 +60,4 @@
 - [x] Cubrir una respuesta corporativa vacía y mantener visible el estado vacío con las fuentes consultadas.
 - [x] Corregir el parámetro de consulta del ATS de Iberdrola para evitar respuestas 400 en la URL publicada y validar el feed real.
 - [x] Ajustar el tamaño de página del ATS de Iberdrola a su máximo aceptado y conservar una consulta paginada acotada.
-- [ ] Sincronizar la corrección final del conector corporativo y verificar en la URL publicada que no devuelve el error 400 previo.
+- [x] Sincronizar la corrección final del conector corporativo y verificar en la URL publicada que no devuelve el error 400 previo.
