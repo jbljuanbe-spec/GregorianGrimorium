@@ -18,7 +18,7 @@ La aplicación debe recuperar ofertas reales bajo demanda, conservar su URL de o
 
 ## Flujo propuesto
 
-La búsqueda utiliza las consultas del perfil —roles objetivo, sectores, ubicación y palabras clave— para pedir resultados a cada fuente configurada. Normaliza título, empresa, ubicación, modalidad, fecha y URL. Antes de presentar, elimina duplicados por URL canónica y por combinación de empresa, puesto y ubicación. Después aplica el mismo modelo de adecuación explicable de Byscador y muestra la fuente realmente consultada en cada resultado.
+La búsqueda utiliza las consultas del perfil —roles objetivo, sectores, ubicación y palabras clave— para pedir resultados a cada fuente configurada. Normaliza título, empresa, ubicación, modalidad, fecha y URL. Antes de presentar, elimina duplicados por URL canónica y, cuando esté disponible, por identificador de requisición ATS de la misma empresa. No agrupa por empresa, puesto y ubicación, ya que esa combinación puede representar requisiciones distintas. Después aplica el mismo modelo de adecuación explicable de Byscador y muestra la fuente realmente consultada en cada resultado.
 
 ## Límites explícitos
 

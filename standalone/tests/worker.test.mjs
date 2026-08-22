@@ -12,6 +12,24 @@ test("deduplica por URL y conserva solamente resultados de España", () => {
   assert.equal(result[0].sourceUrl, "https://example.com/job/1");
 });
 
+test("conserva dos requisiciones distintas de una misma empresa aunque compartan título y ubicación", () => {
+  const vacancy = {
+    title: "Business Development Manager", company: "Empresa", location: "Madrid, Spain", country: "Spain", remote: false,
+    source: "Prueba", modality: "Híbrido", contractType: "Indefinido", area: "Internacionalización", description: "Mercados", requirements: "", publishedAt: null,
+  };
+  const result = normaliseAndDeduplicate([[{ ...vacancy, sourceUrl: "https://careers.example.com/job/R-100" }, { ...vacancy, sourceUrl: "https://careers.example.com/job/R-101" }]], false);
+  assert.equal(result.length, 2);
+});
+
+test("elimina una misma requisición sindicada en dos URLs de fuentes distintas", () => {
+  const vacancy = {
+    title: "Business Development Manager", company: "Empresa", location: "Madrid, Spain", country: "Spain", remote: false,
+    source: "Prueba", modality: "Híbrido", contractType: "Indefinido", area: "Internacionalización", requirements: "", publishedAt: null,
+  };
+  const result = normaliseAndDeduplicate([[{ ...vacancy, sourceUrl: "https://careers.example.com/job/Madrid/R-29340-1", description: "Oferta corporativa" }, { ...vacancy, sourceUrl: "https://aggregator.example.com/jobs/123", description: "Referencia R-29340" }]], false);
+  assert.equal(result.length, 1);
+});
+
 test("incluye puestos remotos solo cuando el usuario lo habilita", () => {
   const job = { title: "Remote role", company: "Empresa", location: "Anywhere", country: "", remote: true, sourceUrl: "https://example.com/remote", source: "Prueba", modality: "Remoto", contractType: "Indefinido", area: "Internacional", description: "", requirements: "", publishedAt: null };
   assert.equal(normaliseAndDeduplicate([[job]], false).length, 0);

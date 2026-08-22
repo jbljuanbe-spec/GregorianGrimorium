@@ -6,7 +6,7 @@ Aplicación privada para descubrir, deduplicar y priorizar oportunidades reales 
 
 La versión autónoma, que no requiere créditos de Manus para usarse, está disponible en **[buscador-ofertas-espana.jbljuanbe.workers.dev](https://buscador-ofertas-espana.jbljuanbe.workers.dev)**. El código permanece en este repositorio privado y Cloudflare publica las actualizaciones de `main` gratuitamente.
 
-Esta versión consulta fuentes compatibles bajo demanda, deduplica por URL y ordena las vacantes según el perfil guardado localmente en el navegador. No depende de créditos de Manus ni envía el CV a un servidor.
+Esta versión consulta fuentes compatibles bajo demanda y ordena las vacantes según el perfil guardado localmente en el navegador. Deduplica la misma URL canónica de candidatura y, cuando una fuente expone un identificador de requisición ATS, la misma requisición sindicada en otra URL. Por tanto, conserva posiciones distintas de una misma empresa, incluso cuando comparten ciudad o título. No depende de créditos de Manus ni envía el CV a un servidor.
 
 ## Cobertura de fuentes
 

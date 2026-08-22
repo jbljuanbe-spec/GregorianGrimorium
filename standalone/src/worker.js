@@ -27,10 +27,11 @@ function canonicalUrl(value) {
   }
 }
 
-function normalizedKey(job) {
-  return [job.company, job.title, job.location]
-    .map(value => cleanText(value).toLocaleLowerCase("es-ES").normalize("NFD").replace(/[\u0300-\u036f]/g, ""))
-    .join("|");
+function requisitionKey(job) {
+  const company = cleanText(job.company).toLocaleLowerCase("es-ES").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const corpus = `${job.vacancyId || ""} ${job.id || ""} ${job.sourceUrl || ""} ${job.description || ""} ${job.requirements || ""}`;
+  const match = corpus.match(/\bR[-_ ]?(\d{3,})(?:-\d+)?\b/i);
+  return match && company ? `${company}|r-${match[1]}` : "";
 }
 
 function isSpainOrRemote(job, includeRemote) {
@@ -137,16 +138,16 @@ export function normaliseSantander(item) {
 
 export function normaliseAndDeduplicate(sourceGroups, includeRemote) {
   const urlKeys = new Set();
-  const contentKeys = new Set();
+  const requisitionKeys = new Set();
   const output = [];
 
   sourceGroups.flat().forEach(job => {
     if (!job.title || !job.company || !job.sourceUrl || !isSpainOrRemote(job, includeRemote)) return;
     const urlKey = canonicalUrl(job.sourceUrl);
-    const contentKey = normalizedKey(job);
-    if (urlKeys.has(urlKey) || contentKeys.has(contentKey)) return;
+    const requisition = requisitionKey(job);
+    if (urlKeys.has(urlKey) || (requisition && requisitionKeys.has(requisition))) return;
     urlKeys.add(urlKey);
-    contentKeys.add(contentKey);
+    if (requisition) requisitionKeys.add(requisition);
     output.push({ ...job, sourceUrl: urlKey });
   });
 

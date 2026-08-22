@@ -61,3 +61,6 @@
 - [x] Corregir el parámetro de consulta del ATS de Iberdrola para evitar respuestas 400 en la URL publicada y validar el feed real.
 - [x] Ajustar el tamaño de página del ATS de Iberdrola a su máximo aceptado y conservar una consulta paginada acotada.
 - [x] Sincronizar la corrección final del conector corporativo y verificar en la URL publicada que no devuelve el error 400 previo.
+- [x] Ajustar la deduplicación para eliminar solo la misma vacante, manteniendo posiciones distintas de una misma empresa.
+- [x] Aplicar deduplicación híbrida por ID de requisición o ATS para eliminar la misma vacante sindicada sin ocultar posiciones distintas similares.
+- [x] Ocultar el botón y panel desplegable de las cien empresas para evitar que obstruyan el menú, preservando el filtro de radar en la búsqueda.

@@ -24,7 +24,7 @@ let searchHistory = JSON.parse(localStorage.getItem(searchHistoryKey) || "[]");
 let latestSearch = null;
 const elements = {
   query: document.querySelector("#query"), location: document.querySelector("#location"), searchButton: document.querySelector("#search-button"), profileHeadline: document.querySelector("#profile-headline"), profileSummary: document.querySelector("#profile-summary"), profileKeywords: document.querySelector("#profile-keywords"),
-  results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"), targetList: document.querySelector("#target-list"), targetToggle: document.querySelector("#target-toggle"), targetCount: document.querySelector("#target-count"), experienceFilter: document.querySelector("#experience-filter"), targetFilter: document.querySelector("#target-company-filter"), cvFile: document.querySelector("#cv-file"), cvStatus: document.querySelector("#cv-status"),
+  results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"), experienceFilter: document.querySelector("#experience-filter"), targetFilter: document.querySelector("#target-company-filter"), cvFile: document.querySelector("#cv-file"), cvStatus: document.querySelector("#cv-status"),
   profilePanel: document.querySelector("#profile-panel"), profileToggle: document.querySelector("#profile-toggle"), profileClose: document.querySelector("#profile-close"), profileForm: document.querySelector("#profile-form"), history: document.querySelector("#search-history"),
 };
 
@@ -162,15 +162,8 @@ function renderProfileSnapshot() {
 }
 
 function renderTargetRadar() {
-  elements.targetCount.textContent = String(targetCompanies.length);
-  elements.targetList.replaceChildren();
   targetCompanies.forEach(target => {
     const option = document.createElement("option"); option.value = target.name; option.textContent = target.name; elements.targetFilter.append(option);
-    const link = document.createElement("a");
-    link.href = target.careersUrl; link.target = "_blank"; link.rel = "noreferrer";
-    const name = document.createElement("strong"); name.textContent = target.name;
-    const sector = document.createElement("span"); sector.textContent = target.sector;
-    link.append(name, sector); elements.targetList.append(link);
   });
 }
 
@@ -182,7 +175,6 @@ elements.searchButton.addEventListener("click", search);
 elements.experienceFilter.addEventListener("change", () => { if (elements.results.children.length) search(); });
 elements.targetFilter.addEventListener("change", () => { if (latestSearch) render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery); });
 elements.cvFile.addEventListener("change", importCv);
-elements.targetToggle.addEventListener("click", () => { const hidden = elements.targetList.hidden; elements.targetList.hidden = !hidden; elements.targetToggle.textContent = hidden ? "Ocultar empresas" : "Ver empresas objetivo"; });
 renderSearchHistory();
 renderProfileSnapshot();
 renderTargetRadar();
