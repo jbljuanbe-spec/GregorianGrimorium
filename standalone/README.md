@@ -4,7 +4,7 @@ Esta carpeta contiene la versión que se despliega fuera de Manus. La interfaz e
 
 ## Fuentes
 
-La versión inicial consulta Arbeitnow y Jobicy sin claves. Adzuna se habilitará posteriormente mediante el Worker incluido, para que su clave gratuita nunca llegue al navegador. Nunca añadas `.dev.vars` a GitHub.
+La versión inicial consulta Arbeitnow y Jobicy sin claves. Adzuna queda integrada de forma opcional a través del Worker: añade `ADZUNA_APP_ID` y `ADZUNA_APP_KEY` como secretos en Cloudflare para ampliar la cobertura española sin exponer la clave en el navegador. Nunca añadas `.dev.vars` a GitHub.
 
 ## Pruebas locales
 
@@ -14,7 +14,7 @@ node --test standalone/tests/worker.test.mjs
 
 ## Despliegue
 
-Cloudflare Workers Builds puede conectar el repositorio privado de GitHub y publicar el proyecto sin GitHub Pages. El archivo `wrangler.toml` de la raíz fija el Worker autónomo y los archivos estáticos correctos, evitando la detección automática de Vite. Para un despliegue manual:
+Cloudflare Workers Builds conecta este repositorio privado de GitHub y publica el proyecto sin GitHub Pages. El archivo `wrangler.toml` de la raíz fija el Worker autónomo y los archivos estáticos correctos, evitando la detección automática de Vite. La publicación está disponible en [buscador-ofertas-espana.jbljuanbe.workers.dev](https://buscador-ofertas-espana.jbljuanbe.workers.dev). Para un despliegue manual:
 
 ```bash
 npx wrangler deploy

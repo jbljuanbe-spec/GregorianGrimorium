@@ -1,4 +1,4 @@
-import { searchPublicSources } from "./sources.js";
+import { normaliseAndDeduplicate, searchPublicSources } from "./sources.js";
 
 const defaults = {
   keywords: "internacionalización, desarrollo de negocio, comercio exterior, business development, análisis de mercado, inteligencia regulatoria, relaciones institucionales, exportación, ICEX, Incoterms, Power BI, Excel, SAP, CRM, KPIs, aeroespacial, defensa, Italia, EMEA",
@@ -70,7 +70,24 @@ async function search() {
   elements.searchButton.disabled = true; elements.searchButton.textContent = "Buscando…";
   elements.summary.textContent = "Consultando fuentes autorizadas y eliminando duplicados…";
   try {
-    const payload = await searchPublicSources({ query, sources, includeRemote: remote });
+    const publicSources = sources.filter(source => source !== "adzuna");
+    const payload = await searchPublicSources({ query, sources: publicSources, includeRemote: remote });
+    if (sources.includes("adzuna")) {
+      try {
+        const params = new URLSearchParams({ q: query, location, sources: "adzuna", remote: String(remote) });
+        const response = await fetch(`/api/search?${params}`);
+        if (response.ok) {
+          const adzuna = await response.json();
+          payload.results = normaliseAndDeduplicate([payload.results, adzuna.results || []], remote);
+          payload.sources = [...new Set([...payload.sources, ...(adzuna.sources || [])])];
+          payload.sourceErrors.push(...(adzuna.sourceErrors || []));
+        } else {
+          payload.sourceErrors.push({ source: "Adzuna", message: "Configura la clave gratuita en el Worker para activar esta fuente" });
+        }
+      } catch {
+        payload.sourceErrors.push({ source: "Adzuna", message: "Configura la clave gratuita en el Worker para activar esta fuente" });
+      }
+    }
     render(payload.results || [], payload.sources || [], payload.sourceErrors || []);
   } catch (error) {
     elements.summary.textContent = error instanceof Error ? error.message : "No se pudo completar la búsqueda";

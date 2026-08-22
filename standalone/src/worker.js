@@ -170,11 +170,15 @@ async function search(request, env) {
   }));
 
   const results = normaliseAndDeduplicate(jobs, includeRemote);
+  const activeSources = [...enabled].filter(name => name !== "adzuna" || Boolean(env.ADZUNA_APP_ID && env.ADZUNA_APP_KEY));
+  if (enabled.has("adzuna") && !activeSources.includes("adzuna")) {
+    sourceErrors.push({ source: "Adzuna", message: "Configura la clave gratuita en el Worker para activar esta fuente" });
+  }
   return new Response(JSON.stringify({
     query,
     location,
     generatedAt: new Date().toISOString(),
-    sources: [...enabled].filter(name => name !== "adzuna" || Boolean(env.ADZUNA_APP_ID && env.ADZUNA_APP_KEY)),
+    sources: activeSources,
     sourceErrors,
     results,
   }), { headers: responseHeaders });

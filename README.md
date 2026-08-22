@@ -2,6 +2,12 @@
 
 Aplicación privada para organizar una búsqueda de empleo en España con criterios profesionales explícitos. Permite registrar oportunidades reales desde portales, redes profesionales o páginas de empleo corporativas; compara sus requisitos con el perfil personal y prioriza las más alineadas.
 
+## Acceso independiente
+
+La versión autónoma, que no requiere créditos de Manus para usarse, está disponible en **[buscador-ofertas-espana.jbljuanbe.workers.dev](https://buscador-ofertas-espana.jbljuanbe.workers.dev)**. El código permanece en este repositorio privado y Cloudflare publica las actualizaciones de `main` gratuitamente.
+
+Esta versión consulta fuentes públicas compatibles, deduplica por URL y ordena las vacantes según el perfil guardado localmente en el navegador. La integración opcional de Adzuna amplía la cobertura española cuando se configure una clave gratuita como secreto del Worker.
+
 ## Capacidades
 
 | Área | Implementación |

@@ -31,4 +31,6 @@
 - [ ] Publicar la aplicación autónoma mediante una alternativa a GitHub Pages y verificar su URL pública.
 - [ ] Configurar una ruta de alojamiento gratuita sin requisito de GitHub Pages de pago.
 - [ ] Corregir el despliegue de Cloudflare para ejecutar el Worker autónomo desde `standalone/` sin detección de Vite.
+- [ ] Retirar el flujo fallido de GitHub Pages y documentar la URL gratuita de Cloudflare.
+- [ ] Conectar Adzuna opcionalmente mediante el Worker sin exponer su clave en el navegador.
 - [x] Documentar los vetos de ranking y las reglas de seguridad del repositorio MIT aplicables al buscador independiente.
