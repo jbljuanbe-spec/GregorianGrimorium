@@ -1,4 +1,4 @@
-export const activeCorporateTargets = new Set(["Iberdrola", "Santander", "Repsol"]);
+export const activeCorporateTargets = new Set(["Iberdrola", "Santander", "Repsol", "Acciona"]);
 
 export const targetCompanies = [
   ["Iberdrola", "Energía", "https://www.iberdrola.com/careers"], ["Santander", "Banca", "https://www.santander.com/en/careers"], ["Navantia", "Defensa e industria", "https://www.navantia.es/en/careers/"], ["Revolut", "Fintech", "https://www.revolut.com/careers/"],

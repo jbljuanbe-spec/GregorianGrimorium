@@ -53,8 +53,9 @@
 - [x] Añadir pruebas de ranking para confirmar que oportunidades potencialmente válidas no se hunden por penalizaciones rígidas de ubicación.
 - [ ] Sustituir las variables de texto de Adzuna por secretos y rotar la clave visible antes de mantener la integración activa.
 - [x] Ampliar gradualmente el radar de cien empresas con conectores ATS públicos confirmados, mostrando de forma transparente qué compañías se consultan realmente.
-- [ ] Añadir cobertura por empresa al radar, diferenciando conectores ATS activos de enlaces manuales, y seguir ampliando únicamente fuentes corporativas verificadas.
-- [ ] Verificar en la URL pública Repsol Careers y los conectores corporativos más recientes tras su sincronización.
+- [x] Añadir cobertura por empresa al radar, diferenciando conectores ATS activos de enlaces manuales, y seguir ampliando únicamente fuentes corporativas verificadas.
+- [x] Verificar en la URL pública Repsol Careers y los conectores corporativos más recientes tras su sincronización.
+- [ ] Seguir ampliando el radar corporativo con ATS públicos confirmados y documentar con precisión las empresas con recuperación real frente a enlace manual.
 - [x] Corregir el flujo real de puntuación del navegador y cubrirlo con una prueba ejecutable.
 - [x] Añadir pruebas de integración del conector Iberdrola, incluyendo respuesta vacía y error de fuente.
 - [x] Mostrar explícitamente en la interfaz qué fuente corporativa se consultó en cada búsqueda.

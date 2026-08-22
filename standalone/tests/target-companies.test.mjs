@@ -29,6 +29,6 @@ test("prioriza los portales oficiales corregidos para Indra y empresas con rutas
 });
 
 test("declara con precisión las empresas con conector corporativo activo", () => {
-  assert.deepEqual([...activeCorporateTargets].sort(), ["Iberdrola", "Repsol", "Santander"]);
+  assert.deepEqual([...activeCorporateTargets].sort(), ["Acciona", "Iberdrola", "Repsol", "Santander"]);
   assert.ok([...activeCorporateTargets].every(name => targetCompanies.some(company => company.name === name)));
 });
