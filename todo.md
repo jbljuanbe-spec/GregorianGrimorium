@@ -27,5 +27,8 @@
 - [x] Investigar y seleccionar fuentes españolas con API o acceso público autorizado para recuperar ofertas reales.
 - [ ] Implementar la ingestión bajo demanda de ofertas, deduplicación por URL y ordenación automática por adecuación.
 - [ ] Añadir una experiencia de búsqueda activa con historial de consulta, fuentes utilizadas y resultados verificables.
-- [x] Comparar alternativas gratuitas a Adzuna y seleccionar la combinación inicial de fuentes para España.
+- [ ] Comparar alternativas gratuitas a Adzuna y seleccionar la combinación inicial de fuentes para España.
+- [ ] Publicar la aplicación autónoma mediante una alternativa a GitHub Pages y verificar su URL pública.
+- [ ] Configurar una ruta de alojamiento gratuita sin requisito de GitHub Pages de pago.
+- [ ] Corregir el despliegue de Cloudflare para ejecutar el Worker autónomo desde `standalone/` sin detección de Vite.
 - [x] Documentar los vetos de ranking y las reglas de seguridad del repositorio MIT aplicables al buscador independiente.

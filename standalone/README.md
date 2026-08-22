@@ -1,6 +1,6 @@
 # Byscador autónomo
 
-Esta carpeta contiene la versión que se despliega fuera de Manus. La interfaz estática se publica con GitHub Pages y consulta APIs públicas directamente desde el navegador. El perfil, las ofertas abiertas y el historial de URLs vistas se guardan en almacenamiento local del dispositivo.
+Esta carpeta contiene la versión que se despliega fuera de Manus. La interfaz estática se publica gratuitamente mediante Cloudflare Workers y consulta APIs públicas directamente desde el navegador. El perfil, las ofertas abiertas y el historial de URLs vistas se guardan en almacenamiento local del dispositivo.
 
 ## Fuentes
 
@@ -14,10 +14,16 @@ node --test standalone/tests/worker.test.mjs
 
 ## Despliegue
 
-El flujo `.github/workflows/deploy-standalone.yml` publica `standalone/public` en GitHub Pages después de habilitar Pages con **GitHub Actions** en la configuración del repositorio. Para una versión con Adzuna, instala Wrangler y publica el Worker desde esta carpeta:
+Cloudflare Workers Builds puede conectar el repositorio privado de GitHub y publicar el proyecto sin GitHub Pages. El archivo `wrangler.toml` de la raíz fija el Worker autónomo y los archivos estáticos correctos, evitando la detección automática de Vite. Para un despliegue manual:
 
 ```bash
 npx wrangler deploy
 ```
 
-Para automatizar desde GitHub, configura `CLOUDFLARE_API_TOKEN` y `CLOUDFLARE_ACCOUNT_ID` como secretos del repositorio y añade un flujo que ejecute `npx wrangler deploy` en cada cambio validado de `main`.
+También hay un generador reproducible para empaquetar la interfaz como un único Worker:
+
+```bash
+node standalone/scripts/build-inline-worker.mjs
+```
+
+Cloudflare puede mantener el enlace al repositorio privado y crear una publicación nueva con cada cambio en `main`; no es necesario abrir el repositorio ni utilizar GitHub Pages.
