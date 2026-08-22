@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { findTargetCompany, targetCompanies } from "../public/targetCompanies.js";
+import { activeCorporateTargets, findTargetCompany, targetCompanies } from "../public/targetCompanies.js";
 
 test("el radar corporativo mantiene cien entidades objetivo con enlaces HTTPS", () => {
   assert.equal(targetCompanies.length, 100);
@@ -26,4 +26,9 @@ test("prioriza los portales oficiales corregidos para Indra y empresas con rutas
   assert.equal(byName("IAG"), "https://www.iairgroup.com/people-and-careers/working-at-iag/");
   assert.equal(byName("Air Europa"), "https://empleo.aireuropa.com/");
   assert.equal(byName("ICEX"), "https://www.icex.es/es/ofertas-empleo-publico");
+});
+
+test("declara con precisión las empresas con conector corporativo activo", () => {
+  assert.deepEqual([...activeCorporateTargets].sort(), ["Iberdrola", "Repsol", "Santander"]);
+  assert.ok([...activeCorporateTargets].every(name => targetCompanies.some(company => company.name === name)));
 });

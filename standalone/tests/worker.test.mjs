@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import worker, { broadenAdzunaQuery, normaliseAndDeduplicate, normaliseIberdrola, normaliseSantander } from "../src/worker.js";
+import worker, { broadenAdzunaQuery, normaliseAndDeduplicate, normaliseIberdrola, normaliseRepsol, normaliseSantander } from "../src/worker.js";
 
 test("deduplica por URL y conserva solamente resultados de España", () => {
   const job = {
@@ -57,6 +57,12 @@ test("normaliza vacantes oficiales de Santander con su URL corporativa de candid
   const job = normaliseSantander({ title: "Business Development", externalPath: "/job/Madrid/R-22", locationsText: "Madrid, Spain", bulletFields: ["R-22"] });
   assert.equal(job.company, "Santander");
   assert.match(job.sourceUrl, /santander\.wd3\.myworkdayjobs\.com/);
+});
+
+test("normaliza vacantes oficiales de Repsol con su URL corporativa de candidatura", () => {
+  const job = normaliseRepsol({ title: "Business Development", externalPath: "/job/Campus-Repsol-Madrid/R-22", locationsText: "Campus Repsol-Madrid", bulletFields: ["R-22"] });
+  assert.equal(job.company, "Repsol");
+  assert.match(job.sourceUrl, /repsol\.wd3\.myworkdayjobs\.com/);
 });
 
 test("recupera una vacante española desde el conector oficial de Iberdrola", async () => {
@@ -141,6 +147,23 @@ test("recupera una vacante española desde el conector oficial de Santander", as
     const payload = await response.json();
     assert.equal(payload.results[0].company, "Santander");
     assert.deepEqual(payload.sources, ["Santander Careers"]);
+  } finally {
+    globalThis.fetch = originalFetch;
+  }
+});
+
+test("recupera una vacante española desde el conector oficial de Repsol", async () => {
+  const originalFetch = globalThis.fetch;
+  globalThis.fetch = async (url, options) => {
+    assert.match(String(url), /repsol\.wd3\.myworkdayjobs\.com/);
+    assert.equal(JSON.parse(options.body).limit, 20);
+    return new Response(JSON.stringify({ total: 1, jobPostings: [{ title: "Desarrollo de Negocio", externalPath: "/job/Campus-Repsol-Madrid/R-44", locationsText: "Campus Repsol-Madrid", bulletFields: ["R-44"] }] }), { headers: { "Content-Type": "application/json" } });
+  };
+  try {
+    const response = await worker.fetch(new Request("https://example.test/api/search?q=desarrollo%20de%20negocio&sources=repsol"), { ASSETS: { fetch: () => new Response("not used") } });
+    const payload = await response.json();
+    assert.equal(payload.results[0].company, "Repsol");
+    assert.deepEqual(payload.sources, ["Repsol Careers"]);
   } finally {
     globalThis.fetch = originalFetch;
   }

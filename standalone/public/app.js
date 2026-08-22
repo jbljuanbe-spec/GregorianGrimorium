@@ -1,5 +1,5 @@
 import { normaliseAndDeduplicate, searchPublicSources } from "./sources.js";
-import { targetCompanies } from "./targetCompanies.js";
+import { activeCorporateTargets, targetCompanies } from "./targetCompanies.js";
 import { extractProfileFromCvText } from "./profileAnalysis.js";
 import { filterByTargetCompany, rankAndFilterJobs } from "./ranking.js";
 
@@ -99,7 +99,7 @@ async function search() {
   elements.searchButton.disabled = true; elements.searchButton.textContent = "Buscando…";
   elements.summary.textContent = "Consultando fuentes autorizadas y eliminando duplicados…";
   try {
-    const workerSources = sources.filter(source => ["adzuna", "iberdrola", "santander"].includes(source));
+    const workerSources = sources.filter(source => ["adzuna", "iberdrola", "santander", "repsol"].includes(source));
     const publicSources = sources.filter(source => !workerSources.includes(source));
     const payload = await searchPublicSources({ query, sources: publicSources, includeRemote: remote });
     if (workerSources.length) {
@@ -163,7 +163,7 @@ function renderProfileSnapshot() {
 
 function renderTargetRadar() {
   targetCompanies.forEach(target => {
-    const option = document.createElement("option"); option.value = target.name; option.textContent = target.name; elements.targetFilter.append(option);
+    const option = document.createElement("option"); option.value = target.name; option.textContent = `${target.name} · ${activeCorporateTargets.has(target.name) ? "conector activo" : "portal oficial"}`; elements.targetFilter.append(option);
   });
 }
 

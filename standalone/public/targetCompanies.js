@@ -1,3 +1,5 @@
+export const activeCorporateTargets = new Set(["Iberdrola", "Santander", "Repsol"]);
+
 export const targetCompanies = [
   ["Iberdrola", "Energía", "https://www.iberdrola.com/careers"], ["Santander", "Banca", "https://www.santander.com/en/careers"], ["Navantia", "Defensa e industria", "https://www.navantia.es/en/careers/"], ["Revolut", "Fintech", "https://www.revolut.com/careers/"],
   ["BBVA", "Banca", "https://www.bbva.com/en/careers/"], ["CaixaBank", "Banca", "https://caixabankcareers.com/"], ["Banco Sabadell", "Banca", "https://www.sabadellcareers.com/"], ["Bankinter", "Banca", "https://www.bankinter.com/trabaja-con-nosotros"], ["Mapfre", "Seguros", "https://jobs.mapfre.com/?locale=en_US"], ["Mutua Madrileña", "Seguros", "https://www.mutua.es/trabaja-con-nosotros"],
