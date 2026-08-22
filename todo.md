@@ -10,7 +10,7 @@
 - [x] Implementar guardados y seguimiento de candidaturas con estados pendiente, favorita, aplicada y descartada.
 - [x] Incorporar pruebas unitarias para el cálculo de puntuación, filtros y transiciones de estado.
 - [x] Verificar la experiencia en escritorio y móvil, la privacidad y los flujos de error o vacío.
-- [ ] Crear y sincronizar un repositorio privado de GitHub con el código final y la documentación de uso.
+- [x] Crear y sincronizar un repositorio privado de GitHub con el código final y la documentación de uso.
 - [x] Implementar una ficha completa de oferta con requisitos, condiciones, notas, candidatura y lectura detallada de adecuación.
 - [x] Añadir estados de carga, error y vacío coherentes en las vistas privadas principales.
 - [x] Verificar mediante pruebas los filtros del catálogo y los estados de seguimiento de candidaturas.
