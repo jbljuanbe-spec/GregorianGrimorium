@@ -71,3 +71,6 @@
 - [x] Verificar tras publicar que la interfaz servida envía Santander Careers al Worker y no la trata como fuente pública.
 - [ ] Auditar y corregir los enlaces de carrera del radar, empezando por Indra Empleo, mediante los portales oficiales vigentes.
 - [x] Corregir y publicar los enlaces reportados y una primera tanda de destinos obsoletos, incluido Indra Group, con verificación oficial documentada.
+- [x] Incorporar ámbitos explícitos de búsqueda para España, Italia, EMEA y remoto global sin mezclar mercados silenciosamente.
+- [x] Hacer resiliente la búsqueda EMEA para conservar resultados de los mercados disponibles ante límites o fallos parciales.
+- [x] Verificar en la URL pública, mediante interacción real, que Italia y EMEA aplican el selector, recuperan resultados y no generan errores JavaScript.
