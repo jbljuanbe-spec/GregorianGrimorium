@@ -47,6 +47,16 @@ test("limita las variantes de Adzuna y conserva la intención comercial", () => 
   assert.deepEqual(buildAdzunaQueries("asuntos públicos"), ["asuntos públicos", "relaciones institucionales"]);
 });
 
+test("filtra las vacantes internacionales por el ámbito elegido", () => {
+  const jobs = [[
+    { id: "it", title: "Business Development", company: "Empresa Italia", location: "Milano", country: "Italy", sourceUrl: "https://example.com/it", remote: false },
+    { id: "es", title: "Business Development", company: "Empresa España", location: "Madrid", country: "Spain", sourceUrl: "https://example.com/es", remote: false },
+  ]];
+  const result = normaliseAndDeduplicate(jobs, "italy", false);
+  assert.equal(result.length, 1);
+  assert.equal(result[0].location, "Milano");
+});
+
 test("normaliza vacantes oficiales de Iberdrola con enlace directo de candidatura", () => {
   const job = normaliseIberdrola({ title: "Business Development Manager", externalPath: "/job/Madrid/Business-Development_R-42", locationsText: "Spain, Madrid", bulletFields: ["R-42"] });
   assert.equal(job.company, "Iberdrola");

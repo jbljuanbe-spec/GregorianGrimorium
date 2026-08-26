@@ -1,4 +1,5 @@
 import { buildSearchPlan } from "./matching.js";
+import { isWithinScope, normaliseScope } from "../shared/scope.js";
 
 const SOURCE_LIMIT = 50;
 const RESULT_LIMIT = 120;
@@ -21,11 +22,6 @@ const requisitionKey = job => {
   return match && company ? `${company}|r-${match[1]}` : "";
 };
 
-const isSpainOrRemote = (job, includeRemote) => {
-  const location = `${job.location || ""} ${job.country || ""}`.toLocaleLowerCase("es-ES");
-  return location.includes("spain") || location.includes("españa") || location.includes("madrid") || location.includes("barcelona") || location.includes("valencia") || location.includes("bilbao") || location.includes("sevilla") || (includeRemote && job.remote === true);
-};
-
 const normaliseArbeitnow = item => ({
   id: `arbeitnow:${item.slug || canonicalUrl(item.url)}`, source: "Arbeitnow", sourceUrl: canonicalUrl(item.url), title: cleanText(item.title), company: cleanText(item.company_name), location: cleanText(item.location) || "Ubicación no indicada", country: cleanText(item.location), modality: item.remote ? "Remoto" : "No indicada", contractType: cleanText(item.job_types?.join(", ")) || "No indicado", area: "Oferta de empleo", publishedAt: item.created_at ? new Date(item.created_at * 1000).toISOString() : null, description: cleanText(item.description), requirements: cleanText(item.tags?.join(", ")), remote: Boolean(item.remote),
 });
@@ -34,12 +30,14 @@ const normaliseJobicy = item => ({
   id: `jobicy:${item.id || canonicalUrl(item.url)}`, source: "Jobicy", sourceUrl: canonicalUrl(item.url), title: cleanText(item.jobTitle), company: cleanText(item.companyName), location: cleanText(item.jobGeo) || "Remoto", country: cleanText(item.jobGeo), modality: "Remoto", contractType: cleanText(item.jobType?.join(", ")) || "No indicado", area: cleanText(item.jobIndustry?.join(", ")) || "Remoto internacional", publishedAt: item.pubDate || null, description: cleanText(item.jobExcerpt || item.jobDescription), requirements: cleanText(item.jobLevel || ""), remote: true,
 });
 
-export function normaliseAndDeduplicate(sourceGroups, includeRemote) {
+export function normaliseAndDeduplicate(sourceGroups, scopeOrIncludeRemote = "spain", remoteOption = false) {
+  const includeRemote = typeof scopeOrIncludeRemote === "boolean" ? scopeOrIncludeRemote : remoteOption;
+  const scope = typeof scopeOrIncludeRemote === "boolean" ? "spain" : normaliseScope(scopeOrIncludeRemote);
   const urlKeys = new Set();
   const requisitionKeys = new Set();
   const output = [];
   sourceGroups.flat().forEach(job => {
-    if (!job.title || !job.company || !job.sourceUrl || !isSpainOrRemote(job, includeRemote)) return;
+    if (!job.title || !job.company || !job.sourceUrl || !isWithinScope(job, scope, includeRemote)) return;
     const urlKey = canonicalUrl(job.sourceUrl);
     const requisition = requisitionKey(job);
     if (urlKeys.has(urlKey) || (requisition && requisitionKeys.has(requisition))) return;
@@ -54,7 +52,7 @@ async function fetchJson(url) {
   return response.json();
 }
 
-export async function searchPublicSources({ query, sources, includeRemote }) {
+export async function searchPublicSources({ query, sources, includeRemote, scope = "spain" }) {
   const groups = [];
   const sourceErrors = [];
   const usedSources = [];
@@ -69,5 +67,5 @@ export async function searchPublicSources({ query, sources, includeRemote }) {
   await Promise.all(jobs.map(async ([source, operation]) => {
     try { groups.push(await operation()); usedSources.push(source); } catch (error) { sourceErrors.push({ source, message: error instanceof Error ? error.message : "Fuente no disponible" }); }
   }));
-  return { results: normaliseAndDeduplicate(groups, includeRemote), sources: usedSources, sourceErrors };
+  return { results: normaliseAndDeduplicate(groups, scope, includeRemote), sources: usedSources, sourceErrors };
 }

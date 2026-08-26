@@ -2,6 +2,7 @@ import { normaliseAndDeduplicate, searchPublicSources } from "./sources.js";
 import { activeCorporateTargets, targetCompanies } from "./targetCompanies.js";
 import { extractProfileFromCvText } from "./profileAnalysis.js";
 import { filterByTargetCompany, rankAndFilterJobs } from "./ranking.js";
+import { defaultLocationForScope, normaliseScope, scopeLabel } from "../shared/scope.js";
 
 const defaults = {
   headline: "Desarrollo de Negocio Internacional · Comercio Exterior · Relaciones Institucionales",
@@ -23,7 +24,7 @@ const seen = new Set(JSON.parse(localStorage.getItem(seenKey) || "[]"));
 let searchHistory = JSON.parse(localStorage.getItem(searchHistoryKey) || "[]");
 let latestSearch = null;
 const elements = {
-  query: document.querySelector("#query"), location: document.querySelector("#location"), searchButton: document.querySelector("#search-button"), profileHeadline: document.querySelector("#profile-headline"), profileSummary: document.querySelector("#profile-summary"), profileKeywords: document.querySelector("#profile-keywords"),
+  query: document.querySelector("#query"), location: document.querySelector("#location"), scope: document.querySelector("#search-scope"), searchButton: document.querySelector("#search-button"), profileHeadline: document.querySelector("#profile-headline"), profileSummary: document.querySelector("#profile-summary"), profileKeywords: document.querySelector("#profile-keywords"),
   results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"), experienceFilter: document.querySelector("#experience-filter"), targetFilter: document.querySelector("#target-company-filter"), cvFile: document.querySelector("#cv-file"), cvStatus: document.querySelector("#cv-status"),
   profilePanel: document.querySelector("#profile-panel"), profileBackdrop: document.querySelector("#profile-backdrop"), profileToggle: document.querySelector("#profile-toggle"), profileClose: document.querySelector("#profile-close"), profileForm: document.querySelector("#profile-form"), history: document.querySelector("#search-history"),
 };
@@ -50,8 +51,8 @@ function closeProfilePanel() {
 }
 
 function saveSearchHistory(entry) {
-  const key = `${entry.query.toLocaleLowerCase("es-ES")}|${entry.location.toLocaleLowerCase("es-ES")}|${entry.sources.join(",")}|${entry.remote}`;
-  searchHistory = [entry, ...searchHistory.filter(item => `${item.query.toLocaleLowerCase("es-ES")}|${item.location.toLocaleLowerCase("es-ES")}|${item.sources.join(",")}|${item.remote}` !== key)].slice(0, 6);
+  const key = `${entry.query.toLocaleLowerCase("es-ES")}|${entry.scope}|${entry.location.toLocaleLowerCase("es-ES")}|${entry.sources.join(",")}|${entry.remote}`;
+  searchHistory = [entry, ...searchHistory.filter(item => `${item.query.toLocaleLowerCase("es-ES")}|${item.scope || "spain"}|${item.location.toLocaleLowerCase("es-ES")}|${item.sources.join(",")}|${item.remote}` !== key)].slice(0, 6);
   localStorage.setItem(searchHistoryKey, JSON.stringify(searchHistory));
   renderSearchHistory();
 }
@@ -67,10 +68,10 @@ function renderSearchHistory() {
     const detailLabel = document.createElement("span");
     const selectedSources = Array.isArray(entry.sources) ? entry.sources : [];
     queryLabel.textContent = String(entry.query || "Búsqueda amplia");
-    detailLabel.textContent = `${String(entry.location || "España")} · ${selectedSources.join(", ")}`;
+    detailLabel.textContent = `${scopeLabel(entry.scope || "spain")}${entry.location ? ` · ${entry.location}` : ""} · ${selectedSources.join(", ")}`;
     button.append(queryLabel, detailLabel);
     button.addEventListener("click", () => {
-      elements.query.value = entry.query; elements.location.value = entry.location;
+      elements.query.value = entry.query; elements.scope.value = normaliseScope(entry.scope || "spain"); elements.location.value = entry.location;
       document.querySelector("#include-remote").checked = entry.remote;
       document.querySelectorAll('input[name="source"]').forEach(input => { input.checked = selectedSources.includes(input.value); });
       search();
@@ -79,16 +80,16 @@ function renderSearchHistory() {
   });
 }
 
-function render(jobs, sourceNames, errors, effectiveQuery) {
+function render(jobs, sourceNames, errors, effectiveQuery, scope = "spain") {
   elements.results.replaceChildren();
-  const sorted = filterByTargetCompany(rankAndFilterJobs(profile, jobs, elements.experienceFilter.value, effectiveQuery), elements.targetFilter.value);
+  const sorted = filterByTargetCompany(rankAndFilterJobs(profile, jobs, elements.experienceFilter.value, effectiveQuery, scope), elements.targetFilter.value);
   elements.empty.hidden = Boolean(sorted.length);
   const newCount = sorted.filter(job => !seen.has(job.sourceUrl)).length;
   elements.summary.replaceChildren();
   const summaryLine = document.createElement("span");
   const resultCount = document.createElement("strong"); resultCount.textContent = String(sorted.length);
   const newResultCount = document.createElement("strong"); newResultCount.textContent = String(newCount);
-  summaryLine.append(resultCount, " ofertas verificables · ", newResultCount, ` nuevas para este navegador · Fuentes: ${sourceNames.join(", ") || "ninguna"}${effectiveQuery ? ` · consulta afinada: ${effectiveQuery}` : ""}`);
+  summaryLine.append(resultCount, ` ofertas verificables en ${scopeLabel(scope)} · `, newResultCount, ` nuevas para este navegador · Fuentes: ${sourceNames.join(", ") || "ninguna"}${effectiveQuery ? ` · consulta afinada: ${effectiveQuery}` : ""}`);
   elements.summary.append(summaryLine);
   if (errors.length) { const errorLine = document.createElement("small"); errorLine.textContent = errors.map(error => `${error.source}: ${error.message}`).join(" · "); elements.summary.append(errorLine); }
   sorted.forEach(job => {
@@ -111,6 +112,7 @@ function render(jobs, sourceNames, errors, effectiveQuery) {
 async function search() {
   const query = elements.query.value.trim();
   const location = elements.location.value.trim();
+  const scope = normaliseScope(elements.scope.value);
   const sources = [...document.querySelectorAll('input[name="source"]:checked')].map(input => input.value);
   const remote = document.querySelector("#include-remote").checked;
   elements.searchButton.disabled = true; elements.searchButton.classList.add("is-loading"); elements.searchButton.setAttribute("aria-busy", "true"); elements.searchButton.textContent = "Buscando…";
@@ -118,14 +120,14 @@ async function search() {
   try {
     const workerSources = sources.filter(source => ["adzuna", "iberdrola", "santander", "repsol", "acciona"].includes(source));
     const publicSources = sources.filter(source => !workerSources.includes(source));
-    const payload = await searchPublicSources({ query, sources: publicSources, includeRemote: remote });
+    const payload = await searchPublicSources({ query, sources: publicSources, includeRemote: remote, scope });
     if (workerSources.length) {
       try {
-        const params = new URLSearchParams({ q: query, location, sources: workerSources.join(","), remote: String(remote) });
+        const params = new URLSearchParams({ q: query, location, scope, sources: workerSources.join(","), remote: String(remote) });
         const response = await fetch(`/api/search?${params}`);
         if (response.ok) {
           const adzuna = await response.json();
-          payload.results = normaliseAndDeduplicate([payload.results, adzuna.results || []], remote);
+          payload.results = normaliseAndDeduplicate([payload.results, adzuna.results || []], scope, remote);
           payload.sources = [...new Set([...payload.sources, ...(adzuna.sources || [])])];
           payload.sourceErrors.push(...(adzuna.sourceErrors || []));
           payload.effectiveQuery = adzuna.effectiveQuery || payload.effectiveQuery;
@@ -136,9 +138,9 @@ async function search() {
         payload.sourceErrors.push({ source: "Fuentes de Worker", message: "No se pudo recuperar la fuente seleccionada" });
       }
     }
-    saveSearchHistory({ query, location, sources, remote, searchedAt: new Date().toISOString() });
-    latestSearch = { jobs: payload.results || [], sources: payload.sources || [], errors: payload.sourceErrors || [], effectiveQuery: payload.effectiveQuery || query };
-    render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery);
+    saveSearchHistory({ query, location, scope, sources, remote, searchedAt: new Date().toISOString() });
+    latestSearch = { jobs: payload.results || [], sources: payload.sources || [], errors: payload.sourceErrors || [], effectiveQuery: payload.effectiveQuery || query, scope };
+    render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery, latestSearch.scope);
   } catch (error) {
     elements.summary.textContent = error instanceof Error ? error.message : "No se pudo completar la búsqueda";
   } finally { elements.searchButton.disabled = false; elements.searchButton.classList.remove("is-loading"); elements.searchButton.removeAttribute("aria-busy"); elements.searchButton.textContent = "Buscar ofertas"; }
@@ -192,8 +194,9 @@ elements.profileBackdrop.addEventListener("click", closeProfilePanel);
 window.addEventListener("keydown", event => { if (event.key === "Escape" && !elements.profilePanel.hidden) closeProfilePanel(); });
 elements.profileForm.addEventListener("submit", event => { event.preventDefault(); new FormData(elements.profileForm).forEach((value, name) => { profile[name] = value; }); localStorage.setItem(profileKey, JSON.stringify(profile)); renderProfileSnapshot(); closeProfilePanel(); });
 elements.searchButton.addEventListener("click", search);
-elements.experienceFilter.addEventListener("change", () => { if (latestSearch) render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery); });
-elements.targetFilter.addEventListener("change", () => { if (latestSearch) render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery); });
+elements.experienceFilter.addEventListener("change", () => { if (latestSearch) render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery, latestSearch.scope); });
+elements.targetFilter.addEventListener("change", () => { if (latestSearch) render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery, latestSearch.scope); });
+elements.scope.addEventListener("change", () => { const nextLocation = defaultLocationForScope(elements.scope.value); if (!elements.location.value || ["Madrid", "Milán"].includes(elements.location.value)) elements.location.value = nextLocation; elements.location.placeholder = nextLocation || "Ciudad o país (opcional)"; });
 elements.cvFile.addEventListener("change", importCv);
 renderSearchHistory();
 renderProfileSnapshot();

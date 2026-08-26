@@ -37,3 +37,12 @@ test("prioriza una coincidencia de rol en el título y la consulta frente a una 
   assert.ok(titleMatch.fit.score > descriptionOnly.fit.score);
   assert.equal(titleMatch.fit.confidence, "alta");
 });
+
+test("no penaliza una oportunidad italiana cuando el usuario ha elegido Italia como ámbito", () => {
+  const profile = { keywords: "desarrollo de negocio, internacionalización", roles: "desarrollo de negocio internacional", areas: "", experience: "", languages: "inglés C1, italiano C1", locations: "Madrid", yearsExperience: "6" };
+  const vacancy = { title: "Business Development Manager", company: "Empresa internacional", location: "Milano, Italia", country: "Italy", modality: "Híbrido", area: "Internacionalización", description: "International expansion", requirements: "Italian C1" };
+  const local = rankJob(profile, vacancy, "desarrollo de negocio", "spain");
+  const italy = rankJob(profile, vacancy, "desarrollo de negocio", "italy");
+  assert.ok(italy.fit.score > local.fit.score);
+  assert.ok(italy.fit.factors.location >= 8);
+});

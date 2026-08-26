@@ -1,3 +1,5 @@
+import { isWithinScope, marketsForScope, normaliseScope, scopeLabel } from "../shared/scope.js";
+
 const SOURCE_LIMIT = 50;
 const RESULT_LIMIT = 120;
 const WORKDAY_PAGE_SIZE = 20;
@@ -32,11 +34,6 @@ function requisitionKey(job) {
   const corpus = `${job.vacancyId || ""} ${job.id || ""} ${job.sourceUrl || ""} ${job.description || ""} ${job.requirements || ""}`;
   const match = corpus.match(/\bR[-_ ]?(\d{3,})(?:-\d+)?\b/i);
   return match && company ? `${company}|r-${match[1]}` : "";
-}
-
-function isSpainOrRemote(job, includeRemote) {
-  const location = `${job.location || ""} ${job.country || ""}`.toLocaleLowerCase("es-ES");
-  return location.includes("spain") || location.includes("españa") || location.includes("madrid") || location.includes("barcelona") || location.includes("valencia") || location.includes("bilbao") || location.includes("sevilla") || (includeRemote && job.remote === true);
 }
 
 function normaliseArbeitnow(item) {
@@ -176,13 +173,15 @@ export function normaliseAcciona(item) {
   };
 }
 
-export function normaliseAndDeduplicate(sourceGroups, includeRemote) {
+export function normaliseAndDeduplicate(sourceGroups, scopeOrIncludeRemote = "spain", remoteOption = false) {
+  const includeRemote = typeof scopeOrIncludeRemote === "boolean" ? scopeOrIncludeRemote : remoteOption;
+  const scope = typeof scopeOrIncludeRemote === "boolean" ? "spain" : normaliseScope(scopeOrIncludeRemote);
   const urlKeys = new Set();
   const requisitionKeys = new Set();
   const output = [];
 
   sourceGroups.flat().forEach(job => {
-    if (!job.title || !job.company || !job.sourceUrl || !isSpainOrRemote(job, includeRemote)) return;
+    if (!job.title || !job.company || !job.sourceUrl || !isWithinScope(job, scope, includeRemote)) return;
     const urlKey = canonicalUrl(job.sourceUrl);
     const requisition = requisitionKey(job);
     if (urlKeys.has(urlKey) || (requisition && requisitionKeys.has(requisition))) return;
@@ -228,11 +227,12 @@ export function broadenAdzunaQuery(query) {
   return buildAdzunaQueries(query)[0];
 }
 
-async function searchAdzuna(query, location, env) {
+async function searchAdzuna(query, location, env, scope = "spain") {
   if (!env.ADZUNA_APP_ID || !env.ADZUNA_APP_KEY) return [];
-  const queries = buildAdzunaQueries(query).slice(0, 2);
-  const responses = await Promise.all(queries.map(async term => {
-    const url = new URL("https://api.adzuna.com/v1/api/jobs/es/search/1");
+  const queries = buildAdzunaQueries(query).slice(0, scope === "spain" || scope === "italy" ? 2 : 1);
+  const searches = marketsForScope(scope).flatMap(country => queries.map(term => ({ country, term })));
+  const responses = await Promise.all(searches.map(async ({ country, term }) => {
+    const url = new URL(`https://api.adzuna.com/v1/api/jobs/${country}/search/1`);
     url.searchParams.set("app_id", env.ADZUNA_APP_ID);
     url.searchParams.set("app_key", env.ADZUNA_APP_KEY);
     url.searchParams.set("what", term);
@@ -320,7 +320,8 @@ async function searchAcciona(query) {
 async function search(request, env) {
   const url = new URL(request.url);
   const query = cleanText(url.searchParams.get("q") || "").slice(0, 100);
-  const location = cleanText(url.searchParams.get("location") || "Madrid").slice(0, 80);
+  const scope = normaliseScope(url.searchParams.get("scope") || "spain");
+  const location = cleanText(url.searchParams.get("location") || "").slice(0, 80);
   const includeRemote = url.searchParams.get("remote") === "true";
   const enabled = new Set((url.searchParams.get("sources") || "arbeitnow,jobicy,adzuna,iberdrola,santander,repsol,acciona").split(","));
   const jobs = [];
@@ -329,7 +330,7 @@ async function search(request, env) {
   const sources = [
     ["arbeitnow", searchArbeitnow],
     ["jobicy", () => searchJobicy(query)],
-    ["adzuna", () => searchAdzuna(query, location, env)],
+    ["adzuna", () => searchAdzuna(query, location, env, scope)],
     ["iberdrola", () => searchIberdrola(query)],
     ["santander", () => searchSantander(query)],
     ["repsol", () => searchRepsol(query)],
@@ -345,7 +346,7 @@ async function search(request, env) {
     }
   }));
 
-  const results = normaliseAndDeduplicate(jobs, includeRemote);
+  const results = normaliseAndDeduplicate(jobs, scope, includeRemote);
   const sourceLabels = { arbeitnow: "Arbeitnow", jobicy: "Jobicy", adzuna: "Adzuna", iberdrola: "Iberdrola Careers", santander: "Santander Careers", repsol: "Repsol Careers", acciona: "Acciona Careers" };
   const activeSources = [...enabled]
     .filter(name => name !== "adzuna" || Boolean(env.ADZUNA_APP_ID && env.ADZUNA_APP_KEY))
@@ -357,6 +358,8 @@ async function search(request, env) {
     query,
     effectiveQuery: enabled.has("adzuna") ? buildAdzunaQueries(query).join(" / ") : query,
     location,
+    scope,
+    scopeLabel: scopeLabel(scope),
     generatedAt: new Date().toISOString(),
     sources: activeSources,
     sourceErrors,

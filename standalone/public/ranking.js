@@ -1,10 +1,11 @@
 import { findTargetCompany } from "./targetCompanies.js";
 import { explainKeywordFit, locationAdjustment, requiredExperienceYears } from "./profileAnalysis.js";
 import { profileMatchEvidence, queryMatchEvidence } from "./matching.js";
+import { isWithinScope, normaliseScope } from "../shared/scope.js";
 
 const text = (value = "") => String(value).toLocaleLowerCase("es-ES");
 
-export function rankJob(profile, job, query = "") {
+export function rankJob(profile, job, query = "", requestedScope = "spain") {
   const keywordFit = explainKeywordFit(profile, job);
   const semanticFit = profileMatchEvidence(profile, job);
   const queryFit = queryMatchEvidence(query, job);
@@ -22,7 +23,9 @@ export function rankJob(profile, job, query = "") {
   const weightedMatch = semanticFit.details.reduce((sum, item) => sum + item.weight, 0);
   const possibleMatch = Math.max(semanticFit.details.length * 2, 1);
   const competencyScore = Math.round(weightedMatch / possibleMatch * 36);
-  const locationScore = Math.round(locationFit.score * .8) - Math.round(locationFit.penalty * .75);
+  const isInternationalScope = normaliseScope(requestedScope) !== "spain";
+  const selectedScopeFit = isWithinScope(job, requestedScope, false);
+  const locationScore = isInternationalScope && selectedScopeFit ? Math.max(8, Math.round(locationFit.score * .8)) : Math.round(locationFit.score * .8) - Math.round(locationFit.penalty * .75);
   const roleTitleScore = semanticFit.details.some(item => item.titleMatch) ? 18 : 0;
   const score = Math.min(100, Math.max(0, roleTitleScore + competencyScore + queryFit.score + locationScore + languageScore + targetBoost + experienceScore));
   const matched = [...new Set([...semanticFit.matched, ...queryFit.matched, ...keywordFit.matched])];
@@ -43,9 +46,9 @@ export function rankJob(profile, job, query = "") {
   };
 }
 
-export function rankAndFilterJobs(profile, jobs, experienceFilter = "all", query = "") {
+export function rankAndFilterJobs(profile, jobs, experienceFilter = "all", query = "", requestedScope = "spain") {
   return jobs
-    .map(job => rankJob(profile, job, query))
+    .map(job => rankJob(profile, job, query, requestedScope))
     .filter(job => experienceFilter !== "fit" || job.fit.experienceFit)
     .sort((a, b) => b.fit.score - a.fit.score || Date.parse(b.publishedAt || "") - Date.parse(a.publishedAt || ""));
 }
