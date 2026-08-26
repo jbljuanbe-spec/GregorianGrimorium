@@ -1,0 +1,15 @@
+body.profile-panel-open { overflow:hidden; }
+button,input,textarea,select { transition:border-color 180ms cubic-bezier(.23,1,.32,1),box-shadow 180ms cubic-bezier(.23,1,.32,1),background-color 180ms cubic-bezier(.23,1,.32,1),transform 160ms cubic-bezier(.23,1,.32,1); }
+button:active,.apply:active { transform:scale(.97); }
+button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible { outline:3px solid #77ad95; outline-offset:3px; }
+.profile-backdrop { position:fixed; inset:0; z-index:20; background:#0a2521; opacity:0; transition:opacity 180ms cubic-bezier(.23,1,.32,1); }
+.profile-backdrop.is-visible { opacity:.42; }
+.profile-panel { z-index:21; bottom:max(1rem,env(safe-area-inset-bottom)); max-height:calc(100dvh - 2rem); overflow-y:auto; overscroll-behavior:contain; scrollbar-gutter:stable; opacity:0; transform:translateX(1.5rem) scale(.985); transition:transform 220ms cubic-bezier(.23,1,.32,1),opacity 180ms cubic-bezier(.23,1,.32,1); }
+.profile-panel.is-visible { opacity:1; transform:translateX(0) scale(1); }
+.profile-panel .panel-heading { position:sticky; top:-1.2rem; z-index:1; padding:1.05rem 0 .65rem; background:var(--paper); }
+.profile-panel textarea { min-height:5.5rem; }
+.profile-panel .cv-import { padding:.7rem; border:1px dashed #9fb7aa; border-radius:.65rem; background:#f2f8f3; }
+.job-card { transition:transform 180ms cubic-bezier(.23,1,.32,1),box-shadow 180ms cubic-bezier(.23,1,.32,1),border-color 180ms cubic-bezier(.23,1,.32,1); }
+.job-card:hover { transform:translateY(-2px); border-color:#a8c9b9; box-shadow:0 13px 30px #143a3512; }
+@media (max-width:720px) { .profile-panel { left:0; right:0; top:auto; width:100%; max-height:min(88dvh,46rem); border-radius:1rem 1rem 0 0; transform:translateY(1.5rem) scale(.985); }.profile-panel.is-visible { transform:translateY(0) scale(1); } }
+@media (prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto !important; transition-duration:.01ms !important; animation-duration:.01ms !important; animation-iteration-count:1 !important; } }

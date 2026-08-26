@@ -29,3 +29,11 @@ test("el filtro de radar conserva solo resultados de empresas objetivo o de una 
   assert.equal(filterByTargetCompany(jobs, "target").length, 2);
   assert.deepEqual(filterByTargetCompany(jobs, "Iberdrola"), [jobs[0]]);
 });
+
+test("prioriza una coincidencia de rol en el título y la consulta frente a una mención secundaria en la descripción", () => {
+  const profile = { keywords: "desarrollo de negocio, internacionalización, excel", roles: "desarrollo de negocio internacional", areas: "", experience: "", languages: "inglés C1", locations: "Madrid", yearsExperience: "6" };
+  const titleMatch = rankJob(profile, { title: "Business Development Manager", company: "Empresa", location: "Madrid", modality: "Híbrido", area: "Internacionalización", description: "Excel e inglés", requirements: "" }, "desarrollo de negocio internacional");
+  const descriptionOnly = rankJob(profile, { title: "Operations Coordinator", company: "Empresa", location: "Madrid", modality: "Híbrido", area: "Operaciones", description: "Apoyo ocasional a business development y Excel", requirements: "" }, "desarrollo de negocio internacional");
+  assert.ok(titleMatch.fit.score > descriptionOnly.fit.score);
+  assert.equal(titleMatch.fit.confidence, "alta");
+});

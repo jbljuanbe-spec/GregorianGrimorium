@@ -25,12 +25,29 @@ let latestSearch = null;
 const elements = {
   query: document.querySelector("#query"), location: document.querySelector("#location"), searchButton: document.querySelector("#search-button"), profileHeadline: document.querySelector("#profile-headline"), profileSummary: document.querySelector("#profile-summary"), profileKeywords: document.querySelector("#profile-keywords"),
   results: document.querySelector("#results"), summary: document.querySelector("#summary"), empty: document.querySelector("#empty-state"), template: document.querySelector("#result-template"), experienceFilter: document.querySelector("#experience-filter"), targetFilter: document.querySelector("#target-company-filter"), cvFile: document.querySelector("#cv-file"), cvStatus: document.querySelector("#cv-status"),
-  profilePanel: document.querySelector("#profile-panel"), profileToggle: document.querySelector("#profile-toggle"), profileClose: document.querySelector("#profile-close"), profileForm: document.querySelector("#profile-form"), history: document.querySelector("#search-history"),
+  profilePanel: document.querySelector("#profile-panel"), profileBackdrop: document.querySelector("#profile-backdrop"), profileToggle: document.querySelector("#profile-toggle"), profileClose: document.querySelector("#profile-close"), profileForm: document.querySelector("#profile-form"), history: document.querySelector("#search-history"),
 };
 
 function split(value) { return value.split(/[,;\n|]/).map(item => item.trim().toLocaleLowerCase("es-ES")).filter(Boolean); }
 
 function formatDate(value) { if (!value) return "Fecha no indicada"; const date = new Date(value); return Number.isNaN(date.valueOf()) ? "Fecha no indicada" : date.toLocaleDateString("es-ES", { day: "numeric", month: "short" }); }
+
+let panelCloseTimer = null;
+function openProfilePanel() {
+  window.clearTimeout(panelCloseTimer);
+  elements.profilePanel.hidden = false;
+  elements.profileBackdrop.hidden = false;
+  document.body.classList.add("profile-panel-open");
+  requestAnimationFrame(() => { elements.profilePanel.classList.add("is-visible"); elements.profileBackdrop.classList.add("is-visible"); });
+  requestAnimationFrame(() => elements.profileForm.elements.namedItem("headline")?.focus());
+}
+function closeProfilePanel() {
+  elements.profilePanel.classList.remove("is-visible");
+  elements.profileBackdrop.classList.remove("is-visible");
+  document.body.classList.remove("profile-panel-open");
+  panelCloseTimer = window.setTimeout(() => { elements.profilePanel.hidden = true; elements.profileBackdrop.hidden = true; }, 180);
+  elements.profileToggle.focus();
+}
 
 function saveSearchHistory(entry) {
   const key = `${entry.query.toLocaleLowerCase("es-ES")}|${entry.location.toLocaleLowerCase("es-ES")}|${entry.sources.join(",")}|${entry.remote}`;
@@ -64,20 +81,20 @@ function renderSearchHistory() {
 
 function render(jobs, sourceNames, errors, effectiveQuery) {
   elements.results.replaceChildren();
-  const sorted = filterByTargetCompany(rankAndFilterJobs(profile, jobs, elements.experienceFilter.value), elements.targetFilter.value);
+  const sorted = filterByTargetCompany(rankAndFilterJobs(profile, jobs, elements.experienceFilter.value, effectiveQuery), elements.targetFilter.value);
   elements.empty.hidden = Boolean(sorted.length);
   const newCount = sorted.filter(job => !seen.has(job.sourceUrl)).length;
   elements.summary.replaceChildren();
   const summaryLine = document.createElement("span");
   const resultCount = document.createElement("strong"); resultCount.textContent = String(sorted.length);
   const newResultCount = document.createElement("strong"); newResultCount.textContent = String(newCount);
-  summaryLine.append(resultCount, " ofertas verificables · ", newResultCount, ` nuevas para este navegador · Fuentes: ${sourceNames.join(", ") || "ninguna"}${effectiveQuery ? ` · consulta ampliada: ${effectiveQuery}` : ""}`);
+  summaryLine.append(resultCount, " ofertas verificables · ", newResultCount, ` nuevas para este navegador · Fuentes: ${sourceNames.join(", ") || "ninguna"}${effectiveQuery ? ` · consulta afinada: ${effectiveQuery}` : ""}`);
   elements.summary.append(summaryLine);
   if (errors.length) { const errorLine = document.createElement("small"); errorLine.textContent = errors.map(error => `${error.source}: ${error.message}`).join(" · "); elements.summary.append(errorLine); }
   sorted.forEach(job => {
     const node = elements.template.content.cloneNode(true);
     node.querySelector(".score strong").textContent = job.fit.score;
-    node.querySelector(".source").textContent = `${job.source}${job.fit.targetCompany ? ` · empresa objetivo: ${job.fit.targetCompany.name}` : ""}${job.fit.locationVeto ? " · ubicación por revisar" : ""}`;
+    node.querySelector(".source").textContent = `${job.source}${job.fit.targetCompany ? ` · empresa objetivo: ${job.fit.targetCompany.name}` : ""}${job.fit.locationVeto ? " · ubicación por revisar" : ""} · confianza ${job.fit.confidence}`;
     node.querySelector("h2").textContent = job.title;
     node.querySelector(".company").textContent = `${job.company} · ${job.location} · ${job.modality}${job.fit.requiredYears ? ` · requiere ${job.fit.requiredYears}+ años` : ""}`;
     node.querySelector("time").textContent = formatDate(job.publishedAt);
@@ -96,7 +113,7 @@ async function search() {
   const location = elements.location.value.trim();
   const sources = [...document.querySelectorAll('input[name="source"]:checked')].map(input => input.value);
   const remote = document.querySelector("#include-remote").checked;
-  elements.searchButton.disabled = true; elements.searchButton.textContent = "Buscando…";
+  elements.searchButton.disabled = true; elements.searchButton.classList.add("is-loading"); elements.searchButton.setAttribute("aria-busy", "true"); elements.searchButton.textContent = "Buscando…";
   elements.summary.textContent = "Consultando fuentes autorizadas y eliminando duplicados…";
   try {
     const workerSources = sources.filter(source => ["adzuna", "iberdrola", "santander", "repsol", "acciona"].includes(source));
@@ -111,6 +128,7 @@ async function search() {
           payload.results = normaliseAndDeduplicate([payload.results, adzuna.results || []], remote);
           payload.sources = [...new Set([...payload.sources, ...(adzuna.sources || [])])];
           payload.sourceErrors.push(...(adzuna.sourceErrors || []));
+          payload.effectiveQuery = adzuna.effectiveQuery || payload.effectiveQuery;
         } else {
           payload.sourceErrors.push({ source: "Fuentes de Worker", message: "No se pudo recuperar la fuente seleccionada" });
         }
@@ -123,7 +141,7 @@ async function search() {
     render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery);
   } catch (error) {
     elements.summary.textContent = error instanceof Error ? error.message : "No se pudo completar la búsqueda";
-  } finally { elements.searchButton.disabled = false; elements.searchButton.textContent = "Buscar ofertas"; }
+  } finally { elements.searchButton.disabled = false; elements.searchButton.classList.remove("is-loading"); elements.searchButton.removeAttribute("aria-busy"); elements.searchButton.textContent = "Buscar ofertas"; }
 }
 
 async function readCvText(file) {
@@ -168,11 +186,13 @@ function renderTargetRadar() {
 }
 
 Object.entries(profile).forEach(([name, value]) => { const input = elements.profileForm.elements.namedItem(name); if (input) input.value = value; });
-elements.profileToggle.addEventListener("click", () => { elements.profilePanel.hidden = false; });
-elements.profileClose.addEventListener("click", () => { elements.profilePanel.hidden = true; });
-elements.profileForm.addEventListener("submit", event => { event.preventDefault(); new FormData(elements.profileForm).forEach((value, name) => { profile[name] = value; }); localStorage.setItem(profileKey, JSON.stringify(profile)); renderProfileSnapshot(); elements.profilePanel.hidden = true; });
+elements.profileToggle.addEventListener("click", openProfilePanel);
+elements.profileClose.addEventListener("click", closeProfilePanel);
+elements.profileBackdrop.addEventListener("click", closeProfilePanel);
+window.addEventListener("keydown", event => { if (event.key === "Escape" && !elements.profilePanel.hidden) closeProfilePanel(); });
+elements.profileForm.addEventListener("submit", event => { event.preventDefault(); new FormData(elements.profileForm).forEach((value, name) => { profile[name] = value; }); localStorage.setItem(profileKey, JSON.stringify(profile)); renderProfileSnapshot(); closeProfilePanel(); });
 elements.searchButton.addEventListener("click", search);
-elements.experienceFilter.addEventListener("change", () => { if (elements.results.children.length) search(); });
+elements.experienceFilter.addEventListener("change", () => { if (latestSearch) render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery); });
 elements.targetFilter.addEventListener("change", () => { if (latestSearch) render(latestSearch.jobs, latestSearch.sources, latestSearch.errors, latestSearch.effectiveQuery); });
 elements.cvFile.addEventListener("change", importCv);
 renderSearchHistory();

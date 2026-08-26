@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import worker, { broadenAdzunaQuery, normaliseAcciona, normaliseAndDeduplicate, normaliseIberdrola, normaliseRepsol, normaliseSantander } from "../src/worker.js";
+import worker, { broadenAdzunaQuery, buildAdzunaQueries, normaliseAcciona, normaliseAndDeduplicate, normaliseIberdrola, normaliseRepsol, normaliseSantander } from "../src/worker.js";
 
 test("deduplica por URL y conserva solamente resultados de España", () => {
   const job = {
@@ -40,6 +40,11 @@ test("amplía consultas demasiado específicas hacia un término de mercado con 
   assert.equal(broadenAdzunaQuery("desarrollo de negocio internacional"), "desarrollo de negocio");
   assert.equal(broadenAdzunaQuery("relaciones institucionales"), "asuntos públicos");
   assert.equal(broadenAdzunaQuery("comercio exterior"), "comercio exterior");
+});
+
+test("limita las variantes de Adzuna y conserva la intención comercial", () => {
+  assert.deepEqual(buildAdzunaQueries("desarrollo de negocio internacional"), ["desarrollo de negocio", "business development"]);
+  assert.deepEqual(buildAdzunaQueries("asuntos públicos"), ["asuntos públicos", "relaciones institucionales"]);
 });
 
 test("normaliza vacantes oficiales de Iberdrola con enlace directo de candidatura", () => {

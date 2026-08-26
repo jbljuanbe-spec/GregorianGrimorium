@@ -1,3 +1,5 @@
+import { buildSearchPlan } from "./matching.js";
+
 const SOURCE_LIMIT = 50;
 const RESULT_LIMIT = 120;
 
@@ -61,7 +63,7 @@ export async function searchPublicSources({ query, sources, includeRemote }) {
   if (sources.includes("jobicy")) {
     const url = new URL("https://jobicy.com/api/v2/remote-jobs");
     url.searchParams.set("count", String(SOURCE_LIMIT));
-    if (query) url.searchParams.set("tag", query);
+    if (query) url.searchParams.set("tag", buildSearchPlan(query).primary);
     jobs.push(["Jobicy", () => fetchJson(url).then(payload => (payload.jobs || []).map(normaliseJobicy))]);
   }
   await Promise.all(jobs.map(async ([source, operation]) => {
