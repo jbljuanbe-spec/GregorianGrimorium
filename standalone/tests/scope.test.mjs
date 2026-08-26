@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { isWithinScope, marketsForScope, normaliseScope } from "../shared/scope.js";
+import { isWithinScope, marketsForScope, normaliseScope } from "../public/scope.js";
 
 test("separa España, Italia, EMEA y remoto global mediante ámbitos explícitos", () => {
   const madrid = { location: "Madrid, España", country: "Spain", remote: false };

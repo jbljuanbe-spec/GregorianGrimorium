@@ -1,7 +1,7 @@
 import { findTargetCompany } from "./targetCompanies.js";
 import { explainKeywordFit, locationAdjustment, requiredExperienceYears } from "./profileAnalysis.js";
 import { profileMatchEvidence, queryMatchEvidence } from "./matching.js";
-import { isWithinScope, normaliseScope } from "../shared/scope.js";
+import { isWithinScope, normaliseScope } from "./scope.js";
 
 const text = (value = "") => String(value).toLocaleLowerCase("es-ES");
 

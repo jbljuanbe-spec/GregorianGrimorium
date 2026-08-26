@@ -1,4 +1,4 @@
-import { isWithinScope, marketsForScope, normaliseScope, scopeLabel } from "../shared/scope.js";
+import { isWithinScope, marketsForScope, normaliseScope, scopeLabel } from "../public/scope.js";
 
 const SOURCE_LIMIT = 50;
 const RESULT_LIMIT = 120;

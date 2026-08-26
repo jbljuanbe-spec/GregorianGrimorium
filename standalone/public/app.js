@@ -2,7 +2,7 @@ import { normaliseAndDeduplicate, searchPublicSources } from "./sources.js";
 import { activeCorporateTargets, targetCompanies } from "./targetCompanies.js";
 import { extractProfileFromCvText } from "./profileAnalysis.js";
 import { filterByTargetCompany, rankAndFilterJobs } from "./ranking.js";
-import { defaultLocationForScope, normaliseScope, scopeLabel } from "../shared/scope.js";
+import { defaultLocationForScope, normaliseScope, scopeLabel } from "./scope.js";
 
 const defaults = {
   headline: "Desarrollo de Negocio Internacional · Comercio Exterior · Relaciones Institucionales",

@@ -1,5 +1,5 @@
 import { buildSearchPlan } from "./matching.js";
-import { isWithinScope, normaliseScope } from "../shared/scope.js";
+import { isWithinScope, normaliseScope } from "./scope.js";
 
 const SOURCE_LIMIT = 50;
 const RESULT_LIMIT = 120;
