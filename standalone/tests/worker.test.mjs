@@ -57,6 +57,25 @@ test("filtra las vacantes internacionales por el ámbito elegido", () => {
   assert.equal(result[0].location, "Milano");
 });
 
+test("conserva una respuesta Adzuna disponible cuando otro mercado EMEA no responde", async () => {
+  const originalFetch = globalThis.fetch;
+  let calls = 0;
+  globalThis.fetch = async url => {
+    calls += 1;
+    if (String(url).includes("/de/")) return new Response("limited", { status: 429 });
+    return new Response(JSON.stringify({ results: [{ id: "it-1", title: "Business Development", company: { display_name: "Empresa Italia" }, location: { display_name: "Milano", area: ["Italy"] }, redirect_url: "https://example.com/italy", description: "Business development" }] }), { headers: { "Content-Type": "application/json" } });
+  };
+  try {
+    const response = await worker.fetch(new Request("https://example.test/api/search?q=business%20development&scope=emea&sources=adzuna"), { ADZUNA_APP_ID: "id", ADZUNA_APP_KEY: "key", ASSETS: { fetch: () => new Response("not used") } });
+    const payload = await response.json();
+    assert.equal(calls, 2);
+    assert.equal(payload.results.length, 1);
+    assert.equal(payload.results[0].location, "Milano");
+  } finally {
+    globalThis.fetch = originalFetch;
+  }
+});
+
 test("normaliza vacantes oficiales de Iberdrola con enlace directo de candidatura", () => {
   const job = normaliseIberdrola({ title: "Business Development Manager", externalPath: "/job/Madrid/Business-Development_R-42", locationsText: "Spain, Madrid", bulletFields: ["R-42"] });
   assert.equal(job.company, "Iberdrola");

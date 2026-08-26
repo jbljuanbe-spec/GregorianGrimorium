@@ -230,8 +230,9 @@ export function broadenAdzunaQuery(query) {
 async function searchAdzuna(query, location, env, scope = "spain") {
   if (!env.ADZUNA_APP_ID || !env.ADZUNA_APP_KEY) return [];
   const queries = buildAdzunaQueries(query).slice(0, scope === "spain" || scope === "italy" ? 2 : 1);
-  const searches = marketsForScope(scope).flatMap(country => queries.map(term => ({ country, term })));
-  const responses = await Promise.all(searches.map(async ({ country, term }) => {
+  const markets = marketsForScope(scope).slice(0, scope === "emea" ? 2 : 1);
+  const searches = markets.flatMap(country => queries.map(term => ({ country, term })));
+  const responses = await Promise.allSettled(searches.map(async ({ country, term }) => {
     const url = new URL(`https://api.adzuna.com/v1/api/jobs/${country}/search/1`);
     url.searchParams.set("app_id", env.ADZUNA_APP_ID);
     url.searchParams.set("app_key", env.ADZUNA_APP_KEY);
@@ -242,7 +243,12 @@ async function searchAdzuna(query, location, env, scope = "spain") {
     const payload = await fetchJson(url.toString());
     return (payload.results || []).map(normaliseAdzuna);
   }));
-  return responses.flat();
+  const results = responses.filter(item => item.status === "fulfilled").flatMap(item => item.value);
+  if (!results.length && responses.some(item => item.status === "rejected")) {
+    const failure = responses.find(item => item.status === "rejected");
+    throw failure.reason;
+  }
+  return results;
 }
 
 async function fetchIberdrolaPage(query, offset) {
