@@ -74,3 +74,4 @@
 - [x] Incorporar ámbitos explícitos de búsqueda para España, Italia, EMEA y remoto global sin mezclar mercados silenciosamente.
 - [x] Hacer resiliente la búsqueda EMEA para conservar resultados de los mercados disponibles ante límites o fallos parciales.
 - [x] Verificar en la URL pública, mediante interacción real, que Italia y EMEA aplican el selector, recuperan resultados y no generan errores JavaScript.
+- [x] Definir una estrategia de candidaturas para Juan que priorice trayectoria internacional, calidad de vida, autonomía y sostenibilidad personal.
