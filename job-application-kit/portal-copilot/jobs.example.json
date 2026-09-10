@@ -1,0 +1,14 @@
+[
+  {
+    "empresa": "Repsol",
+    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/PON-A-LA-REQ-CONCRETA",
+    "cv": "../cv/en/CV_JuanBenitez_RegulatoryAffairs_EN.pdf",
+    "carta": "../seguimiento/paquetes/repsol-euaffairs/carta-EN.md"
+  },
+  {
+    "empresa": "Iberdrola",
+    "url": "https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola/job/PON-A-LA-REQ-CONCRETA",
+    "cv": "../cv/es/CV_JuanBenitez_1_DesarrolloNegocio.pdf",
+    "carta": "../seguimiento/paquetes/iberdrola-desarrollonegocio/carta-ES.md"
+  }
+]
