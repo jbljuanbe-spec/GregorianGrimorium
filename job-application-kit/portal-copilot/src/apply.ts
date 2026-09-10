@@ -19,6 +19,16 @@ import { readFileSync } from "node:fs";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import * as wd from "./workday.js";
+import * as gh from "./greenhouse.js";
+
+type PortalKind = "workday" | "greenhouse" | "unknown";
+
+function detectPortal(url: string): PortalKind {
+  const h = url.toLowerCase();
+  if (h.includes("myworkdayjobs.com") || h.includes(".wd") ) return "workday";
+  if (h.includes("greenhouse.io")) return "greenhouse";
+  return "unknown";
+}
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
@@ -61,36 +71,42 @@ async function applyToJob(context: BrowserContext, job: Job, profile: wd.Profile
   await page.goto(job.url, { waitUntil: "domcontentloaded" });
   await page.waitForTimeout(2000);
 
-  // 1) Iniciar candidatura.
-  await wd.startApplication(page);
+  const portal = detectPortal(job.url);
+  console.log(`Portal detectado: ${portal}`);
 
-  // 2) Si el tenant pide login/crear cuenta, lo resuelve el humano (sesión persistente).
-  await pause("Si el portal pide iniciar sesión o crear cuenta, hazlo ahora en la ventana del navegador.");
+  let submit: Awaited<ReturnType<typeof wd.findSubmitButton>> = null;
 
-  // 3) Subir CV (Workday suele ofrecerlo al principio o en 'My Experience').
-  await wd.uploadCv(page, cvAbs);
+  if (portal === "greenhouse") {
+    await gh.startApplication(page);
+    await pause("Si el portal pide iniciar sesión, hazlo ahora en la ventana del navegador.");
+    await gh.fillBasics(page, profile);
+    await gh.uploadCv(page, cvAbs);
+    submit = await gh.findSubmitButton(page);
+  } else {
+    // Workday (por defecto para tenants *.myworkdayjobs.com / *.wd*).
+    await wd.startApplication(page);
+    await pause("Si el portal pide iniciar sesión o crear cuenta, hazlo ahora en la ventana del navegador.");
+    await wd.uploadCv(page, cvAbs);
+    for (let step = 0; step < 8; step++) {
+      await wd.fillMyInformation(page, profile);
+      await wd.answerScreening(page, profile);
+      await wd.uploadCv(page, cvAbs); // por si el input aparece en un paso posterior
 
-  // 4) Recorrer los pasos rellenando lo que se reconoce, hasta llegar al envío.
-  for (let step = 0; step < 8; step++) {
-    await wd.fillMyInformation(page, profile);
-    await wd.answerScreening(page, profile);
-    await wd.uploadCv(page, cvAbs); // por si el input aparece en un paso posterior
-
-    const submit = await wd.findSubmitButton(page);
-    if (submit) {
-      console.log("\n✅ Formulario en el paso final (botón Submit detectado).");
-      break;
+      submit = await wd.findSubmitButton(page);
+      if (submit) {
+        console.log("\n✅ Formulario en el paso final (botón Submit detectado).");
+        break;
+      }
+      const advanced = await wd.goNext(page);
+      if (!advanced) {
+        console.log("\nℹ️  No encuentro botón 'Next' ni 'Submit'. Probablemente falta algún campo obligatorio.");
+        break;
+      }
+      await page.waitForTimeout(1200);
     }
-    const advanced = await wd.goNext(page);
-    if (!advanced) {
-      console.log("\nℹ️  No encuentro botón 'Next' ni 'Submit'. Probablemente falta algún campo obligatorio.");
-      break;
-    }
-    await page.waitForTimeout(1200);
   }
 
-  // 5) Envío.
-  const submit = await wd.findSubmitButton(page);
+  // Envío.
   if (autoSubmit && submit) {
     console.log("⚠️  --submit activo: enviando automáticamente…");
     await submit.click();
