@@ -41,9 +41,24 @@ instalar algo:
 | Extensión propia | Sí | Instalar extensión (Chrome del trabajo suele bloquearlas). |
 | Co-piloto Playwright (`../portal-copilot`) en **PC de casa o VM tuya** | Semi, por lotes | Instalar Node en esa máquina (no en la del trabajo). |
 
-**Recomendación:** usa el **bookmarklet** en el portátil bloqueado. Si tienes un **PC de casa**,
-ahí sí puedes usar el co-piloto Playwright (rellena varios pasos y encadena una cola). Si quieres
-"auto al cargar" y puedes instalar Tampermonkey, dímelo y te dejo el script listo para pegarlo.
+**Recomendación:** si puedes instalar **extensiones** de Chrome (aunque no puedas instalar
+software en el PC), usa la opción Tampermonkey de abajo — te da "siempre activo". Si ni eso, el
+**bookmarklet** funciona sin nada.
+
+## Siempre activo con Tampermonkey (extensión, sin descargar ficheros)
+
+Fichero: **`tampermonkey-autofill.user.js`**.
+
+1. Instala **Tampermonkey** desde la Chrome Web Store (es una extensión normal).
+2. Icono de Tampermonkey → **Crear un nuevo script**.
+3. Borra la plantilla, **pega todo** el contenido de `tampermonkey-autofill.user.js`, guarda
+   (Ctrl/Cmd+S).
+4. Abre cualquier oferta de Workday/Greenhouse: aparece abajo a la derecha el botón **⚡ Rellenar**.
+   Marca la casilla **auto** si quieres que rellene solo al cargar cada página.
+
+Ventaja sobre el bookmarklet: se inyecta **en cada página automáticamente**, así que en los
+formularios de varios pasos de Workday tienes el botón siempre a mano (o el modo auto). Sigue sin
+subir el CV ni resolver CAPTCHA: eso lo haces tú.
 
 ## Editar tus datos
 
