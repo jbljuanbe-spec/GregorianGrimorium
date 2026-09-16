@@ -12,7 +12,7 @@ import {
   removeChant,
   rename,
   type Repertoire,
-} from "@/lib/repertoire";
+} from "@/lib/repertoire.mjs";
 import {
   getActiveKey,
   newKey,

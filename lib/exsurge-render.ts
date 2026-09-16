@@ -38,16 +38,31 @@ interface ExsurgeScore {
 
 let loader: Promise<void> | null = null;
 
+const SRC = "/vendor/exsurge.js";
+
 export function loadExsurge(): Promise<void> {
   if (window.exsurge) return Promise.resolve();
   if (loader) return loader;
+
   loader = new Promise<void>((resolve, reject) => {
+    const fail = () => reject(new Error("No se pudo cargar el motor de partituras."));
+
+    // El documento ya trae el script en diferido; se espera a ese en vez de
+    // pedir una segunda copia.
+    const existing = document.querySelector<HTMLScriptElement>(`script[src="${SRC}"]`);
+    if (existing) {
+      existing.addEventListener("load", () => resolve(), { once: true });
+      existing.addEventListener("error", fail, { once: true });
+      return;
+    }
+
     const script = document.createElement("script");
-    script.src = "/vendor/exsurge.js";
-    script.onload = () => resolve();
-    script.onerror = () => reject(new Error("No se pudo cargar el motor de partituras."));
+    script.src = SRC;
+    script.addEventListener("load", () => resolve(), { once: true });
+    script.addEventListener("error", fail, { once: true });
     document.head.appendChild(script);
   });
+
   return loader;
 }
 

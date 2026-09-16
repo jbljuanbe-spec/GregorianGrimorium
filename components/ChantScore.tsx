@@ -1,39 +1,45 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
-import { absolutePitches, clampDo, DO_RANGE, midiToFrequency, midiToName, suggestDo } from "@/lib/pitch.mjs";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import ChantPlayer from "@/components/ChantPlayer";
+import { gabcForRendering } from "@/lib/gabc.mjs";
+import { readPerformance } from "@/lib/performance.mjs";
+import { absolutePitches, clampDo, DO_RANGE, midiToName, suggestDo } from "@/lib/pitch.mjs";
 import { loadExsurge, renderScore } from "@/lib/exsurge-render";
 
 const ZOOM_STEPS = [1, 1.25, 1.6, 2];
-/** El canto es de ritmo libre; se toca a pulso regular, sin inventar duraciones. */
-const NOTE_SECONDS = 0.42;
 
 export default function ChantScore({ gabc, filename }: { gabc: string; filename: string }) {
   const sheet = useRef<HTMLDivElement>(null);
   const surface = useRef<HTMLDivElement>(null);
-  const audio = useRef<AudioContext | null>(null);
-  const voice = useRef<{ oscillator: OscillatorNode; gain: GainNode } | null>(null);
-  const timer = useRef<number | null>(null);
 
   const [zoom, setZoom] = useState(1);
   const [rehearsing, setRehearsing] = useState(false);
-  const [playing, setPlaying] = useState(false);
-  const [semitones, setSemitones] = useState<number[] | null>(null);
   const [doMidi, setDoMidi] = useState<number | null>(null);
   const [error, setError] = useState<string | null>(null);
+
+  // Alturas y duraciones salen de la notación, no del dibujo: Exsurge no
+  // aplica las alteraciones sueltas ni expone duraciones. Ver
+  // lib/performance.mjs y docs/PITCH.md.
+  const performance = useMemo(() => readPerformance(gabcForRendering(gabc)), [gabc]);
+  const semitones = useMemo(
+    () => performance.events.flatMap((event) => (event.kind === "note" ? [event.semitones] : [])),
+    [performance],
+  );
+
+  useEffect(() => {
+    // Cada pieza abre en el tono que la deja centrada en una tesitura coral
+    // cómoda; desde ahí se sube o se baja.
+    setDoMidi((current) => current ?? suggestDo(semitones));
+  }, [semitones]);
 
   useEffect(() => {
     let cancelled = false;
     const target = surface.current;
     if (!target) return;
 
-    const draw = async () => {
-      const read = await renderScore({ gabc, target, zoom });
-      if (cancelled) return;
-      setSemitones(read);
-      // Cada pieza abre en el tono que la deja centrada en una tesitura coral
-      // cómoda; desde ahí se sube o se baja.
-      setDoMidi((current) => current ?? suggestDo(read));
+    const draw = () => {
+      void renderScore({ gabc, target, zoom });
     };
 
     loadExsurge()
@@ -55,79 +61,17 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
     return () => document.removeEventListener("fullscreenchange", sync);
   }, []);
 
-  const stop = useCallback(() => {
-    if (timer.current !== null) window.clearTimeout(timer.current);
-    timer.current = null;
-    if (voice.current) {
-      const { oscillator, gain } = voice.current;
-      const now = audio.current?.currentTime ?? 0;
-      gain.gain.cancelScheduledValues(now);
-      gain.gain.setValueAtTime(gain.gain.value, now);
-      gain.gain.linearRampToValueAtTime(0, now + 0.05);
-      oscillator.stop(now + 0.08);
-      voice.current = null;
-    }
-    setPlaying(false);
-  }, []);
-
-  useEffect(() => stop, [stop]);
-
-  const pitches = semitones && doMidi !== null ? absolutePitches(semitones, doMidi) : null;
-
-  /**
-   * Toca la melodía en el tono elegido. Una sola voz que va cambiando de
-   * altura: el canto es monódico y ligado, así que suena más fiel que una
-   * nota suelta por neuma.
-   */
-  const play = useCallback(
-    (notes: number[]) => {
-      if (!notes.length) return;
-      stop();
-
-      audio.current ??= new AudioContext();
-      const context = audio.current;
-      void context.resume();
-
-      const oscillator = context.createOscillator();
-      const gain = context.createGain();
-      oscillator.type = "triangle";
-
-      const start = context.currentTime + 0.05;
-      const total = notes.length * NOTE_SECONDS;
-
-      notes.forEach((midi, position) => {
-        const at = start + position * NOTE_SECONDS;
-        oscillator.frequency.setValueAtTime(midiToFrequency(midi), at);
-        // Pequeña articulación entre notas, para que no sea un glissando.
-        gain.gain.setValueAtTime(0.0001, at);
-        gain.gain.linearRampToValueAtTime(0.2, at + 0.03);
-        gain.gain.setValueAtTime(0.2, at + NOTE_SECONDS - 0.06);
-        gain.gain.linearRampToValueAtTime(0.04, at + NOTE_SECONDS - 0.01);
-      });
-
-      gain.gain.linearRampToValueAtTime(0, start + total + 0.1);
-      oscillator.connect(gain).connect(context.destination);
-      oscillator.start(start);
-      oscillator.stop(start + total + 0.2);
-
-      voice.current = { oscillator, gain };
-      setPlaying(true);
-      timer.current = window.setTimeout(() => {
-        voice.current = null;
-        setPlaying(false);
-      }, (total + 0.3) * 1000);
+  const download = useCallback(
+    (data: BlobPart, type: string, extension: string) => {
+      const url = URL.createObjectURL(new Blob([data], { type }));
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = `${filename}.${extension}`;
+      link.click();
+      URL.revokeObjectURL(url);
     },
-    [stop],
+    [filename],
   );
-
-  const download = useCallback((data: BlobPart, type: string, extension: string) => {
-    const url = URL.createObjectURL(new Blob([data], { type }));
-    const link = document.createElement("a");
-    link.href = url;
-    link.download = `${filename}.${extension}`;
-    link.click();
-    URL.revokeObjectURL(url);
-  }, [filename]);
 
   const svgMarkup = useCallback(() => {
     const svg = surface.current?.querySelector("svg");
@@ -188,22 +132,12 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
   }, []);
 
   const shiftDo = (step: number) => setDoMidi((current) => clampDo((current ?? 0) + step));
+  const pitches = doMidi !== null ? absolutePitches(semitones, doMidi) : null;
 
   return (
     <div className="sheet" ref={sheet}>
       <div className="sheet-bar">
         <span className="rubric">Partitura</span>
-
-        {pitches ? (
-          <button
-            type="button"
-            className="button"
-            onClick={() => (playing ? stop() : play(semitones!.map((s) => doMidi! + s)))}
-          >
-            {playing ? "Detener" : "Escuchar"}
-          </button>
-        ) : null}
-
         <button type="button" className="button" onClick={() => setZoom(nextZoom(zoom))}>
           Zoom ×{zoom}
         </button>
@@ -212,7 +146,12 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
         </button>
       </div>
 
-      <div className="score-surface" ref={surface} role="img" aria-label="Notación cuadrada del canto" />
+      <div
+        className="score-surface"
+        ref={surface}
+        role="img"
+        aria-label="Notación cuadrada del canto"
+      />
 
       {pitches && doMidi !== null ? (
         <div className="pitch">
@@ -237,9 +176,6 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
             >
               +
             </button>
-            <button type="button" className="button" onClick={() => play([pitches.first])}>
-              Dar el tono
-            </button>
           </div>
 
           <Ambitus lowest={pitches.lowest} highest={pitches.highest} first={pitches.first} />
@@ -249,13 +185,19 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
             suena el do. Entra en <strong>{midiToName(pitches.first)}</strong> y abarca{" "}
             {semitoneLabel(pitches.ambitus)}.
           </p>
+
+          <ChantPlayer events={performance.events} doMidi={doMidi} />
         </div>
       ) : null}
 
       <div className="pitch">
         <div className="pitch-row">
           <span className="rubric">Descargar</span>
-          <button type="button" className="button" onClick={() => download(gabc, "text/plain;charset=utf-8", "gabc")}>
+          <button
+            type="button"
+            className="button"
+            onClick={() => download(gabc, "text/plain;charset=utf-8", "gabc")}
+          >
             gabc
           </button>
           <button

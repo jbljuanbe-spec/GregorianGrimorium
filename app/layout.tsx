@@ -44,6 +44,14 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es" className={`${display.variable} ${chant.variable}`}>
+      <head>
+        {/* El motor de partituras se descarga en paralelo con la página, así
+            que cuando el componente lo pide ya está en caché: eso recorta la
+            espera en blanco sobre el pentagrama. Se precarga y no se ejecuta
+            en diferido a propósito, para no retrasar la interactividad del
+            buscador con 130 KB que solo necesita la ficha. */}
+        <link rel="preload" href="/vendor/exsurge.js" as="script" />
+      </head>
       <body>
         <a href="#contenido" className="skip-link">
           Ir al contenido

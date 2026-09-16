@@ -59,3 +59,43 @@ el esperado.
 
 Las alteraciones se nombran con bemoles (`La♭`, no `Sol♯`): es la grafía
 idiomática del repertorio, cuya única alteración escrita es el si bemol.
+
+## Duración: por qué no vale un pulso plano
+
+La primera versión del reproductor daba a todas las notas la misma duración.
+Suena a metrónomo y no sirve para ensayar, porque la notación gregoriana sí
+escribe duración, solo que no con figuras:
+
+| Signo en gabc | Qué es | Duración |
+| --- | --- | --- |
+| letra minúscula | punctum | la unidad |
+| `.` | punctum mora | el doble |
+| `_` | episema horizontal | sostenida, sin llegar al doble |
+| letra MAYÚSCULA | punctum inclinatum, el rombo | más ligera |
+| `~` | licuescente, la nota pequeña | abreviada |
+| `w` | quilisma | ligera, **y alarga la nota anterior** |
+| `'` | episema vertical | marca el apoyo, no la duración |
+| `,` `;` `:` `::` | barras | respiraciones de longitud creciente |
+
+Las barras no son compases: son pausas, y de distinta medida. Sin ellas la
+pieza no respira, que es justo lo que hacía inservible el ensayo.
+
+Un alargamiento escrito manda sobre la forma breve: un rombo con mora dura lo
+que dice la mora.
+
+Todo esto vive en `lib/performance.mjs`, con 20 tests, y es también de donde
+sale la tesitura que muestra la ficha.
+
+## Las alteraciones que faltaban
+
+Exsurge aplica el bemol de la clave (`cb3`) pero **no** las alteraciones
+sueltas de mitad de pieza (`gx` = ese grado bemol hasta el fin de la palabra,
+según el uso de Solesmes). Como el reproductor leía las alturas de Exsurge,
+sonaba medio tono alto en esos pasajes —y son muchos: **2.031 de los 3.051
+cantos** del corpus llevan alguna.
+
+Por eso las alturas se calculan aquí, con la misma aritmética de clave y
+posición que usa Exsurge. Eso se comprobó midiendo: sobre 200 cantos del
+corpus, las alturas coinciden exactamente con las de Exsurge en los 92 que no
+llevan alteraciones, y difieren en ±1 semitono solo en los 108 que sí —que es
+precisamente el fallo corregido. Ninguna discrepancia de otro tipo.

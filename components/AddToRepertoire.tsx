@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { addChant, createRepertoire, type Repertoire } from "@/lib/repertoire";
+import { addChant, createRepertoire, type Repertoire } from "@/lib/repertoire.mjs";
 import {
   getActiveKey,
   newKey,

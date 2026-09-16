@@ -1,4 +1,4 @@
-import type { Repertoire } from "@/lib/repertoire";
+import type { Repertoire } from "@/lib/repertoire.mjs";
 
 export function readAll(): Record<string, Repertoire>;
 export function saveRepertoire(key: string, repertoire: Repertoire): void;

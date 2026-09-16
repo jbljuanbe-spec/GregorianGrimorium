@@ -602,12 +602,54 @@ main {
 
 .score-surface {
   overflow-x: auto;
+  /* Se reserva el alto habitual de una pieza para que al dibujarse no empuje
+     el resto de la página hacia abajo. */
+  min-height: 19rem;
+}
+
+/* Mientras no hay partitura se dibuja el tetragrama vacío: cuatro líneas, que
+   es lo propio del canto (no cinco). Así la página nunca está en blanco y lo
+   que aparece encaja donde ya estaba. */
+.score-surface:empty {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0 1.55rem,
+    var(--sheet-line) 1.55rem calc(1.55rem + 1px)
+  );
+  background-size: 100% 6.2rem;
+  background-repeat: repeat-y;
+  opacity: 0.5;
+}
+
+.score-surface svg {
+  animation: score-in 220ms ease-out;
+}
+
+@keyframes score-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .score-surface svg {
+    animation: none;
+  }
 }
 
 .score-surface svg {
   display: block;
   height: auto;
   max-width: none;
+}
+
+/* Dibujada ya: fuera el alto reservado y el pentagrama de espera. */
+.score-surface:has(svg) {
+  min-height: 0;
+  background-image: none;
 }
 
 /* Modo ensayo: la hoja ocupa la pantalla, sin nada alrededor. */
@@ -1010,5 +1052,47 @@ main {
 
   a {
     text-decoration: none;
+  }
+}
+
+/* Reproductor: la pieza suena con las duraciones que escribe la notación, y
+   se puede parar y seguir por el mismo sitio. */
+
+.player {
+  margin-top: 0.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--sheet-line);
+}
+
+.player-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.player-count {
+  font-size: 0.75rem;
+  color: rgba(20, 23, 25, 0.6);
+  font-variant-numeric: tabular-nums;
+  margin-left: auto;
+}
+
+.player-track {
+  height: 3px;
+  margin-top: 0.6rem;
+  border-radius: 2px;
+  background: rgba(20, 23, 25, 0.1);
+  overflow: hidden;
+}
+
+.player-fill {
+  height: 100%;
+  background: var(--rubric);
+}
+
+@media print {
+  .player {
+    display: none !important;
   }
 }
