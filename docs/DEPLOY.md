@@ -8,11 +8,17 @@ el coste tiende a cero.
 
 El repositorio ya trae todo lo necesario:
 
-- `vercel.json`: framework, comando de compilación y cabeceras (caché
-  inmutable para el motor de partituras, caché revalidable para el índice de
-  búsqueda, y cabeceras de seguridad básicas).
+- `vercel.json`: framework, comando de compilación y cabeceras de caché y
+  seguridad.
 - `pnpm run prebuild` genera el bundle de Exsurge y el índice antes de
   compilar, así que Vercel no necesita pasos extra.
+
+Sobre la caché: `/vendor/exsurge.js` y `/search-index.json` se regeneran en
+cada compilación **con el mismo nombre**, así que no pueden marcarse
+`immutable` —un visitante que ya estuvo se quedaría con la copia vieja para
+siempre y no vería los cambios—. Se cachean en el CDN (`s-maxage`), que
+Vercel purga al desplegar, y el navegador revalida con una petición
+condicional, que es barata.
 
 Pasos, una sola vez:
 
@@ -36,6 +42,23 @@ pnpm run build   # exportación completa
 ```
 
 CI ejecuta las cuatro cosas en cada push.
+
+## Si un cambio no aparece en producción
+
+Por orden de probabilidad:
+
+1. **No está en `main`.** Vercel publica la rama de producción, no las ramas
+   de trabajo ni las ramas de una PR abierta: mientras la PR no se fusione,
+   lo que hay en producción es lo anterior. Se comprueba con
+   `git log --oneline origin/main` tras un `git fetch origin main`, y si la
+   duda es sobre un archivo concreto,
+   `git ls-tree origin/main --name-only <ruta>`.
+2. **La compilación falló.** Cuando falla, Vercel mantiene el último
+   despliegue correcto, así que el sitio sigue en pie con la versión vieja.
+   Se ve en el registro del despliegue.
+3. **Caché del navegador.** Solo afecta a los artefactos de nombre fijo
+   (`/vendor/`, `/search-index.json`); los paquetes de Next llevan hash en el
+   nombre. Recarga forzada para descartarlo.
 
 ## Dominio y SEO
 
