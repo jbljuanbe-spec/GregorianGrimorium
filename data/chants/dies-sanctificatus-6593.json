@@ -1,0 +1,31 @@
+{
+  "id": "dies-sanctificatus-6593",
+  "incipit": "Dies sanctificatus",
+  "title": "Dies sanctificatus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Dies sanctificátus illúxit nobis: veníte Gentes, et adoráte Dóminum: quia hódie descéndit lux magna super terram.",
+  "gabc": "(f3) Al(ef~)le(f)lú(hi~)ia.(i) (::) (hhig/hf) (;3) (h!iji) (;) (ef/hfh//ghe) (;3) (hhf//ghf) <sp>V/</sp>.(::) Di(fef//hi//jiihi)es(i) (;6) (hhv/fgf) (;3) san(fg)cti(f)fi(fe)cá(fg)tus(f) (;) il(fe)lú(fg)xit(f) no(fhhv//ijHF;ivHGEf/hf//hhf/ge)bis:(e) (:) ve(ffe//ffe/fc;ef//hhvFE//hh)ní(hi)te(h) Gen(hi)tes,(h) (;) et(h) a(h)do(h)rá(h)te(ivHGh) Dó(f)mi(fgf)num:(f) (:) qui(f)a(f) hó(f!hi)di(jiihi)e(i) (;6) (hhv/fgf) (;) de(f)scén(fg)dit(f) lux(f) ma(fhhv//ijHF;ivHGE/f//hf//hhf/ge)gna(e) (::) su(hhv)per(hi) ter(ih//ijij)ram.(jvIHGE) (;4) (fg/hggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "33"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6593",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

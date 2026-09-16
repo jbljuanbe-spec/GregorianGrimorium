@@ -1,0 +1,31 @@
+{
+  "id": "justi-confitebuntur-893",
+  "incipit": "Justi confitebuntur",
+  "title": "Justi confitebuntur",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Justi confitebúntur nómini tuo, Dómine: et habitábunt recti cum vultu * tuo.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh)ia.(ixhiHG'gf.) *(,) (ixhiHG'ge./ghGF'Ef_gffe.) <sp>V/</sp>.(::) Ju(ixdh'!iv)sti(h) con(h)fi(h)te(h)bún(h_g/hvGE'f)tur(ixg/hihhg.) (;) nó(h)mi(ghg)ni(g) tu(gvFD'f)o,(f) Dó(e)mi(egff)ne:(eef.) (:) et(d) ha(d)bi(dc)tá(f)bunt(ghg) re(ixhiG'Eg./hiF'D//fffdgvFE.,df/h_f/g_efv.df!gvFE'f)cti(fe..) (;) cum(d/ff) vul(ef/ghg)tu(f) *() tu(fd/ef!g'h)o.(ixhiHG'gf.) (,) (ixhiHG'ge./ghGF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "122**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "893",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

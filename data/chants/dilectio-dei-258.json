@@ -1,0 +1,37 @@
+{
+  "id": "dilectio-dei-258",
+  "incipit": "Dilectio Dei",
+  "title": "Dilectio Dei",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Diléctio Dei * honorábilis sapiéntia: quibus autem apparúerit in visu, díligunt eam in visióne, et in agnitióne magnálium suórum. Ps. Quam dilécta tabernácula tua, Dómine virtútum! * concupíscit, et déficit ánima mea in átria Dómini. Glória Patri E u o u a e",
+  "gabc": "(c3) DI(e)lé(ehgh)cti(f)o(d) De(ef)i(e.) *(,) ho(e)no(fde)rá(ef/hg)bi(h)lis(h) sa(h)pi(h)én(hhh)ti(fe)a:(efeed.) (:) qui(f)bus(d) au(ef~)tem(f) (,) ap(f)pa(fde)rú(ehh)e(f)rit(fdf) in(f) vi(fgFE'f)su,(fe..) (;) dí(ef)li(e)gunt(ef/hg) e(gi/jhhf)am(h_g) in(h) vi(i)si(h)ó(g.f!gwh)ne,(f.) (,) et(f) in(f) a(f)gni(fe)ti(f)ó(fgFE'f)ne(fe..) (;) ma(e!f'g)gná(g)li(f)um(fgE'C) su(c!e'f)ó(fgFE'f)rum.(fe..) <i>Ps.</i>(::) Quam(e) di(fe)lé(eh)cta(h) ta(h)ber(h)ná(h)cu(h)la(h) tu(h)a,(h) Dó(h)mi(hg)ne(hi) vir(i)tú(hi)tum!(h.) *(:) con(hf~)cu(fh)pí(h)scit,(h) et(h) dé(h)fi(h)cit(h) á(h)ni(h)ma(h) me(h)a(h.) (,) in(h) á(hhg)tri(ef)a(hg) Dó(f)mi(f)ni.(e.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h) u(hhg) o(ef) u(hg) a(f) e(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "603"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1645"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "258",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

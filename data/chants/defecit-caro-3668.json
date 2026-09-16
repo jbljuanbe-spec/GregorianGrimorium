@@ -1,0 +1,31 @@
+{
+  "id": "defecit-caro-3668",
+  "incipit": "Defecit caro",
+  "title": "Defecit caro",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Defécit caro mea, et cor meum: Deus cordis mei, et pars mea Deus * in aetérnum.",
+  "gabc": "(c4) AL(g)LE(g)LÚ(hiHG/h!iwj)IA.(i) *(,) <i>ij.</i>(jkJI/jkJI/hihhg) (;) (gh!iwjji//jkJI/jkJI/hihhg) (,) (gh!iw!jvIHG/gf//ghg/hgge) <sp>V/</sp>.(::) De(g)fé(hiHG/h!iwj)cit(i) ca(hj)ro(jji) me(hg)a,(h) et(h) cor(hi) me(hg)um:(g) (:) De(i!jk)us(ji) cor(hjji)dis(hg) me(hjh)i,(iji) (;) et(g) pars(i!jk) me(jji)a(hih) De(ghg)us(g) *(;) in(g) ae(g)tér(hiHG/h!iwj)num.(i) (,) (jkJI/jkJI/hihhg) (;) (gh!iwjji//jkJI/jkJI/hihhg) (,) (gh!iw!jvIHG/gf//ghg/hgge) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "445"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3668",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

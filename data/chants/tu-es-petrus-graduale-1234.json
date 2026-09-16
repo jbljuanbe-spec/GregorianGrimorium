@@ -1,0 +1,37 @@
+{
+  "id": "tu-es-petrus-graduale-1234",
+  "incipit": "Tu es Petrus (Graduale)",
+  "title": "Tu es Petrus (Graduale)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tu es * Petrus, et super hanc petram aedificábo Ecclésiam meam: et portae ínferi non praevalébunt advérsus eam: et tibi dabo claves regni caelórum.",
+  "gabc": "(c4) TU(fffvDC'dff/hgh) es(fgf.) *(,) Pe(f!g'h)trus,(ixhf/hig/ff/ded.) (:) et(d) su(dgfg)per(d) hanc(dgf/efd/evDC'd) pe(dv./c!d'f/ef!hvGE'/fd)tram(d.) (;) ae(e)di(c)fi(d)cá(ixdf'!hv//j_h/ivGE/f_g)bo(f.) (,) Ec(de)clé(gh)si(hggvE'DC'd)am(d.) (,) me(c!d'f/ef'!gvE'D/fv./efd)am:(dfddc.) (:) et(ev./dec) por(c!d'f/ef/gfh./ghF'ED'/dc//d!ewfd)tae(d.) (,) ín(de)fe(cd)ri(d/ffd/ffdd'dgffd/ec.) (;) non(d) prae(cd)va(d)lé(d!ewfd)bunt(d.) (,) ad(de)vér(c)sus(df) e(efE'D/gvvFD'/ec)am:(c.) (:) et(d) ti(c)bi(df) da(efE'D)bo(cd) cla(d!ewfd)ves(d.) (;) re(de)gni(c) cae(df)ló(efE'D/gvvFD'/ec. , fh//ghF'E//g_d/fv.efDC. , e/ghE'D/fvED'/dc//e/ghE'D/fe)rum.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "411"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1333"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1234",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

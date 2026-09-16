@@ -1,0 +1,31 @@
+{
+  "id": "dominus-in-sina-1399",
+  "incipit": "Dominus in Sina",
+  "title": "Dominus in Sina",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Dóminus in Sina in sancto, ascéndens in altum, captívam duxit * captivitátem.",
+  "gabc": "(c3) AL(d!ef)LE(fe/f!gwhg)LÚ(fhhh)IA.(hiHFfe) *(;) (gh//efED//f!gwhhg ehf/gffe) <sp>V/</sp>.(::) Dó(hv///gih)mi(h)nus(h) in(h) Si(h)na(hg) (,) in(g) san(gh!ivvHF/hf/gh)cto,(g) (;) a(gf)scén(hji)dens(h) in(gh) al(fe/hvvGE//gxfgFD//egFE/fe)tum,(e) (:) cap(e)tí(feh)vam(h) du(hfhGE//fhFD//gxgvFEf/hhh/ijHF , gig/ivHG/he//gxfe/ge//gvFE/fd)xit(d) *(;) cap(fd)ti(ef)vi(f)tá(hg/hfh)tem.(ghFE) (,) (df!hvFE//df!gwhg/hvGFg egf/gvED/efe) (,) (gxhhvFE/fgED//gyhhvFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "243"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1399",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

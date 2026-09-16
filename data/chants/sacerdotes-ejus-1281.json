@@ -1,0 +1,37 @@
+{
+  "id": "sacerdotes-ejus-1281",
+  "incipit": "Sacerdotes ejus",
+  "title": "Sacerdotes ejus",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Sacerdótes * ejus índuam salúte, et sancti ejus exsultántes exsultábunt. ℣. Illic David susitábo cornu, parábo lucérnam uncto meo. ℣. Inimícos ejus índuam confusióne, super ipsum autem fulgébit * diadéma meum.",
+  "gabc": "(c4) SA(g)cer(g)dó(g/hih)tes(g/hhg.) *(,) e(gjjk)jus(hvGF'ghhg.) (;) ín(gj)du(j)am(j') sa(j)lú(ik/ljjh')te,(jhhg/hg/jjh'/jggf.) (:) et(g) sanc(hi~)ti(gh/jij) e(j.h!iwj)jus(jjjvIHivHGhg..) (;) ex(g')sul(g)tán(h_g/h!iwj)tes(ghf') ex(f!h'j)sul(j)tá(jijHG.ixjjvH'GhiGF. ,iyh./jh/ig)bunt.(g/hhg.) <sp>V/</sp>.(::) Il(g!hwi'!jv)lic(j) Da(ij)vid(j.) (,) su(j)si(j)tá(j')bo(j) cor(j_kJGh_g/h!iw!jvIHijh)nu,(hg..) (:) pa(g)rá(gh)bo(g') lu(g)cér(h_g/h!iwj)nam(ghf') unc(f!h'j)to(j) me(jkjjg , jv.kli/jki'/jhhg./ixhiGF. ,iyh./jh/ig)o.(g/hhg.) <sp>V/</sp>.(::) I(g)ni(g)mí(g!h'j)cos(jjjvIH') e(jhhg)jus(g_h) (,) ín(de)du(d)am(d') con(d)fu(d)si(df)ó(fv.d!fffdg.ixfg/ih/ivHG'h)ne,(hg..) (:) su(g)per(g) i(hi~)psum(gh/jij) au(j.h!iwj)tem(jjjvIHivHGhg..) (;) ful(g)gé(h_g/h!iwj)bit(ghf) *() di(f)a(f)dé(f!h'j)ma(j) me(jijHGg'g/hggfg.,jjjkvJ'IH'hg)um.(ghGF.) (,) (h!iwjijjh'/ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "592D"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1623C"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1281",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "circuibo-1714",
+  "incipit": "Circuibo",
+  "title": "Circuibo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Circuíbo, * et immolábo in tabernáculo ejus hóstiam jubilatiónis: cantábo, et psalmum dicam Dómino.",
+  "gabc": "(c2) CIR(f)CU(fc)Í(exegf)BO,(f) *(,) et(f) im(h)mo(f)lá(g)bo(f) (,) in(fc~) ta(f)ber(gi~)ná(i)cu(iii)lo(g) e(gih/ivHG)jus(hg) (;) hós(h!iwj!kv)ti(j)am(j) ju(j)bi(jh)la(ij)ti(h)ó(fgf)nis:(f) (:) can(df~)tá(fef)bo,(d) (,) et(dc~) psal(fgf)mum(fe~) di(giih/ivHG/hg/hff)cam(f) Dó(f)mi(fgf)no.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "286"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1714",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

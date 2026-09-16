@@ -1,0 +1,31 @@
+{
+  "id": "corpora-sanctorum-3705",
+  "incipit": "Corpora Sanctorum",
+  "title": "Corpora Sanctorum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Córpora sanctórum in páce sepúlta sunt, et nómina eórum vívent in generatióne * et generatiónem.",
+  "gabc": "(f3) AL(ef!gh)LE(f!gw!hvGF/gvFE)LÚ(h!iwj)IA.(ji) *(,) <i>ij.</i>(jvIH/fgFE//gh!ijjvIH/fgFE//gf/hf) (,) (giHGF/gvFEf) <sp>V/</sp>.(::) Cór(ef!gh)po(f/ghg)ra(hvGFgvFE) sanc(e!fg)tó(gf/ghGFg)rum(gf) (;) in(f) pá(e)ce(f!gwh) se(h!ij)púl(ih)ta(gh) sunt,(givHGFgvFE) (,) (gh!ijjvIHfgFEgf/hf) (,) (giHGFgvFEf) (:) et(c) nó(ef)mi(fe)na(e!fh) e(h!ij)ó(ih)rum(i) (,) ví(h!ij)vent(j) in(i) ge(hvGF)ne(e)ra(f)ti(ghg)ó(f)ne(f) *(;) et(c) ge(ef)ne(fe)ra(e!fh)ti(h!ij)ó(ihj)nem.(ji) (,) (jvIH/fgFE//gh!ijjvIH/fgFE//gf/hf) (,) (giHGF/gvFEf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[21]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3705",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

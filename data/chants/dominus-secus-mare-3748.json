@@ -1,0 +1,31 @@
+{
+  "id": "dominus-secus-mare-3748",
+  "incipit": "Dominus secus mare",
+  "title": "Dominus secus mare",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dominus * secus mare Galilaéae vidit duos fratres, Petrum et Andréam, et vocávit eos: Veníte post me: fáciam vos fíeri piscatóres hóminum. Ps. Coeli enárrant glóriam Dei: * et ópera mánuum ejus annúntiat firmaméntum. Glória Patri E u o u a e",
+  "gabc": "(c4) DO(fef)MI(dc)NUS(c) *(,) se(f)cus(gh) ma(ixhvGFgwhg/hi)re(h) Ga(h)li(h)laé(hjjk)ae(hhg) (;) vi(ixgiHG)dit(hg) du(fv///dgf)os(fe) fra(fv///efd)tres,(d) (,) Pe(df!gh)trum(g) et(g) And(gh~)ré(hg)am,(ghggf) (;) et(f!gh) vo(hf)cá(f!gh)vit(jj) e(ixhg/ivHG/hf)os:(f) (:) Ve(fh)ní(h)te(g)  post(fg) me:(e!fg) (;) fá(h)ci(fg)am(g) vos(dgf) fí(ff//ff)e(deDCd)ri(dc) (,) pi(d)sca(dgf)tó(fv///dgf)res(gvFEf) hó(d)mi(ded)num.(d) <i>Ps.</i>(::) Coe(f)li(gh) en(h)ár(h)rant(h) gló(hj)ri(h)am(h) De(hg)i:(gh) *(:) et(gf) ó(gh)pe(h)ra(h) má(h)nu(h)um(h) e(h)jus(h) (,) an(h)nún(h)ti(h)at(hjh) fir(g)ma(f)mén(fff)tum.(d) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g) u(f) a(fff) e(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "336"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3748",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

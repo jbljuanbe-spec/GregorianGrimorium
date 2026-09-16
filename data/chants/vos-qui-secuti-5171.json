@@ -1,0 +1,31 @@
+{
+  "id": "vos-qui-secuti-5171",
+  "incipit": "Vos qui secuti",
+  "title": "Vos qui secuti",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Vos qui secúti estis me, sedébitis super sedes, judicántes duódecim tribus Israël. T. P. Allelúia.",
+  "gabc": "(c4) Vos(ixdh/iv) qui(h) se(h)cú(h)ti(hg) (::) e(iyhjij)stis(hih) me,(h) (;) se(h)dé(h)bi(g)tis(fe) su(g)per(hg~) se(f/ghGFg)des,(gf) (:) ju(hg)di(hjij)cán(hih)tes(h) du(h)ó(ghg)de(h)cim(fgf) (;) tri(f/gh)bus(hg//hfgFE) Is(ed)ra(de/fef)ël.(ed) <i>T. P.</i>(::) Al(fgf~)le(ed//fh//ghg;3ef/ghf//gvFE)lú(de/fef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "6*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5171",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

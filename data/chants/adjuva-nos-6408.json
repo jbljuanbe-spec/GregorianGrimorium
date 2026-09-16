@@ -1,0 +1,31 @@
+{
+  "id": "adjuva-nos-6408",
+  "incipit": "Adjuva nos",
+  "title": "Adjuva nos",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos.",
+  "gabc": "(c3) Al(e)le(ef//efe//df)lú(hji~)ia.(i) (::) (h!ijIH//ji//jh) (;3) (fhGE/ffe) (;) (df//hhvGFE//ffe) <sp>V/</sp>.(::) Ad(e)ju(e)va(ehg) nos,(hi) (;6) De(i!jkj//kvJH//i!jk)us,(ji) (;) sa(i)lu(i)tá(ihhv)ris(f//hvGFh) no(efe)ster:(e) (:) et(ef) prop(hg)ter(hi) (;6) gló(i!jkj//kvJH//i!jk)ri(ji)am(i) (;) nó(ij)mi(ih)nis(h) tu(h)i,(hg) Dó(fhGFh)mi(efe)ne,(e) (::) lí(e)be(fefe)ra(df//h!ijIH//iji) nos.(i) (;) (jvIHF/ivHGE//fvED//ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "108*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6408",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

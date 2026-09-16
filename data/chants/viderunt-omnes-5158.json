@@ -1,0 +1,31 @@
+{
+  "id": "viderunt-omnes-5158",
+  "incipit": "Viderunt omnes",
+  "title": "Viderunt omnes",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Vidérunt omnes fines terræ salutáre Dei nostri. Allelúia.",
+  "gabc": "(c4) Vi(fg)dé(gff)runt(df) (::) o(cd)mnes(d) fi(d!fg)nes(gh) ter(hjjg)ræ(gfhGF) (;) sa(f)lu(ghg)tá(h;3f!hjjvHG/fg)re(f) (;) De(fd//fvEC;3fhg)i(ghFEf) no(ded)stri.(d) (::) Al(df~)le(fefd)lú(ded)ia.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "36"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5158",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

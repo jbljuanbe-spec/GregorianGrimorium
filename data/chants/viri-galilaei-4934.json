@@ -1,0 +1,31 @@
+{
+  "id": "viri-galilaei-4934",
+  "incipit": "Viri Galilaei",
+  "title": "Viri Galilaei",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Viri Galilǽi quid admirámini adspiciéntes in cælum? Hic Jesus, qui assúmptus est a vobis in cælum, sic véniet quemádmodum vidístis eum ascendéntem in cælum, allelúia.",
+  "gabc": "(f3) Vi(hhvFE//fhhv//jij)ri(hih) (::) Ga(h)li(iji)l<sp>'ae</sp>(j;6hji)i(ijHG//hvGF/gf) (;) quid(h) ad(h)mi(hi)rá(ig/hf)mi(ef)ni(f) (;) ad(fh)spi(e)ci(fh)én(hf//hhf;3ffihhfhf~)tes(e) (;) in(h) cæ(jijh//ji//jjh;jjiiv//jjvHG;ifh;3giGEf)lum?(f) (:) Hic(ef/hhv) Je(i)sus,(hv//gih/ghf) (;) qui(e) as(f)súmp(h)tus(h) est(hg) a(ef) vo(f!ghf)bis(f) (;4) in(e!fh) cæ(hf//hhf;3ffihhf/he)lum,(e) (:) sic(fc/ef) (;1) (hvGF//ghf) (;3) vé(fihhf)ni(hfhe)et(e) (;) que(f)mád(ef)mo(f)dum(f) vi(f)dí(f)stis(ef) e(f!ghf)um(f) (;) a(e)scen(f)dén(fj//llj;6kxikjki//h!ij//lli;hjij//hj/li//hhfh;gi//jlj//ljjij>)tem(h) (;) in(g!hi) cæ(ivHFh;4ghf)lum,(fhffe) (:) al(ef)le(hiGF;3jijHF;ef/hg//hiih;jvIH/hf//hvGF/gf)lú(ef~)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "241"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4934",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ecce-quam-bonum-3479",
+  "incipit": "Ecce quam bonum",
+  "title": "Ecce quam bonum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Ecce quam bonum et quam jucúndum habitáre fratres in unum: sicut unguéntum in cápite, quod descéndit in barbam, barbam * Aaron.",
+  "gabc": "(c4) AL(g)LE(e!fg//hiHG)LÚ(fg!hvhg~)IA.(g) *(;) <i>ij.</i>(gvFDe!fg//hiHGfgg) (,) (kvJIHG//fg!hvhg) <sp>V/</sp>.(::) Ec(g)ce(g) quam(h) bo(e!fg)num(g) (,) et(g) quam(hi~) ju(i)cún(ijh/jiivHGFhg)dum(g) (;) ha(g)bi(g)tá(g)re(gvFD) fra(e!fg)tres(g/hiHG) in(g) u(fg!hvhg)num:(g) (:) si(g)cut(g) un(gk~)guén(kvJIHh)tum(g) in(g) cá(fg!hvhg)pi(fg)te,(g) (;) quod(g) de(hi)scén(ijh/jiivHGFhg~)dit(g) (,) in(g) bar(g)bam,(gvFD) bar(e!fg)bam(g/hiHG) *() A(fg)a(hvhg)ron.(g) (;) (gvFDe!fg//hiHGfgg) (,) (kvJIHG//fg!hvhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "503"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3479",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "surrexit-dominus-de-sepulcro-438",
+  "incipit": "Surrexit Dominus de sepulcro",
+  "title": "Surrexit Dominus de sepulcro",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Surréxit Dóminus de sepúlcro, qui pro nobis pepéndit * in ligno.",
+  "gabc": "(c4) AL(c)le(d)lú(edixhi)ia.(h.) *(,) <i>ij.</i>(ghG'F/hv.fgF'E/gvF'ED.) (;) (ce!gvgef//deDC.) (,) (c!ff//eg'!hvF'EC'/ewfd.) <sp>V/</sp>.(::) Sur(dh)ré(h)xit(h'/jvH'GhvGEf_g) (,) (ixeg!ivHG/hvFDe.) (,) (ghF'E/ghfff'dfED'/f!g'h) Dó(g.f!gw!hvGF'g)mi(hg)nus(g.) (;) de(f) se(fhhg/hvGF/gvFE)púl(df_ef//ef!hvGE'/fd)cro,(d.) (:) qui(c) pro(d) no(dffd/fvED de!f'g)bis(ghhg.) (;) pe(fhhg/hvGF/gvFE)pén(df_ef//ef!hvGE'/fd)dit(d.) *(;) in(cd) li(ed/ixhi)gno.(h.) (,) (ghG'F/hv.fgF'E/gvF'ED.) (;) (ce!gvgef//deDC.) (,) (c!ff//eg'!hvF'EC'/ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "248"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "438",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

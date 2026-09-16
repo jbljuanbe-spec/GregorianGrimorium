@@ -1,0 +1,31 @@
+{
+  "id": "fortitudo-mea-4870",
+  "incipit": "Fortitudo mea",
+  "title": "Fortitudo mea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Fortitúdo mea, et laus mea Dóminus, et factus est mihi in salútem: iste Deus meus, et glorificábo eum.",
+  "gabc": "(c4) Al(d!h>)le(hvGFE)lú(feed~)ia.(d) (::) (dcf//gfgf//ghhv) (;) (ixdh/ivHG//hvGF//gfgf//ghhv) (;) (ixdh/ivHG/ge//ghFED//fvEC) (;) (egFED/ffd) <sp>V/</sp>.(::) For(dh!iv)ti(hg)tú(hvGFED//fg)do(fvED) me(fe)a,(d) (;) et(c!df) laus(fggf//hvGFED) (;4) (deDCd) (;) me(ce//gvFE)a(ghGE) Dó(fe)mi(ded)nus,(d) (;) (cdc//dffv//ghGE//feed) (:) et(h) fa(gh//jvIH)ctus(hg) est(hvGE) mi(fvED)hi(cd//fd//ffe) (;) in(c) sa(ed)lú(f!ghg;3fgFED//feev)tem:(d) (:) i(dc)ste(f) De(ghg)us(h) (;3) me(ixf!gh//ivih)us,(h) (::) et(d) glo(d)ri(dh)fi(h)cá(ghGF)bo(g) e(ixgiHG)um.(h) (;) (fegFEC//fvfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "471"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4870",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

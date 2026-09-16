@@ -1,0 +1,31 @@
+{
+  "id": "tamquam-aurum-1113",
+  "incipit": "Tamquam aurum",
+  "title": "Tamquam aurum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tamquam aurum * in fornáce probávit illos Dóminus, et quasi holocáusti hóstiam accépit eos.",
+  "gabc": "(c4) TAm(fgffe)quam(cd) au(ff!gwhgh)rum(h_g) *(,) in(g) for(hj)ná(jj/k_j)ce(j.) (,) pro(j)bá(jj/k_j)vit(j) il(jk/lk)los(kjj/ghg__//ikj) (,) Dó(jki'/jh)mi(gf)nus,(h!iwj_hivHGhg..) (:) et(fg) qua(gj)si(jjjvH'Gh) ho(fg)lo(gh)cáu(hjjjkv.jlk)sti(kljjh!iwj_i.) (,) hó(g!jjj/k_j)sti(jki'/jh/gih)am(hggfg.) (,) ac(f)cé(g)pit(h!jjj) e(jkj'/kjjg/jjvIHivHG'h)os.(hg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "100**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1113",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

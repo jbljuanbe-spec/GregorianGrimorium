@@ -1,0 +1,37 @@
+{
+  "id": "regali-ex-progenie-719",
+  "incipit": "Regali ex progenie",
+  "title": "Regali ex progenie",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Regáli * ex progénie María exórta refúlget: cujus précibus nos adjuvári, mente et spíritu devotíssime póscimus. T. P. Allelúia.",
+  "gabc": "(c4) RE(e)gá(ege/ghg/ffd!fw!gvFE)li(e.) *(,) ex(e) pro(e)gé(e!f'g)ni(ixfhg/hi)e(h.) (,) Ma(h)rí(ixi)a(h') ex(h)ór(jh/jvGF'/fd./fg!hvGF')ta(gff) re(d)fúl(dgF'E)get:(e.) (:) cu(d)jus(g) pré(ixhg/hi)ci(h)bus(h.) (,) nos(h) ad(h)ju(jhhf)vá(ghg)ri,(dg/hvFD/gv.gg/hjhhg.) (:) men(dg~)te(g') et(g) spí(hiHG'/hwi'!jv)ri(i)tu(i.) (,) de(j)vo(ih)tís(jkj)si(ig)me(hv./ghG'F/ghg') pó(e)sci(egff)mus.(fe..) <i>T. P.</i>(::) Al(ce/gf)le(ffff_c fff_e//hg/hffe)lú(egF'E)ia.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "504C"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1476F"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "719",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

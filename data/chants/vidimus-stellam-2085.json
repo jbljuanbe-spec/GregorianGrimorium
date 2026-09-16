@@ -1,0 +1,31 @@
+{
+  "id": "vidimus-stellam-2085",
+  "incipit": "Vidimus stellam",
+  "title": "Vidimus stellam",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. Vídimus stellam eius in Oriénte, et vénimus cum munéribus adoráre * Dóminum.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h!/iggf.) *(,) <i>ij.</i>(hv.iji.!/ef!/h_f hv.ghe/hhh.f!gwhf.) (::)\r\n\r\nVí(f_e!/f!gwh'!iv)di(jiihi)mus(iv.hh!/fgf.) (,) stel(fg~)lam(f) e(f!hh!/ijHF'/ivH'GEf./hfhhf!/ge)ius(e.) (:)\r\nin(f) O(e)ri(f)én(ffe!/ffe!/fc..,ef!hvvF'Ehhh)te,(ivH'Ghf..) (:)\r\net(f) vé(f!h'i)ni(jiihi)mus(iv.hh!/fgf.) (,) cum(fg~) mu(f)né(f!hh!/ijHF'/ivH'GEf./hfhhf!/ge)ri(f)bus(e.) (;) ad(hh)o(h)rá(h)re *(hi) Dó(i_h!/jij)mi(j)num.(jvvIH'GE f!gwhf.) (::)",
+  "transcriber": "Jacques Peron",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "47"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "2085",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

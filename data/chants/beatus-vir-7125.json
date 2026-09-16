@@ -1,0 +1,31 @@
+{
+  "id": "beatus-vir-7125",
+  "incipit": "Beatus vir",
+  "title": "Beatus vir",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis. ℣. Potens in terra erit semen ejus: generátio rectórum benedicétur. ℣. Glória, et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽculi.",
+  "gabc": "(c3) Be(e)á(e!fgf)tus(effe) vir,(e) (::) qui(ehhv) ti(hi)met(fvED//effe) (;4) Dó(fhgh)mi(fh)num:(hh//iffefe//hhf/heed) (:) in(d!fh) man(gef)dá(ede)tis(ef/hgh) (;3) e(hfh)jus(hhvGF//gvFE/fe) (;) cu(df/hf/gf)pit(h) ni(hghe;hhvFE/gxfgED;gyfhf//ge)mis.(effe) <sp>V/</sp>.(::) Po(ef/hhv)tens(h) in(h) ter(h)ra(h) (;3) e(h)rit(h) se(h)men(h) e(hiHGE/fe//f!ghGF//ghffe~)jus:(fe) (:) ge(d)ne(d)rá(fh)ti(gef)o(ede) (;1) re(ef/hgh)ctó(hfh)rum(hhvGF//gvFE/fe) (;) be(fe/fh)ne(efED)di(d!fh)cé(h)tur.(hghFE) (;) (hhvFE/gxfgED) (;) (gyfhf//ge//ffe) <sp>V/</sp>.(::) Gló(ef/hhv)ri(h)a,(h) et(h) di(h)ví(h)ti(h)æ(h) (;) in(h) do(h)mo(h) e(hiHGE/fe//f!ghGF//ghffe~)jus:(fe) (:) et(d!fh) ju(gef)stí(ed/ef)ti(e)a(ef/hgh) (;4) e(hfh)jus(hhvGF//gvFE/fe) (;) ma(fe/fh)net(efED) (::) in(d) s<sp>'ae</sp>(d!fh)cu(h)lum(h) s<sp>'ae</sp>(h)cu(h)li.(hghFE//ee/feede) (;) (ehhiHGF/fe//efED) (;) (fhGF//gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "9*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7125",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

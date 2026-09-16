@@ -1,0 +1,37 @@
+{
+  "id": "quam-magna-6",
+  "incipit": "Quam magna",
+  "title": "Quam magna",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quam magna * multitúdo dulcédinis tuae, Dómine, quam abscondísti timéntibus te! T. P. Allelúia.",
+  "gabc": "(c3) QUam(hjij) ma(h)gna(gvFE'/fhhfh.) *(,) mul(f)ti(fj)tú(ji/jhhf/hji)do(hg..) (;) dul(h)cé(hi)di(h)nis(hg) tu(hvG'FE)ae,(f) Dó(ehg)mi(hg)ne,(g.) (:) quam(g) ab(e)scon(fg~)dí(ge/f!hh/ijIH'/hvG'E/f./ehg/hhg)sti(g.) (;) ti(g)mén(gvFE/f_dd'db//de/fef)ti(e)bus(cedd) te!(dc..) <i>T. P.</i>(::) Al(ddd)le(beD'C//de/fef)lú(cedd)ia.(dc..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "507"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1480"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

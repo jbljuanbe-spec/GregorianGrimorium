@@ -1,0 +1,31 @@
+{
+  "id": "ave-maria-offertorium-3354",
+  "incipit": "Ave Maria (Offertorium)",
+  "title": "Ave Maria (Offertorium)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ave * María, grátia plena: Dóminus tecum: benedícta tu in muliéribus, allelúia.",
+  "gabc": "(c3) A(gxd!ef!hvvFE//gvFE)VE(ef) *(,) Ma(fdf)rí(hg//ijIHhg/hf)a,(fe) (;) grá(hhf!gwhefvEDCB,ef/hf!gwh)ti(h)a(g) ple(hiHF//g/hiHD,fhFE/f//ih/ijh)na:(hi/ih) (:) Dó(fvEDevDCdb//cd!ef/fe)mi(de)nus(e) te(fe/hhe//ffd/ev,de/fde//df!hvGFEf)cum:(fe) (:) be(hi)ne(ih)dí(h/jij)cta(hf!gwh/ih) tu(he) (,) in(ef) mu(fh)li(fe)é(ed/efDCB,cd/ed/fe)ri(de)bus,(ef/fe) (;) al(fe~)le(fdf)lú(hg/ijIHhg/hf)ia.(fe/fgf/fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "349"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3354",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

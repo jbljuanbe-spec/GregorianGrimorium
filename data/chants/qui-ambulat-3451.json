@@ -1,0 +1,31 @@
+{
+  "id": "qui-ambulat-3451",
+  "incipit": "Qui ambulat",
+  "title": "Qui ambulat",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Qui ámbulat * fraudulénter, revélat arcána: qui autem fidélis est ánimi, celat. ℣. Dómine, quis habitábit in tabernáculo tuo, aut quis requiéscet in monte sacto tuo? Qui non egit dolum in lingua sua, nec fecit próximo suo * malum.",
+  "gabc": "(c3) QUI(c) ám(ef~)bu(f)lat(f) *() frau(f)du(f)lén(hfg/hvFEge/fg)ter,(f) (;) re(f)vé(hf/h!ij)lat(gxhffegvFE) (,) ar(e)cá(ed/fef)na:(fd/ef!hvvFE//f!gwh/ihh/fgf) (:) qui(f) au(hiHF)tem(f) fi(fe)dé(hh)lis(hji) est(ihhf) (,) á(hf!gwh/if/ij)ni(h)mi,(fh//ghFEf) (;) ce(ef/hf/hi)lat.(ih/ijIH) (,) (jh/jkIG/hvFE//f!gwh!iv//h!ij) (,) (ijijHF/gwhf) <sp>V/</sp>.(::) Dó(f)mi(h)ne,(hi) quis(i) ha(i)bi(ij)tá(jvIHG/hvFE , ge/f!hh/ijij , hj!kvIG/hvFE//fgFEf , i!jwkj/kvJIj)bit(ji) (:) in(i) ta(i)ber(i)ná(ki!jw!kvJI)cu(i)lo(ij) tu(jhjvIHhf//hhf//hv//hhhf,hi!jvIH/jvIHif)o,(f) (:) aut(hh) quis(h) re(h)qui(h)é(hji)scet(ihhf) (,) in(f) mon(f)te(f) sa(fi~)cto(if/ijHFhv//ghFEf) (,) tu(hf/hhh)o?(hf!gwh!iv//hi/jhh/iih) (:) Qui(hh) non(h) e(h)git(h) do(h)lum(h) (,) in(h) lin(h)gua(h) su(hg/hi!jvHGhhg,ihivHF)a,(fhFEfhhf//hvvGFheed) (:) nec(d) fe(ef)cit(f) próx(f)i(f)mo(fhvGFg) su(e)o(f) *() ma(hf/hi)lum.(ijHGhi) (,) (e!fhhjIHGFgwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[161]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3451",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "in-excelso-throno-1387",
+  "incipit": "In excelso throno",
+  "title": "In excelso throno",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "In excélso throno * vidi sedére virum, quem adórat multitúdo Angelórum, psalléntes in unum: ecce cujus impérii nomen est in aetérnum. Ps. Jubiláte Deo omnis terra: * servíte Dómino in laetítia. Glória Patri. E u o u a e.",
+  "gabc": "(c4) IN(g) ex(gh)cél(h)so(f) thro(hfh)no(h) *(,) vi(jj)di(g) se(gh/ih!iwj)dé(hjg)re(gf!gwhg) vi(ghg)rum,(g) (:) quem(fg) a(gh)dó(h!jjg//h!jjh)rat(ghg) (,) mul(f)ti(gh)tú(jjk)do(j) An(j)ge(ji)ló(jkj/ijh)rum,(h) (;) psal(g)lén(gh!jjjvHG)tes(hg) in(hfg) u(ixhg/hig)num:(fgFD) (:) ec(df!gh)ce(g) (,) cu(gh~)jus(hgh) im(fg)pé(gjj)ri(hg!hwih)i(hf) no(g)men(hj) est(ii/jg) (,) in(jj) ae(hfhg)tér(ghg)num.(g) <i>Ps.</i>(::) Ju(g)bi(hg)lá(gj)te(j) De(j)o(ji) o(jk)mnis(k) ter(jk)ra:(j) *(:) ser(jh~)ví(hj)te(j) Dó(j)mi(j)no(jji) in(gh) lae(ji)tí(h)ti(h)a.(g) (::) Gló(g)ri(hg)a(gj) Pa(j)tri.(j) (::) E(j) u(jji) o(gh) u(ji) a(h) e.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "49"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1387",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

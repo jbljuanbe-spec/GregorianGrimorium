@@ -1,0 +1,31 @@
+{
+  "id": "eripe-me-deus-1463",
+  "incipit": "Eripe me... Deus",
+  "title": "Eripe me... Deus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Eripe me * de inimícis meis, Deus meus: et ab insurgéntibus in me líbera me, Dómine.",
+  "gabc": "(c3) E(ef)RI(e)PE(fe/f!hhg/hhg//h!iwjij) me(ji) *(;) de(i) i(i)ni(i)mí(i!jw!kvJI)cis(ijhivHGhg) (,) me(ijhhih/ihih)is,(hg/hvGFE/fe) (;) De(ge/f!hh/ikJI)us(ihhvGF) me(hf!gw!hvGFEf)us:(fe) (:) et(e) ab(e) in(hg~)sur(hi~)gén(iie//fgFE , hiHG//iji/hvGF/hhi , kk/lk//lklk/lm)ti(kj)bus(kkki/jkj) (,) in(ih~) me(i/kki//hiHGFggh) (;) lí(f)be(i)ra(h/ijhhg) me,(e) (,) Dó(eg/ig/ijHFghFE,hiHEfhhvGFgw!hvGF)mi(ef!gvFEf)ne.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "139"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1463",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

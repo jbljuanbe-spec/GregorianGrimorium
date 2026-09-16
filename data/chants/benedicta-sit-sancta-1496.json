@@ -1,0 +1,31 @@
+{
+  "id": "benedicta-sit-sancta-1496",
+  "incipit": "Benedicta sit sancta",
+  "title": "Benedicta sit sancta",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Benedicta sit * sancta Trínitas, atque indivísa Unitas: confitébimur ei, quia fecit nobíscum misericórdiam suam. Ps. Dómine Dóminus noster: * quam admirábile est nomen tuum in univérsa terra! Glória Patri E u o u a e",
+  "gabc": "(c3) BE(e)NE(e)DIC(ehgh)TA(fvED) sit(e) *(,) sanc(ef/hgh)ta(h) Trí(hhhf)ni(fe)tas,(ef!gwh) (;) at(hfge)que(e) in(e)di(fde)ví(ehh)sa(f) U(fdf)ni(fgFEf)tas:(fe) (:) con(e)fi(ef/hg)té(g)bi(gi/jhhf)mur(hg) e(hghf)i,(f) (;) qui(hg)a(h) fe(i)cit(h) no(gf!gwh)bí(fgFEf)scum(fe) (;) mi(e!fg)se(gf)ri(fgEC)cór(c!ef)di(f)am(f) su(fgFEf)am.(fe) <i>Ps.</i>(::) Dó(e)mi(fe)ne(eh) Dó(hg)mi(hi)nus(i) nos(hi)ter:(h) *(:) quam(hf~) ad(fh)mi(h)rá(h)bi(h)le(h) est(h) no(h)men(h) tu(h)um(h) (,) in(h) u(h)ni(hhg)vér(ef)sa(hg) ter(f)ra!(e) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h) u(hhg) o(ef) u(hg) a(f) e(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "263"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1496",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ex-sion-species-1785",
+  "incipit": "Ex Sion species",
+  "title": "Ex Sion species",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ex Sion * spécies decóris ejus: Deus maniféste véniet. ℣. Congregá te illi sanctos ejus, qui ordinavérunt testaméntum ejus * super sacrifícia",
+  "gabc": "(c3) EX(d) Si(fh)on(hfhvGE//f/hf/fd) *(;) spé(fd/ef!gwh/hi)ci(h)es(h//ijIH//ghGF) (;) de(f!hgh)cór(fe)is(f!gwh) e(ed~)jus:(df//e!hhhf/fef) (:) De(fh/ih)us(hg!ijIH//ghGF) (;) ma(f)ni(hg)fé(hfhvGEf)ste(de) (,) vé(d!efhv//ijHF//ghFE)(,)(fhef)ni(d)et.(efe/fhf/f/ded) <sp>V/</sp>.(::) Con(d)gre(f)gá(hf/hhf//hhf//hhjvIHf!hh/jvIHihhhf) (,) (gxgvFEfvEDfvhhvFEf)te(f) il(fh)li(hg) sanc(f!gh)tos(gx/efd//fe/fgFE) e(ded~)jus,(d) (:) qui(d) or(ef~)di(f)na(hfge)vé(f!hhh)runt(h//ih/ghFE) (,) (hih/ih/ghFE) (;) (f/hgh/ivHF hg/hif//hg/efgvgf) (:) tes(f!hi)ta(hg)mén(f!gh)tum(ed) e(fdfED//fd/ef!gwh/ih~)jus(hg/ijIH//ghGF) *(;) su(f!hi)per(hg~) sa(f!gh)cri(ef)fí(gxhfge)ci(d)a(de/gf/gh) (,) (gxfgEDefe/ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "4"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1785",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

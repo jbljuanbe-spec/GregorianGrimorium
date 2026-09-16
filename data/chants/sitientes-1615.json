@@ -1,0 +1,31 @@
+{
+  "id": "sitientes-1615",
+  "incipit": "Sitientes",
+  "title": "Sitientes",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Sitiéntes * veníte ad aquas, dicit Dóminus: et qui non habétis prétium, vénite, bíbite cum laetítia. Ps. Atténdite pópule meus legem meam: * inclináte aurem vestram in verba oris mei. Glória Patri. E u o u a e.",
+  "gabc": "(c3) SI(e)TI(f)ÉN(f)TES(fhffe) *(,) ve(f)ní(fh/ih)te(hhh) ad(f) a(f!hhf)quas,(efd) (,) di(fh)cit(hghf) Dó(f)mi(fgf)nus:(f) (:) et(e) qui(f) non(f/hji) ha(h)bé(hih)tis(hhh) pré(hih)ti(f)um,(fgf) (;) vé(f)ni(fh/ih)te,(hhh) (,) bí(hih)bi(f)te(efd) (,) cum(fh) lae(hghf)tí(f)ti(fgf)a.(f) <i>Ps.</i>(::) At(e)tén(fe)di(eh)te(h) pó(h)pu(h)le(h) me(h)us(hg) le(hi)gem(i) me(hi)am:(h) *(:) in(hf~)cli(fh)ná(h)te(h) au(h)rem(h) ves(h)tram(h) (,) in(h) ver(h)ba(i) o(hf)ris(h) me(ge)i.(fgf) (::) Gló(e)ri(fe)a(eh) Pa(h)tri.(h) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "127"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1615",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

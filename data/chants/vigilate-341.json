@@ -1,0 +1,31 @@
+{
+  "id": "vigilate-341",
+  "incipit": "Vigilate",
+  "title": "Vigilate",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Vigiláte, * et oráte, ut non intrétis in tentatiónem: spíritus quidem promptus est, caro autem infírma.",
+  "gabc": "(c4) VI(g)gi(hj)lá(jv.jjj)te,(h.) *(,) et(h) o(h!jj)rá(gh_G'_FE'f)te,(f_e) (;) ut(f) non(e!f'g) in(hg~)tré(gjij)tis(hg) in(gh~) ten(h)ta(h_f)ti(g)ó(ghgh)nem:(e.) (:) spí(gi)ri(i)tus(i) qui(i)dem(ih) promp(i_j)tus(hg) est,(gh!ivih.) (;) ca(ghG'Fh)ro(h) au(h)tem(hv.ghF'D) in(f)fír(egff)ma.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "14**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "341",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

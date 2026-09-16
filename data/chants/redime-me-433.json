@@ -1,0 +1,31 @@
+{
+  "id": "redime-me-433",
+  "incipit": "Redime me",
+  "title": "Redime me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Redime me, * Deus Israel, ex ómnibus angústiis meis.",
+  "gabc": "(c3) RE(h)di(gh)me(fg) me,(fe) *(,) De(ef!gvgfg)us(ed/effe.) Is(hg)ra(h)el,(ijI'GhiH'GEf.) (;) ex(fhg) óm(hiH'GFhg/h_i)ni(h)bus(ghF'Ef.) (,) an(e)gú(ehGF'/hwihi)sti(gh)is(f) me(efe/f!hhffeed!ewf!gvFE'f)is.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "159"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "433",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "confitebuntur-3827",
+  "incipit": "Confitebuntur",
+  "title": "Confitebuntur",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Confitebúntur coeli mirabília tua Dómine: étenim veritátem tuam in ecclésia * sanctórum.",
+  "gabc": "(c2) AL(cd)LE(c)LÚ(cfe!gh)IA.(g) *(;) <i>ij.</i>(fh!ivHGhvGFg) (,) (fh!ivHG/hvFD/ffg//cd!fvEDdc) (,) (e!ghGE//ced/eddc) <sp>V/</sp>.(::) Con(cd)fi(c)te(cfe)bún(fg)tur(g) coe(gh!ij)li(iivHG) (;) mi(g)ra(g)bí(g/hih)li(gf)a(f) tu(fvED/ef!hvGF/fvED/ef)a(e) (,) Dó(e!fw!gvFED/ew!fvED)mi(c!de)ne:(dc) (:) é(gfg)te(ihi/jg//jvIHFg;gfg/ihi/jg//jvIHF)nim(g/hihhg) (;) ve(g)ri(hih)tá(gf)tem(f) tu(fvEDef!hvGFfvEDef)am(e//fgf/gd//evDCdc) (:) in(cd) ec(c)clé(cd!ewfef)si(e)a(e) *(,) sanc(fg)tó(fe/fgf/gh)rum.(g) (;) (fh!ivHG/hvGFg) (,) (fh!ivHG/hvFD/ffg//cd!fvED/dc) (,) (e!gh/GE//ced/eddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[15]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3827",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

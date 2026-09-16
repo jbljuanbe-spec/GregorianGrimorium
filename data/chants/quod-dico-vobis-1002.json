@@ -1,0 +1,37 @@
+{
+  "id": "quod-dico-vobis-1002",
+  "incipit": "Quod dico vobis",
+  "title": "Quod dico vobis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quod dico vobis * in ténebris, dícite in lúmine, dicit Dóminus: et quod in aure audítis, praedicáte super tecta. T. P. Allelúia.",
+  "gabc": "(c4) QUod(d) di(e)co(f) vo(g)bis(f) *() in(fd~) té(f)ne(f)bris,(e_c) (,) dí(f)ci(f)te(e) in(d) lú(e)mi(f)ne,(g_d) di(e)cit(de) Dó(c)mi(c)nus:(c.) (;) et(e) quod(c) in(d) au(f)re(fe) au(d)dí(fg)tis,(g.) (,) prae(f)di(ef)cá(d)te(dc) su(d)per(f) te(egff)cta.(fe..) <i>T. P.</i>(::) Al(f)le(d./ghG'Fghg)lú(egff)ia.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[31]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "592"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1002",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

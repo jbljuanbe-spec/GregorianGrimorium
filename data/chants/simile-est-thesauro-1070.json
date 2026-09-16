@@ -1,0 +1,31 @@
+{
+  "id": "simile-est-thesauro-1070",
+  "incipit": "Simile est... thesauro",
+  "title": "Simile est... thesauro",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Simile est * regnum caelórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et prae gáudio illíus vadit, et vendit univérsa quae habet, et emit agrum illum. T. P. Allelúia.",
+  "gabc": "(c4) SI(d)mi(e)le(f) est(g.) *() re(ghgh)gnum(g) cae(fd)ló(egff)rum(fe..) (;) the(hg)sáu(ixhi)ro(h) ab(gf)scón(gh)di(g)to(f) in(d) a(egff)gro:(eef.) (:) quem(ed~) qui(gh) in(gf)vé(gh)nit(h') ho(h)mo,(g') ab(f)scón(gh)dit,(g.) (,) et(g) prae(hj) gáu(j)di(ij)o(h) il(h)lí(h)us(h) va(hgh)dit,(h.) (;) et(ixhi~) ven(h)dit(hg) u(ghg)ni(fe)vér(fg)sa(gh) quae(fd) ha(g_efvED'e)bet,(ed..) (;) et(f) e(gh)mit(gf) a(g)grum(d!ewf) il(egff)lum.(fe..) <i>T. P.</i>(::) Al(f)le(d./ghG'Fghg)lú(egff)ia.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "136**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1070",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

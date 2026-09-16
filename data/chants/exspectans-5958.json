@@ -1,0 +1,31 @@
+{
+  "id": "exspectans-5958",
+  "incipit": "Exspectans",
+  "title": "Exspectans",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exspéctans exspectávi Dóminum, et respéxit me: et exaudívit deprecatiónem meam, et immísit in os meum cánticum novum, hymnum Deo nostro.",
+  "gabc": "(c3) Ex(d)spé(fhhi)ctans(hi) (::) ex(h)spe(j)ctá(jlj/kl)vi(i) Dó(h)mi(hhv)num,(fh) (;) et(e) re(f)spé(hhi)xit(h//ijiig~) me:(ih) (:) et(f) ex(f/hi)au(ih~)dí(hiHG)vit(hhv/fgf) (;) de(f)pre(f)ca(fhhf)ti(e)ó(fh/ih)nem(hi) (;3) me(ihhf/hihi//f!ghf)am,(f) (:) et(e) im(f)mí(hhv)sit(ijhhfgf) (;) in(f) os(fhhghg) me(eh//ghf//ggf)um(f) (;) cán(hhv)ti(fe)cum(edf) no(hi)vum,(hg/hiih) (:) hy(h)mnum(hhffe) De(fd/ef//ivHGE)o(fef) (;3) no(fhhf//de/fvED)stro.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "324"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5958",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

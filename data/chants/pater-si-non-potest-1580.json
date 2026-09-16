@@ -1,0 +1,31 @@
+{
+  "id": "pater-si-non-potest-1580",
+  "incipit": "Pater si non potest",
+  "title": "Pater si non potest",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Pater, * si non potest hic calix transíre, nisi bibam illum: fiat volúntas tua.",
+  "gabc": "(c3) PA(hh)TER,(ggf) *(,) si(eg) non(gf~) po(h)test(f) hic(e) ca(dfe)lix(e) tran(e)sí(fg)re,(ge) (,) ni(g)si(i) bi(i)bam(h) il(gih)lum:(g) (;) fi(hih)at(hgh) vo(f)lún(ghf~)tas(g) tu(e)a.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "159"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1580",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

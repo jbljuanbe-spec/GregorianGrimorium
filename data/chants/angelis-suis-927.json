@@ -1,0 +1,31 @@
+{
+  "id": "angelis-suis-927",
+  "incipit": "Angelis suis",
+  "title": "Angelis suis",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Angelis suis * Deus mandávit de te, ut custódiant te in ómnibus viis tuis. ℣. In mánibus portábunt te, ne unquam offéndas ad lápidem pedem tuum. ℣. Super áspidem et basilíscum ambulábis, et conculcábis leónem * et dracónem.",
+  "gabc": "(f3) AN(f)ge(f)lis(efE'C) su(ef)is(ef/hghvvGFggf.) *(;) De(hiH'F)us(f.) man(fi~)dá(igi)vit(hg) de(fg) te,(fe/ggf/gh/iffe.) (:) ut(e) cu(e)stó(gh)di(f)ant(f_e/f!gwh'!iv) te(hg/hiih.) (;) in(i) ó(i)mni(e)bus(f) vi(h)is(g/hihi) tu(f)is.(f/ggf.) <sp>V/</sp>.(::) In(h) má(i)ni(jiihi)bus(iv.hh/fgf.) (;) por(hfh)tá(iv.hi/ji)bunt(ig~) te,(giH'GhvGFgf..) (;) ne(hg) un(hi)quam(hvGE') of(f)fén(g_fg)das(fe/ggf/gh/iffe.) (:) ad(gh~) lá(f_e/f!gwh'!iv)pi(hi)dem(ivH'GhvG'FEf_e) (,) pe(h)dem(gh/ihi) tu(f)um.(f/ggf.) <sp>V/</sp>.(::) Su(fhg)per(h) á(i)spi(jiihi)dem(iv.hh/fgf.) (;) et(f) ba(f)si(hfh)lís(iv.hi!jvIG)cum(giH'GhvGFgf..) (;) am(f)bu(i)lá(hiHF'fe//hiHF'fe//hvGF'ihhvGF)bis,(fhffe.) (:) et(gh~) con(fg~)cul(f)cá(f_e/f!gwh'!iv)bis(kxhgi./jkiih.) (;) le(h)ó(h/ihhg)nem(fe) *(,) et(fgf) dra(g)có(i_hivHFg.,hjijH'GF)nem.(fe/f!hh/ijI'Gh.) (,) (gh!jvIH'hvGFggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[144]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "927",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

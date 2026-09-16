@@ -1,0 +1,31 @@
+{
+  "id": "aemulor-4865",
+  "incipit": "Aemulor",
+  "title": "Aemulor",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Æmulor enim vos Dei æmulatióne: despóndi vos uni viro vírginem castam exhibére Christo.",
+  "gabc": "(c4) Al(cd)le(d)lú(efeed;1e!fg//gvFE/fd)ia.(cd~) (d) (::) (dhhggf/gh) (;) (dhhggd//efED/dc) (;) (ed//ffd) <sp>V/</sp>.(::) Æ(hgh//fvED)mu(cd/ef)lor(ed) (;1) e(dfED)nim(cd) vos(d) (;) De(ded)i(c) (;1) æ(fe)mu(d)la(g)ti(gh)ó(h//jvIG;6ixivHGF//gh)ne:(h) (:) de(dh)spón(hggf~)di(edf) vos(efd) (;1) u(cd)ni(d) vi(ixhiggf//gh)ro(h) (;) vír(dh)gi(iyh//jvIHG)nem(efd) ca(ced//ffd)stam(d) (;) ex(cd)hi(d)bé(de!fvED/dc;1e!fggvFE/fd//cd)re(d) (::) Chri(deDC//d!ef)sto.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "47*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4865",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

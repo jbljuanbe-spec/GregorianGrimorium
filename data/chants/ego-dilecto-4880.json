@@ -1,0 +1,31 @@
+{
+  "id": "ego-dilecto-4880",
+  "incipit": "Ego dilecto",
+  "title": "Ego dilecto",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ego dilécto meo, et diléctus meus mihi, qui páscitur inter lília.",
+  "gabc": "(f3) E(ce/fh)go(f) (::) di(f)lé(hf//hih)cto(hhvGE//f!ghGF) me(fg/hgh)o,(gf) (:) et(fh) di(h!ij)lé(hiHF)ctus(f) me(f!ghGF)us(ef) (;3) mi(fh/ihhgh)hi,(hg) (:) qui(h) pá(hi/jij)sci(h)tur(hvGF//hih) (;) in(hf/hhvFEf//hhg~)ter(fe) lí(egf)li(fgf)a.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "377"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4880",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

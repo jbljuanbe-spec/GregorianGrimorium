@@ -1,0 +1,31 @@
+{
+  "id": "honora-dominum-5144",
+  "incipit": "Honora Dominum",
+  "title": "Honora Dominum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Honóra Dóminum de tua substántia, et de primítiis frugum tuárum: ut impleántur hórrea tua saturitáte, et vino torculária red undábunt.",
+  "gabc": "(c4) Ho(d)nó(ffg)ra(f) (::) Dó(ghgh)mi(gf)num(f) (;) de(f) tu(fegFD)a(dc) (;1) sub(ixfeg//hig//hiHG)stán(f)ti(f!ghGFg)a,(gf) (:) et(f) de(f) pri(hj)mí(j)ti(ixi!jkJIHi)is(ih) (;) fru(hgi)gum(h) tu(ghg)á(f!ghGFg)rum:(gf) (:) ut(f) im(f)ple(hj)án(iyjij)tur(hgh) (;) hór(hk)re(j)a(ij) tu(hjggfg)a(gf) (;) sa(ffe)tu(f!gh)ri(gh)tá(fgf)te,(f) (:) et(fh) vi(hgh)no(hggfg) (;) tor(c)cu(df)lá(f)ri(ef)a(dcd) (;) red(ffe) un(ixeg//hig//hiHG)dá(f!ghGFg)bunt.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "310"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5144",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

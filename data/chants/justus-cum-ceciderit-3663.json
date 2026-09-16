@@ -1,0 +1,31 @@
+{
+  "id": "justus-cum-ceciderit-3663",
+  "incipit": "Justus cum ceciderit",
+  "title": "Justus cum ceciderit",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Justus * cum cecíderit, non collidétur: quia Dóminus suppónit manum suam. ℣. Tota die miserétur, et cómmodat: et semen ejus in benedictióne * erit.",
+  "gabc": "(c3) JU(dd/efEC/ded)STUS(d) *() cum(d) ce(d)cí(de)de(d)rit,(d) (,) non(d) col(ef)li(fd/fvEDc!de)dé(e)tur:(ded) (:) qui(d)a(d) Dó(fd/ef!hh/jij)mi(hgh)nus(fe) (,) sup(f)pó(f/hhvFDgxgvFEDe)nit(ed) (;) ma(dfe/hgh)num(f) su(ded)am.(dfe/hv/hhhff//dfe/feed) <sp>V/</sp>.(::) To(d)ta(f) di(fh/ih/ijh)e(h) mi(h)se(h)ré(hi)tur,(h) (,) et(hg/i!jwk) cóm(ih)mo(h)dat:(hg/ih//jvIHGhf) (:) et(hh) se(h)men(h) e(ih/ijh ih/ijij//hi/jij)jus(jh/jki/hh/fgf) (;) in(d) be(d)ne(d)di(d)cti(d)ó(dfED)ne(ef) *(,) e(fhGFhhh)rit.(hhf) (,) (gxgf/gvED//fgED//fe/hv/hhhff//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[12]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3663",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

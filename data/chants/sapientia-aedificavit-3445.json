@@ -1,0 +1,31 @@
+{
+  "id": "sapientia-aedificavit-3445",
+  "incipit": "Sapientia aedificavit",
+  "title": "Sapientia aedificavit",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Sapientia * aedificávit sibi domum, excídit colúmnas septem. ℣. Fundaménta ejus in móntibus sanctis: díligit Dóminus portas Sion super ómnia taberbácula * Jacob.",
+  "gabc": "(c4) SA(c)PI(d)EN(ixdh!ivHG/fhg/hi)TI(h)A(h) *(,) ae(h)di(h)fi(fh)cá(h)vit(ghGE) si(fg/hgh)bi(gh) do(ge/fgfg)mum,(d) (:) ex(h)cí(jj/kj)dit(ji/jvIH/iij) (,) co(g)lú(g!hwi!jv)mnas(ih) se(ixg!jjvHG//hig)ptem.(efd/fh//ghGE/fg//fgFD) <sp>V/</sp>.(::) Fun(d)da(d)mén(dh~)ta(h) e(hf/gv//hggfffvDCd!ff//gh!jjg , ixhhg/hvGF//hiHG/hw!ivHG/hi)jus(h) (;) in(h) món(gh~)ti(h)bus(h) san(hkj/kvJHi)ctis:(h) (:) dí(f!gh)li(hgh)git(ef/gf) Dó(f)mi(dec)nus(c) por(fh~)tas(hg/jjh) Si(hih)on(h) (;) su(d)per(ff) ó(fg)mni(f)a(f) ta(f)ber(gf~)bá(fd)cu(fff)la(fg) *() Ja(gf/hgh)cob.(hhf) (,) (hg/hvFD/gfffvEC//ddc/da) (,) (cd!fvvDC/d!ff/gff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "344"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3445",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

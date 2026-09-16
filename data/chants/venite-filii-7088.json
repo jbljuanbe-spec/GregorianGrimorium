@@ -1,0 +1,31 @@
+{
+  "id": "venite-filii-7088",
+  "incipit": "Venite, filii",
+  "title": "Venite, filii",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Veníte, fílii, audíte me: timórem Dómini docébo vos.",
+  "gabc": "(c4) Ve(c!df)ní(f)te,(e!fg) (::) fí(dgFE/ghGF)li(gvFE)i,(f) (;) au(f)dí(fgf/gf//ffd)te(dgFE) (;) (hghf/hggd) me:(dgFE/fgFD) (:) ti(df/gef)mó(ff/ixhih/ihhg)rem(gh/igh) (;3) Dó(ef!ghhg)mi(gf)ni(fg!hvhg) (;3) do(gd)cé(dgFE)bo(eg!hvGF/ghg) vos.(egf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "412"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7088",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

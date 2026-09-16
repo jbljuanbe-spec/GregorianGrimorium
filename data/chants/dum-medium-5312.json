@@ -1,0 +1,31 @@
+{
+  "id": "dum-medium-5312",
+  "incipit": "Dum medium",
+  "title": "Dum medium",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dum médium siléntium tenérent ómnia, et nox in suo cursu médium iter habéret, omnípotens sermo tuus, Dómine, de cælis a regálibus sédibus venit. ℣. Dóminus regnávit, decórem indútus est: indútus est Dóminus fortitúdinem, et præcínxit se. Glória E u o u a e",
+  "gabc": "(c4) Dum(cd) mé(dgf/gh)di(g)um(g) (::) si(g)lén(ixgih)ti(hggfg)um(gf) (;) te(fg)né(iyg!hji)rent(ih) ó(jjv)mni(hg)a,(ghgh) (:) et(fg) nox(g!hji) in(j) su(j)o(h) cur(jji~)su(gh) (;) mé(h)di(hfhg)um(g) i(j)ter(jkj) ha(h)bé(hjjvHG)ret,(gf) (:) o(f)mní(f!gh)po(h)tens(h) ser(hg~)mo(f) tu(f!gh)us,(h) (;) Dó(ixhiHG)mi(hggfg)ne,(fg) (:) de(cd) cæ(fg)lis(ixgiggf) (;) a(g) re(hj)gá(jjv)li(g)bus(hg) (;3) sé(jjv)di(hj)bus(iyjjvIH/ijIH) ve(g!hiHGh)nit.(hg) <sp>V/</sp>.(::) Dó(g)mi(h)nus(gj) re(j)gná(j)vit,(j) (;6) de(j)có(ji)rem(jk) in(k)dú(jk)tus(j) est:(j) (::) in(j)dú(hj)tus(j) est(j) Dó(j)mi(j)nus(j) for(j)ti(j)tú(j)di(j)nem,(j) (;6) et(ji) præ(gh)cín(ji)xit(h) se.(g) (::) Gló(g)ri(h)a(gj) (::) E(j) u(ji) o(gh) u(ji) a(h) e(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "36"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5312",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

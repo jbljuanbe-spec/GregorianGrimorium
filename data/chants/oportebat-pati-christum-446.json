@@ -1,0 +1,37 @@
+{
+  "id": "oportebat-pati-christum-446",
+  "incipit": "Oportebat pati Christum",
+  "title": "Oportebat pati Christum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Oportébat pati Christum, et resúrgere a mórtuis, et ita intráre in glóriam * suam.",
+  "gabc": "(f3) AL(g)le(fgF'Efef)lú(eg~)ia.(g.) *(;) (hfg/fge./fef/ghg.) (,) (hfg/fge./fef/ghg.) (;) (fjji/jvIH/ivHG.) (,) (fjji/jvIH/ivHG.) (,) (gh!ivv/iv'HF'E/ffg.) <sp>V/</sp>.(::) O(g)por(fgF'E/fef/eg)té(ghhg)bat(g.) (,) pa(gh/ihiggf/hvGF)ti(eg) Chri(ghhg)stum,(g.) (;) et(g) re(gf)súr(g)ge(fe)re(fvEDC.) (,) a(e) mór(eg!hvGF/gvFE)tu(fg)is,(g.) (:) et(eg) i(gih'___/ij'IG)ta(giHG.) (,) in(eg~)trá(g./hfg/fge./fef/ghG'Fg)re(g.) (;) in(eg~) gló(gih'___/ij'IG/ivHG)ri(fg)am(fe) *() su(eg)am.(g./hfg/fge./fef/ghg.) (,) (hfg/fge./fef/ghg.) (,) (fjji/jvIH/ivHG.) (,) (fjji/jvIH/ivHG.) (,) (gh!ivv/iv'HF'Effg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "267"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "822"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "446",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

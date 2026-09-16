@@ -1,0 +1,31 @@
+{
+  "id": "salvum-me-fac-328",
+  "incipit": "Salvum me fac",
+  "title": "Salvum me fac",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Salvum * me fac, Deus: quóniam intravérunt aquae usque ad ánimam meam.",
+  "gabc": "(c4) SAl(g/jjjh)vum(h_g) *() me(ghG'F) fac,(hv.jkjj'jjvHG'gf//hihig.) (,) De(jjjh//jkJ'I)us:(i.) (:) quó(h!jj)ni(hg)am(g) in(h)tra(gf)vé(fg/h_g/hihhg)runt(h.) (,) a(h/jjjh)quae(ghG'Fghg.) (;) us(hj)que(h) ad(hg) á(h_g)ni(f)mam(fg~) me(ghG'FgvFE)am.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "13**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "328",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

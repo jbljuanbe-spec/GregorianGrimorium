@@ -1,0 +1,31 @@
+{
+  "id": "caritas-dei-nostris-alleluia-6242",
+  "incipit": "Caritas Dei... nostris, alleluia",
+  "title": "Caritas Dei... nostris, alleluia",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Caritas Dei diffúsa est in córdibus nostris, allelúia, per inhabitántem Spíritum ejus in nobis, allelúia, allelúia. ℣. Dómine, Deus salútis meæ: in die clamávi, et nocte coram te. Glória E u o u a e.",
+  "gabc": "(c4) Ca(gj)ri(j)tas(j) (::) De(j)i(hih) (;3) dif(g)fú(hjh//jjv)sa(ghGFEf) est(fe) (;) in(f) cór(e!fh)di(h)bus(h) no(hghf)stris,(df) (;) al(fg~)le(gf)lú(egffv)ia,(fe) (:) per(fgf) in(ef)ha(g)bi(g)tán(gh/jh//fhf/gh)tem(g) (;) Spí(hhg)ri(hg)tum(f) e(e!fg)jus(g) (;3) in(f) no(e!fgFE/fvEDe)bis,(ed) (:) al(f)le(fh/jh)lú(ghggf~)ia,(e) (;) al(g)le(ixg!hiGF//hvGFg)lú(egffv)ia.(fe) <sp>V/</sp>.(::) Dó(g)mi(hj)ne,(j) De(j)us(j) sa(j)lú(jk)tis(j) me(ih)æ:(hj) (::) in(g) di(hj)e(j) cla(j)má(j)vi,(j) (;6) et(j) no(ji)cte(hg) co(h)ram(i) te.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e.(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "261"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6242",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "confiteantur-973",
+  "incipit": "Confiteantur",
+  "title": "Confiteantur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Confiteántur Dómino * misericórdiae ejus, et mirabília ejus fíliis hóminum, allelúia.",
+  "gabc": "(c3) COn(e)fi(hg)te(h)án(i!jwk_j)tur(j_i) Dó(hi)mi(hg)no(e.) *(,) mi(f)se(ed)ri(ef)cór(fi)di(h)ae(hhg) e(ef!gv_FE)jus,(fe..) (:) et(e) mi(hg)ra(h)bí(ij)li(h)a(h) e(h!iwj!kvJI)jus(ji..) (;) fí(ij)li(h)is(f!gw!hvGE) hó(fhg/hih)mi(fe)num,(e.) (;) al(eg~)le(gv.fhg)lú(efe__)ia.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "106**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "973",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

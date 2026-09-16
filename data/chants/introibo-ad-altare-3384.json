@@ -1,0 +1,31 @@
+{
+  "id": "introibo-ad-altare-3384",
+  "incipit": "Introibo ad altare",
+  "title": "Introibo ad altare",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Introíbo * ad altáre Dei: ad Deum, qui laetíficat juventútem meam.",
+  "gabc": "(c4) IN(d)TRO(dfd)Í(f)BO(e!fg) *(,) ad(g) al(gh)tá(h)re(g) De(gh!jjh//fhf/gh)i:(g) (:) ad(dh~) De(ixhiHGhffef)um,(fe) (,) qui(e) lae(f)tí(gfh)fi(g)cat(fffdgvFE) (,) ju(f)ven(f)tú(ef!gwhg)tem(gv//efDCd) (,) me(fd/f!gwhgh//ghFE)am.(egf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[199]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3384",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

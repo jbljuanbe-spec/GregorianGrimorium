@@ -1,0 +1,31 @@
+{
+  "id": "justus-ut-palma-intr-108",
+  "incipit": "Justus ut palma (Intr.)",
+  "title": "Justus ut palma (Intr.)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Justus * ut palma florébit: sicut cedrus Líbani multiplicábitur: plantátus in domo Dómini, in átriis domus Dei nostri. T. P. Allelúia. allelúia. Ps. Bonum est confitéri Dómino * et psállere nómini tuo, Altíssime. Glória Patri E u o u a e",
+  "gabc": "(c4) JU(d!ffd/fff)stus(ed__) *() ut(cd) pal(c!d'f)ma(fvvED') flo(d)ré(d!ew!fvED)bit:(dff'f//fff) (;) si(c)cut(d) ced(f)rus(g) Lí(f)ba(gh)ni(h.) (,) mul(h)ti(h)pli(h)cá(hjhhg)bi(hggfg)tur:(fg..) (:) plan(df)tá(fff/g_f)tus(f) in(f) do(fg)mo(gffd) Dó(d)mi(dff'f/g_f)ni,(f.) (;) in(f) á(fgf__)tri(f)is(f) do(fg)mus(gff) De(d)i(c!fff) no(d_c/fff/ced)stri.(d.) <i>T. P.</i>(::) Al(c!d'f~)le(f_e)lú(fgf)ia.(fffddc.) (,) al(df~)le(fefd)lú(ded__)ia.(d.) <i>Ps.</i>(::) Bo(f)num(gh) est(h) con(h)fi(h)té(hj)ri(h) Dó(h)mi(hg)no(gh..) *(:) et(gf) psál(gh)le(h)re(h) nó(h)mi(h)ni(h) tu(h)o,(hjh) Al(g')tís(f)si(fff)me.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[45]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "108",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

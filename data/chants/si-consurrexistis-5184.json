@@ -1,0 +1,31 @@
+{
+  "id": "si-consurrexistis-5184",
+  "incipit": "Si consurrexistis",
+  "title": "Si consurrexistis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Si consurrexístis cum Christo, quæ sursum sunt quǽrite, allelúia, ubi Christus est in déxtera Dei sedens: quæ sursum sunt sápite, allelúia.",
+  "gabc": "(c2) Si(dfddc) (::) con(c)sur(e)re(f)xí(g)stis(f) cum(e) Chri(ghgh)sto,(ghg) (;) quæ(g) sur(ig/h!ij)sum(h) sunt(g) (;3) qu<sp>'ae</sp>(hgh)ri(fe)te,(d) (;) al(dfe)le(fv//dfc)lú(cdc)ia,(c) (:) u(c)bi(de) Chri(e)stus(ede) est(dc) (;) in(c) déx(de)te(e)ra(ec) De(eg)i(g) (;4) se(fhGFEf)dens:(fe) (:) quæ(g) sur(ig/h!ij)sum(h) sunt(g) (;4) sá(hgh)pi(fe)te,(c) (;) al(df)le(fgf//egf;1dfef//dfc)lú(cdc)ia.(c) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "206"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5184",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

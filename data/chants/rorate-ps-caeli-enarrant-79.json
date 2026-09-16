@@ -1,0 +1,37 @@
+{
+  "id": "rorate-ps-caeli-enarrant-79",
+  "incipit": "Rorate... Ps. Caeli enarrant",
+  "title": "Rorate... Ps. Caeli enarrant",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Roráte * cæli désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem. Ps. Cæli enárrant glóriam Dei: * et ópera mánuum ejus annúntiat firmaméntum. Glória Patri E u o u a e",
+  "gabc": "(c4) RO(ixcd)rá(dh'!iv)te(h') *(,) cæ(hjjh)li(h_g) dé(h!iwj)su(j.i!jwkjk)per,(kj..) (;) et(f) nu(ixhih)bes(g) plu(jjh)ant(h.) ju(g_f/hvGF/gf)stum:(f.) (:) a(f)pe(g)ri(h)á(h!iwj)tur(g) ter(fgF'D)ra,(d.) (;) et(dfe) gér(fg)mi(g)net(fgFD.) Sal(d!ewf)va(ced)tó(ded___)rem.(d.) <i>Ps.</i>(::) Cæ(f)li(gh) e(h)nár(h)rant(h) gló(hj)ri(h)am(h) De(hg)i:(gh..) *(:) et(gf) ó(gh)pe(h)ra(h) má(h)nu(h)um(h) e(h)jus(h.) (,) an(h)nún(h)ti(h)at(hjh) fir(g')ma(f)mén(fff)tum.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(dc/df..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "21"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "353"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "79",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

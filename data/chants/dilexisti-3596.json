@@ -1,0 +1,31 @@
+{
+  "id": "dilexisti-3596",
+  "incipit": "Dilexisti",
+  "title": "Dilexisti",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dilexísti * justitiam, et odísti iniquitátem. ℣. Proptérea unxit te Deus, Deus tuus, óleo * laetítiae.",
+  "gabc": "(c4) DI(c)LE(dc)XÍ(cg)STI(gv//fffddc) *(,) ju(c)sti(cgeg/hjh!iwj)ti(ghg)am,(g) (;) et(f) o(gh)dí(jj/kjk)sti(kjj) (,) i(gh)ni(h)qui(hjh)tá(g)tem.(f/ghffd//gvgf/gjhhg) <sp>V/</sp>.(::) Prop(gf)tér(gf)e(hj)a(jjjvHG/hjjlvKJI/jg) (;) un(gh)xit(hg) te(g) De(gf/ghffd)us,(d) (,) De(gg)us(g) tu(ghg)us,(g) (;) ó(g)le(fg)o(gggvED/eg//hvGFg) *(,) lae(gf)tí(gf)ti(hj)ae.(jjk//iijhhg) (,) (ijGF//h!iwjji gjh/ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[45]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3596",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

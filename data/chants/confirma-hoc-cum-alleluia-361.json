@@ -1,0 +1,37 @@
+{
+  "id": "confirma-hoc-cum-alleluia-361",
+  "incipit": "Confirma hoc cum Alleluia",
+  "title": "Confirma hoc cum Alleluia",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Confírma * hoc Deus, quod operátus es in nobis: a templo tuo, quod est in Jerúsalem, tibi ófferent reges múnera, allelúia.",
+  "gabc": "(c4) COn(d!ewf)fír(f)ma(e'!fg) *() hoc(ix/ghf___//ih/igh) De(e )us,(egf/gffe.) (;) quod(f) o(fgff)pe(df)rá(fff/ghg)tus(gef) es(e_d) (,) in(gh) no(g/jjj)bis:(hjhhg.) (:) a(g) temp(gh)lo(h_g) tu(ix/gih'/ivGF' )o,(gffe.) (;) quod(f_e/f_g) est(ix/hig'/hvF'E) (,) in(gh) Je(gjh)rú(ghf/ghg)sa(fd)lem,(ev./fgfgd.) (:) ti(df/gef)bi(f.) óf(ix/f_e/hih'/ih//)fe(hhgh)rent(g.) re(df/gef)ges(f.) (,) mú(fge___)ne(f/ghf)ra,(ff/ghg.___) (;) al(hg~)le(ix/h_f/ih/igh//)lú(e)ia.(egf/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "295"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "882"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "361",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

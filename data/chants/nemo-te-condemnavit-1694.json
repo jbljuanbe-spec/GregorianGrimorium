@@ -1,0 +1,31 @@
+{
+  "id": "nemo-te-condemnavit-1694",
+  "incipit": "Nemo te condemnavit",
+  "title": "Nemo te condemnavit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Nemo * te condemnávit, múlier? Nemo, Dómine. Nec ego te condemnábo: jam ámplius noli peccáre.",
+  "gabc": "(c3) NE(e)MO(ehg) *() te(h) con(i)dem(h)ná(hg)vit,(fg~) mú(e)li(de)er?(e) (;) Ne(h)mo,(h) Dó(h)mi(fh!ivHGh)ne.(hg) (:) Nec(h) e(ij)go(i) te(g) con(h)dem(f)ná(e)bo:(fhg) (;) jam(gh) ám(i)pli(hg)us(e) no(ef)li(g) pec(fg)cá(e)re.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "117"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1694",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

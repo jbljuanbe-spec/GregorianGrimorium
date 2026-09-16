@@ -1,0 +1,31 @@
+{
+  "id": "constitues-eos-5091",
+  "incipit": "Constitues eos",
+  "title": "Constitues eos",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine, in omni progénie et generatióne.",
+  "gabc": "(c4) Con(dg)stí(g!hji)tu(jkj)es(jvIH) (::) e(hj/kjjvIH)os(hjhhg) (;) prín(jkj)ci(jvIH)pes(hg) (;3) (ixih/igh) (;) su(ef)per(g) o(hg//jki/jvHG)mnem(gfh) ter(ghfg)ram:(f) (:) mé(ffd/fhg)mo(g)res(gh/jh) (;3) e(fd//fhg)runt(e!fg) (;) nó(gh/jij)mi(gj)nis(jjhj) (;3) tu(jjvHGF//ixg/hiHGh)i,(hg) (;3) Dó(g)mi(ghg)ne,(g) (:) in(hji) o(jkj/ijh)mni(ih) (;4) pro(dg)gé(gjjv)ni(hg)e(g) (;) et(gf~) ge(e/fg)ne(fh/jgh)ra(ef)ti(g)ó(gh//jvIH)ne.(hjHGF) (;) (ffhGFE/fe) (;4) (gfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "6*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5091",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "benedicimus-deum-391",
+  "incipit": "Benedicimus Deum",
+  "title": "Benedicimus Deum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Benedícimus * Deum cæli, et coram ómnibus vivéntibus confitébimur ei: quia fecit nobíscum misericórdiam suam.",
+  "gabc": "(c4) BE(h)ne(gf)dí(gh)ci(g)mus(e.) *(,) De(gef)um(ed/fg!hvGF/ghg) cæ(egff)li,(fe..) (:) et(h) co(g)ram(h) ó(g_f)mni(gh)bus(h) vi(h)vén(gh)ti(gh)bus(g_e) (,) con(e)fi(gef)té(dgf)bi(df)mur(fgF'D) e(f!gw!hgh)i:(hg..) (:) qui(gef)a(e_d) fe(fgef)cit(e_d) no(ixh)bís(jh/hgi)cum(h_g/hih.___) (;) mi(h)se(ghfg)ri(f_e)cór(e!f'g)di(g)am(hg/gf/ghg) su(egff)am.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "310"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "912"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "391",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

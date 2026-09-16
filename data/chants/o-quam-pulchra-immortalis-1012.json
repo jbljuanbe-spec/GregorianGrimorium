@@ -1,0 +1,31 @@
+{
+  "id": "o-quam-pulchra-immortalis-1012",
+  "incipit": "O quam pulchra... immortalis",
+  "title": "O quam pulchra... immortalis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. O quam pulchra est casta generátio cum claritáte: immortális est enim memória * illíus.",
+  "gabc": "(c4) AL(cd~)le(d!ew!fvEC.ef!gvFED'C)lú(ee)ia.(d.) *(;) <i>ij.</i>(ixhghvGF//gighhvGF'ED.) (,) (cf!ghhvF'ED'C//efd.) <sp>V/</sp>.(::) O(d!ew!fvEC.efd) quam(dc~) pul(f!gwhhghvGF)chra(ixgig/hi) est(h.) (;) ca(hjIG.ijh)sta(h) ge(h)ne(ghGF)rá(e!gh)ti(fe)o(dc) cum(c) cla(cd)ri(c!dffd/fgF'EC'd)tá(d!ewfd)te:(d.) (:) im(hgh)mor(jk)tá(jvIH'Gijh)lis(gh) est(hg) e(ghG'FE)nim(gh..) (,) me(fe)mó(gvF'ED'evDC;//d/ff/ghg)ri(fe)a(dc) *() il(cd)lí(d!ew!fvEC.ef!gvFED'Cee)us.(c.) (;) (ixhghvGF//gighhvGF'ED.) (,) (cf!ghhvF'ED'C//efd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "130**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1012",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

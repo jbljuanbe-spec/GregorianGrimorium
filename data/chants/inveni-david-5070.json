@@ -1,0 +1,31 @@
+{
+  "id": "inveni-david-5070",
+  "incipit": "Inveni David",
+  "title": "Inveni David",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum.",
+  "gabc": "(c3) In(c)vé(e!fg)ni(f) (::) Da(f)vid(fhffe) ser(g)vum(giHGh) me(fgf)um,(f) (:) ó(hhi)le(h)o(h) san(h)cto(hg) me(h)o(hiHG//hvGFE/fe) (;) un(hhf~)xi(h) e(hiHG)um:(h) (:) ma(hhi)nus(h) e(h!iji)nim(ih) me(fhhf//ivHGh)a(hg) (;) au(h)xi(h)li(hg)á(hi)bi(f)tur(eed) e(fhFE/fvEDe)i,(ed) (:) et(ef) brá(e)chi(ef/hg)um(gf) me(hg)um(hig//hvFEf) (;) con(e)for(f)tá(fhhf//ivHGh)bit(gf) e(effe)um.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "393"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5070",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

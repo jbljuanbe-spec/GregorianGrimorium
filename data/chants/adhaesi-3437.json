@@ -1,0 +1,31 @@
+{
+  "id": "adhaesi-3437",
+  "incipit": "Adhaesi",
+  "title": "Adhaesi",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Adhaesi * testimóniis tuis, Dómine: in corde me o abscóndi elóquia tua. ℣. Bonum mihi lex oris tui, super míllia auri * et argénti.",
+  "gabc": "(c4) AD(d)HAE(ffg)SI(f) *(,) te(f)sti(f)mó(fg)ni(f)is(f) tu(ghgh)is,(gv//fgFD) (,) Dó(dgf/gh)mi(g)ne:(ixg//hiGFfd/fgf) (:) in(h) cor(jjk~)de(j) me(jkh) o(hgh) (,) ab(h)scón(ixhv//fg!hi~)di(hgh) (,) e(jjh)ló(jj)qui(h)a(h) tu(hggfg)a.(f!gwhgh/jvvHF/gwhg/hjhh/fgf) <sp>V/</sp>.(z0::c3) Bo(hh)num(h) mi(ig/hvFE//f!gwhhi)hi(h) (;) lex(hi) o(ijIH)ris(h) tu(hiHF)i,(f!hi//hi/jhh/iih) (:) su(f)per(fi) míl(i)li(h)a(ie/fv) au(f!hi)ri(hg) *(,) et(f!gh) ar(ef)gén(gxhfge)ti.(de/gf/gh//fgED/efeed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[125]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3437",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

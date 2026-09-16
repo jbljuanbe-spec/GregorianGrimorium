@@ -1,0 +1,37 @@
+{
+  "id": "ego-sum-pastor-cum-alleluia-95",
+  "incipit": "Ego sum pastor (cum Alleluia)",
+  "title": "Ego sum pastor (cum Alleluia)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ego sum * pastor bonus, allelúia: et cognósco oves meas, et cognóscunt me meae, allelúia, allelúia.",
+  "gabc": "(f3) E(ggh)go(f!gwh) sum(he~) *() pa(ggh)stor(hf~) bo(gihi)nus,(ggh.) (,) al(g)le(e)lú(ghG~'F~)ia:(f.) (:) et(e) co(fg~)gnó(g)sco(f/giffe) o(gi)ves(h) me(ijI'G)as,(g.) (;) et(e) co(fg~)gnó(g)scunt(f) me(e) me(e!fg)ae,(ggf.) (;) al(f)le(f)lú(ede)ia,(c.) (,) al(ef~)le(f)lú(fgf___)ia.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "265"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "819"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "95",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

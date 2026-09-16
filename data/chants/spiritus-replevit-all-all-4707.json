@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-replevit-all-all-4707",
+  "incipit": "Spiritus... replevit... all. all.",
+  "title": "Spiritus... replevit... all. all.",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Spíritus Dómini replévit orbem terrárum, allelúia: et hoc, quod cóntinet ómnia, sciéntiam habet vocis, allelúia, allelúia. ℣. Confírma hoc Deus quod operátus es in nobis: a templo sancto tuo, quod est in Jerúsalem. Glória E u o u a e",
+  "gabc": "(c4) Spí(d)ri(fhg)tus(gh) (::) Dó(h)mi(ghGFg)ni(gf) (;) re(fh)plé(jjk)vit(j) or(klk~)bem(j) ter(jjv)rá(h)rum,(jjv) (;) al(h)le(hfhg)lú(ghg)ia:(g) (::) et(fg) hoc,(gjjv) (;3) quod(g) cón(gh/jij)ti(hiHGh)net(hg) ó(g!hj)mni(j)a,(j) (;) sci(j)én(j)ti(kj)am(jjv/hih) (;3) ha(kl)bet(j) vo(jjv)cis,(h) (:) al(fh)le(j)lú(ji//jhj)ia,(ijHG) (;) al(gh)le(hfhg)lú(ghg)ia.(g) <sp>V/</sp>.(::) Con(g)fír(h)ma(gj) hoc(j) De(j)us(j) (;3) quod(j) o(j)pe(j)rá(j)tus(ji) es(jk) in(k) no(jk)bis:(j) (::) a(j) tem(hj)plo(j) san(j)cto(j) tu(j)o,(j) (;3) quod(j) est(ji) in(gh) Je(ji)rú(h)sa(g)lem.(g) (::) Gló(g)ri(h)a(gj) (::) E(j) u(ji) o(gh) u(ji) a(h) e(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "75*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4707",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

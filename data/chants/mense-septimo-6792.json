@@ -1,0 +1,31 @@
+{
+  "id": "mense-septimo-6792",
+  "incipit": "Mense septimo",
+  "title": "Mense septimo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Mense séptimo festa celebrábitis, cum in tabernáculis habitáre fécerum fílios Israël, cum edúcerem eos de Terra Ægýpti, ego Dóminus Deus vester.",
+  "gabc": "(f3) Men(hg~)se(fh) (::) sép(hg)ti(fh)mo(h) (;) fe(hhg)sta(fe) ce(f)le(hg)brá(f)bi(f!ghGF)tis,(fh) (:) cum(e) in(f) ta(h)ber(h)ná(hi)cu(h)lis(h) (;3) ha(g)bi(h)tá(i)re(ig) fé(h)ce(g)rum(f) (;) fí(h)li(hvGF)os(fh) Is(e)ra(f)ël,(fhGF) (:) cum(g) e(h)dú(i)ce(i)rem(g) e(h)os(g) de(f) Ter(gh)ra(g) Æ(f)gýp(ef)ti,(e) (:) e(h)go(hvGE) Dó(f)mi(g)nus(f) (;) De(h)us(gh/ihiHG) ve(fg/hgh)ster.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "334"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6792",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

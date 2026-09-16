@@ -1,0 +1,31 @@
+{
+  "id": "audi-israel-872",
+  "incipit": "Audi Israel",
+  "title": "Audi Israel",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes 1974",
+  "text_latin": "Audi * Israel: Ecce vénio, ego Dóminus, et absólvo peccáta plebis tuae.",
+  "gabc": "(c4) AU(gdf_//efDC f/ghg/hjIHjvIGh)di(g.) *() Is(g)ra(i!jwk)el:(k.) (,) Ec(k)ce(ik) vé(j)ni(ijhhg)o,(g.) (,) e(i.h!iwj)go(hf) Dó(giHGhg)mi(fg)nus,(g.) (:) et(g) ab(gh)sól(h/jjh/jlKJkjjg)vo(hg__) (,) pec(h)cá(jvIHjvIGh)ta(gf__) (;) ple(hf/gh/jjh/jlKJIGhwi)bis(hih) tu(ghg__)ae.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "30"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "872",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

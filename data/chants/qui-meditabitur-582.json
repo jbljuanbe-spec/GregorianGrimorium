@@ -1,0 +1,31 @@
+{
+  "id": "qui-meditabitur-582",
+  "incipit": "Qui meditabitur",
+  "title": "Qui meditabitur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Qui meditábitur * in lege Dómini die ac nocte, dabit fructum suum in témpore suo.",
+  "gabc": "(c4) QUI(ed) me(gh)di(g)tá(hj)bi(j)tur(j.) *(,) in(j) le(j)ge(ih) Dó(i/jkj)mi(j)ni(ig) (,) di(h)e(gf) ac(ixf!gh/ig/h_g) noc(egff//)te,(fe..) (:) da(h//)bit(ghg) fruc(h!iwj)tum(g_f) su(ef!gvFEfvED)um(fd/efef.) (,) in(de) tém(gh)po(g)re(g.d!ewf) su(egff)o.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "90"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "582",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

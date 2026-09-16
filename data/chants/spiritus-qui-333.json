@@ -1,0 +1,37 @@
+{
+  "id": "spiritus-qui-333",
+  "incipit": "Spiritus qui",
+  "title": "Spiritus qui",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": "G",
+  "version": "Solesmes",
+  "text_latin": "SPíritus * qui a Patre procédit, allelúia: ille me clarificábit, allelúia, allelúia.",
+  "gabc": "(c4) SPí(f)ri(fg)tus(g.) *(,) qui(g) a(g') Pa(g)tre(f') pro(h)cé(gj)dit,(j.) al(i')le(j)lú(k_l)ia:(k.) (;) il(l)le(k) me(ji) cla(h)ri(hk)fi(j)cá(ji)bit,(g.) (;) al(g_)le(g_)lú(f_e)ia,(d_') al(f)le(gh)lú(g.)ia.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "299"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "233"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "333",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

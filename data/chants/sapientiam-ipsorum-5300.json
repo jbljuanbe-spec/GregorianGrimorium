@@ -1,0 +1,31 @@
+{
+  "id": "sapientiam-ipsorum-5300",
+  "incipit": "Sapientiam ipsorum",
+  "title": "Sapientiam ipsorum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet ecclésia.",
+  "gabc": "(c3) Al(e)le(ef)lú(fgf~)ia.(e) (::) (efefe//fhGE) (;) (giHGFE//fe) (;) (fhGFE/ffe) <sp>V/</sp>.(::) Sa(e)pi(fh)én(h)ti(hg)am(fe//fgffe) (;) i(ei)psó(ihhgh)rum(hg) (;) nar(e)rent(gf) pó(hg)pu(fe)li,(e) (;1) (fhg//hihhg) (;) et(eh) lau(h)dem(hg) e(fg)ó(fe)rum(e) (;1) (fgffe) (::) nún(ef)ti(e)et(e) ec(e)clé(e)si(fg)a.(gefe) (;) (fhGFE//ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "426"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5300",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

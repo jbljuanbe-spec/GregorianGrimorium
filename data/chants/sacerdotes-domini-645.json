@@ -1,0 +1,43 @@
+{
+  "id": "sacerdotes-domini-645",
+  "incipit": "Sacerdotes Domini",
+  "title": "Sacerdotes Domini",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Sacerdótes * Dómini incénsum et panes ófferunt Deo: et ídeo sancti erunt Deo suo, et non pólluent nomen ejus, allelúia.",
+  "gabc": "(c4) SA(f)cer(d!ewf//)dó(f)tes(e'!fg) *() Dó(ixghf___//ih/igh)mi(e)ni(egf/gffe.) (;) in(f)cén(fgf)sum(ff) et(df~) pa(fff/ghg/gef)nes(e_d) (,) óf(gh)fe(g/jjj)runt(hjh/hg) De(gh)o:(hg..) (:) et(ixgih'/ivGF') íd(g//)e(f)o(f_e) (,) san(e!f'g~)cti(g) e(ixhig//)runt(ghF'E) (;) De(gh)o(gjh) su(ghf/ghg)o,(gvFD//ef/gfgd.) (:) et(df/gef) non(f) pól(ixef/hiHG' )lu(hg/gfg)ent(g_d) (,) no(df/gef)men(f) e(fgf___)jus,(f.) (;) al(f!gwhg~)le(ixh_f/ih/igh//)lú(e)ia.(egf/gf/fe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[98]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "319"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "949"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "645",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

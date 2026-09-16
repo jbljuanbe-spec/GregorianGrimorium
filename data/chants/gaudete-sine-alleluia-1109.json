@@ -1,0 +1,31 @@
+{
+  "id": "gaudete-sine-alleluia-1109",
+  "incipit": "Gaudete sine Alleluia",
+  "title": "Gaudete sine Alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Gaudéte * justi in Dómino: rectos decet collaudátio.",
+  "gabc": "(c4) GAu(d_c~)dé(cd!fvED)te(d!ewf.) *() ju(ixdh!ivGFhg/hi)sti(h.) (,) in(fh) Dó(h_f/hhg)mi(g_e/fgf__)no:(fgFD.) (:) re(g_d/ghg__jvIHig)ctos(g.) de(fgFE'fwgfg)cet(gf..) (,) col(fg)lau(fvED)dá(d)ti(de!fvED'e)o.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "107**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1109",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

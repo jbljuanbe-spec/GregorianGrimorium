@@ -1,0 +1,31 @@
+{
+  "id": "averte-faciem-4930",
+  "incipit": "Averte faciem",
+  "title": "Averte faciem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Avérte fáciem tuam a peccátis meis, et omnes iniquitátes meas dele: quia afflíctus, et humiliátus sum nimis: et cor meum conturbátum est in me.",
+  "gabc": "(c4) Al(dh)le(gvFE;4gh/ijIH)lú(hihhg~)ia.(gh) (::) (de/fg//gvFE//fvED/evDCd) (;) (hhf//gd//fe//ddc) (;) (ffv//ghGE/feed) <sp>V/</sp>.(::) A(cd)vér(d//efDC;1gffe)te(d) (;) fá(dc)ci(d)em(fd) tu(efe)am(e) (;) a(d) pec(e!fg)cá(gf)tis(ed//efe) me(ded)is,(d) (:) et(d) o(fe~)mnes(fg) i(g)ni(h)qui(ixi)tá(hg)tes(g) (;3) me(hghGF)as(ed) de(efd)le:(d) (:) qui(c)a(d) af(fe)flí(fg)ctus,(ixg/hihhg) (;) et(f) hu(hghGF)mi(gvFE)li(d)á(d!gh)tus(gf) (;) sum(eggvFE) ni(dggvFED//efd)mis:(d) (:) et(hg) cor(h) me(gf)um(gh//jh/ixig//hvGF/gh) (;) (jkh//ig//hvGF/ghhv) (;) (ixivGF//gfg//hjh) (;) con(d)tur(d!h>)bá(hvGFE//fd)tum(cd) est(d) (::) in(dhGFE) (;4) (iygh/ijIH) me.(hiHGh) (;) (de/fg//hvGE//feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "107*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4930",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

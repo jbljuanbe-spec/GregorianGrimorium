@@ -1,0 +1,31 @@
+{
+  "id": "tu-puer-3570",
+  "incipit": "Tu puer",
+  "title": "Tu puer",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Tu, puer, prophéta Altíssimi vocáberis: praeíbis ante Dóminum paráre vias * ejus",
+  "gabc": "(f3) AL(e)LE(f)LÚ(hi~)IA.(ih/iggf) *(,) <i>ij.</i>(hviji/ef/hf//hv//ghe/hhhf!gwhf) <sp>V/</sp>.(::) Tu,(fe/f!gwh!iv) pu(jiihi)er,(iv//hh/fgf) (,) pro(f)phé(f!hh/ijHF/ivHGE/f//hfhhf/ge)ta(e) (;) Al(f)tís(ffe/ffe/fc,ef!hvvFE/hhhi)si(h)mi(h) (,) vo(ivHGh)cá(f)be(fgf)ris:(f) (:) prae(f)í(f!hi/jiihi)bis(iv//hh/fgf) (,) an(fg~)te(f) Dó(f!hh/ijHF/ivHGEf//hfhhf/ge)mi(f)num(e) (;) pa(hh)rá(h)re(h) vi(h)as(hi) *() e(ih/jij)jus(jvvIHGE//f!gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "464"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3570",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

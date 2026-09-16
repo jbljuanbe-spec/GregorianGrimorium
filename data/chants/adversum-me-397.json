@@ -1,0 +1,31 @@
+{
+  "id": "adversum-me-397",
+  "incipit": "Adversum me",
+  "title": "Adversum me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Advérsum me * exercebántur, qui sedébant in porta: et in me psallébant, qui bibébant vinum: ego vero oratiónem meam ad te, Dómine: tempus benepláciti, Deus, in multitúdine misericórdiae tuae.",
+  "gabc": "(c3) AD(f)vér(d)sum(fh~) me(hiih) *(,) ex(hh)er(gxfg)ce(fe)bán(fg)tur,(fg) (,) qui(e) se(d)dé(gxfg)bant(fg) in(e) por(d!ewf)ta:(e.) (;) et(fh) in(hf~) me(hi) psal(gxh)lé(fg)bant,(fg) (,) qui(e) bi(d)bé(gxfg)bant(fe~) vi(gxfg)num:(f.) (:) e(h)go(f) ve(hih)ro(gxfgf.) (,) o(f)ra(d)ti(ef)ó(gxfg)nem(f) me(feede)am(ed..) (;) ad(gxg) te,(gxfg!hvG'FE'fw!gvFE') Dó(d)mi(de!fvED'e)ne:(ed..) (:) tem(gxfg)pus(f_e) be(efe')ne(d)plá(gxfgf')ci(e)ti,(hg/h_g) De(gxfg!hvGF'g)us,(gf..) (;) in(f) mul(hg~)ti(h)tú(i)di(h)ne(hhivF'De.) (,) mi(d)se(e)ri(f)cór(gxfhvGEhvGF)di(ef)ae(fge___!fw!gvFE) tu(de!fvED'e)ae.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "189"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "397",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

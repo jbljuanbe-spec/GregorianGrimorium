@@ -1,0 +1,31 @@
+{
+  "id": "dominus-dabit-6204",
+  "incipit": "Dominus dabit",
+  "title": "Dominus dabit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dominus dabit benignitátem: et terra nostra dabit fructum suum.",
+  "gabc": "(c4) Do(ffv)mi(fhg)nus(ghFE//fvEDC/dc) (::) da(ffv)bit(fg) be(fd)ni(f)gni(gh)tá(h/ixjkJHi)tem:(ih) (:) et(h) ter(ghg)ra(ef) no(ghhg)stra(g) (;) da(hv//fhg//hvFED)bit(dfddc) (;) fru(fgf~)ctum(ed//fgFEf) su(ded)um.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "4"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6204",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

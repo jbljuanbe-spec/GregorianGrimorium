@@ -1,0 +1,37 @@
+{
+  "id": "emitte-spiritum-99",
+  "incipit": "Emitte Spiritum",
+  "title": "Emitte Spiritum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Emítte Spíritum tuum, et creabúntur: et renovábis fáciem * terrae.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh//)ia.(ix/hiHG'gf.) *(,) <i>ij.</i>{}(ix/hiHG'ge./ghGF'E/f_gf/fe.) <sp>V/</sp>.(::) E(h)mít(h)te(ixg'//ivHG'/hffe.) (,) Spí(fh)ri(ghg'/hf)tum(ed~) tu(egF'D)um,(d.) (:) et(dc~) cre(f)a(ghg//)bún(ix/hiG'E/g./hiF'D/fffd/gvFE. , df/h_f/g_e/fv.df!gv/ef~//)tur:(e.) (:) et(f) re(f)no(f)vá(ef)bis(f) fá(e!f'g)ci(gd/gvFE)em(e.) *(,) ter(fd/ef!g'h//)rae.(ix/hiHG'/gf.) (,) (ix/hiHG'/ge./ghGF'E/f_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "293"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "879"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "99",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

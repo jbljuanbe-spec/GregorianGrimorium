@@ -1,0 +1,31 @@
+{
+  "id": "erit-vobis-1433",
+  "incipit": "Erit vobis",
+  "title": "Erit vobis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Erit * vobis hic dies memoriális, allelúia: et diem festum celebrábitis solémnem Dómino in progénies vestras: legítimum sempitérnum diem, allelúia, allelúia, allelúia.",
+  "gabc": "(c4) E(dgf/gh)RIT(g) *() vo(gh/ig)bis(gih/ivGEg) (,) hic(e!gh) di(hiHGh)es(hg) (;) me(f)mo(g)ri(h)á(hjjj/kj)lis,(j) (,) al(ixj)le(jkjjh//jjjh!iw!jvIG/hw!ivHG)lú(f!gh)ia:(gf) (:) et(f) di(g)em(h) fes(jkj)tum(jjj) ce(h)le(g)brá(jj)bi(hiHGh)tis(hg) (;) so(gh)lém(hggf~)nem(gv//fh/ihhg~) Dó(ghGF)mi(fe)no(e) (;) in(c) pro(d)gé(e)ni(c)es(d) ves(f!gwhgh)tras:(gf) (;) le(f)gí(fhg)ti(f)mum(fffddc~) sem(d)pi(ff)tér(fgffd~)num(f) di(feede)em,(ed) (:) al(ff)le(dfe)lú(fff)ia,(dcd) (,) al(ff)le(d/fffvDC)lú(cd)ia,(ccd//ceDC) (;) al(c)le(cd//fge//gh/fff//fgff/ixg!ii//iijvIHFg , ixiiig//hiFD/fv////ff/gf)lú(fg!hvGF)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "217"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1433",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

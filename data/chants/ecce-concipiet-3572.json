@@ -1,0 +1,31 @@
+{
+  "id": "ecce-concipiet-3572",
+  "incipit": "Ecce concipiet",
+  "title": "Ecce concipiet",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Ecce concípiet, et páriet fílium * Jesum Christum.",
+  "gabc": "(c4) AL(c!df)LE(fgvEDfv//efd)LÚ(dc/eed~)IA.(d) *(;) <i>ij.</i>(fg!hvGFgff//e!fwg//efd!ew!fvECewfd) <sp>V/</sp>.(::) Ec(hfh)ce(hf/hg) con(f)cí(fg)pi(fvEDe)et,(ed) (;) et(dg) pá(gvFEDewfe)ri(de)et(dc) fí(cd!ewf!gv)li(f)um(efEDed) *(,) Je(c!df)sum(fgvEDfv//efd) Chri(dc/eed)stum.(d) (;) (fg!hvGFgff//e!fwg/efd!ew!fvECewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[119]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3572",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

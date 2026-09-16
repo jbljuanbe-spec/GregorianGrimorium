@@ -1,0 +1,31 @@
+{
+  "id": "virga-jesse-3504",
+  "incipit": "Virga Jesse",
+  "title": "Virga Jesse",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Virga Jesse flóruit: Virgo Deum et hóminem génuit: pacem Deus réddidit, in se reconcílians * ima summis.",
+  "gabc": "(c3) AL(c)LE(ee)LÚ(efehvGFge//fvEDC)IA.(e) *(;) <i>ij.</i>(iijh/iie//giHGFge/ffe) <sp>V/</sp>.(::) Vir(eefehvGFf)ga(e) Jes(ei)se(jh/iig/fge) fló(e)ru(fvEDC)it:(e) (:) Vir(e!fg)go(fh//giHGFge) (,) De(ef/hefvEDC)um(e) (;) et(e) hó(ef/hg/fhg)mi(f)nem(g) gé(hgh)nu(fefvEDC)it:(e) (:) pa(ii)cem(e) De(ijIHi)us(ig) réd(i)di(hvGF)dit,(hvGFge) (;) in(e) se(fg) re(g)con(i)cí(hvGFge)li(fvEDC)ans(e) *(;) i(c)ma(ee) sum(efehvGFge//fvEDC)mis.(e) (;) (iijh/iie//giHGFge/ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[86]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3504",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

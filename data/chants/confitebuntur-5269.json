@@ -1,0 +1,31 @@
+{
+  "id": "confitebuntur-5269",
+  "incipit": "Confitebuntur",
+  "title": "Confitebuntur",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Confitebúntur cæli mirabília tua, Dómine: et veritátem tuam in ecclésia * sanctórum, allelúia, allelúia.",
+  "gabc": "(c2) Con(c)fi(ce/gf)te(f)bún(fgf)tur(f) (::) cæ(f!ghg//iiji)li(hg) (;) mi(cg)ra(g)bí(g!hih)li(gf)a(f//ivHGF/fe) (;4) tu(cg)a,(giiv) (;) Dó(fh/ig)mi(fe//f!ghGFg)ne:(ghGF/fe) (:) et(c) ve(ce/gf)ri(f)tá(f)tem(fef) (;1) tu(fhg/ffd//gf)am(fgFE) (;) in(dfe) ec(f)clé(g)si(f)a(fhghf) *(;4) san(ed~)ctó(fgffc//ffgf)rum,(f) (:) al(gf~)le(gv//ff/gfgffc;1dffv)lú(dc~)ia,(cdCB) (;) al(bd)le(f!ghf;3hghffc//dffv;hvGF/fvED;1fvED//evDC)lú(c!ded~)ia.(dc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "20*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5269",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

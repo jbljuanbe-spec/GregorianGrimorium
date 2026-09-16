@@ -1,0 +1,31 @@
+{
+  "id": "tu-domine-servabis-5604",
+  "incipit": "Tu, Domine, servabis",
+  "title": "Tu, Domine, servabis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tu Dómine servábis nos: et custódies nos a generatióne hac in ætérnum.",
+  "gabc": "(c4) Tu(g) Dó(hji/jk)mi(h!ijIHGh)ne(hg) (::) ser(gh~)vá(hf)bis(gh) nos:(e) (:) et(g) cu(h)stó(ji/jk)di(hg)es(g) nos(gh/iih) (;) a(h) ge(h)ne(hf)ra(gh)ti(h)ó(ghfg)ne(f) hac(e!fg) (;) in(g) æ(hggf//ghg)tér(egffv)num.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "104"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5604",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ipse-invocabit-me-483",
+  "incipit": "Ipse invocabit me",
+  "title": "Ipse invocabit me",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ipse invocábit me: * Pater meus es tu: Deus meus, et suscéptor salútis meae. ℣. Et ego primogénitum ponam illum: excélsum prae régibus terrae. ℣. Et ponam in saéculum saéculi semen ejus: et thronum ejus sicut dies * caeli.",
+  "gabc": "(f3) I(f)pse(efE'C) in(efe)vo(fh)cá(h)bit(hhhvGF) me:(gf..) *(;) Pa(e)ter(fe) me(eh)us(hgg) es(fe) tu:(ef/gf/ggf/gh/iffe.) (:) De(gh)us(f) me(f_e/f!gwh'!iv)us,(hg/hiih.) (;) et(e) su(fh)scé(gh/ijH'F)ptor(fihhg) sa(fe)lú(f)tis(hh) (,) me(h_iH'F)ae.(f/hhhivHE'f/ggf.) <sp>V/</sp>.(::) Et(ef) e(hi)go(f.) pri(e)mo(f)gé(hi)ni(hghvG'Fg)tum(g_f) (,) po(f)nam(i) il(jiif/hhf/jvIH'hvGF)lum:(fe/ggf/gh/iffe.) (:) ex(f)cél(f_e/f!gwh'!iv)sum(hg/hiih.) (,) prae(i) ré(e)gi(f)bus(hg) ter(hvGF)rae.(fefECfef/ggf.) <sp>V/</sp>.(::) Et(ef) po(h/ihhf/hh/ijhhg/ihhggf!gwhgh)nam(gf..) (;) in(f) saé(hi)cu(hiH'F)lum(fi) saé(ig)cu(hiH'F)li(f!gwh.) (,) se(h)men(f) e(f/hh//hhh)jus:(fe/ggf/gh/iffe.) (:) et(e) thro(gh)num(f) e(f_e/f!gwh'!iv)jus(kxhgi./jkiih.) (;) sic(h/ihhg)ut(fe) di(fgf)es(g.) *() cae(i_hivHFg.,hjijH'GF)li.(fe/f/hh/ijI'Gh.) (,) (gh!jvIH'hvGFggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "640"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1711"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "483",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

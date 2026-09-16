@@ -1,0 +1,31 @@
+{
+  "id": "ex-ore-infantium-1497",
+  "incipit": "Ex ore infantium",
+  "title": "Ex ore infantium",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Exore * infántium, Deus, et lacténtium perfecísti laudem propter inimícos tuos. Ps. Dómine Dóminus noster: * quam admirábile est nomen tuum in univérsa terra! Glória Patri. E u o u a e.",
+  "gabc": "(f3) E{}X(f!gwh)o(egf)re(f) *() in(fhg)fán(hi~)ti(i)um,(hi~) De(if)us,(f) (,) et(fi) lac(i)tén(ij)ti(ih)um(hv//gih) (;) per(fg)fe(fe)cí(fhg)sti(hi) lau(fgFE)dem(e) (:) prop(h)ter(hhh) in(f)i(fi)mí(iv//hji)cos(ihhf) tu(fg/eh//ghf/ggf)os.(f) <i>Ps.</i>(::) Dó(e)mi(fe)ne(eh) Dó(hg)mi(hi)nus(i) nos(hi)ter:(h) *(:) quam(hf~) ad(fh)mi(h)rá(h)bi(h)le(h) est(h) no(h)men(h) tu(h)um(h) (,) in(h) u(h)ni(i)vér(hf)sa(h) ter(ge)ra!(fgf) (::) Gló(e)ri(fe)a(eh) Pa(h)tri.(h) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "37"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1497",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

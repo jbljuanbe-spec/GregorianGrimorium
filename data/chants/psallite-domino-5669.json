@@ -1,0 +1,31 @@
+{
+  "id": "psallite-domino-5669",
+  "incipit": "Psallite Domino",
+  "title": "Psallite Domino",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Psállite Dómino, qui ascéndit super cælos cælórum, ad oriéntem, allelúia.",
+  "gabc": "(c4) Psál(d)li(c)te(dfe) (::) Dó(fg)mi(gvFE/fvEDe)no,(ed) (;) qui(f) a(gh)scén(hgh)dit(h) (;) su(hji//jkj)per(h) cæ(ixgiHG)los(hg) (;4) cæ(ef)ló(giHG)rum,(hg) (;) ad(fge/fd) o(df/gh)ri(fe)én(df>)tem,(c) (:) al(fgf~)le(ed//fh//ghg;4ef/ghf//gvFE)lú(de/fef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "242"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5669",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

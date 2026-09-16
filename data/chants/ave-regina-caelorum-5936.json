@@ -1,0 +1,31 @@
+{
+  "id": "ave-regina-caelorum-5936",
+  "incipit": "Ave, Regina caelorum",
+  "title": "Ave, Regina caelorum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ave, Regína cælórum, Mater Regis Angelórum: o María flos vírginum, velut rosa, vel lílium: funde preces ad Fílium pro salúte fidélium. T. P. Allelúia.",
+  "gabc": "(c4) A(df)ve,(dc) (::) Re(f)gí(g)na(h) cæ(ixi)ló(hvGFg)rum,(fvED) (;) Ma(c)ter(d) Re(f)gis(g) An(e)ge(f)ló(evDC)rum:(d) (:) o(df) Ma(e)rí(f)a(d) flos(fe) vír(de)gi(dc)num,(c) (;) ve(e)lut(g) ro(hvGF)sa,(ed) vel(e) lí(fvED)li(c)um:(d) (:) fun(h)de(g) pre(hj)ces(g) (;4) ad(d) Fí(e)li(f)um(evDC) (;) pro(e) sa(g)lú(hvGF)te(ed) fi(e)dé(fvED)li(c)um.(d) <i>T. P.</i>(::) Al(fgf~)le(efED)lú(cd~)ia.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "81*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5936",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

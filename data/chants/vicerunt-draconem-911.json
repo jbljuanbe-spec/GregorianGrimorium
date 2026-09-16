@@ -1,0 +1,31 @@
+{
+  "id": "vicerunt-draconem-911",
+  "incipit": "Vicerunt draconem",
+  "title": "Vicerunt draconem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Vicérunt dracónem propter sánguinem Agni, et propter verbum testimónii * sui.",
+  "gabc": "(c2) AL(cd)le(cv.bd!fvED'fggvhg)lú(fg~)ia.(g.) *(;) <i>ij.</i>(fhg/ig//jh/igh//fgg) (,) (jh/igh//fgg) (;) (cd//cdb'//dfffvDCdb/c/ddc.) <sp>V/</sp>.(::) Vi(cd)cé(cv.bd!fvED'fggvhvGF)runt(g.) (;) dra(gih/ij)có(jg//ivHFhjIH'Ghi)nem(hg..) (;) pro(gvvFDfg!hvGF'g)pter(gc) sán(dc)gui(bc)nem(c) A(cdc__)gni,(c.) (:) et(g) pro(f)pter(g) ver(ij!kvJIjgjvIH'GFg.,gh!ij!kvJIjg//jvIH'GFg.;cd//cdb'//dfffvDCdbc)bum(dc..) (;) te(c)sti(c)mó(dc)ni(bc)i(c.) *() su(bd!fvED'fggvhvGF)i.(g.) (;) (fhg/ig//jh/igh//fgg) (,) (jh/igh//fgg) (;) (cd//cdb'//dfffvDCdb/c/ddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "125**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "911",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

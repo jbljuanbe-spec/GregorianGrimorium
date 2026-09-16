@@ -1,0 +1,31 @@
+{
+  "id": "hic-est-discipulus-1663",
+  "incipit": "Hic est discipulus",
+  "title": "Hic est discipulus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Hic est discípulus ille, qui testimónium pérhibet de his: et scimus quia verum est testimónium * ejus.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(ih/iggf) *(,) <i>ij.</i>(hviji/ef/hf//hv//ghe/hhhf!gwhf) <sp>V/</sp>.(::) Hic(fe/f!gwh!iv//jiihi) est(iv//hh/fgf) (,) di(f)scí(fg)pu(f)lus(f) il(f!hh/ijHFivHGEf/hfhhf/ge)le,(e) (:) qui(f) tes(e)ti(f)mó(f)ni(f)um(f) pér(f)hi(ffe/ffe/fc,ef!hvhvFEhhi)bet(h) de(ivHGhf) his:(f) (:) et(f) sci(f!hi/jiihi)mus(iv//hh/fgf) (,) qui(fg)a(f) ve(f!hh/ijHFivHGEf/hfhhf/ge)rum(f) est(e) (;) tes(hh)ti(h)mó(h)ni(h)um(hi) *() e(hg/jij)jus.(jvjvIHGE/f!gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "36"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1663",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

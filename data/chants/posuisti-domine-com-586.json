@@ -1,0 +1,31 @@
+{
+  "id": "posuisti-domine-com-586",
+  "incipit": "Posuisti Domine (Com.)",
+  "title": "Posuisti Domine (Com.)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Posuísti Dómine * in cápite ejus corónam de lápide pretióso.",
+  "gabc": "(c4) PO(c)su(d)í(ff)sti(fe/ghf') Dó(f)mi(fgf__)ne(f.) *(;) in(f) cá(ixf!gwh'!iv)pi(h)te(h') e(j)jus(hhg) co(h!iwj)ró(h_g!hvGF'g)nam(gf..) (;) de(fv.egf) lá(fg)pi(deDC'd)de(d_c) pre(f)ti(gfhvGF)ó(fgf__)so.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[10]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "586",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

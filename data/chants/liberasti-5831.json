@@ -1,0 +1,31 @@
+{
+  "id": "liberasti-5831",
+  "incipit": "Liberasti",
+  "title": "Liberasti",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Liberásti in bráchio tuo pópulum tuum, fílios Israël et Joseph.",
+  "gabc": "(c2) Al(cd)le(c)lú(cfe//gh)ia.(g) (::) (fg//ihiHG/hg) (;) (hihig//hffdf) (;) (ef!ghGFE) (;4) (fvDC//deddc) <sp>V/</sp>.(::) Li(cd)be(c)rá(cfe//gh)sti(g) (;) in(g) brá(fg)chi(g)o(gi) (;3) tu(jiivHG)o(g//hf//gvFE/fe) (;) pó(cg)pu(g)lum(g//hvGF/fvED//efEDf) (;4) tu(cdc)um,(d) (:) fí(cfe//gh)li(g)os(g) (;3) Is(gh!ij)ra(jk)ël(gv//ig//hih//ivHG/hg) (::) et(fe) Jo(fgfg)seph.(g) (;3) (f!giHG//hvFE) (;4) (fvDC//deddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "100*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5831",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

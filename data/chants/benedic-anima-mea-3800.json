@@ -1,0 +1,31 @@
+{
+  "id": "benedic-anima-mea-3800",
+  "incipit": "Benedic anima mea",
+  "title": "Benedic anima mea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Bénedic ánima mea Dóminum, et ómnia interióra mea nomen sanctum * ejus.",
+  "gabc": "(c4) AL(fd~)LE(e!fg)LÚ(hgh)IA.(ixhiHG/gf) *(,) <i>ij.</i>(ixhiHG/ge//ghGFE/fgffe) <sp>V/</sp>.(::) Bé(h)ne(h)dic(ixgivHG/hffe) (,) á(fd/ef!ghhg)ni(fg)ma(gh) me(hggf/ghg)a(gd) Dó(egfg)mi(fe)num,(e) (:) et(f) ó(gh)mni(gf)a(g) in(g)te(gh)ri(f)ó(df)ra(f) me(fv//fffdgvFE,df/hf/gefv//df!gvFEf)a(fe) (;) no(fd)men(f) sanc(e!fg)tum(gd/gvFD) *() e(fd/ef!gh)jus.(ixhiHGgf) (,) (ixhiHGge//ghGFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[196]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3800",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

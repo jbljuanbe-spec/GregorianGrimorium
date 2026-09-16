@@ -1,0 +1,37 @@
+{
+  "id": "gloriosa-dicta-sunt-1004",
+  "incipit": "Gloriosa dicta sunt",
+  "title": "Gloriosa dicta sunt",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Gloriósa * dicta sunt de te, María: quia fecit tibi magna qui potens est.",
+  "gabc": "(c4) GLo(gg)ri(gh)ó(hvGFg.h!iwjg)sa(g.) *(,) di(g!jj)cta(j) sunt(kij) de(h) te,(hvGF') Ma(h)rí(hjI'G)a:(g.) (:) qui(g)a(hih) fe(g)cit(e) ti(ffg)bi(gvFED.) ma(f/gh/jg)gna(g.) (,) qui(f) pot(ghg/h!jjh)ens(hig) est.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "404"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1319"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1004",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

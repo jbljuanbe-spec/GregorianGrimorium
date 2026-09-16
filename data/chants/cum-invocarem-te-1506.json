@@ -1,0 +1,31 @@
+{
+  "id": "cum-invocarem-te-1506",
+  "incipit": "Cum invocarem te",
+  "title": "Cum invocarem te",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Cum invocárem te, * exaudísti me, Deus justítiae meae: in tribulatióne dilatásti me: miserére mihi Dómine, et exáudi oratiónem meam.",
+  "gabc": "(f3) CUM(f) in(f!gwh)vo(hf)cá(h)rem(iji~) te,(j) *(,) ex(j)au(ijIG)dí(hi)sti(i) me,(h) (;) De(h)us(fgffe) jus(f)tí(hi)ti(ji)ae(hg) me(fg!hvGFg)ae:(gf) (:) in(f) tri(h)bu(ij)la(i)ti(i)ó(ihi)ne(f!gwh) (;) di(h!ij)la(j)tá(jij)sti(i) me:(hg/hiih) (:) mi(h)se(iji)ré(j)re(ig) mi(i)hi(hi) Dó(h)mi(fgFEf)ne,(fe) (;) et(f) ex(fe)áu(fgef)di(efEC) (,) o(c)ra(ef)ti(e)ó(hh)nem(ig/hg) me(fg!hvGFg)am.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "84"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1506",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

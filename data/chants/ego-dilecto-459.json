@@ -1,0 +1,37 @@
+{
+  "id": "ego-dilecto-459",
+  "incipit": "Ego dilecto",
+  "title": "Ego dilecto",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ego dilécto meo, * et diléctus meus mihi, qui páscitur inter lília.",
+  "gabc": "(c4) E(g)go(f) di(e)lé(ghgh)cto(fg) me(gef)o,(e_d) *(;) et(gh) di(gf)lé(gh)ctus(g) me(hj)us(jij) mi(hgh)hi,(h.) (;) qui(dh) pá(ixhi)sci(h)tur(ghg) in(fg)ter(d!ewf) lí(e)li(egff)a.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "629"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1692"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "459",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

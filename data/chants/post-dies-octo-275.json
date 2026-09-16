@@ -1,0 +1,37 @@
+{
+  "id": "post-dies-octo-275",
+  "incipit": "Post dies octo",
+  "title": "Post dies octo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Post dies octo, jánuis clausis, stetit Jesus in médio discipulórum suórum, et dixit: * Pax vobis.",
+  "gabc": "(c3) AL(e)le(ef//efE'D)lú(df!hvv/ij)ia.(i.) *(;) (hi/jh//j_i/jvIH./fhG'E/ffe.) (;) (df!hvv/ijh//j_i/jvIH./fhG'E/ffe.) (,) (df!hvv/ijIH'/hvG'FE/ffe.) <sp>V/</sp>.(::) Post(ef) di(hg)es(hi) o(ij/kj/kvJI/jk)cto,(ji..) (;) já(ihh)nu(f)is(fhG'Fg) clau(efe___)sis,(e.) (:) ste(e)tit(ehg) Je(hih)sus(i.) (;) in(i) mé(ij/kj/kvJI/jk)di(ji)o(i.) (,) di(i)sci(ij)pu(i)ló(ihh)rum(f) su(fhG'Fg)ó(efe___)rum,(e.) (:) et(e) di(e)xit:(ef//efE'D) *(,) Pax(df/h_f) vo(h!i'j)bis.(i.) (;) (hi/jh//j_i/jvIH./fhG'E/ffe.) (;) (df!hvv/ijh//j_i/jvIH./fhG'E/ffe.) (,) (df!hvv/ijIH'/hvG'FE/ffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "262"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "810"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "275",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

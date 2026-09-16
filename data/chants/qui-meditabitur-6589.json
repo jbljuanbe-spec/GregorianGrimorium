@@ -1,0 +1,31 @@
+{
+  "id": "qui-meditabitur-6589",
+  "incipit": "Qui meditabitur",
+  "title": "Qui meditabitur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Qui meditábitur in lege Dómini die ac nocte, dabit fructum suum in témpore suo.",
+  "gabc": "(c4) Qui(ed) me(gh)di(g)tá(hj)bi(j)tur(j) (::) in(j) le(j)ge(ih) Dó(i!jkj)mi(j)ni(ig) (;) di(h)e(hf) ac(ixfg/highg) no(egffv)cte,(fe) (:) da(h)bit(hg) fru(hj)ctum(ghg) su(ef!gFE//fvED)um(fd/efef) (;) in(de) tém(gh)po(g)re(gdf) su(egffv)o.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "74"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6589",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

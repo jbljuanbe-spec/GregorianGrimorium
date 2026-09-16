@@ -1,0 +1,31 @@
+{
+  "id": "qui-meditabitur-2807",
+  "incipit": "Qui meditabitur",
+  "title": "Qui meditabitur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Qui meditábitur * in lege Dómini die ac nocte, dabit fructum suum in témpore suo.",
+  "gabc": "(c4) Qui(ed) me(gh)di(g)tá(hj)bi(j)tur(j.) *(,) in(j) le(j)ge(ih) Dó(i!/jkj)mi(j)ni(ig) (,) di(h)e(gf) ac(ixf!gh!/ig!/h_g) no(egff)cte,(fe..) (:)\r\nda(h)bit(ghg) fru(h!iwj)ctum(g_f) su(ef!gvFEfvED)um(fd!/efef.) (,) in(de) tém(gh)po(g)re(g.d!ewf) su(egff)o.(fe..) (::)",
+  "transcriber": "Jacques Peron",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "74"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "2807",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

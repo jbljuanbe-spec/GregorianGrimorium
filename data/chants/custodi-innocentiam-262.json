@@ -1,0 +1,31 @@
+{
+  "id": "custodi-innocentiam-262",
+  "incipit": "Custodi innocentiam",
+  "title": "Custodi innocentiam",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Custódi innocéntiam, et vide aequitátem: quóniam sunt relíquiae hómini * pacífico.",
+  "gabc": "(c4) AL(d)le(df/gf/efd)lú(ixf!gwh!ivHG)ia.(gh..) *(,) <i>ij.</i>(d!ffe/fg!hvGF//ghg'/hf/gffe.) <sp>V/</sp>.(::) Cu(h)stó(h)di(ixgih'ivGF'gffe.) (,) in(fd)no(ef)cén(gh)ti(ixhiHG'hwihi)am,(ih..) (;) et(h) vi(h)de(ghg) ae(fd)qui(dgff)tá(egff)tem:(fe..) (:) quó(fd/ef!gh)ni(ixhiHG'hi)am(hg..) (,) sunt(gh) re(hg)lí(ghG'E)qui(f!gw!hvGF'EfvED'e)ae(ed..) (;) hó(ef!gvFEfvED)mi(d!ewfef)ni(ed..) *() pa(dc)cí(f!gwh)fi(ixhiH'G)co.(gh..) (,) (d!ffe/fg!hvGF//ghg'/hf/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "529"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "262",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tu-puer-133",
+  "incipit": "Tu puer",
+  "title": "Tu puer",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tu, puer, * prophéta Altíssimi vocáberis: praeíbis enim ante fáciem Dómini paráre vias ejus.",
+  "gabc": "(f3) TU,(f!h'i) pu(jijh)er,(hhh) *(,) pro(hf)phé(hj)ta(j) Al(j)tís(j)si(jij)mi(hi/jh.) (,) vo(hjij//hi/jhhg)cá(f)be(fg!hvGF'g)ris:(gf..) (:) prae(i)í(kxj.i!jwk)bis(j) e(i'/jii)nim(f.) (,) an(f!hhh)te(f) fá(fihi)ci(i)em(ijij) Dó(hihi)mi(f)ni(fef.) (;) pa(f)rá(ffeffef)re(fc..) (,) vi(ef!hvvF'E/hhh)as(ivH'Gh) e(fgf__)jus.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "525"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1502"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "133",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

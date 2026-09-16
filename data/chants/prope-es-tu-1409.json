@@ -1,0 +1,31 @@
+{
+  "id": "prope-es-tu-1409",
+  "incipit": "Prope es tu",
+  "title": "Prope es tu",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Prope es tu * Dómine, et omnes viae tuae véritas: inítio cognóvi de testimóniis tuis, quia in aetérnum tu es. Ps. Beáti immaculáti in via: * qui ámbulant in lege Dómini. Glória Patri. E u o u a e.",
+  "gabc": "(c4) PRO(dfe)PE(f) es(f) tu(e!fg) *() Dó(h)mi(ghGFEf)ne,(fe) (;) et(f) om(g)nes(f) vi(gh)ae(g) tu(g)ae(e) vé(fg)ri(f)tas:(egff) (:) i(dec)ní(df)ti(f)o(f) co(fff)gnó(gf!gwhgh)vi(hg) (,) de(f) tes(e)ti(f)mó(g)ni(fe)is(fvED) tu(efED)is,(ed) (;) qui(f)a(fc) in(d) ae(f)tér(fg)num(f) (,) tu(ffd/ffgvFE/gvFE) es.(e) <i>Ps.</i>(::) Be(hg)á(gh)ti(h) im(h)ma(h)cu(h)lá(hg)ti(gi) in(i) vi(hi)a:(h) *(:) qui(hg) ám(gh)bu(h)lant(h) in(h) le(h)ge(gf) Dó(gh)mi(g)ni.(e) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e.(egff) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "10"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1409",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

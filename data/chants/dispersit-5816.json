@@ -1,0 +1,31 @@
+{
+  "id": "dispersit-5816",
+  "incipit": "Dispersit",
+  "title": "Dispersit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi.",
+  "gabc": "(c4) Al(d!efe~)le(ddc)lú(f//ghGFgh~)ia.(h) (::) (ixgiHGF) (;4) (eg/hvGE/fd) (;) (ce//gvgef) (;4) (eg/hvGE/fd) (;1) (efEC//ffd) <sp>V/</sp>.(::) Di(h)spér(gf)sit,(e) (;4) (ce/gv//gvFED//c!deDCd) (;) de(dfe//ghg)dit(fvED//c!deDCd) (;4) pau(d)pé(fe)ri(fg)bus:(ed) (:) ju(d)stí(dfddc//f!ghGF)ti(gh)a(h) (;) e(ixhg//ivHGF;4eg//hvGE/fd;ce//gvgef;4eg//hvGE/fd)jus(d) (;1) ma(fvEC//efd)net(d) (::) in(d) s<sp>'ae</sp>(dfddc//f!ghGF)cu(gh)lum(h) (;) s<sp>'ae</sp>(hvGE/fd)cu(cd)li.(d) (;4) (efEC//ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "524"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5816",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

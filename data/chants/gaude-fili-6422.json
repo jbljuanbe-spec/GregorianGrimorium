@@ -1,0 +1,31 @@
+{
+  "id": "gaude-fili-6422",
+  "incipit": "Gaude, fili",
+  "title": "Gaude, fili",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Gaude fili Hyacínthe, quia tuæ a Fílio meo exaudiúntur preces: et quidquid peténdum dúxeris, me interveniénte consequéris.",
+  "gabc": "(c4) Al(ddc~)le(egECd;1egED//efED)lú(d/cd~)ia.(d) (::) (dhhvGE//fvED) (;4) (ce/fgED//ffd) (;) (ceev//cddv//ce//gvvFD/ee) (;) (dfe//gvED//ffd) <sp>V/</sp>.(::) Gau(cd~)de(dfddce//fgED//ffd) fi(dccd)li(d) (;) Hya(dh)cín(ixh!ivHG//hvGE//fvED)the,(dfddc) (:) qui(dc)a(d) tu(fe//f!ghFED)æ(d) (;) a(e!fgf) Fí(ed//ffd)li(cd)o(d) me(d!efd)o(d) (;) ex(f)au(c)di(d)ún(dh//jvjggf//gh;gh//jkJIHGh;hkkj//klJIHGh;gh//jkIH//jjh)tur(h) (;) pre(hvGE//fvED;4ce//ghGEf)ces:(ed) (:) et(h) quid(h)quid(g) pe(h)tén(jk//jkj/hih//gj;3gj//ijh//iih)dum(h) (;) dú(hjh//jjik//kvJI)xe(h!ij)ris,(ih) (;) me(dh) in(h)ter(h)ve(h)ni(hg)én(hvGE//fvED;4ce//ghGEf)te(ed) (::) con(dc~)se(egECd;4egED//efED)qué(dcd)ris.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "552"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6422",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

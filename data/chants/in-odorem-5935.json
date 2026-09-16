@@ -1,0 +1,31 @@
+{
+  "id": "in-odorem-5935",
+  "incipit": "In odorem",
+  "title": "In odorem",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "In odórem suavitátis suscípiam vos, cum edúxero vos de pópulis, et sanctificábor in vobis in óculis natiónum.",
+  "gabc": "(c4) In(f) o(dfd)dó(fv//e!fgFE//fvED)rem(fd/efe) (::) su(f)a(dfe)vi(f)tá(gffvED//gvFE//gvFE)tis(e) (;) su(d!fh)scí(g)pi(fg)am(fgFE) vos,(f) (:) cum(dfc) e(dfef)dú(ef/gfg)xe(d)ro(d) (;4) (ffgd//ffvED) vos(ed) (;) de(f!hj) pó(gh)pu(egffv)lis,(fe) (:) et(hg) san(hg//hvGE)cti(fg/hgh)fi(f)cá(fdf)bor(f) (;) in(fhGFD//gvFED) vo(d!efd)bis(d) (:) in(d) ó(ef!gh)cu(g)lis(g//hvGFE/fvED) (;) na(ffd//gvFE)ti(gf//hggf//ghg)ó(egffv)num.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "519"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5935",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

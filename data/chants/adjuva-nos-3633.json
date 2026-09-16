@@ -1,0 +1,31 @@
+{
+  "id": "adjuva-nos-3633",
+  "incipit": "Adjuva nos",
+  "title": "Adjuva nos",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Adjuva nos, * Deus salutáris noster: et propter honórem nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum. ℣. Nequándo dicant gentes: Ubi est Deus eórum? et innotéscat in natiónibus coram óculis nostris. ℣. Víndica sánguinem servórum tuórum, qui effúsus est: intret in conspéctu tuo gémitus * compeditórum.",
+  "gabc": "(f3) AD(f)JU(f)VA(efEC) nos,(ef//ef/hghvvGFggf) *(;) De(hhi)us(f) sa(f)lu(fe)tá(h)ris(h!ij) no(jvIHGhvGFg)ster:(gf) (;) et(f) pro(f)pter(h) ho(hg)nó(h)rem(f) nó(fg)mi(f)nis(f) tu(f)i,(fe) Dó(fg)mi(f)ne,(f) (,) lí(f)be(f!hh//hhh)ra(fg) nos:(fe/ggf/gh/iffe) (:) et(e) pro(e)pí(gh)ti(f)us(f) e(fg)sto(f) (,) pec(f)cá(fg)tis(f) no(fe/f!gwh!iv)stris,(hg/hiih) (;) pro(i)pter(e) no(f)men(hg~) tu(hvGF)um.(fefEC//fef/ggf) <sp>V/</sp>.(::) Ne(h)quán(i)do(hiHF) di(hi)cant(igi) gen(hvGF)tes:(fe/ggf/gh/iffe) (;) U(gh)bi(f) est(f) De(fg)us(f) e(f)ó(fe/f!gwh!iv)rum?(hg/hiih) (:) et(i) in(i)no(e)té(fh)scat(h) in(h) na(h)ti(h)ó(gh!ijh)ni(f)bus(f!gwhg) (;) co(hvGF)ram(fef) ó(eh)cu(h)lis(gh/ihi) no(f)stris.(f/ggf) <sp>V/</sp>.(::) Vín(kxh!iwj!kv)di(j)ca(j) sán(j)gui(ji)nem(ij) (,) ser(h)vó(hf)rum(h) tu(h!ij)ó(jvIHGhvGFg)rum,(gf) (;) qui(f) ef(i)fú(jiif/hhfjvIHhvGF)sus(fg) est:(fe/ggf/gh/iffe) (:) in(gh)tret(f) in(f) con(f)spé(fg)ctu(f) tu(fe/f!gwh!iv)o(kxhgi/jkiih) (;) gé(hi)mi(h)tus(hihhg) *() com(fe~)pe(fgf)di(g)tó(ihivHFg,hjijHGF)rum.(fe/f!hh/ijIGh) (,) (gh!jvIHhvGFggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[102]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3633",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

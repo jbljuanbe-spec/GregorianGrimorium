@@ -1,0 +1,31 @@
+{
+  "id": "de-excelso-3859",
+  "incipit": "De excelso",
+  "title": "De excelso",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. De excélso misit ignem in óssibus meis, * et erudívit me.",
+  "gabc": "(c4) AL(d)LE(df/gf/efd)LÚ(ixf!gwh!ivHG)IA.(gh) *(,) <i>ij.</i>(d!ffe/fg!hvGF//ghg/hf/gffe) <sp>V/</sp>.(::) De(h) ex(h)cél(hg~)so(ixgih/ivGF/gffe) (,) mi(fd/ef!gh)sit(h) i(ixhiHG/hwihi)gnem(ih) (;) in(g) ós(gh)si(hg)bus(ghGE) me(f!gw!hvGFE/fvED/ewfef)is,(ed) *(:) et(d) e(f)ru(ef!gvFE/fvED/ewfef)dí(ed)vit(ixf!gwh!ivHG) me.(gh) (,) (d!ffe/fg!hvGF//ghg/hf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "435"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3859",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

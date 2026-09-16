@@ -1,0 +1,37 @@
+{
+  "id": "in-omnem-terram-570",
+  "incipit": "In omnem terram",
+  "title": "In omnem terram",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "In omnem terram * exívit sonus eórum: et in fines orbis terrae verba eórum.",
+  "gabc": "(c4) IN(e!g'h) om(hiH'G/)nem(g.ggg//hihi) ter(ghE'D , de/ghg___//hi/k_i/j_kh)ram(h.) *(;) ex(jj)í(j_i)vit(jjj_h) so(hjjh)nus(h.) e(gh)ó(hjj'jjh//kjjh/ig)rum:(g.) (:) et(jj) in(j) fi(kjjh)nes(h) or(g!jjj)bis(j) ter(hig)rae(egeg.) (;) ver(d!eg)ba(e/ghg___//ikj'/kvJ'IH) e(h)ó(h)rum.(h!iwjjvIH/iih.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "406"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1327"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "570",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

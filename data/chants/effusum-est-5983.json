@@ -1,0 +1,31 @@
+{
+  "id": "effusum-est-5983",
+  "incipit": "Effusum est",
+  "title": "Effusum est",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Effúsum est in terra jecur meum super contritióne fíliæ pópuli mei, cum defíceret párvulus, et lactens in platéis óppidi. ℣. Laudáte púeri Dóminum, paudáte nomen Dómini. Glória E u o u a e.",
+  "gabc": "(c3) Ef(ef)fú(f)sum(fdfe) est(e) (::) in(fh) ter(h)ra(h) (;) je(hf)cur(hji) me(ihhfhe)um(e) (;) su(ef/hgh)per(h) con(h)tri(h)ti(fh)ó(hg//hiffe)ne(e) (;) fí(e!fhg)li(h)æ(g!hi) pó(i)pu(ijh)li(fh) me(hi)i,(h) (:) cum(hg) de(h)fí(hji)ce(hg)ret(h) pár(h)vu(hhv)lus,(e) (;4) et(f) la(fhffv)ctens(d) (;) in(ef) pla(e)té(ef//hihi)is(ihhfh) óp(e)pi(efe)di.(e) <sp>V/</sp>.(::) Lau(ehg)dá(hi)te(i) pú(ik)e(j)ri(j) Dó(j)mi(ji)num,(ij) (::) pau(ig)dá(hi)te(i) no(i!jkj)men(i) Dó(h)mi(hg)ni.(fe) (::) Gló(ehg)ri(hi)a(i) (::) E(i) u(i!jkj) o(i) u(h) a(hg) e.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "522"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5983",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

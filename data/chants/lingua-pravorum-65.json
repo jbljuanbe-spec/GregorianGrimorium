@@ -1,0 +1,31 @@
+{
+  "id": "lingua-pravorum-65",
+  "incipit": "Lingua pravorum",
+  "title": "Lingua pravorum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Lingua pravórum períbit: lingua autem sapiéntium * est sánitas.",
+  "gabc": "(c3) AL(e.f!gw!hvEC)le(fe)lú(h.i!jw!kvJI'H)ia.(i.) *(;) (hi/jijIHiwj!kvJI.) (,) (hi/jijIH'/iwj!kvJIG'gf/hiivHF'E.) (,) (gf/hiivHF'Ef_gffe.) <sp>V/</sp>.(::) Lin(e.f!gw!hvGE)gua(fe) pra(h)vó(h.i!jw!kvJI'H)rum(i.) (;) pe(ih)rí(hi/jijIH'iwj!kvJI. , hi/jijIH'iwj!kv)bit:(ji..) (:) lin(jvIG)gua(gf) au(hiivHFE.gf/hiivHF'Efg)tem(fe..) (,) sa(hg)pi(hi)én(i!jw!kvJI)ti(hi)um(i.) *(;) est(ih) sá(hi/jijIH'iwj!kvJI.,hi/jijIH'iwj!kvJIG'gf/hiivHFE.,gf/hiivHF'Efg)ni(ed)tas.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "34**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "65",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

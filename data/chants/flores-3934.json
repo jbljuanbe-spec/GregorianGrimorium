@@ -1,0 +1,31 @@
+{
+  "id": "flores-3934",
+  "incipit": "Flores",
+  "title": "Flores",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia, * ij. ℣. Flores apparuérunt in terra * nostra.",
+  "gabc": "(c4) AL(cd~)LE(d/efd/feed)LÚ(fg!hvhg)IA,(ghGE//ghGFED/ewfd) *(;) <i>ij.</i>(ce!gvvFE//ghGFED//efefd) <sp>V/</sp>.(::) Flo(dhhgh)res(h!iw!jvIHG/ge/gh) (,) ap(h)pa(hg)ru(h)é(h/jkJI/jkJH//gjjh;dhhgh//jkJI/jkJH//gjjh,dhhhvGF//ghGE)runt(ed) (;) in(efe) ter(cd~)ra(d) *() nos(fg!hvhg)tra.(ghGE//ghGFED/ewfd) (;) (ce!gvvFE//ghGFED//efefd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[131]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3934",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

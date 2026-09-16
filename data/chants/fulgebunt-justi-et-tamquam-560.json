@@ -1,0 +1,31 @@
+{
+  "id": "fulgebunt-justi-et-tamquam-560",
+  "incipit": "Fulgebunt justi et tamquam",
+  "title": "Fulgebunt justi et tamquam",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Fulgébunt justi, et tamquam scintíllae in arundinéto discúrrent * in aetérnum.",
+  "gabc": "(c4) AL(cd~)le(de/feed)lú(g_e/fgFE'e)ia.(d.) *(;) <i>ij.</i>(f!gwhgge/gvF'ED'hggegvF'ED.) (;) (cfe/fgF'ED.ce/gff'fvEDeed.) <sp>V/</sp>.(::) Ful(cd~)gé(de!fvED'dc//ef!gvgf)bunt(ed/ffe) ju(ded__)sti,(d.) (:) et(ixdhhivHG'hvGE'fvED.) tam(c)quam(e!f'g~) scin(gvF'ED.fgF'Ef)tíl(d!ef)lae(ed..) (;) in(h) a(h)run(g)di(h)né(j_k/jkj//hih/gi//gj/ijh/iih)to(h.) (;) dis(dffe/ffegvF'Ef)cúr(d!ef)rent(ed..) *(,) in(f!gwhg) ae(gegvF'ED')tér(hgge/gvF'ED.;cfe/fgF'ED.ce/gff'fvED)num.(deed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "575"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "560",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "exaudi-domine-vocem-meam-intr-4295",
+  "incipit": "Exaudi Domine vocem meam (Intr)",
+  "title": "Exaudi Domine vocem meam (Intr)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exáudi, Dómine, vocem meam, qua clamávi ad te, allelúia : tibi dixit cor meum, quæsívi vultum tuum, vultuum tuum, Dómine, requíram : ne avértas fáciem tuam a me, allelúia, allelúia. ℣. Dóminus illuminátio mea, et salus mea, quem timébo?",
+  "gabc": "(c4) Ex(ffv)áu(df)di,(f) (::) Dó(ixghg!/hi)mi(h)ne,(h) (;) vo(h)cem(f) me(ghg)am,(g) (;4) qua(f) cla(fe)má(fh)vi(g) ad(fg) te,(f) (;) al(f)le(feg)lú(fgef>)ia :(d) (:) ti(dg)bi(g) di(h)xit(g) cor(f) me(fvED)um,(df) (;) quæ(fd)sí(fh)vi(ghGF) (;4) vul(ixhihhg~)tum(hg) tu(f!ghGFg)um,(gf) (;) vul(g)tu(g)um(g) tu(g)um,(g) Dó(h)mi(g)ne,(f) re(e)quí(cd)ram :(d) (:) ne(dfEDf) a(fd)vér(fh)tas(g) (;4) fá(gh)ci(fe)em(d) tu(fg)am(fe) a(de) me,(d) (:) al(ixhi)le(h)lú(hgh>)ia,(fd) (;) al(fg>)le(ef//ghf/gvFE)lú(de/fef)ia.(ed) (::)\r\n <sp>V/</sp>. Dó(f)mi(gh)nus(h) il(h)lu(h)mi(h)ná(h)ti(h)o(h) me(h)a,(h) (;4) et(h) sa(hj)lus(h) me(hg)a,(gh) (::) quem(hjh) ti(g)mé(fe)bo?(d) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "242"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4295",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

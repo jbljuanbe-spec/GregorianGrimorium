@@ -1,0 +1,37 @@
+{
+  "id": "ecce-virgo-1144",
+  "incipit": "Ecce virgo",
+  "title": "Ecce virgo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ecce virgo * concípiet, et páriet fílium: et vocábitur nomen ejus Emmánuel. T. P. Allelúia.",
+  "gabc": "(c4) EC(d)ce(dfe) vir(fg)go(d.) *(,) con(ce)cí(gh)pi(g_f)et,(fv.efd.) (;) et(de) pá(gh!jj/kh)ri(gh)et(h) fí(h)li(h!iwjh)um:(h.) (:) et(h_g) vo(jj)cá(h_g)bi(ixihi)tur(gh/i_h) (,) no(fe)men(f) e(ixg!hw!ivHG)jus(hg..) (,) Em(fge___/ed)má(d!ewf!g'h)nu(fvED)el.(d.) <i>T. P.</i>(::) Al(fg~)le(e_d/fh/ghg/e!fg/hf/gvFE)lú(d!ew!fef)ia.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "23"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "356"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1144",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

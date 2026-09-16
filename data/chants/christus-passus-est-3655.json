@@ -1,0 +1,31 @@
+{
+  "id": "christus-passus-est-3655",
+  "incipit": "Christus passus est",
+  "title": "Christus passus est",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Christus passus est pro nobis, vobis relínquens exémplum, ut sequámini vestígia * ejus.",
+  "gabc": "(c4) AL(cd~)LE(dv//c!df)LÚ(fgED/evDC/ee)IA.(d) *(;) <i>ij.</i>(ef!gv//ijHG/hv//GFhv//efeed) (;) (d!ewf!gvgf/ghhgh) (,) (fh!jvHGE/f//ghEDC/feed) <sp>V/</sp>.(::) Chri(deDC/ef!gvgf)stus(ed) pas(fg!hvGF)sus(gh) est(ixhih) (;) pro(gh) no(hg/hvGFg)bis,(evDC//ef!gvFE/feed) (;) vo(c)bis(de) re(edf)lín(ed)quens(d) e(dh)xém(hv//gh!jv//ijh/ivHG/iih~)plum,(h) (:) ut(h) se(d)quá(hhhvGF/gvFED//efd)mi(cd)ni(dfe) (,) ves(fg)tí(gf/ghg)gi(fe)a(e) *() e(d!ewf!gvgf)jus.(ed) (;) (fg!hv//ijHG/hvGF/hv//efeed) (;) (d!ewf!gvgf/ghhgh) (,) (fh!jvHGE/f//ghEDC/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "418"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3655",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

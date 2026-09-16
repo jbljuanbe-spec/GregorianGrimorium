@@ -1,0 +1,31 @@
+{
+  "id": "lauda-anima-mea-3318",
+  "incipit": "Lauda anima mea",
+  "title": "Lauda anima mea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. ℣. Lauda, ánima mea, Dóminum : laudábo Dóminum in vita mea : psallam Deo meo, quámdiu ero.",
+  "gabc": "(c3)Al(d!ef)le(f_e/f!gwhg)lú(fh/hh)ia.(hi/HF/fe.) (;) (gh//ef/ED.//f!gwh/hg////ehf/gf/fe.) (::)\r\n<sp>V/</sp>. Lau(hv_//gih)da,(h) á(h)ni(h)ma(h) me(hg)a,(g) Dó(gh!ivivHF/hfg)mi(hg)num :(g.) (;) lau(gf~)dá(hji)bo(h) Dó(gh)mi(fe)num(e.) (,) in(eh~) vi(h/hg)ta(e.) me(gxfg/FD.//eg/FE/fe)a :(e.) (:) psal(e)lam(e) De(feh)o(h.) me(hfh'/GE//fh/FD//gxgvFE//f.//hhh/ij/HF.,gig___/ivHG'/he.//gxf_e/g_e//gvFE/fd)o,(d.) (;) quám(fd~)di(ef)u(f) e(hg/hfh)ro.(gh/FE.,df/hvFE//d.f!gwhg/hvGF/g.////egf/gvE'd/efe.,gxh/hvFE/fg/ED.//gyh/hvFE/fgf/fe.) (::)",
+  "transcriber": "Benjamin Bloomfield",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "355"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3318",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

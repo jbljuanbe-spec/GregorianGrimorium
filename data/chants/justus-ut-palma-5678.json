@@ -1,0 +1,31 @@
+{
+  "id": "justus-ut-palma-5678",
+  "incipit": "Justus ut palma",
+  "title": "Justus ut palma",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Justus ut palma florébit, sicut cedrus Líbani multiplicábitur.",
+  "gabc": "(c4) Al(c)le(dfdf)lú(ef//gvFE/fg~)ia.(g) (::) (hvGF//gvFE) (;4) (f!ghGF//gvFECd) (;) (dfEDC//ddc) (;) (ghFED) (;1) (de/fg//ef/gddce) (;) (ghFED//efefd) <sp>V/</sp>.(::) Ju(hhg)stus(ge) (;4) (fgf//gddc) (;) ut(cd) pal(e!fg)ma(ge//gh) (;4) flo(fvED)ré(d//c!deDC/de)bit,(d) (:) si(dede)cut(ce) ce(gh//jg//he;fvED//fege;4fvEC//edfd;gv//e!fg)drus(e) (;1) Lí(fde)ba(cd/ef)ni(ed) (::) mul(c)ti(dfdf)pli(f)cá(ef!gvFE)bi(fg)tur.(g//hvGE//feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "16*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5678",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

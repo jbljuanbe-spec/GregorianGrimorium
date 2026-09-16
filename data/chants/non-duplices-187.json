@@ -1,0 +1,31 @@
+{
+  "id": "non-duplices-187",
+  "incipit": "Non duplices",
+  "title": "Non duplices",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Non dúplices * sermónem de revelatióne sermónis abscónditi, et eris vere sine confusióne: et invénies grátiam in conspéctu ómnium hóminum. T.P. Allelúia.",
+  "gabc": "(c3) NON(e) dú(e/gih)pli(h)ces(hhh) *(,) ser(h)mó(hhh/iji/kkklk)nem(iji.) (;) de(ei) re(i)ve(i)la(i/jkj)ti(ih)ó(hkJIH'hg)ne(g_f) (,) ser(f)mó(fi)nis(i./kkk) ab(h)scón(h/kki)di(hg/hi!jvIH'i)ti,(ijIH'hg.) (:) et(e) e(e/gih)ris(h) ve(h)re(hgh.) (,) si(h)ne(g) con(h)fu(i)si(h)ó(hji/hhf/h_g)ne:(hhhiHG.) (:) et(hg) in(h)vé(i)ni(h)es(hji/jh) grá(gf/hhi)ti(hg)am(h.) (;) in(h) con(ih~)spé(h/ijhhg)ctu(e.) (,) ó(ef)mni(e)um(e) hó(eg/i_g/ijH'FghF'E,hiH'EfhhvGF'gw!hvGF)mi(ef!gvFE'f)num.(fe..) <i>T.P.</i>(::) Al(df)le(hv.iijh./ji/jhhe,f!hhhjvIH'GF//hvGFgvFE')lú(e!f'g)ia.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "37**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "187",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

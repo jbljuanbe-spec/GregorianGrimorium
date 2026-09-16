@@ -1,0 +1,31 @@
+{
+  "id": "erubescant-et-conturbentur-484",
+  "incipit": "Erubescant et conturbentur",
+  "title": "Erubescant et conturbentur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Erubéscant, * et conturbéntur omnes inimíci mei: avertántur retrórsum, et erubéscant valde velóciter.",
+  "gabc": "(c4) E(fe)ru(f)bé(ixg!hwi_h)scant,(h_g) *(,) et(gff) con(d)tur(cd~)bén(d!fff)tur(d.) (;) o(dcd)mnes(d!ewf) i(c)ni(d)mí(fe)ci(fg) me(gffef)i:(fe..) (:) a(dg)ver(g)tán(gh)tur(g) re(f)trór(d'!fg/hgh)sum,(e.) (;) et(e_c) e(d)ru(f)bé(efd)scant(d.) (,) val(cd~)de(d) ve(d)ló(ixdc/d!ff/gh!ivHG'hffe)ci(egF'E)ter.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "106"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "484",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

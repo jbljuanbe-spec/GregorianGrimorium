@@ -1,0 +1,31 @@
+{
+  "id": "salvum-fac-servum-1117",
+  "incipit": "Salvum fac servum",
+  "title": "Salvum fac servum",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Salvum fac * servum tuum, Deus meus, sperántem in te. ℣. Auribus pércipe Dómine oratiónem * meam.",
+  "gabc": "(c4) SAl(c!de!ggg)vum(evDC'dwe'!fv) fac(ed..) *(,) ser(ixcf!gv/ihi)vum(gh) tu(ixfg/h_f//hiG'FE'fggf)um,(f.) (;) De(fhg___/jjh)us(ixhi) me(ixhv.gh!ivGFghF'Dfv.fff_devDC'd)us,(dc..) (;) spe(d)rán(f)tem(fe) in(dc~) te.(fg/h_g/jjvH'GF'fd//fff/ded.___) <sp>V/</sp>.(::) Au(dh)ri(h)bus(hg) pér(ixhv.fh!ivHGhv.,f!gh/jij//h!jjjvGFh./jjh//jjg/ji)ci(h)pe(hih.___) (;) Dó(ixh_ghvfh!ivGF'E//f!gwh!ivHG)mi(hg)ne(g.) (;) o(g)ra(g)ti(g)ó(g)nem(gh) *() me(ixjhiGF'h!jjvH'G)am.(hghF'Efg..) (,) (d!ewf!gv.fhGF'ED'ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "105"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1117",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

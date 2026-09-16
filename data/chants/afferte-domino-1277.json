@@ -1,0 +1,31 @@
+{
+  "id": "afferte-domino-1277",
+  "incipit": "Afferte Domino",
+  "title": "Afferte Domino",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Afférte * Dómino, pátriae géntium, afférte Dómino glóriam et honórem, afférte Dómino glóriam nómini ejus: tóllite hóstias, et introíte in átria ejus: adoráte Dóminum in átrio sancto ejus. T. P. Allelúia.",
+  "gabc": "(c3) AF(h)fér(fh)te(hhh//hv.hhh) *() Dó(f!hhhjvIH)mi(hvGF)no,(fhG'Fh.) (;) pá(d!efivHG')tri(hggfg)ae(g_f) gén(gxdf!gvFE')ti(feede)um,(ed..) (:) af(f)fér(fe~)te(e) Dó(ef!gvgf)mi(ef!hvvFE')no(feed.) (;) gló(ef)ri(e)am(e) et(de) ho(f)nó(hih)rem,(hig'hvFE.hig'hvFE'ed.) (:) af(fh)fér(hhi)te(i) Dó(hhh)mi(hi!jvIH'GhvGF'g)no(gf..) (;) gló(h_g)ri(h)am(hi) nó(iv.hihhe)mi(fhg)ni(h) e(h_g)jus:(hig'hvFD.) (:) tól(f!hhi)li(h)te(h) hó(hh/fig/hjI'HivHF)sti(f!gwhf)as,(f.) (;) et(f) in(d)tro(f)í(hhi)te(h.) (,) in(h) á(hji)tri(hg)a(h) e(h.f!gwh/ih/ijIH)jus:(ih..) (:) a(f)do(h)rá(hhhvGE'f!hh/ih)te(h) Dó(hi)mi(hg)num(hhh) (;) in(fhg) á(hji)tri(hg)o(hhhf) sanc(fef)to(f) e(f/hhvF'EDe_fE'D)jus.(d.) <i>T. P.</i>(::) Al(fe~)le(e!hhh/ih'/ig'hvF'De. , dffef//hig'/hf)lú(ded__)ia.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[129]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1277",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

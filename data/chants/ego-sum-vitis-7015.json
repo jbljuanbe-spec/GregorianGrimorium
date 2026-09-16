@@ -1,0 +1,31 @@
+{
+  "id": "ego-sum-vitis-7015",
+  "incipit": "Ego sum vitis",
+  "title": "Ego sum vitis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ego sum vitis vera, et vos pálmites, qui manet in me, et ego in eo, hic fert fructum multum, allelúia. Extra T. P. * fructum multum.",
+  "gabc": "(c3) E(hhv)go(fh) sum(he) (::) vi(hhv)tis(g) ve(fihi)ra,(hg) (;) et(gf~) vos(e!fg) pál(fg)mi(e!fg)tes,(f) (:) qui(g) ma(i)net(h) in(ijiiv) me,(g) (;) et(h) e(i)go(h) in(gh) e(f)o,(ed/efe) (;) hic(g) fert(fg/iffe) (;3) fru(hi)ctum(h) mul(ijiih~)tum,(g) (;) al(hg~)le(fv//e!fg)lú(gffef)ia.(fe) <i>Extra T. P.</i>(::) *() fru(hg)ctum(fe/fg) mul(gffef)tum.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "455"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7015",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

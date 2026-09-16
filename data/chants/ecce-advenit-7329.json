@@ -1,0 +1,31 @@
+{
+  "id": "ecce-advenit-7329",
+  "incipit": "Ecce advénit",
+  "title": "Ecce advénit",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ecce * advénit dominátor Dóminus: et regnum in manu ejus, et potéstas, et impérium. Ps. Deus, judícium tuum Regi da: et justítiam tuam Fílio Regis. Ant. Reges, Tharsis et ínsulæ mú nera ófferent: re ges Arabum et Saba dona addúcent. Ant. Et adórabunt eum omnes reges térræ: omnes gentes sérvient ei. Ant.",
+  "gabc": "(f3) EC(ce!fg)CE(f.) *(,) ad(fe~)vé(f!gwh_f)nit(f.) (,) do(e)mi(hh)ná(h)tor(h) Dó(hiHG')mi(hggfg)nus:(gf..) (:) et(eh~) re(h)gnum(hhh) (,) in(fe~) ma(f!hhf/gf)nu(ef) e(fhhf/gv_F~E~)jus,(fe..) (:) et(f) po(hh)té(hi)stas,(f.) (,) et(fh'!iv) im(i)pé(hiHG')ri(hggfg)um.(gf..) (::) (Z) <i>Ps.</i> De(e)us,(fe) ju(eh)dí(h)ci(h)um(hg) tu(hi)um(i) Re(hi)gi(h) da:(h.) (:) et(hf~) ju(fh)stí(h)ti(h)am(h) tu(h)am(h') Fí(i)li(hf)o(h) Re(ge)gis.(fgf.) (::) <i>Ant.</i>(c+) (Z) Re(e)ges,(fe) Thar(eh)sis(h) et(h) ín(h)su(h)læ(h) mú(hg) ne(hi)ra(i) óf(hi)fe(h)rent:(h.) (:) re(hf) ges(fh) A(h)ra(h)bum(h) et(h) Sa(h)ba(h) do(i)na(hf) ad(h)dú(ge)cent.(fgf.) (::) <i>Ant.</i>(c+) (Z) Et(e) ad(fe)ó(eh)ra(h)bunt(h) e(h)um(h) om(h)nes(hg) re(hi)ges(i) tér(hi)ræ:(h.) (:) om(hf)nes(fh) gen(h)tes(h) sér(i)vi(hf)ent(h) e(ge)i.(fgf.) (::) <i>Ant.</i>(c+) (Z)",
+  "transcriber": "Fernando Gil",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "56"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7329",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "illumina-708",
+  "incipit": "Illumina",
+  "title": "Illumina",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Illúmina * óculos meos, nequándo obdórmiam in morte: nequándo dicat inimícus meus: Praeválui advérsus eum.",
+  "gabc": "(c4) IL(ff)lú(fhg'/hf)mi(dgF'E)na(e.) *(,) ó(g_e)cu(ghg)los(h) me(ixhv./gih'/ivG'F/f'g!hiH'G/ih )os,(h.) (;) ne(jj)quán(gh)do(ff) ob(e)dór(ge/ghg)mi(gffvED)am(ed__) (,) in(fh~) mor(h_g/jjjvG'E//g_f/ghG'F/gvFE)te:(e.) (:) ne(ef!ghg)quán(gh)do(ghG'F) di(gh)cat(h/jjjvIH.) (,) in(h)i(ghg)mí(h/jjjvIH)cus(g_h) me(egF'E)us:(fff) (;) Prae(dec)vá(fv.fff)lu(dc)i(ccc/ca__) (;) ad(cfde~)vér(eef)sus(d!ewf) e(fff/ghG'D//fff/hvGF/gvFE)um.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "331"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1000"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "708",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tu-puer-847",
+  "incipit": "Tu puer",
+  "title": "Tu puer",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Tu, puer, prophéta Altíssimi vocáberis: praeíbis ante Dóminum paráre vias * ejus.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) *(,) <i>ij.</i>(hv.iji./ef/h_f//hv.ghe/hhh.f!gwhf.) <sp>V/</sp>.(::) Tu,(f_e/f!gwh'!iv) pu(jiihi)er,(iv.hh/fgf.) (,) pro(f)phé(f!hh/ijHF'/ivH'GE/f./hfhhf/ge)ta(e.) (;) Al(f)tís(ffe/ffe/fc..,ef!hvvF'E/hhhi)si(h)mi(h) (,) vo(ivH'Gh')cá(f)be(fgf__)ris:(f.) (:) prae(f)í(f!h'i/jiihi)bis(iv.hh/fgf.) (,) an(fg~)te(f) Dó(f!hh/ijHF'/ivH'GEf./hfhhf/ge)mi(f)num(e.) (;) pa(hh)rá(h)re(h) vi(h)as(hi) *() e(i_h/jij)jus.(jvvIH'GE//f!gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "524"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1501"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "847",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

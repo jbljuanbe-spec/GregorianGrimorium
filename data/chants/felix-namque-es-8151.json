@@ -1,0 +1,31 @@
+{
+  "id": "felix-namque-es-8151",
+  "incipit": "Felix namque es",
+  "title": "Felix namque es",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Felix namque es sacra Virgo María, et omni laude digníssima: quia ex te ortus est Sol justítiæ, Christus Deus noster.",
+  "gabc": "(c4) Fe(ffvDC//dffv//hgh)lix(fgf) (::) nam(fg/hgh)que(h) es(ixhf/hig/ffv/ded) (;) sa(d)cra(dgfg,4dgf/efd/ed) Vir(cd~)go(d) (,4) Ma(cdf//ef/hvGE/fd)rí(cd)a,(d) (:) et(df/hv,3ixj/jh/ivGE/fg) (;) om(fe~)ni(ce) lau(gh/GE/fvDCd)de(dv//fd/dc) (;) dig(dc~)nís(df//efd)si(cd)ma:(d) (:) qui(cd)a(d) ex(ede) te(dec) (,4) or(cdf//efgED//fe)tus(ded) est(d) (;) Sol(d) jus(cd)tí(d)ti(d!efd)æ,(d) (:) Chris(c)tus(d) De(dh/jjh,4ixgihig,4fgh/jjg;fhgh,3fh/jg//ffdf;eg//hjh//jh)us(hghf) (,4) no(efgEDf,4efd)ster.(d) (::)",
+  "transcriber": "Matthew Jarvis OP",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "568"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8151",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

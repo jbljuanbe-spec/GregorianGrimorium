@@ -1,0 +1,31 @@
+{
+  "id": "amen-dico-vobis-quod-vos-4856",
+  "incipit": "Amen dico vobis, quod vos",
+  "title": "Amen dico vobis, quod vos",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Amen, dico vobis, quod vos, qui reliquístis ómnia, et secúti estis me, céntuplum accipiétis, et vitam ætérnam possidébitis. T. P. Allelúia.",
+  "gabc": "(f3) A(ef/hg)men,(hih) (::) di(h)co(hg) vo(iji//jvIHi)bis,(hg//hvGFgf) (;) quod(fh) vos,(hifh) (;4) qui(e) re(f)li(h)quí(hg)stis(hi) ó(hi)mni(hvGF)a,(fh) (;) et(e) se(f)cú(h)ti(hg) e(ijij)stis(hi) me,(gh/ivih) (:) cén(j)tu(ji)plum(j) ac(h)ci(h)pi(i)é(hvGF)tis,(fhhv) (;) et(h) vi(j)tam(i) æ(hg)tér(ijijiih~)nam(ihhvGFEf) (;) pos(hg/ij)si(hg)dé(f)bi(f!ghGFg)tis.(gf) <i>T. P.</i>(::) Al(hi>)le(gh//ijh/ivHG)lú(fg/hgh)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "41*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4856",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

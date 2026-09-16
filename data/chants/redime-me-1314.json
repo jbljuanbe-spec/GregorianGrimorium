@@ -1,0 +1,31 @@
+{
+  "id": "redime-me-1314",
+  "incipit": "Redime me",
+  "title": "Redime me",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Redime me * Dómine, et miserére mei: pes enim meus stetit in via recta: in ecclésiis benedícam Dóminum. Ps. Júdica me Dómine, quóniam ego in innocéntia mea ingréssus sum: * et in Dómino sperans, non infirmábor. Glória Patri. E u o u a e.",
+  "gabc": "(f3) REd(f)i(hg)me(h) me(i) *() Dó(i)mi(h)ne,(ihh) (,) et(ge~) mi(f)se(h_g)ré(gh/ihi)re(h_g) me(fg!hvGF'g)i:(gf..) (:) pes(fi) e(iji)nim(hf~) me(fh)us(hi) ste(iji)tit(hhh) (,) in(ge~) vi(f)a(h) rec(gi)ta:(hihh'h) (:) in(f) ec(gh)clé(ij)si(ijH'G)is(f!gwh.) (,) be(f)ne(gh)dí(i)cam(ig~) Dó(hiHG')mi(hggfg)num.(gf..) <i>Ps.</i>(::) Jú(e)di(fe)ca(eh) me(h) Dó(h)mi(h)ne,(h.) (,) quó(h)ni(h)am(h) e(h)go(h) in(h) in(h)no(h)cén(h)ti(h)a(h) me(hg)a(hi) in(i)grés(hi)sus(h) sum:(h.) *(:) et(hf) in(fh) Dó(h)mi(h)no(h) spe(h)rans,(h') non(i) in(hf)fir(h)má(ge)bor.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri.(h) (::) E(h') u(i) o(hf) u(h) a(ge) e.(fgf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "115"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1314",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

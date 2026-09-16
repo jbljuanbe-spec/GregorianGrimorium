@@ -1,0 +1,49 @@
+{
+  "id": "laetamini-in-domino-off-786",
+  "incipit": "Laetamini in Domino (Off.)",
+  "title": "Laetamini in Domino (Off.)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Laetámini * in Dómino, et exsultáte justi: et gloriámini omnes recti corde.",
+  "gabc": "(c4) LAe(d)tá(d!ewf!gvFD)mi(d!ewf_c)ni(c.) *(,) in(fg) Dó(gj!kvJH')mi(h)no,(h/jjj/hih.___) (;) et(fh!jvHG) ex(g_f)sul(fg)tá(gjIH'/hg)te(g_f/gff/ded.) (,) ju(dff'ff/ixhig'/hvF'D)sti:(dfddc.) (:) et(dff'ff/gfg) glo(dfdf)ri(cd)á(df)mi(fhg)ni(g.) (;) om(f/hjg')nes(f/hjG'FED'/ewf.) (,) re(d!ewf/g_f)cti(fff/h_g/h_f) cor(fg//ffg/ff/gvFE')de.(d//fff_d/fff/ded.___) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "415"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "456"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "592"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1337"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "786",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

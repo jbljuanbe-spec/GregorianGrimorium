@@ -1,0 +1,31 @@
+{
+  "id": "de-profundis-3471",
+  "incipit": "De profundis",
+  "title": "De profundis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "De profúndis * clamávi ad te, Dómine: Dómine exáudi oratiónem meam: de profúndis clamávi ad te, Dómine.",
+  "gabc": "(f3) DE(c) pro(e)fún(f/hf/hhh)dis(fef) *(,) cla(e)má(ef!gwhf)vi(hg) ad(hghf) te,(fgED/efef) Dó(f)mi(fgf)ne:(f) (:) Dó(hig/hf)mi(ef)ne(ff) (,) ex(hji)áu(high)di(f) (,) o(f)ra(fe)ti(gih)ó(hhhe/gf)nem(fg) me(f)am:(f//hhhe/gf) (,) (f/hg/hiGF//gf/gvFE/fvEC//ef!gwhf) (,) (hf/hhhvFE/ec/eef) (:) de(c) pro(e)fún(f/hf/hhh)dis(fef) (,) cla(e)má(ef!gwhf)vi(hg) ad(hghf) te,(fgED/efef) Dó(f)mi(fgf)ne.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "334"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3471",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

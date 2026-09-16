@@ -1,0 +1,31 @@
+{
+  "id": "esto-mihi-4916",
+  "incipit": "Esto mihi",
+  "title": "Esto mihi",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Esto mihi in Deum protectórem, et in locum refúgii, ut salvum me fácias: quóniam firmaméntum meum, et refúgium meum es tu: et propter nomen tuum dux mihi eris, et enútries me. ℣. In te, Dómine sperávi, non confúndar in ætérnum: in justítia tua líbera me et éripe me. Glória E u o u a e",
+  "gabc": "(f2) E(ffv)sto(df) (::) mi(f)hi(df) in(f) De(ffvEC)um(f) pro(gfg)te(hgh)ctó(fgf)rem,(f) (:) et(f) in(f) lo(fg)cum(fe) re(df)fú(f)gi(fvEC)i,(c) (;) ut(ffe) sal(g)vum(g) me(ghf) fá(f)ci(fgf)as:(f) (:) quó(f)ni(gh)am(h) fir(h)ma(h)mén(h)tum(g) me(ghGF)um,(f) (;) et(f) re(f)fú(fg)gi(g)um(gh) me(f)um(f) es(fdfc) tu:(c) (:) et(d) prop(f)ter(gh) no(h)men(gf) tu(ghg)um(g) (;) dux(hj) mi(j)hi(hjg) e(ghf)ris,(f) (;) et(fe) e(d)nú(ge/gh)tri(f)es(fgf) me.(f) <sp>V/</sp>.(::) In(fg) te,(gf) Dó(gh)mi(h)ne(h) spe(h)rá(h)vi,(h) (;) non(h) con(h)fún(h)dar(hg) in(ixgi) æ(h)tér(g)num:(f) (::) in(f) ju(h)stí(hj)ti(g)a(f) tu(f)a(f) lí(f)be(f)ra(f) me(f) (;4) et(g) é(fd)ri(f)pe(g) me.(f) (::) Gló(fg)ri(gf)a(gh) (::) E(f) u(g) o(fd) u(f) a(g) e(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "63"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4916",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "erit-autem-sanguis-3847",
+  "incipit": "Erit autem sanguis",
+  "title": "Erit autem sanguis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Erit autem sanguis vobis in signum: et vidébo sánguinem, et transíbo vos: nec erit in vobis * plaga dispérdens.",
+  "gabc": "(c4) AL(cd~)LE(d)LÚ(fddc~)IA.(ced) *(,) (efe/deDC//fgfhv//ghFD//ed/ed/evDC) (,) (ce!gv//hvGE/feed) <sp>V/</sp>.(::) E(cd)rit(d) au(fddc~)tem(ced) (,) san(dh~)guis(h) vo(jhhg)bis(h) in(h) si(hvGFED//fe/fgd!ew!fvEDCd)gnum:(dc) (:) et(dc~) vi(f)dé(gh)bo(efED) sán(ef!gvFDe)gui(dc)nem,(cd) (;) et(d) tran(dg~)sí(ghFED//fe/fg)bo(d!ew!fvEDCd) vos:(dc) (:) nec(cd) e(d)rit(d) in(e) vo(dc)bis(c) *(,) pla(d)ga(cd) di(d)spér(fddc~)dens.(ced) (,) (efe/deDC//fgfhv//ghFD//ed/ed/evDC) (,) (ce!gv//hvGEfeed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "475"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3847",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

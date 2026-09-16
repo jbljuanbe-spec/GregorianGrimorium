@@ -1,0 +1,31 @@
+{
+  "id": "surrexit-christus-et-illuxit-1573",
+  "incipit": "Surrexit Christus et illuxit",
+  "title": "Surrexit Christus et illuxit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Surréxit Christus, et illúxit nobis, quos redémit sánguine * suo",
+  "gabc": "(c4) AL(cd~)LE(de/feed)LÚ(ge/fgFEe)IA.(d) *(;) <i>ij.</i>(f!gwhgge/gvFED//hgge/gvFED) (;) (cfe/fgFED ce/gfffvED/eed) <sp>V/</sp>.(::) Sur(cd~)ré(de!fvED/dc//ef!gvgf)xit(ed/ffe) Chris(ded)tus,(d) (;) et(ixdhhivHG/hvGE/fvED) il(c)lú(e!fg)xit(gvFED/fgFEf) no(d!ef)bis,(ed) (:) quos(h) re(gh)dé(jk/jkj//hih/gi//gj/ijh/iih)mit(h) (;) sán(dffe/ffe/gvFEf)gui(d!ef)ne(ed) *(,) suo(f!gwhg) (ge/gvFED//hgge/gvFED) (;) (cfe/fgFED ce/gfffvED/eed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "230"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1573",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

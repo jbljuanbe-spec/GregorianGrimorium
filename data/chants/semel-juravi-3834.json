@@ -1,0 +1,31 @@
+{
+  "id": "semel-juravi-3834",
+  "incipit": "Semel juravi",
+  "title": "Semel juravi",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Semel jurávi * in sancto meo: semen ejus in aetérnum manébit: et sedes ejus sicut sol in conspéctu meo, et sicut luna perfécta in aetérnum: et testis in coelo fidélis.",
+  "gabc": "(c4) SE(g)MEL(f) ju(e)rá(g)vi(f) *() in(e) sanc(ghgh)to(g) me(egff)o:(fe) (:) se(h)men(hg) e(ixhi)jus(h) (,) in(h) ae(gf)tér(gh)num(g) ma(fd)né(egff)bit:(eef) (:) et(ed~) se(gh)des(gf) e(gh)jus(g) (,) si(g)cut(hj~) sol(jij) in(h) con(h)spé(h)ctu(h) me(hgh)o,(h) (;) et(ixhi~) si(h)cut(hg~) lu(h)na(ghg) per(fe~)fé(fg)cta(gh) in(f) ae(d)tér(gefvED)num:(ed) (;) et(f) te(gh)stis(ghg) in(ge~) coe(g)lo(gd) fi(f)dé(egff)lis.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[5]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3834",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

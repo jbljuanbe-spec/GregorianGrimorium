@@ -1,0 +1,37 @@
+{
+  "id": "quam-magna-1291",
+  "incipit": "Quam magna",
+  "title": "Quam magna",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quam magna * multitúdo dulcédinis tuae, Dómine, quam abscondísti timéntibus te. ℣. Perfecísti eis qui sperant in te, in conspéctu filiórum * hóminum.",
+  "gabc": "(c3) QU{a}m(d) ma(fh)gna(h_f) *() mul(f)ti(h_g)tú(hiH'GF)do(fhE'D/effe.) (;) dul(d)cé(gxefe/fg)di(f)nis(hffe) tu(f!gwh)ae,(h_g) Dó(h!i'j)mi(hvGF)ne,(fig/hvGF.) (:) quam(hvGF) abs(h)con(h_g)dí(hiH'GF)sti(fhE'D/effe.) (;) ti(f)mén(hh)ti(h)bus(gh) te.(gxfe/fgED'/ewfef.) (,) (hiHF/ghf./ghFE/gvFE.) (,) (d!ewfe/fhff/ded.) <sp>V/</sp>.(::) Per(d)fe(fe)cí(eh)sti(h) e(h)is(ihh'hf/hv.ijh.) (,) (hv./ijIH./ijHF./ghFD.) (;) (fdfED//fd/ef!hh/ig/hf/hi!kkkh..) (;) qui(hhi) spe(hi)rant(h) in(hfhhe/fd~) te,(d.) (:) in(hh) con(hi/j_h)spé(hiH'G/hvGF./ihhf'/ghf'/ghf. , de/f!hh/ijhhg)ctu(h.) (;) fi(hh)li(h)ó(hih)rum(h_f) *() hó(fh!ij)mi(hg)num.(hhhf/hhhf/hhf.) (,) (de/f!hh/ijghf./gxegFD.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "449"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1393"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1291",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

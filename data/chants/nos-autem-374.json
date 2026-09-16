@@ -1,0 +1,37 @@
+{
+  "id": "nos-autem-374",
+  "incipit": "Nos autem",
+  "title": "Nos autem",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "[[\"gabc\",\" NOS autem * glori\\u00e1ri op\\u00f3rtet, in cruce D\\u00f3mini nostri Jesu Christi: in quo est salus, vita, et resurr\\u00e9ctio nostra: per quem salv\\u00e1ti, et liber\\u00e1ti sumus. Ps. Deus misere\\u00e1tur nostri, et bened\\u00edcat nobis: * ill\\u00faminet vultum suum super nos, et misere\\u00e1tur nostri. Nos autem. \",],[\"tex\",\"\\\\it Ad libitum additur :\",],[\"gabc\",\" 2. Ut cognosc\\u00e1mus in terra viam tuam: * in \\u00f3mnibus g\\u00e9ntibus salut\\u00e1re tuum. Nos autem. \",],[\"gabc\",\" 3. Confite\\u00e1ntur tibi p\\u00f3puli, Deus: * confite\\u00e1ntur tibi p\\u00f3puli omnes. Nos autem. \",]]",
+  "gabc": "[[\"gabc\",\"(c4) NOS(dfe) au(ef!gvFDfe)tem(fff) *(,) glo(fd)ri(f)\\u00e1(e!f'g)ri(g_d) o(fh)p\\u00f3r(gv.fhg)tet,(eef.) (;) in(d) cru(g)ce(g) D\\u00f3(ixhg/hi)mi(h)ni(h) no(jj)stri(hhg) (,) Je(hhg)su(f) Chris(ixef!hig)ti:(g.) (:) in(ge~) quo(g) est(h) sa(ixhi)lus,(h.) (,) vi(jj)ta,(hhg) (,) et(gh~) re(hhg)sur(f)r\\u00e9c(e!f'g)ti(g)o(ixgih) no(g_f/gfg)stra:(d.) (:) per(d!fff) quem(f) sal(fd~)v\\u00e1(fh)ti,(g.) (,) et(h) li(f)be(gf)r\\u00e1(e!f'g)ti(ixgiH'G) su(g_fhvGFgvFE)mus.(e.) <i>Ps.</i>(::) De(hg)us(gh) mi(h)se(h)re(h)\\u00e1(h)tur(h) no(h)stri,(h.) (,) et(h) be(h)ne(hg)d\\u00ed(gi)cat(i) no(hi)bis:(h.) *(:) il(hg~)l\\u00fa(gh)mi(h)net(h) vul(h)tum(h) su(h)um(h) su(h)per(h) nos,(h.) (,) et(h) mi(h)se(h)re(h)\\u00e1(gf)tur(gh) no(g)stri.(egff) (::) Nos(dfe) au(ef!gvFD/fe)tem.(fff) (::)\",{}],[\"tex\",\"{\\\\it Ad libitum additur :}\",{}],[\"gabc\",\"(c4) () 2. Ut(hg~) co(gh)gno(h)sc\\u00e1(h)mus(h) in(h) ter(h)ra(hg) vi(gi)am(i) tu(hi)am:(h.) *(:) in(hg) \\u00f3m(gh)ni(h)bus(h) g\\u00e9n(h)ti(h)bus(h) sa(h)lu(h)t\\u00e1(gf)re(gh) tu(g)um.(egff) (::) Nos(dfe) au(ef!gvFD/fe)tem.(fff) (::Z)\",{}],[\"gabc\",\"(c4) () 3. Con(hg~)fi(gh)te(h)\\u00e1n(h)tur(h) ti(h)bi(h) p\\u00f3(hg)pu(gi)li,(i) De(hi)us:(h.) *(:) con(hg~)fi(gh)te(h)\\u00e1n(h)tur(h) ti(h)bi(h) p\\u00f3(h)pu(gf)li(gh) om(g)nes.(egff) (::) Nos(dfe) au(ef!gvFD/fe)tem.(fff) (::)\",{}]]",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "201"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "667"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "374",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

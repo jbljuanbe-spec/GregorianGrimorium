@@ -1,0 +1,31 @@
+{
+  "id": "gloria-et-honore-3522",
+  "incipit": "Gloria et honore",
+  "title": "Gloria et honore",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Glória * et honóre coronásti eum. ℣. Et constituísti eum super ópera mánuum tuárum, * Dómine",
+  "gabc": "(c4) GLÓ(ixfh!ivHG)RI(hggfg)A(fv//eg!hv//fg!hvFEDef!gvgf) *(;) et(f) ho(ixfg/ih)nó(ii//iiivGFgi!jvIHi)re(ixiv//h!ij/hig//hihig) (;) co(f)ro(f)ná(ixhf/giif)sti(f) (,) e(ffgffc/df/ixeg/hig)um.(g/hiGF/iyhgh/fh/ji/jh,ixiv//hig//ih/ivGFg) (,) (fgf//fffhg/hggf) <sp>V/</sp>.(z0::c3) Et(hh) con(h)sti(h)tu(h)í(gxhihhhf//gvFEfvEDf/hhvFEf)sti(f) (,) e(h/ih/i!jwkk)um(klh) (:) su(i)per(h) ó(h/jkIGhvFE//f!gwhhi)pe(h)ra(h) (;) má(hh)nu(h)um(h) tu(h)á(hih)rum,(hf) *(,) Dó(fh!ij)mi(hg)ne(hhhf//hhhf/hhf) (,) (de/f!hh/ijghf//gxegFD) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[6]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3522",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

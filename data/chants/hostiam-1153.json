@@ -1,0 +1,31 @@
+{
+  "id": "hostiam-1153",
+  "incipit": "Hostiam",
+  "title": "Hostiam",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Hostiam * et oblatiónem noluísti, corpus autem aptásti mihi. ℣. Holocáustum et pro peccáto non postulásti: tunc dixi: Ecce vénio. ℣. In cápite libri scriptum est de me, ut fáciam, Deus, voluntátem * tuam.",
+  "gabc": "(f3) HO(f)sti(efE'C)am(ef//ef/hghvvGFggf.) *(;) et(e) ob(f)la(hg)ti(hi)ó(hvGF)nem(f.) (,) no(g!h'i)lu(hhg)í(fe)sti,(ef/gf/ggf/gh/iffe.) (:) cor(gh)pus(f) au(f_e/f!gwh'!iv)tem(hg/hi/ih.) (;) ap(ef)tás(eh)ti(gh/ih) mi(hvGF')hi.(f/ggf.) <sp>V/</sp>.(::) Ho(e)lo(f)cáu(fh'/ihhf/g'/hggf/h'/ihhg/i'/jiig/h'/ighf)stum(f.) (;) et(f) pro(f) pec(hg)cá(h)to(f.) (,) non(fg) po(fg)stu(f)lá(f_e/f!gwh'!iv)sti:(hg/hi/ih.) (:) tunc(i_) di(ef!hh//hhh)xi:(gf..) (,) Ec(hg)ce(h) vé(i_g//ihhvGF)ni(ef)o.(f/ggf.) <sp>V/</sp>.(::) In(h) cá(i)pi(hiH'F)te(f!gwh) li(hiH'F)bri(f.) (;) scrip(hg)tum(hi) est(i_gi) de(hvGF) me,(fe/ggf/gh/iffe) (:) ut(e) fá(gh)ci(f)am,(f) De(f_e/f!gwh'!iv)us,(kxhgi./jkiih.) (;) vo(hihhg)lun(fe)tá(fgf)tem(g.) *() tu(i_h/ivHFg. , hjijH'GF)am.(fe/f!hh/ijI'Gh.) (,) (gh!jvIH'hvGFggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "61"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1153",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

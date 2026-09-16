@@ -1,0 +1,31 @@
+{
+  "id": "domine-dominus-noster-1205",
+  "incipit": "Domine Dominus noster",
+  "title": "Domine Dominus noster",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine * Dóminus noster, quam admirábile est nomen tuum in univérsa terra! ℣. Quóniam eleváta est magnificéntia tua * super caelos.",
+  "gabc": "(c4) DO(ffg)mi(f)ne(f.) *(,) Dó(ghgh)mi(gf)nus(ffhg) nos(f)ter,(fffvDC'/dff//h_g/hggf.) (:) quam(ixhih) ad(hg~)mi(gj)rá(j)bi(ixkjjhi)le(i_h) est(fh) (,) no(h)men(g.f!gw!hvGF'g) tu(ghg___)um(g.) (;) in(h) u(hg)ni(gj)vér(j)sa(ixj.h!iw!jvIG'/hw!ivHG) ter(fgf)ra!(f!h'j) (,) (fh'!jvv'IG//fhg/hggf.) <sp>V/</sp>.(z0::c3) Quó(d)ni(d)am(d) e(d)le(fe)vá(eh)ta(h) est(hih___//i_h/jvHF.) (,) (h_g/ijh'___jvIH'/jvIH'//hvGF.) (:) ma(f)gni(fe)fi(h)cén(h)ti(gh)a(f_e//fhe/f_e) tu(de!fvED'e)a(ed..) *(;) su(de)per(f) cae(fhG'F/hhh)los.(hhf.) (,) (gxg_f/gvED./fgED./fe/hv.hhhff//dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "342"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1205",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

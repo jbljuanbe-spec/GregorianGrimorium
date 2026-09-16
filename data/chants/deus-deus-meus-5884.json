@@ -1,0 +1,31 @@
+{
+  "id": "deus-deus-meus-5884",
+  "incipit": "Deus, Deus meus",
+  "title": "Deus, Deus meus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Deus, Deus meus, ad te de luce vígilo: et in nómine tuo levábo manus meas, allelúia.",
+  "gabc": "(f3) De(ef)us,(fhffe) (::) De(fh)us(hg) me(hhvFE//f!ghf)us,(f) (;) ad(fe) te(f) de(hg) lu(hf//ij)ce(hiHG//hvGFE/fe) (;) ví(fhGFE)gi(e!fgFE)lo:(e) (:) et(hg) in(hi) nó(i)mi(h)ne(hji//hvGFh) tu(fhhih)o(h) (;) le(fhg)vá(hhf//ghg)bo(fe) (;4) ma(fhhv)nus(fhGF) me(f)as,(fhGF) (:) al(fhg~)le(e//hhiGE/f//hhf;3hihi)lú(fgf)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "223"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5884",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

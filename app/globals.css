@@ -1,0 +1,301 @@
+:root {
+  --bg: #fbf9f4;
+  --surface: #ffffff;
+  --border: #e2dcd0;
+  --text: #221c14;
+  --muted: #6b6152;
+  --accent: #8a1c1c;
+  --accent-soft: #f4e8e4;
+  --serif: "Crimson Text", "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #17140f;
+    --surface: #211d16;
+    --border: #3a332a;
+    --text: #f0e9dc;
+    --muted: #a99d89;
+    --accent: #e08a80;
+    --accent-soft: #33221f;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  color: var(--accent);
+}
+
+.wrap {
+  max-width: 62rem;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.site-header .wrap {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  padding-block: 0.9rem;
+}
+
+.site-header h1,
+.site-header .brand {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+
+.site-header a.brand {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.site-header .tagline {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+main {
+  padding-block: 1.5rem 3rem;
+}
+
+/* Buscador */
+
+.search-box {
+  width: 100%;
+  padding: 0.7rem 0.9rem;
+  font-size: 1.05rem;
+  font-family: var(--serif);
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+.search-box:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.75rem;
+}
+
+.filters label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.filters select {
+  font-size: 0.9rem;
+  padding: 0.35rem 0.5rem;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+}
+
+.result-count {
+  margin: 1.25rem 0 0.5rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.results li a {
+  display: block;
+  padding: 0.7rem 0.9rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.results li a:hover {
+  border-color: var(--accent);
+}
+
+.results .incipit {
+  display: block;
+  font-family: var(--serif);
+  font-size: 1.1rem;
+}
+
+.results .meta {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 0.15rem;
+}
+
+/* Ficha de canto */
+
+.chant-header h1 {
+  font-family: var(--serif);
+  font-size: 2rem;
+  margin: 0 0 0.35rem;
+}
+
+.chant-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 1.25rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  border: 1px solid var(--border);
+  background: var(--accent-soft);
+  color: var(--text);
+}
+
+.score-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.score-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.score-toolbar button {
+  font: inherit;
+  padding: 0.25rem 0.6rem;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.score-toolbar button:hover {
+  border-color: var(--accent);
+}
+
+/* El SVG de la partitura se dibuja con tinta oscura; en modo oscuro se
+   invierte para que los neumas sigan siendo legibles. */
+.score-surface {
+  overflow-x: auto;
+  background: #fff;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .score-surface {
+    background: #f4efe6;
+  }
+}
+
+.score-surface svg {
+  display: block;
+  height: auto;
+  max-width: none;
+}
+
+.latin-text {
+  font-family: var(--serif);
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.section {
+  margin-top: 2rem;
+}
+
+.section h2 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  margin: 0 0 0.5rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.references {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.references li {
+  padding: 0.3rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.provenance {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.notice {
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  background: var(--surface);
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding-block: 1.25rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}

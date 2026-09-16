@@ -1,0 +1,31 @@
+{
+  "id": "dico-autem-vobis-699",
+  "incipit": "Dico autem vobis",
+  "title": "Dico autem vobis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Dico autem vobis * amícis meis: ne terreámini ab his, qui vos persequúntur.",
+  "gabc": "(c4) DI(gg)co(g) au(g)tem(gh~) vo(hvGF//g.h!iwjg)bis(g.) *(,) a(gh)mí(jkjk)cis(ij) me(hjI'G)is:(g.) (;) ne(g) ter(hih)re(g)á(e)mi(ffg)ni(gvFED.) (,) ab(fg) his,(ghgh) qui(fg) vos(g.h!iwjg) per(f)se(ghg)quún(h!jj/hi~)tur.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[28]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "699",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

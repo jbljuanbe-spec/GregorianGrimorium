@@ -1,0 +1,31 @@
+{
+  "id": "tota-pulchra-es-maria-all-4982",
+  "incipit": "Tota pulchra es Maria (All)",
+  "title": "Tota pulchra es Maria (All)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Tota pulchra es María, et mácula originális non est in te.",
+  "gabc": "(c4) Al(d)le(ff)lú(gf//ghgh)ia.(h//jvHGF) (::) (eg/hgh) (;3) (fhg//hffvEC) (;) (d/fg) (;4) (egFED//ffd) <sp>V/</sp>.(::) To(ixdh//gih//ivGF;ggf//gg//f/gh//jjg;hhg//hvGF;4hiHG//hi)ta(h) (;) pul(hg//jjvHG//hihi)chra(gf) es(fe) (;4) (fg/hgh) (;3) (ghf//ghg) (;) Ma(fd)rí(ffe//gfgFD//efd)a,(d) (:) et(d) má(dffd//ffd;4de/fg/hv)cu(ghg)la(g) (;) o(f)ri(f)gi(ghg)ná(h//jjhhgh;fh/jg//ffd//ffv//hvGF/fvED)lis(ed) (::) non(d) est(dffv//gf) in(fg/hgh) te.(hjHGF) (;) (eg/hvGE//feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "380"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4982",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

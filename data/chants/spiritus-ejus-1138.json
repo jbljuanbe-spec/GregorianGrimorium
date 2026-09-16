@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-ejus-1138",
+  "incipit": "Spiritus ejus",
+  "title": "Spiritus ejus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Spíritus ejus ornávit * caelos.",
+  "gabc": "(c4) AL(fg~)le(g/hjg/hvGF)lú(fh!jjk)ia.(jjvIGh.) *(,) (ijH'Gixfihhg.) <sp>V/</sp>.(::) Spí(fg)ri(g/hjg/hvGF'g)tus(f.) e(fh!jjk)jus(jjvIGh.) (,) (ijH'Gixfihhg.) (;) or(fg)ná(g/hjg/hvGF'g)vit(f.) *(,) cae(fh!jjk)los.(jjvIGh.) (,) (ijH'Gixfihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "305"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1138",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

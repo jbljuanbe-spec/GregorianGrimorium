@@ -1,0 +1,31 @@
+{
+  "id": "ostende-nobis-4904",
+  "incipit": "Ostende nobis",
+  "title": "Ostende nobis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia ℣. Osténde nobis Dómine misericórdiam tuam: et salutáre tuum da nobis.",
+  "gabc": "(c3) Al(d!ef)le(fe//fhg)lú(f//hhg~)ia(h//ivHFfe) (::) (hhv//efED) (;) (f!ghg) (;4) (ehf//gffe) <sp>V/</sp>.(::) O(h)stén(hgih)de(h) no(hg)bis(h) (;3) Dó(g!hi//ivHF//hfg)mi(hg)ne(h) (;) mi(h)se(h)ri(hf)cór(hji)di(h)am(gh) (;4) tu(fe//hhvGE;4gxfgFD;4egFE/fe)am:(e) (:) et(e) sa(e)lu(e)tá(feh)re(h) tu(gyhf//hvGE//fhFD;gxgvFEf//hvv//ijHF;gygig//ivHG//he//fe;4ge//gvFE/fd)um(d) (::) da(fd/ef) no(hg/hfh)bis.(ghFE) (;4) (df/hf//gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "2"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4904",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

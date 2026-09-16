@@ -1,0 +1,31 @@
+{
+  "id": "clamaverunt-ad-te-4274",
+  "incipit": "Clamaverunt ad te",
+  "title": "Clamaverunt ad te",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Clamavérunt ad te, Dómine, in témpore afflictiónis suæ, et tu de cælo exaudísti eos. Allelúia, allelúia. ℣. Exsultáte justi in Dómino : rectos decet collaudátio.",
+  "gabc": "(c4)Cla(c)ma(d)vé(ixdh!iv)runt(h) (::) ad(h) te,(gfg) Dó(hgih)mi(gf)ne,(f) (;) in(df) tém(ffv)po(dc)re(c) (;4) af(d)fli(fe)cti(f)ó(fhGE)nis(fgFEf) su(ded)æ,(d) (:) et(d) tu(f) de(g) cæ(ghg)lo(gc) (;) ex(d)au(ffv)dí(fg)sti(gffv) e(deDC)os.(c) (:) Al(cd)le(fe)lú(fgf)ia,(fddc) (;) al(df~)le(fefd)lú(ded)ia.(d) (::) <sp>V/</sp>. \r\nEx(f)sul(gh)tá(h)te(h) ju(hj)sti(h) in(h) Dó(h)mi(hg)no :(gh) (::) re(gf)ctos(gh) de(h)cet(h) col(hjh)lau(g)dá(f)ti(fe)o.(d) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "464"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4274",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

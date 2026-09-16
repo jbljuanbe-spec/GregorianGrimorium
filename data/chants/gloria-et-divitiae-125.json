@@ -1,0 +1,37 @@
+{
+  "id": "gloria-et-divitiae-125",
+  "incipit": "Gloria et divitiae",
+  "title": "Gloria et divitiae",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "GLória * et divítiae in domo ejus: et justítia ejus manet in saéculum saéculi, allelúia.",
+  "gabc": "(c4) GLó(ffg)ri(f)a(f.) *(,) et(f) di(hg)ví(h)ti(gf)ae(fgFD.) (,) in(d) do(ffe/gh)mo(fff) e(f!gwhghv_GF)jus:(gf..) (:) et(fgf) ju(gh)stí(h/jjh!iwj)ti(gh)a(g_fg) e(d!ff/g_f)jus(f.) (;) ma(hv.fhg)net(g.) in(ixgih) saé(ixij)cu(g)lum(fgF'D) (`) saé(ixf!gwhgh/jjh//giH'GF.,fff//fgf/ghg/hf)cu(fgf__)li,(f.) (;) al(gf~)le(fff//hg/h_g)lú(fg!hvGF'g)ia.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "572"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1587"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "125",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sapientiam-ipsorum-3927",
+  "incipit": "Sapientiam ipsorum",
+  "title": "Sapientiam ipsorum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet * Ecclésia.",
+  "gabc": "(c4) AL(c)LE(d)LÚ(ed/ixhi)IA.(h) *(,) <i>ij.</i>(ghGF/hv//fgFE/gvFED) (;) (ce!gvgef//deDC) (,) (c!ff//eg!hvFEC/ewfd) <sp>V/</sp>.(::) Sa(c)pi(d)én(dh)ti(h)am(h/jvHG/hvGE/fg) (,) (ixeg!ivHG/hvFDe) (,) (ghFE//ghff/fdfED) ip(ixf!gwh!iv)só(hvGF/gw!hvGF/gh)rum(g) (;) nar(fhhg/hvGF/gvFE)rent(d) pó(dfef//ef!hvGE/fd)pu(cd)li,(d) (:) et(cd) lau(dffd/fvED de!fg)dem(ghhg) e(g)ó(gf)rum(fhhg/hvGF/gvFE) (,) nún(dfef//ef!hvGE/fd)ti(cd)et(d) *(;) Ec(cd)clé(fe/ixhi)si(h)a.(h) (,) (ghGF/hv///fgFE/gvFED) (;) (ce!gvgef//deDC) (,) (c!ff//eg!hvFEC/ewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "385"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3927",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

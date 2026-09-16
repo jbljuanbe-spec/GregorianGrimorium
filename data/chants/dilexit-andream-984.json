@@ -1,0 +1,37 @@
+{
+  "id": "dilexit-andream-984",
+  "incipit": "Dilexit Andream",
+  "title": "Dilexit Andream",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Diléxit Andréam Dóminus in odórem * suavitátis.",
+  "gabc": "(c4) AL(c)le(dfdf)lú(ef!gvFEfg~)ia.(g) *(;) <i>ij.</i>(hvGF/gvFE/f_g hvGF/gvFE'Cd.) (,) (dfE'DC/ddc.) (;) (ghF'ED de!f'g/ef/gddc.) (,) (e/gghF'ED//efefd.) <sp>V/</sp>.(::) Di(h)lé(h_g)xit(g_e//fgf/gddc.) (,) An(cd)dré(e!f'g)am(gve!g_h) Dó(fvED)mi(d.c!dw!evDC/de)nus(d.) (:) in(dede) o(ce)dó(ixg_h/ig/h_e , fvED/fe/g_e/fvEC/ed/fd.. ; ixce!g_h/ig/h_e , fvED/fe/g_e//fvEC/ed/fd.. ; gv./ef/g_e/f_d/ev. , gv./ef/g_e/f_d/ev./c!dwe'!fv)rem(ed..) *(:) su(c)a(dfdf)vi(ef!gvFE)tá(fg)tis.(g.) (;) (hvGF/gvFE/f_g hvGF/gvFE'Cd) (,) (dfE'DCddc.) (;) (ghF'ED de!f'g/ef/gddc.) (,) (e/gghF'ED//efefd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "393"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1305"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "984",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

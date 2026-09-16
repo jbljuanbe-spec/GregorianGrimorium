@@ -1,0 +1,31 @@
+{
+  "id": "manducaverunt-5897",
+  "incipit": "Manducaverunt",
+  "title": "Manducaverunt",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Manducavérunt, et saturáti sunt nimis, et desidérium eórum áttulit eis Dóminus: non sunt fraudáti a desidério suo.",
+  "gabc": "(f3) Man(fhg~)du(e)ca(f)vé(hi)runt,(jh/ijji) (::) et(hj) sa(i)tu(hg)rá(hj)ti(i) sunt(hi) ni(i)mis,(f) (:) et(f) de(hg)si(h)dé(ij)ri(i)um(i) e(i)ó(ihi)rum(hif) (;) át(hhi)tu(h)lit(h) e(h)is(kxhi/jki//jkJI) (;3) Dó(h)mi(h!ijIHi)nus:(ih) (:) non(j) sunt(i) frau(hi)dá(i)ti(f) (;) a(f!ghGF) de(e)si(f)dé(hi)ri(i)o(ijh/ivHG) su(fg/hgh)o.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "67"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5897",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

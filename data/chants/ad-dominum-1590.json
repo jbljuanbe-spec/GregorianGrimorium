@@ -1,0 +1,31 @@
+{
+  "id": "ad-dominum-1590",
+  "incipit": "Ad Dominum",
+  "title": "Ad Dominum",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ad Dóminum, * dum tribulárer, clamávi, et exaudívit me. ℣. Dómine, líbera ánimam meam a lábiis iníquis, et a lingua * dolósa.",
+  "gabc": "(c4) AD(d) Dó(ff)mi(fgfff)num,(fd/fge/fgd/eddc) *(;) dum(f) tri(f)bu(h)lá(jh/jjj)rer,(j) (,) cla(j)má(kj//ijIH//kj//jjjvHG/hg/h!jj/kvJI)vi,(j) (:) et(h) ex(h!jk)au(jh~)dí(h!jjg/h)vit(fg) me.(f!gh!jv//klJH) (,) (ixjjvHG//hiGF/gwhg/hjhh/fgf) <sp>V/</sp>.(z0::c3) Dó(h)mi(ih)ne,(hvvGF//ig/hig//hih//hiHGE/f//ff) (,) (gxfff//fff//fh/ih/gg/efe) (;) lí(gxg!hi)be(hiHGFg)ra(f) (,) á(gxf!gh)ni(g)mam(fe~) me(f/hhh)am(hv//fhff/ded) (;) a(d) lá(fdfED//fd/ef!gwh/hi)bi(h)is(h) (,) in(h)í(ih//ghGF//ih//hhhvFE/fe/f!hh/ivHG)quis,(h) (:) et(hhi) a(h) lin(hf/hhhe/fe/fd~)gua(ed) *(,) do(h)ló(h)sa.(ihhhvFEed) (;) (fdfED//fd/ef!hh/ijghf//gxegFD) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "276"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1590",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

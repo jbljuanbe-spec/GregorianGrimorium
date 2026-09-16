@@ -1,0 +1,31 @@
+{
+  "id": "loquebantur-101",
+  "incipit": "Loquebantur",
+  "title": "Loquebantur",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Loquebántur váriis linguis Apóstoli magnália * Dei.",
+  "gabc": "(c4) Al(dc~)le(df/efd/evDC)lú(ixf!gwh'!iv)ia.(gfj//hih.) *(,) <i>ij.</i>(ixf.g!hw!ivHG//e.f!gw!hvGF/deddc.) (;) (c.d!ewf!ghh/fhg/hvF'ED. fgf'/gvF'ED/ffd.) <sp>V/</sp>.(::) Lo(c.d!ewf!gvFE')que(d)bán(dff'ffvED/evDC)tur(dc..) (,) vá(ixf!gwh!iv)ri(hgj)is(ixhih.) (,) (f.g!hw!ivHG//e.f!gw!hvGF/deddc.) (,) lin(c.d!ewf!ghGF)guis(gf..) (;) A(f)pós(ghgh/jjjvIH)to(hiih)li(h.) (:) ma(dc~)gná(df/efd/ed)li(cd)a(d.) *() De(ixf!gwh'!iv)i.(hgj//hih.) (,) (ixf.g!hw!ivHG//e.f!gw!hvGF//deddc.) (;) (c.d!ewf!ghh//fhg/hvF'ED./fgf'/gvF'ED/ffd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "297"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "101",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

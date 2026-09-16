@@ -1,0 +1,31 @@
+{
+  "id": "terribilis-est-7828",
+  "incipit": "Terribilis est",
+  "title": "Terribilis est",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Cistercian",
+  "text_latin": "Terríbilis est locus iste: hic domus Dei est, et porta cœli: et vocábitur aula Dei. Quam dilécta tabernácula tua, Dómine virtútum! concupíscit, et déficit ánima mea in átria Dómini. Glória Patri E u o u a e",
+  "gabc": "(f3) TER(f)RÍ(f)BI(e)LIS(c) est(c!ef) <v>\\red{*}</v>(::) lo(h)cus(hhh) i(hihh)ste:(gf) (:) hic(e) do(e!fg)mus(ihhe) De(ef/hvGF)i(ef) est,(f) (;) et(f) por(fhg~)ta(hi) cœ(ih)li:(hihh/efe) (:) et(e) vo(f)cá(fh/ih)bi(hhh)tur(fhECe) (;) au(ce/fe~)la(f/hhe/gf) De(fgf)i.(f) (::) <v>\\black{(}</v>Al(ef~)le(hg)lú(hih)ia,(hhhvFE) (;) al(fh~)le(hv/ghf)lú(fgf)ia.<v>\\black{)}</v>(f) (::) <v>\\red{Ps.}</v> Quam(e) di(f)lé(eh)cta(h) ta(h)ber(h)ná(h)cu(h)la(h) tu(h)a,(h) Dó(h)mi(hg)ne(hi) vir(i)tú(hi)tum!(h) <v>\\red{*}</v>(::) con(h)cu(fh)pí(h)scit,(h) et(h) dé(h)fi(h)cit(h) á(h)ni(h)ma(h) me(h)a(h) (;) in(h) á(h)tri(i)a(hf) Dó(h)mi(ge)ni.(fgf) <v>\\red{\\Vbar}</v>(::) Gló(e)ri(f)a(eh) Pa(h)tri(h) (::) E(h) u(i) o(hf) u(h) a(ge) e(fgf) (::)",
+  "transcriber": "Aelredus",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Cisterciense",
+      "editor": "Westmalle",
+      "year": 1934,
+      "page": "61*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7828",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

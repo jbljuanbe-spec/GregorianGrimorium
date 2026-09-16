@@ -1,0 +1,31 @@
+{
+  "id": "in-voluntate-6357",
+  "incipit": "In voluntate",
+  "title": "In voluntate",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "In voluntáte tua, Dómine, univérsa sunt pósita, et non est qui posit resístere voluntáti tuæ: tu enim fecísti ómnia, cælum et terram, et univérsa quæ cæli ámbitu continéntur: Dóminus universórum tu es. ℣. Beáti immaculáti in via: qui ámbulant in lege Dómini. Glória E u o u a e.",
+  "gabc": "(f3) In(f) vo(hf)lun(h)tá(gh)te(h) (::) tu(gh)a,(h) (;3) Dó(g!hih)mi(hh)ne,(gf) (;) u(e)ni(fe)vér(fh)sa(h) (;6) sunt(h) pó(fiHG)si(giHG)ta,(gh) (:) et(f) non(fi!jv) est(i) (;6) qui(i) po(hjij)sit(g) re(i)sí(ijij)ste(hgh)re(hg) (;) vo(h)lun(fh)tá(hi)ti(ihhf) tu(f!ghf)æ:(f) (:) tu(h) e(gh/ij)nim(j) (;6) fe(i)cí(hi/jij)sti(hg) ó(gi)mni(hg)a,(giHG//hvGFE/fe) (;) cæ(h)lum(hhv) et(hf) ter(hi)ram,(h) (;) et(h) u(h)ni(gf)vér(hi)sa(h) (;) quæ(h) cæ(gh/iji)li(ig) ám(gi)bi(hg)tu(giHG/hvGFE/fe) (;) con(h)ti(gh/ihi)nén(fe~)tur:(fhhv/iffe) (:) Dó(ef/hgh)mi(h)nus(h) (;4) u(f)ni(hg)ver(hi~)só(ih)rum(hi!jvji) (;) tu(hhf/gh//jvIH/ivHG) es.(g) <sp>V/</sp>.(::) Be(ji)á(ij)ti(j) im(j)ma(j)cu(j)lá(ji)ti(ik) in(k) vi(jk)a:(j) (::) qui(ji) ám(ij)bu(j)lant(j) in(j) le(jh)ge(ij) Dó(i)mi(g)ni.(g) (::) Gló(ji)ri(ij)a(j) (::) E(j) u(j) o(jh) u(ij) a(i) e.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "343"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6357",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

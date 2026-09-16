@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-sanctus-1755",
+  "incipit": "Spiritus Sanctus",
+  "title": "Spiritus Sanctus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Spíritus Sanctus docébit vos quaecúmque díxero * vobis.",
+  "gabc": "(c3) AL(de~)LE(e/feh)LÚ(hi!jvIH)IA.(ih) *(,) <i>ij.</i>(ihhf/hg//efED) (,) (f!gw!hvGF/gffe) <sp>V/</sp>.(::) Spí(de)ri(e!fh)tus(hiHG) Sanc(ef)tus(eed) (,) do(fe)cé(fh)bit(gf/gvFE) vos(fe) (;) quae(de)cúm(e/feh)que(h) dí(h!ij)xe(i)ro(hih) *(,) vo(ih)bis.(gihhf/hg//efED) (,) (f!gw!hvGF/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "254"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1755",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

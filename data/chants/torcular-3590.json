@@ -1,0 +1,31 @@
+{
+  "id": "torcular-3590",
+  "incipit": "Torcular",
+  "title": "Torcular",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Torcular * calcávi solus, et de géntibus non est vir mecum: aspérsus est sanguis eórum super vestiménta mea, et ómnia induménta mea inquinávi Circumspéxi, et non erat auxiliátor: quaesívi, et no fuit qui adjuváret. Ps. Salvum me fac Deus: * quóniam intravérunt aquae usque ad ánimam meam. Glória Patri E u o u a e",
+  "gabc": "(c4) TOR(egf)CU(f)LAR(e!fg) *() cal(g)cá(gh)vi(h) so(ixhg/hig)lus,(gf) (;) et(d) de(f) gén(ef!gwh)ti(g)bus(g) (,) non(g) est(gf) vir(fhgh) me(egfg)cum:(eef) (:) a(d)spér(dg~)sus(g) est(g) san(gf~)guis(f) e(f)ó(fhgh)rum(f) (,) su(f)per(f) ve(f)sti(f)mén(fhg)ta(fff) me(d!ew!fvEDe)a,(ed) (:) et(ff) ó(dg)mni(fe)a(e) in(f)du(g)mén(g)ta(f) me(gf/hg)a(g) (,) in(gh)qui(fe)ná(egFE)vi(e) (:) Cir(f)cum(e!fg~)spé(ghGF)xi,(f) (;) et(dg~) non(g) e(ge/gvFE)rat(f) au(f)xi(ef!gwh)li(hg)á(gef)tor:(fe) (:) quae(f)sí(d!ewf/gf)vi,(f) (;) et(f) no(ef/gfg) fu(d)it(d!ff/gddc) (,) qui(dfe) ad(fg~)ju(gf)vá(fhGF/gvFE)ret.(e) <i>Ps.</i>(::) Sal(h)vum(hg) me(gi) fac(i) De(hi)us:(h) *(:) quó(hg)ni(gh)am(h) in(h)tra(h)vé(h)runt(h) a(h)quae(h) (,) u(h)sque(h) ad(h) á(h)ni(gf)mam(gh) me(g)am.(e) (::) Gló(hg)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(h) o(gf) u(gh) a(g) e(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[138]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3590",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

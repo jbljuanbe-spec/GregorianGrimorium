@@ -1,0 +1,31 @@
+{
+  "id": "intonuit-de-caelo-4843",
+  "incipit": "Intonuit de caelo",
+  "title": "Intonuit de caelo",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Intónuit de cælo Dóminus, et Altíssimus dedit vocem suam, et apparuérunt fontes aquárum, allelúia.",
+  "gabc": "(c4) In(d)tó(df)nu(fg/hgh)it(hg) (::) de(g) cæ(ixgihiGF//fvED)lo(ffv/ghg) (;) Dó(ixgiHG/gfge;4hhggf//ghg)mi(egffv)nus,(fe) (:) et(h) Al(h)tís(ghgh)si(egffv)mus(fe) (;) de(f)dit(fd) vo(ffgd;4ffge//fvEDe)cem(d) (;1) su(d!efEDe)am,(ed) (:) et(f) ap(gh)pa(ixhjh/ij)ru(g)é(g//ihig)runt(fe) (;) fon(g)tes(ghg) a(f)quá(ghf)rum,(ed) (:) al(f)le(ef/ghGF/fe//fg/hgh//fge;hggf//ghg)lú(egffv)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "206"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4843",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "puer-natus-est-nobis",
+  "incipit": "Puer natus est nobis",
+  "title": "Puer natus est nobis",
+  "genre": "Introitus",
+  "mode": "VII",
+  "text_latin": "Puer natus est nobis, et filius datus est nobis: cuius imperium super humerum eius: et vocabitur nomen eius, magni consilii Angelus.",
+  "liturgical_occurrences": [
+    { "calendar": "Roman", "celebration": "In Nativitate Domini, ad Missam in die" }
+  ],
+  "related_chant_ids": [],
+  "source": {
+    "origin": "public-domain-scan",
+    "edition": "EJEMPLO — registro ilustrativo, no verificado. Reemplazar por importación real de GregoBase o edición de dominio público antes de publicar.",
+    "external_id": null,
+    "printed_pages": []
+  },
+  "score_images": [],
+  "review_status": "draft"
+}

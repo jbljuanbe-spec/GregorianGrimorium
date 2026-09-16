@@ -1,0 +1,31 @@
+{
+  "id": "beati-qui-custodiunt-3",
+  "incipit": "Beati qui custodiunt",
+  "title": "Beati qui custodiunt",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "BEáti, * qui custódiunt judícium, et fáciunt justítiam in omni témpore. T. P. Allelúia.",
+  "gabc": "(c4) BE(f)á(fgf__)ti,(f.) *(,) qui(f) cu(fg)stó(ghf)di(fgf__)unt(f.) ju(ffhg)dí(f)ci(fgf__)um,(f.) (;) et(d) fá(ffg)ci(f)unt(f) ju(f)stí(f)ti(fd/ffd)am(d_c) in(d) o(ffg)mni(fg/hg/h_g) tém(f)po(fg!hvGF'g)re.(gf..) <i>T. P.</i>(::) Al(gf~)le(fff/hg/h_g)lú(fg!hvGF'g)ia.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "117**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

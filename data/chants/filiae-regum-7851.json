@@ -1,0 +1,31 @@
+{
+  "id": "filiae-regum-7851",
+  "incipit": "Filiæ regum",
+  "title": "Filiæ regum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Cistercian",
+  "text_latin": "Filiae regum in honóre tuo, ástitit regína a dextris tuis in vestítu de auráto, circúmdata varietáte.",
+  "gabc": "(c3) FI(e/hhh)LI(h)AE(h) re(hihh)gum(hihhhhfh) (::) in(e) ho(fh)nó(hi)re(hi) tu(f!hi)o,(iji/jvIHih) (:) á(fh/ih)sti(h)tit(hhh) re(h)gí(fh!ivHGF)na(fhffe) (;) a(ef) dex(hf/hji)tris(hji) tu(hiHF)is(gf) (:) in(e) ve(f)stí(fh!ivHF)tu(fh) de(f!hhfhvED) au(de/fe/fe~)rá(f!hhh/ij)to,(ijiih) (:) cir(hg~)cúm(fh)da(hhh/ijHF)ta(fhffe) (;) va(e)ri(fe)e(hhg)tá(hih//ghFE;zhv/ghFEhighvFE)te.(ef/ehf/gffe) (::) <v>(</v>Al(f)le(e!fhFEf/e!hh/gh/ijh)lú(hhhe;hvGFfe~)ia.<v>)</v>(ef/ehf/gffe) (::)",
+  "transcriber": "Aelredus",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Cisterciense",
+      "editor": "Westmalle",
+      "year": 1934,
+      "page": "55*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7851",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

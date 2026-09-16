@@ -1,0 +1,31 @@
+{
+  "id": "beatus-homo-116",
+  "incipit": "Beatus homo",
+  "title": "Beatus homo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣ Beátus homo qui audit me, et qui vígilat ad fores meas quotídie, et obsérvat ad postes óstii * mei.",
+  "gabc": "(c4) Al(cd~)le(ixdh'!ivHG)lú(g.e!fw!gfg)ia.(d.) *(;) <i>ij.</i>(fvED'Cfv.e!fg!hvGFghddc//fffvED'efd.) <sp>V/</sp>(::) Be(cd)á(ixdh'!ivHGhff)tus(ed) ho(ce/gef)mo(ed__) (,) qui(f) au(fg)dit(fe) me,(ixg'/higgf.) (;) et(hg) qui(gj) ví(jk)gi(j)lat(hgh.) (,) ad(f) fo(ixfg!hi)res(hg) me(hvGF'gvFD'dcf)as(f.) (,) quo(f)tí(ef!gh'GF)di(gh)e,(h.) (:) et(d) ob(f)sér(d!ewf/gfg)vat(d.) ad(g) pos(fe)tes(cd) ós(f)ti(e)i(fg) *() me(g.e!fwgfg)i.(d.) (;) (fvED'Cfv.e!fg!hvGFghddc//fffvED'efd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "62"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "116",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "intonuit-de-coelo-1648",
+  "incipit": "Intonuit de coelo",
+  "title": "Intonuit de coelo",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Intónuit * de coelo Dóminus, et Altíssimus dedit vocem suam: et apparuérunt fontes aquárum, allelúia.",
+  "gabc": "(c4) IN(d)TÓ(df)NU(f!gwhgh)IT(hg) *(,) de(g) coe(ixgih/ig/fvED)lo(ff/ghg) (;) Dó(ixgiHGgf/ge//hggf/ghg)mi(egff)nus,(fe) (:) et(h) Al(h)tís(ixgiggh)si(ffef)mus(fe) (;) de(ff//ff)dit(fd~) vo(ff/gd//ff/ge/fvEDe)cem(d) su(de!fvEDe)am:(ed) (:) et(f) ap(gh)pa(ixhjh/ij)ru(g)é(gih/ig)runt(ffe) (,) fon(g)tes(ghg) a(f)quá(ghff)rum,(ed) (;) al(f)le(e/fhGFfe/gwhgh//f!gwhg/hf/ge , hggf/ghg)lú(egff)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "210"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1648",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

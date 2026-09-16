@@ -1,0 +1,31 @@
+{
+  "id": "visitasti-terram-5846",
+  "incipit": "Visitasti terram",
+  "title": "Visitasti terram",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Visitásti terram, et inebriásti eam, multiplicásti locupletáre eam.",
+  "gabc": "(c4) Vi(d)si(ef)tá(g)sti(g) ter(fe)ram,(d) (::) et(dc) i(f)ne(gh)bri(g)á(h)sti(f) e(ixfh!ivHGh)am,(hg) (:) mul(gh)ti(fe)pli(d)cá(e)sti(dc) (;) lo(c)cu(d)ple(f)tá(ffe/gh)re(fe) e(de!fvEDe)am.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "424"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5846",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "benedicite-dominum-omnes-angeli-intr-985",
+  "incipit": "Benedicite Dominum omnes Angeli (Intr.)",
+  "title": "Benedicite Dominum omnes Angeli (Intr.)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Benedícite Dóminum * omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus. T.P. Allelúia, allelúia. Ps. Bénedic ánima mea Dómino: * et ómnia quæ intra me sunt, nómini sancto ejus. Glória Patri. E u o u a e.",
+  "gabc": "(c4)BE(g)NE(g)DÍ(hj)CI(j)TE(j) Dó(ij)mi(j)num(j.) *(,) o(j)mnes(j) An(j)ge(jjj_h)li(hk) e(kj~)jus:(jkjji.) (;) po(g)tén(gh~)tes(h) vir(h)tú(jj)te,(i_h) (;) qui(gfg) fá(hg/ji)ci(j)tis(j) ver(hj~)bum(jj) e(gh~)jus,(hih.___) (:) ad(g) au(h)di(hkj)én(i)dam(jj//jj) vo(h_g)cem(g_f) (,) ser(fh~)mó(h_g/jjvH'G)num(g_e) e(fgF'E)jus.(e.) <i>T.P.</i>(::) Al(gj~)le(jjj_g)lú(ikj)ia,(j_i) (,) al(j)le(jjg/hvGE)lú(fgF'E)ia.(e.) <i>Ps.</i>(::) Bé(g)ne(hj)dic(j) á(j)ni(j)ma(j) me(k)a(j) Dó(j)mi(ih)no:(jjj) *(:) et(ig) ó(hj)mni(j)a(j) quæ(j) in(j)tra(j) me(j) sunt,(j.) (,) nó(j)mi(j)ni(jji) sanc(hg)to(h') e(i)jus.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri.(j) (::) E(j) u(jji) o(hg) u(h') a(i) e.(gh..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "607"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1653"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "985",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

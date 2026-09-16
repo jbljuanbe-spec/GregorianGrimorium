@@ -1,0 +1,31 @@
+{
+  "id": "laudamini-604",
+  "incipit": "Laudamini",
+  "title": "Laudamini",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Laudámini * in nómine sancto ejus: laetétur cor quaeréntium Dóminum. T. P. Allelúia.",
+  "gabc": "(c4) LAu(df~)dá(ff)mi(fhg)ni(g_d) *() in(d) nó(dg)mi(g)ne(gh) sanc(h/jjjvH'G)to(g.f!gw!hvGF'g) e(gh/jhi)jus:(hg..) (:) lae(fg)té(gjj'jj/kl)tur(j_i) cor(jjjhhg.) (,) quae(g)rén(g!jjj)ti(jk_J'_IH'i)um(ih..) (,) Dó(f!h'j)mi(j)num.(jijvHF'gwhgh/j/kjjh//jjh/jjvH'Gh_ihhg.) <i>T. P.</i>(::) Al(gf~)le(gjg/hggf//g.h!iwj/k_ijvIH'iwj_i/hiH'G)lú(gh/jhi)ia.(hg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "140**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "604",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

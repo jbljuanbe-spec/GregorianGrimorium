@@ -1,0 +1,31 @@
+{
+  "id": "viam-mandatorum-5852",
+  "incipit": "Viam mandatorum",
+  "title": "Viam mandatorum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Viam mandatórum tuórum cucúrri, cum dilatásti cor meum. T. P. Allelúia.",
+  "gabc": "(c4) Vi(ixfh!ivHG//hvGF;3hjjv//kvJH/iyijh)am(h) (::) man(fg)da(f)tó(ghg)rum(h) (;3) tu(f/hjjk)ó(hjg//fvEDf)rum(df) (;) cu(fge/fe)cúr(d!efEDe)ri,(ed) (:) cum(fg) di(f)la(gh)tá(h//jjvHG/ixhiGF;ghgh//gh/jjv//kvJH)sti(h) (;) cor(fh/jh//ghg//fgFD) me(dffv/gf)um.(f) <i>T. P.</i>(::) Al(hg~)le(fh/jvHG;3hvGF//gvFD)lú(dffgf)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "483"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5852",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

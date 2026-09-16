@@ -1,0 +1,31 @@
+{
+  "id": "deus-autem-880",
+  "incipit": "Deus autem",
+  "title": "Deus autem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Deus autem, Rex noster ante saécula: operátus est salútem in médio * terrae",
+  "gabc": "(f3) AL(f)le(efE'C)lú(ef~)ia.(fgf.) *(;) <i>ij.</i>(fg!hi!jvIF'hvGF.) (,) (fg!hi!jvIF'hvGF.ef!ghggf.) <sp>V/</sp>.(::) De(f)us(efE'C) au(ed~)tem,(ef) Rex(fgf) no(ef)ster(f.) (;) an(f)te(g!hi) saé(ijIF'hvGF.e!fwg'!hv)cu(gf)la:(f.) (:) o(f)pe(fe)rá(c)tus(ed) est(ef) sa(fgf)lú(ef)tem(fgf.) (;) in(f) mé(hg)di(hi)o(ijIF'hvGF.e.f!gw!hvGF'fvE'C) *() ter(ef)rae(fgf.) (;) (fg!hi!jvIF'hvGF.) (,) (fg!hi!jvIF'hvGF.ef!ghggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "105**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "880",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

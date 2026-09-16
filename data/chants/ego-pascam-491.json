@@ -1,0 +1,31 @@
+{
+  "id": "ego-pascam-491",
+  "incipit": "Ego pascam",
+  "title": "Ego pascam",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ego pascam * oves meas, et ego eas accubáre fáciam, dicit Dóminus Deus. Quod períerat, requíram: et quod abjéctum erat, redúcam; et quod confráctum fúerat, alligábo: et quod infírmum fúerat, consolidábo.",
+  "gabc": "(c4) E(dh)go(hg) pa(ixgiH'G)scam(ghg) *() o(f)ves(g) me(fe)as,(d.) (;) et(dg) e(gf)go(f) e(ixfh!ivHG)as(h_g) ac(e')cu(f)bá(g)re(ghg) fá(fg)ci(fe)am,(dfddc.) (;) di(fhg)cit(ed) Dó(e)mi(d)nus(ef) De(ed)us.(d.) (:) Quod(ff) pe(dc)rí(fg)e(g)rat,(g') re(g)quí(fhg)ram:(g.) (;) et(g) quod(gf) ab(h)jé(g')ctum(e) e(fg)rat,(g) re(g)dú(efd)cam;(d.) (:) et(df) quod(fe) con(d)frá(e)ctum(dc) fú(ffg)e(f)rat,(f.) (,) al(gh)li(gf)gá(ff/g_f)bo:(f.) (:) et(hg) quod(ge) in(fg~)fír(gf)mum(dc) fú(d)e(e)rat,(d_c) (,) con(fe/ggh)so(fe)li(cd)dá(d_c/d!ewfef)bo.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "93**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "491",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

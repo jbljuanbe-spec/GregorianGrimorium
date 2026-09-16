@@ -1,0 +1,31 @@
+{
+  "id": "exsultabunt-sancti-grad-963",
+  "incipit": "Exsultabunt sancti (Grad.)",
+  "title": "Exsultabunt sancti (Grad.)",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Exsultábunt * sancti in glória: laetabúntur in cubílibus suis. ℣. Cantáte Dómino cánticum novum: laus ejus in ecclésia * sanctórum.",
+  "gabc": "(c3) EX(c)sul(e)tá(egf)bunt(f.) *(,) sanc(hfghvF'Ege/fg)ti(f.) (;) in(hh/ijIH') gló(ig'hvF'Ehhe//hiH'F)ri(f)a:(f/hhh/fgf.__) (:) lae(hh)ta(h)bún(hg//hi!jvHGhhg,i_hivHF)tur(fhF'Efhhf//hvvGF'heed.) (:) in(d) cu(ef)bí(f.hvGF'g)li(e)bus(f) su(hf/h_i)is.(ih/ijI'H) (,) (jh/jkIG'hvF'E//f!gwh!iv.h!i'j) (,) (ijijHF'gwhf.)\r\n\r\n<sp>V/</sp>.(::) Can(f)tá(h)te(ij) Dó(jvI'HG'hvF'E,ge/f!hh/ijij.,hj!kvIG'hvF'E//fgF'Ef.,i!jwk_jkvJI)mi(ji)no(i.) (:) cán(i!jw!kvJI'jw!kvJI')ti(i)cum(ij~) no(j_hjvIH'hf//hhf/hv.hhh_f,hi!jvIHjvIHif)vum:(f.) (:) laus(hhi~) e(ivH'GE//fhGEfh..,gi!jvHF)jus(fhF'Efhhf//hvvGF'heed.) (:) in(d) ec(d)clé(d!e'f)si(f)a(f.hvGF'g) *() sanc(ef)tó(hf/h_i)rum.(i_jH'Ghi..) (,) (e!f'hh'jIH'GF'gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "646"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "963",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

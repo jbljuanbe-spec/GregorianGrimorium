@@ -1,0 +1,31 @@
+{
+  "id": "gaude-maria-3420",
+  "incipit": "Gaude Maria",
+  "title": "Gaude Maria",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Gaude * María Virgo, cunctas haéreses sola interemísti. ℣. Quae Gabriélis Archángeli dictis credidísti ℣. Dum Virgo Deum et hóminem genuísti et post partum, Virgo, invioláta permansísti. ℣. Dei Génitrix, intercéde * pro nobis.",
+  "gabc": "(f3) GAU(f)DE(fv//eeec/db bc/d!ef//ghggf) *(,) Ma(e!fh)rí(ghGE)a(f) Vir(gfg)go,(fe/ggf/gh/iffe) (:) cunc(e)tas(e) haé(gh)re(f)ses(f) so(fe/f!gwh!iv)la(hg/hiih) (;) in(ef)te(eh)re(gh/ih)mí(hvGF)sti.(f/ggf) <sp>V/</sp>.(::) Quae(f) Ga(e)bri(f)é(h/ihhf/g/hggf/h/ihhg/i/jiig/h/ighf)lis(f) (,) Arch(h)án(kxhj/kiig//ijhhvFEf!hh/ijij,kxhj!kvIHhf/ihhf)ge(fe)li(e) (;) di(hhg)ctis(e) cre(g!hi)di(h)dí(hvGF)sti(f/ggf) <sp>V/</sp>.(::) Dum(hi) Vir(ijIH)go(kxiji/jkIH//ji/jkIH) (,) (jji/jvIH//jji/jvIH//ji/jiif) (;) De(hhg)um(f) et(h) hó(h!ij)mi(jvIHGhvGFg)nem(gf) (;) ge(f)nu(i)í(jiif/hhf/jvIHhvGF)sti(fe/ggf/gh/iffe) (:) et(e) post(e) par(gh)tum,(f) Vir(fe/f!gwh!iv)go,(kxhgi//jkiih) (;) in(hi)vi(hhg)o(fe)lá(fh)ta(h) per(h)man(gh/ih)sí(hvGF)sti.(f/ggf) <sp>V/</sp>.(::) De(ef)i(f/hhhvFE//fef) Gé(ef!hhi)ni(h)trix,(h) (;) in(hi~)ter(hihhe)cé(fgf)de(g) *() pro(g) no(ihivHFg,hjijHGF)bis.(fe/f!hh/ijIGh) (,) (gh!jvIHhvGFggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[84]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3420",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

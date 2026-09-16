@@ -1,0 +1,24 @@
+{
+  "id": "laetamus-7445",
+  "incipit": "Lætamus",
+  "title": "Lætamus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": null,
+  "mode_variant": null,
+  "version": "Salmodia",
+  "text_latin": "Allelúia, allelúia. ℣. Lætátus sum in his, quæ dícta sunt míhi: in dómum Dómini íbimus. Allelúia.",
+  "gabc": "(cb3) Al(g)le(g)lú(g)ia,(g) (,) al(f)le(g)lú(e'd)ia.(d.) (::)\r\n<sp>V/</sp>. Læ(d)tá(e)tus(g) sum(g) in(g) his,(g) (;) quæ(g) dí(g)cta(g) sunt(g) mí(h')hi:(g.) (:) in(g) dó(g)mum(g) Dó(g)mi(f)ni(g) í(e')bi(d)mus.(d.) (::) Al(f)le(g)lú(e'd)ia.(d.) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7445",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

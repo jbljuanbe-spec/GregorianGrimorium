@@ -1,0 +1,31 @@
+{
+  "id": "ego-sum-pastor-alleluia-1412",
+  "incipit": "Ego sum pastor... alleluia",
+  "title": "Ego sum pastor... alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ego sum * pastor bonus, allelúia: et cognósco oves meas, et cognóscunt me meae, allelúia, allelúia.",
+  "gabc": "(f3) E(ggh)GO(f!gwh) sum(he~) *() pas(ggh)tor(hf~) bo(gihi)nus,(ggh) (,) al(g)le(e)lú(ghGF)ia:(f) (:) et(e) co(fg~)gnó(g)sco(f/giffe) o(gi)ves(h) me(ijIG)as,(g) (;) et(e) co(fg~)gnó(g)scunt(f) me(e) me(e!fg)ae,(ggf) (;) al(f)le(f)lú(ede)ia,(c) (,) al(ef~)le(f)lú(fgf)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "225"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1412",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "stetit-pontifex-6869",
+  "incipit": "Stetit Pontifex",
+  "title": "Stetit Pontifex",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Stetit Póntifex inter mórtuos et vivos, habens thuríbulum áureum in manu sua: et ófferens incénsi sacrifícium, placávit iram Dei, et cessávit quassátio a Dómino. T. P. Allelúia.",
+  "gabc": "(c4) Ste(ffvDC//dffv//hgh)tit(fgf) (::) Pón(f!gh)ti(h)fex(hf) (;3) (ixhig//ffv/ded) (;) in(d)ter(dgfg) mór(dgf/efd/ed)tu(cd)os(d) (;) et(d) vi(c!df//ef//hvGE/fd)vos,(d) (:) ha(d!fh//jjh/ixivGE/fg)bens(fe) (;) thu(ce)rí(gh)bu(hvGE//fvDCd)lum(d) (;) áu(dv//c!df//e!fgEDf;3efd/ed)re(cd)um(dv//fddc) (;) in(d) ma(cd)nu(d) su(d!efd)a:(d) (:) et(c) óf(d)fe(ede)rens(dec) (;) in(dc~)cén(c!df//efd/ed)si(cd) (;1) sa(d)cri(cd)fí(d)ci(d!efd)um,(d) (:) pla(cd)cá(dh//jjh;3ixgihig//f!gh//jjg;fhgh;3fh/jg//ffdf;eg//hjh//jhhgh)vit(f) (;) i(e!fgEDf;3efd)ram(d) De(cd)i,(dfddc) (:) et(c!df//e!fg) ces(edfe)sá(ded)vit(d) (;4) quas(cd)sá(d)ti(d!efd)o(d) (;) a(cd) Dó(fgED;4hghFD;cd/fe//fggf;hvGF/fd//fvED//ed)mi(cd)no.(d) <i>T. P.</i>(::) Al(cd)le(fgED;4hghFD;cd/fe//fggf;hvGF/fd//fvED//ed)lú(cd~)ia.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "106*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6869",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

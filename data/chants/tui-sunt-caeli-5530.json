@@ -1,0 +1,31 @@
+{
+  "id": "tui-sunt-caeli-5530",
+  "incipit": "Tui sunt caeli",
+  "title": "Tui sunt caeli",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tui sunt cæli, et tua est terra: orbem terrárum et plenitúdinem ejus tu fundásti: justítia, et judícium præparátio sedis tuæ.",
+  "gabc": "(c4) Tu(f)i(dfd) sunt(f) (::) cæ(e!fgFE//fvED)li,(fd/efe) (;) et(f) tu(dfe)a(f) est(gffvED) ter(gvFE//gvFE)ra:(e) (:) or(d!fhg~)bem(g) ter(fg)rá(fgFE)rum(f) (;) et(dfc) ple(dfe)ni(f)tú(ef/gfg)di(d)nem(d) (;4) e(ffgd//ffeed~)jus(ed) (;) tu(f!hj) fun(gh)dá(egff)sti:(fe) (:) ju(hg)stí(hg//hvGE//fg/hgh)ti(f)a,(f) (;) et(fdf) ju(f)dí(fhGFD//gvFED)ci(d!efd)um(d) (;) præ(d)pa(ef)rá(gh)ti(g)o(g//hvGFE/fvED) (;) se(ffd//gvFE)dis(gf//hggf//ghg) tu(egff)æ.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "35"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5530",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

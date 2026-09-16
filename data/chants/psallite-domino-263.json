@@ -1,0 +1,37 @@
+{
+  "id": "psallite-domino-263",
+  "incipit": "Psallite Domino",
+  "title": "Psallite Domino",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "PSállite Dómino, * qui ascéndit super cælos cælórum ad Oriéntem, allelúia.",
+  "gabc": "(c4) PS{á}l(d)li(c)te(dfe) Dó(fg)mi(gvF'E/fvED'e)no,(ed..) *(;) qui(f) a(gh)scén(hgh~)dit(h.) (,) su(h!iwji/jkj)per(hf~) cæ(ix/giH'G )los(h_g) cæ(ef)ló(ix/giH'G//)rum(hg..) (,) ad(fge___ed) O(d!ewf!g'h)ri(fe)én(de~)tem,(c.) (;) al(fg~)le(e_d/fh//ghg/e!fg/hf/gvFE)lú(d!ewfef)ia.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "287"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "849"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "263",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

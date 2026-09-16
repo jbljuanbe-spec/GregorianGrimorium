@@ -1,0 +1,31 @@
+{
+  "id": "narrabo-omnia-639",
+  "incipit": "Narrabo omnia",
+  "title": "Narrabo omnia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Narrábo * ómnia mirabília tua: laetábor, et exsultábo in te: psallam nómini tuo, Altíssime.",
+  "gabc": "(f3) NAr(c)rá(egf)bo(f.) *(,) ó(fg)mni(ed)a(c) mi(e)ra(f)bí(hh)li(fe)a(e) tu(eg!ivHGih)a:(h.) (:) lae(f)tá(hih)bor,(hgh.) (,) et(f) ex(f)sul(hg~)tá(hih)bo(hgh.) in(fe~) te:(fv.efEC.) (:) psal(egf)lam(f) nó(hh)mi(fe)ni(e) tu(fge)o,(e.) (,) Al(eg!ivH'Gh')tís(f)si(fgf___)me.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "118"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "639",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

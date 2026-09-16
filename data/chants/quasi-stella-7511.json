@@ -1,0 +1,24 @@
+{
+  "id": "quasi-stella-7511",
+  "incipit": "Quasi stella",
+  "title": "Quasi stella",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "solesmes",
+  "text_latin": "Quasi * stélla matutna in médio nébul et quasi sol reflgens sic lle efflsit in témplo De i ℣ Quasi planttio cedri in mnte Lbano sic circa llum stetérunt flii * Aaron",
+  "gabc": "(c3) QUa(ehf)si(efED.) *() stél(e)la(fh) ma(h)tu(hf)t<v>{\\'i}</v>(hi/kk'I'Gijhhg)na(h.) (,)\r\nin(h) mé(hi/jk)di(j)o(i) (,) né(ijij)bu(ih)l<v>{\\ae}</v>(iv.ghivih/ii) (,) (hi!kkkikvvJIjhivHGhg..) (:)\r\net(fhg) qua(hi)si(i) sol(ig/h_i) re(h)f<v>{\\'u}</v>l(h)gens(hhhvF'Effe/ff) (,) (ef!hhhfhvvGF'hefvEDed..) (:)\r\nsic(f) <v>{\\'i}</v>l(d)le(e) ef(f)f<v>{\\'u}</v>l(hih)sit(h.) (,)\r\nin(hf~) tém(hikvJI)plo(ig/hjIH'hefv.) (,) De(hv.gih.f!hhvFDff) (,) (e!hhe'gvFE)i(hf!hhfivH'GE) (,) (f!gwh_g/ihh'hhvF'Ef_gffe.) (::)\r\n<sp>V/</sp>() Qua(ef)si(e) plan(e)t<v>{\\'a}</v>(ehivji/kkijvIHihi)ti(ihhf)o(f_efv.) ce(hg/hiF'Ehh)dri(hiHG.) (,)\r\nin(eh~) m<v>{\\'o}</v>n(hh/ig/hiF'E)te(hh) L<v>{\\'i}</v>(hi)ba(i)no(ijI'Hl_k/jlk//iji.) (:)\r\nsic(ij) cir(hi)ca(i!jwk) <v>{\\'i}</v>l(i_h)lum(ih) (,)\r\nste(h)té(ih/ikJI'H)runt(ihhvF'Effe/ff) (,) (ef/hhhfhvvGF'he/fvEDed..) (;)\r\nf<v>{\\'i}</v>(ef)li(e)i(e) *() A(e.f!gwh')a(iv)ron(ijIH'hghv.) (,) (ijIH'hgiv.kkkh/ijIG.hig'hvF'Ef_gffe.) (::)",
+  "transcriber": "Boris Maire",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7511",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

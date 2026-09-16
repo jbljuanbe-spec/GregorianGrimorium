@@ -1,0 +1,31 @@
+{
+  "id": "pascha-nostrum-1612",
+  "incipit": "Pascha nostrum",
+  "title": "Pascha nostrum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Pascha nostrum immolátus est * Christus.",
+  "gabc": "(c3) AL(e)LE(e)LÚ(e!fh fi//gi~)IA.(ii) *(;) <i>ij.</i>(g!iwjij//iji/hiHF/fe) (;) (iv//ji/ji/jvIG//hih/ivHFfe) (,) (iv//ef//efd/fhf/gffe) <sp>V/</sp>.(::) Pa(h)scha(g) nos(ijij)trum(iji/jg//hi/ji/jg/hihhg) (;) im(h)mo(i)lá(ilmvLK/lvKJ/kkki ; kv//mvLK/lvKJ/kkki//jvIHhhf/g!hi , jkIH/ivHF/fe , g!hwigiigi)tus(giGFE/gvFE/fe) est(e) *(;) Chris(e/fh//figi)tus.(iie) (,) (ijvIH/ivHF/fe) (,) (iv//ef//efd//fhf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "203"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1612",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

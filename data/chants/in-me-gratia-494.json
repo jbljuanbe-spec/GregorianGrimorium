@@ -1,0 +1,37 @@
+{
+  "id": "in-me-gratia-494",
+  "incipit": "In me gratia",
+  "title": "In me gratia",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "In me * grátia omnis viae et veritátis, in me omnis spes vitae et virtútis: ego quasi rosa plantáta super rivos aquárum fructificávi.",
+  "gabc": "(c4) IN(df) me(ef!ghhg.) *(,) grá(hv.jkjkvJ'I)ti(jjj_h)a(hg..) (;) o(hggf~)mnis(f) vi(h_g/jjjh//jkJ'Ijjjh)ae(hgh.) (,) et(h) ve(hi)ri(hg)tá(gjIH'hg)tis,(ghggf.) (:) in(hj) me(jjj//jkj) o(jj//jkj)mnis(jkjjgh.) spes(gihhg) vi(gh/ji)tae(j.) (,) et(jjj_gh/jkj) vir(jjj_g//hj/klj)tú(jjj_g//jvIH'hg)tis:(ghggf.) (:) e(fh)go(hjI'H) qua(gjj'j)si(j) ro(jjjk/jlk)sa(kljjh.) (,) plan(hg~)tá(gjI'GhvGF)ta(f.) (;) su(f)per(f) ri(fhg)vos(g) a(g)quá(g!jj//jjj)rum(h!iw!jvI'HGhih.) (;) fru(gf)cti(gh)fi(hg)cá(h/jkjjh//jjh/jjvH'G)vi.(g'/hihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "621"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1676B"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "494",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

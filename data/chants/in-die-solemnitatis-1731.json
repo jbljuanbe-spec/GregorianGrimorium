@@ -1,0 +1,31 @@
+{
+  "id": "in-die-solemnitatis-1731",
+  "incipit": "In die solemnitatis",
+  "title": "In die solemnitatis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "In die * solemnitátis vestrae, dicit Dóminus, indúcam vos in terram fluéntem lac et mel, allelúia",
+  "gabc": "(c4) IN(c) di(dfe/ffe/gf/gvFEf)e(fe) *(,) so(d)lem(e)ni(f)tá(ixgig!hwi)tis(fg) ves(ffffgfg)trae,(e) (;) di(ff)cit(gh) Dó(hv///ghf/gge//hggf/ghg)mi(egff)nus,(fe) (:) in(fe~)dú(fg//f!gh!jj//jjj)cam(gh//ghf/ghhg) vos(gff//dgFE) (;) in(fge) ter(ghgh//ghf/gge//fgdf/egFE)ram(ffffe) (;) flu(f)én(bxfg//ef/ge/fvDCB//d!ewf/gf~)tem(f) (,) lac(gf/gf/gdf) et(fg) mel,(g) (:) al(gh~)le(hgge//ghFDCd , dfeffe//dgfg//ef!gvFE/fv//deddc , de!fvED)lú(de!fv)ia(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "215"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1731",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,70 +1,63 @@
-# Byscador de Ofertas España
+# Gregorian Grimorium
 
-Aplicación privada para descubrir, deduplicar y priorizar oportunidades reales en España con criterios profesionales explícitos. Compara el texto de cada oferta con el perfil guardado en el navegador y conserva el enlace original de candidatura.
+Biblioteca digital de canto gregoriano: un buscador donde directores de coro,
+organistas, músicos de iglesia e investigadores localizan una pieza por
+íncipit, por cualquier palabra de su texto latino, por modo o por edición, y
+consultan su partitura en notación cuadrada.
 
-## Acceso independiente
+## Decisión de arquitectura
 
-La versión autónoma, que no requiere créditos de Manus para usarse, está disponible en **[buscador-ofertas-espana.jbljuanbe.workers.dev](https://buscador-ofertas-espana.jbljuanbe.workers.dev)**. El código permanece en este repositorio privado y Cloudflare publica las actualizaciones de `main` gratuitamente.
+**Las partituras no son imágenes.** Cada canto guarda su notación en **gabc**
+(el formato del motor Gregorio) y el navegador la dibuja con
+[Exsurge](https://github.com/frmatthew/exsurge). Eso resuelve de raíz los dos
+riesgos críticos del proyecto:
 
-Esta versión consulta fuentes compatibles bajo demanda y ordena las vacantes según el perfil guardado localmente en el navegador. Deduplica la misma URL canónica de candidatura y, cuando una fuente expone un identificador de requisición ATS, la misma requisición sindicada en otra URL. Por tanto, conserva posiciones distintas de una misma empresa, incluso cuando comparten ciudad o título. No depende de créditos de Manus ni envía el CV a un servidor.
+- **Derechos**: no se reproduce la maquetación de ninguna edición protegida.
+  El corpus viene de [GregoBase](https://gregobase.selapa.net/) vía
+  [GregoBaseCorpus](https://github.com/bacor/gregobasecorpus), bajo
+  **CC0-1.0**. Ver [`docs/SOURCES.md`](docs/SOURCES.md).
+- **Segmentación**: no hay que recortar páginas de un PDF ni adivinar dónde
+  empieza cada pieza; el corpus ya viene por canto.
 
-## Cobertura de fuentes
+Además, una partitura dibujada desde su código fuente se puede reajustar al
+ancho de la pantalla y ampliar sin pixelarse, algo imposible con un escaneo.
 
-| Fuente | Estado | Cobertura efectiva |
-| --- | --- | --- |
-| [Adzuna](https://developer.adzuna.com/overview) | Activa cuando el Worker tiene sus credenciales configuradas como secretos. | Ofertas españolas agregadas; la consulta se amplía de forma controlada cuando el texto es demasiado específico. |
-| [Arbeitnow](https://www.arbeitnow.com/api/job-board-api) | Fuente pública complementaria. | Vacantes con presencia en España y algunas oportunidades remotas si se activan. |
-| [Jobicy](https://jobicy.com/api/v2/remote-jobs) | Fuente pública complementaria. | Oportunidades remotas; se muestran solo cuando se habilita esa modalidad. |
-| [Iberdrola Careers](https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola) | Conector corporativo oficial activo. | Consulta paginada y acotada del ATS público de Iberdrola; se retienen las vacantes con señal de España y se enlaza la candidatura original. |
-| [Santander Careers](https://santander.wd3.myworkdayjobs.com/en/SantanderCareers) | Conector corporativo oficial activo. | Consulta paginada y acotada del ATS público de Santander; se retienen las vacantes con señal de España y se enlaza la candidatura original. |
-| Radar de 100 empresas objetivo | Activo como directorio de carrera. | Enlaces a los portales oficiales; solo las empresas con conector marcado como fuente se consultan automáticamente. |
+## Estado
 
-> **Transparencia de cobertura.** LinkedIn, Google Jobs, InfoJobs e Indeed se facilitan como destinos de consulta manual cuando corresponda. La aplicación no automatiza su extracción ni utiliza sesiones personales sin una autorización o API aplicable.
+**MVP funcionando**: 3.054 propios de la misa (introitos, graduales, aleluyas,
+tractos, ofertorios y comuniones), 3.054 páginas estáticas, búsqueda a texto
+completo y partitura dibujada en el cliente.
 
-## Capacidades
+Todos los registros están en `needs_review`: la importación nunca marca nada
+como verificado. Ver [`docs/PLAN.md`](docs/PLAN.md).
 
-| Área | Implementación |
-| --- | --- |
-| Perfil privado | Importación local de CV `.pdf`, `.docx`, `.txt` o `.md`; titular, experiencia, áreas, ubicaciones, idiomas y palabras clave editables. |
-| Búsqueda activa | Consulta de fuentes autorizadas bajo demanda, deduplicación por URL y empresa/título/ubicación, e historial local de consultas. |
-| Adecuación | Puntuación explicable sobre 100; muestra coincidencias, carencias, experiencia solicitada, empresa objetivo y ubicación a revisar. |
-| Filtro de experiencia | Opción para ocultar solo las ofertas cuyo requisito de años conocido supera la experiencia extraída o declarada. |
-| Radar corporativo | Directorio de cien organizaciones objetivo con enlaces oficiales de empleo y prioridad adicional para sus resultados recuperados. |
-
-## Modelo de adecuación
-
-La plataforma no inventa competencias. El cálculo se limita a contrastar el texto de cada oferta con los criterios editables del perfil y presenta las dudas en lugar de ocultarlas. Una ubicación distinta no elimina una oportunidad sólida: queda señalada como **ubicación por revisar** y recibe una penalización moderada.
-
-| Factor | Peso máximo |
-| --- | ---: |
-| Competencias, roles, áreas y palabras clave | 75 puntos |
-| Ubicación, modalidad y contrato | 15 puntos |
-| Idiomas | 10 puntos |
-| Empresa objetivo y experiencia suficiente | 15 puntos combinados |
-
-## Uso
-
-Abre la [versión autónoma](https://buscador-ofertas-espana.jbljuanbe.workers.dev), importa el CV desde el dispositivo si quieres partir del documento y revisa los campos extraídos. Después selecciona las fuentes, activa el filtro de experiencia si procede y busca. El buscador muestra las fuentes consultadas, elimina duplicados, calcula la adecuación y abre siempre la URL original para la candidatura.
-
-Los enlaces de consulta manual incluyen [Empléate](https://www.empleate.gob.es/empleo/#/), [InfoJobs](https://www.infojobs.net/), [LinkedIn Empleos](https://es.linkedin.com/jobs) e [Indeed España](https://es.indeed.com/). La vigencia de cualquier oferta y las condiciones definitivas deben confirmarse siempre en la fuente original.
-
-## Desarrollo local
-
-```bash
+```sh
 pnpm install
-pnpm dev
-pnpm check
-pnpm test
+pnpm run check    # tests + validación del corpus + tipos
+pnpm run dev      # servidor de desarrollo
+pnpm run build    # exportación estática a out/
 ```
 
-El proyecto usa React, Express, tRPC, Drizzle y autenticación integrada. El perfil y las ofertas se protegen mediante procedimientos autenticados y se guardan por usuario.
+## Estructura
 
-## Calidad y privacidad
+```
+data/chants/   Datos maestros (un JSON por canto), fuente de verdad en git
+data/schema/   Esquema JSON del registro de canto
+lib/           Librería gabc compartida entre importadores y frontend
+scripts/       Importación, validación y artefactos de compilación
+app/           Rutas Next.js (buscador, ficha de canto, sitemap)
+components/    Buscador y visor de partitura (cliente)
+docs/          Auditoría, plan, fuentes y guía de importación
+```
 
-La batería de pruebas cubre deduplicación, normalización de keywords, extracción local de CV, requisitos de experiencia, ranking real, historial seguro y el conector corporativo oficial. La aplicación no automatiza candidaturas ni solicita credenciales de portales externos.
+## Importar el corpus
 
-Las decisiones de arquitectura y las fuentes de consulta están documentadas en [`docs/architecture.md`](docs/architecture.md).
+El volcado de GregoBase no se versiona aquí (6,8 MB de origen externo):
 
-## Referencia
+```sh
+git clone --depth 1 https://github.com/bacor/gregobasecorpus.git
+pnpm run import:gregobase -- --dump gregobasecorpus/gregobase_dumps/gregobase_20191024.sql \
+  --genres in,gr,al,tr,of,co
+```
 
-La idea de convertir una búsqueda de empleo en un proceso explícito y verificable tomó como referencia conceptual el proyecto [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search), publicado bajo licencia MIT. Esta aplicación es una implementación web independiente, enfocada en una gestión privada de oportunidades en España.
+Detalles y garantías del importador en [`docs/IMPORT.md`](docs/IMPORT.md).

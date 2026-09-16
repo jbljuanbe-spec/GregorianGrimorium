@@ -1,0 +1,37 @@
+{
+  "id": "dominus-dixit-1175",
+  "incipit": "Dominus dixit",
+  "title": "Dominus dixit",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Dominus * díxit ad me: Fílius meus es tu, ego hódie génui te. Ps. Quare fremuérunt gentes: * et pópuli meditáti sunt inánia? Glória Patri. E u o u a e.",
+  "gabc": "(f3) DO(fh/ih)MI(hhh)NUS(f.) *(,) dí(f!hh)xit(f!hh) ad(eg~) me:(f.) (;) Fí(fgf)li(fe)us(f) me(h_g)us(h_i) es(fgF'E) tu,(e.) (:) e(fh/ih)go(hhh) hó(f/hhh)di(fe)e(e.) (,) gé(fge)nu(hh)i(ivH'Gh) te.(f.) <i>Ps.</i>(::) Qua(e)re(fe) fre(eh)mu(hg)é(hi)runt(i) gen(hi)tes:(h.) *(:) et(hf~) pó(fh)pu(h)li(h) me(h)di(h)tá(h)ti(h') sunt(i) in(hf)á(h)ni(ge)a?(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri.(h) (::) E(h') u(i) o(hf) u(h) a(ge) e.(fgf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "27"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "392"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1175",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "redime-me-6994",
+  "incipit": "Redime me",
+  "title": "Redime me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Redime me, Deus Israël, ex ómnibus angústiis meis.",
+  "gabc": "(c3) Re(h)di(gh)me(fg) me,(fe) (::) De(ef/gfg)us(ed/effe) (;3) Is(hg)ra(hi)ël,(ijIG//hiHGEf) (;) ex(hg) ó(hiHGF//hg/hi)mni(h)bus(gvFEf) (;) an(eh)gú(hvGF//hihi)sti(gh)is(f) (;) me(efd//fhhffeed;4e!fgFEf)is.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "142"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6994",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

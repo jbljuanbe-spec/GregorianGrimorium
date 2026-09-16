@@ -1,0 +1,31 @@
+{
+  "id": "auditui-meo-3793",
+  "incipit": "Auditui meo",
+  "title": "Auditui meo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Audítui meo dabis gáudium et laetítiam: et exsultábunt ossa * humiliáta.",
+  "gabc": "(c4) AL(ddc~)LE(d/fd/ec)LÚ(ee)IA.(d) *(;) (fvED/gvFED//ec/eed) <sp>V/</sp>.(::) Au(cd~)dí(d!ef/ghg)tu(fe)i(evDC//egFEfd) me(eed/fvED/ecd)o(d) (;) da(e)bis(g) gáu(gh~)di(h)um(h) (,) et(h) lae(h)tí(hi)ti(hg)am:(gvFED//efd/ecd) (;) (e!gh//ivHG/gvFD/efd/ecd) (:) et(d) ex(d)sul(d)tá(f)bunt(e) os(cd!ewf)sa(e) *(,) hu(eg)mi(gf)li(e)á(fvED//ec/ee)ta.(d) (;) (fvEDgvFED//ec/eed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[100]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3793",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

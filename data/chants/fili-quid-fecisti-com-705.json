@@ -1,0 +1,31 @@
+{
+  "id": "fili-quid-fecisti-com-705",
+  "incipit": "Fili quid fecisti (Com.)",
+  "title": "Fili quid fecisti (Com.)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Fili, * quid fecísti nobis sic ? ego et pater tuus doléntes quærebámus te. Et quid est quod me quærebátis ? nesciebátis quia in his quæ Patris mei sunt, opórtet me esse ?",
+  "gabc": "(c4) FI(fdf)li,(f.) *(,) quid(f) fe(fe)cí(gh)sti(h) no(hfg)bis(g) sic ?(efd.) (;) e(d!ff)go(d!ff) et(fd~) pa(fh)ter(g) tu(ixhihhg)us(g.) (,) do(g)lén(fefv_ED)tes(e_d) quæ(f)re(gh)bá(hgh)mus(fgf___) te.(f.) (:) Et(f) quid(ixhih) est(h) quod(g) me(ixhih) quæ(g)re(f)bá(ff/g_f)tis ?(f.) (;) ne(f)sci(h)e(g)bá(g!jj)tis(ixhih___) (,) qui(f)a(f) in(gh) his(h) quæ(g) Pa(gj)tris(jjj) me(g)i(g.h!iw!jvIH) sunt,(hgh.) (,) o(gh)pór(dg~)tet(g_h) me(fvED) es(ded___)se ?(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "66"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "705",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

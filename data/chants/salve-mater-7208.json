@@ -1,0 +1,31 @@
+{
+  "id": "salve-mater-7208",
+  "incipit": "Salve, Mater",
+  "title": "Salve, Mater",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Salve, Mater misericórdiæ, Mater spei et grátiæ, o María.",
+  "gabc": "(c4) Al(cd)le(ef!ghhg)lú(gi/jh/ivHG)ia.(g) (::) (gh/ijh) (;6) (jvIHG) (;3) (fhfg) (;3) (egFEDC) (;) (cd!ef!ghhvGFD//eddc) <sp>V/</sp>.(::) Sal(cd)ve,(fe) Ma(fg)ter(gvFED/fg!hvhg) (;) mi(g/hhg)se(fvED)ri(dgFE)cór(c)di(cdc)æ,(c) (;) Ma(g)ter(g) spe(g/hg/jv//ijhhvGE/fg)i(g) (;) et(cd) grá(ef!ghhg)ti(gi/jh/ivHG)æ,(g) (::) o(d) Ma(d)rí(gh/ijh;6jvIHG;3fhfg)a.(egFEDC) (;) (cd!ef!ghhvGFD/eddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "486"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7208",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

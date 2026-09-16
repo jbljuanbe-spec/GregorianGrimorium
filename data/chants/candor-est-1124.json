@@ -1,0 +1,37 @@
+{
+  "id": "candor-est-1124",
+  "incipit": "Candor est",
+  "title": "Candor est",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Candor est lucis aetérnae, spéculum sine mácula, et imágo bonitátis * illíus.",
+  "gabc": "(c3) AL(d)le(efde/ffe)lú(df!hvGFhh)ia.(e.) *(;) <i>ij.</i>(hvijj/h/ii/efE'Dffe.) (,) (h'/ig'/hvF'ED'CB.e.f!gwhhvG'FEffe.) <sp>V/</sp>.(::) Can(eh~)dor(h_g/fge) est(f_e) (,) lu(d!ewfef/hvGF'ge)cis(e.) ae(ei)tér(iv.jkjjvIHjh/ij)nae,(i.) (;) spé(ij)cu(i)lum(i) si(i)ne(i) má(j!kwlj/kvJIjvIHii , ij/klj/kvJIjvIHii , ei/jvIH'hvGF'Efe)cu(de)la,(e/ffe.) (:) et(ehg) i(hi)má(i./jkjjvIH'Ghih)go(i.) (,) bo(h)ni(f)tá(f'hvG'FE'D//fgffe)tis(ev.de!fvfe.) *(,) il(d)lí(df!hvGFhh)us.(e.) (;) (hvijj/h/ii//efE'Dffe.) (,) (h'ig'hvF'ED'CB./e.f!gwhhvG'FEffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "572"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1586"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1124",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

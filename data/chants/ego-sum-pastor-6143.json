@@ -1,0 +1,31 @@
+{
+  "id": "ego-sum-pastor-6143",
+  "incipit": "Ego sum Pastor",
+  "title": "Ego sum Pastor",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ego sum Pastor bonus, allelúia: et cognósco oves meas, et cognóscunt me meæ, allelúia, allelúia.",
+  "gabc": "(c4) E(j)go(hj) sum(ig) (::) Pa(jjv)stor(i) bo(hkjk)nus,(ij) (;) al(h)le(f)lú(ixhihhg~)ia:(g) (:) et(f) co(gh)gnó(h)sco(gh/jggf) o(hj)ves(ixi) me(jkJH)as,(h) (:) et(f) co(ghg~)gnó(h)scunt(g) me(f) me(fg!hvhg)æ,(g) (:) al(g)le(g)lú(fef>)ia,(d) (;) al(fd~)le(f)lú(ghg)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "223"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6143",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

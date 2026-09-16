@@ -1,0 +1,37 @@
+{
+  "id": "protege-domine-195",
+  "incipit": "Protege Domine",
+  "title": "Protege Domine",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "PRótege, * Dómine, plebem tuam, per signum sanctæ Crucis, ab ómnibus insídiis inimicórum ómnium: ut tibi gratam exhibeámus servitútem, et acceptábile tibi fiat sacrifícium nostrum allelúia.",
+  "gabc": "(f3) PRó(fffvEC//ef/gf)te(ef)ge,(f.) *(,) Dó(ef/hgh)mi(gf)ne,(g'/hvGE.gef/ghf.) (,) ple(gf)bem(ef~) tu(fgf___)am,(f.) (;) per(f) si(g!hiihivHF'g)gnum(g/hhg.) (,) san(eg'!ivH'GF hvGFgf)ctæ(ef) Cru(fggf)cis,(f.) (;) ab(fe) ó(ffe/fhGE.gh/ih~)mni(fg)bus(g.) in(hhg)sí(fe)di(fg)is(g/hhg.) (,) i(e)ni(gf)mi(hih)có(gf)rum(ghg) ó(fgf)mni(ef)um:(f.) (:) ut(fe~) ti(ffvEC//ef/gf)bi(ef) gra(fgf___)tam(f.) (,) ex(f)hi(g)be(hi)á(i/jhiivHF./g!h'i/jhiivHF'g)mus(g/hhg.) (,) ser(eg'!ivH'GF//hvGFgf)vi(ef)tú(fggf)tem,(f.) (:) et(fe) ac(f)cep(fe)tá(fhGE.g!hi)bi(hg)le(fg) ti(fe)bi(fg) fi(g/hhg)at(g.) (;) sa(iiivHFghg)cri(e)fí(gh'!ivH'GF)ci(gf)um(ef) no(f.e!fwg'!hv)strum(gf..) (:) al(fe~)le(e/feggvFE'f)lú(f.e!fwg'!hv)ia.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "594"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1630"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "195",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

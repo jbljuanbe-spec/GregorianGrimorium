@@ -1,0 +1,31 @@
+{
+  "id": "panem-de-caelo-388",
+  "incipit": "Panem de caelo",
+  "title": "Panem de caelo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Panem de caelo * dedísti nobis, Dómine, habéntem omne delectaméntum, et omnem sapórem suavitátis.",
+  "gabc": "(c3) PA(dde)nem(d) de(df) cae(feede)lo(e_d) *(,) de(d)dí(ef)sti(hffe) no(hhi)bis,(h) Dó(hji)mi(ihhf)ne,(f.) (;) ha(f)bén(hi~)tem(h) o(h)mne(hhh) de(f!g'h)lec(e_d)ta(fdf)mén(fe/gf)tum,(f.) (:) et(f) o(hi~)mnem(i) sa(ih)pó(i_h/ivH'GF'g)rem(g_f) (,) su(fhd)a(d!e'f)vi(gxfhFE'fw!gvFE)tá(de!fvED'e)tis.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "356"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "388",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

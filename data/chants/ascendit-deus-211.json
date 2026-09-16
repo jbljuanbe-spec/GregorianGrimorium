@@ -1,0 +1,31 @@
+{
+  "id": "ascendit-deus-211",
+  "incipit": "Ascendit Deus",
+  "title": "Ascendit Deus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ascéndit * Deus in jubilatióne, Dóminus in voce tubæ, allelúia.",
+  "gabc": "(c4) A(d_cd)scén(d!ewf)dit(gh) *(,) De(h!iwj/ki'/jvHG'/hwihi)us(ih..) (;) in(dh/ih) ju(hjhhg)bi(ghgh)la(gfg)ti(gh)ó(j_i/jjj_g/jvIH'/hg)ne,(ghggf.) (:) Dó(dh/ih)mi(h!jjh/jggfg)nus(gf..) (,) in(hg~) vo(h_g/jhhfg)ce(f_df) tu(fgf)bæ,(fgf.) (;) al(fff_d/ffixhiH'GF'fe~)le(ghGF'/ge/f_d , fge/fhGF'/fd//gf'/gff)lú(dc~)ia.(d/fff_d/fff/ded.___) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "287"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "211",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

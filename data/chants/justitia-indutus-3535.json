@@ -1,0 +1,31 @@
+{
+  "id": "justitia-indutus-3535",
+  "incipit": "Justitia indutus",
+  "title": "Justitia indutus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Justítia * indútus sum, et vestívi me, sicut vestiménto et diadémate, judício meo. Oculus fui caeco, et pes claudo: pater eram páuperum.",
+  "gabc": "(c4) JU(c)STÍ(cd/fef)TI(f)A(f) *(,) in(ff//fffd)dú(c!df)tus(fe) sum,(egff) (,) et(d) ve(dg~)stí(gv//f!hj)vi(ge) me,(ghFDgvFE) (;) si(d!fg)cut(gfg) ve(gd)sti(df)mén(ixef/hig)to(ghffe) (,) et(fffd~) di(f)a(ef)dé(gh)ma(g)te,(gv//efDCd) (;) ju(fffd)dí(f)ci(gf)o(fgff) me(d!ffd)o.(d!ewf) (:) O(cd/fef)cu(f)lus(f) fu(gh)i(g) cae(ef/gf!gwhgh)co,(hg) (;) et(f) pes(ef!gwhg) clau(ge/ghffe)do:(e) (:) pa(ce/gff)ter(fv//fffc) e(d!ewf!gvFE)ram(f) (,) páu(ffd//fhg/hfg)pe(e)rum.(egf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "547"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3535",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

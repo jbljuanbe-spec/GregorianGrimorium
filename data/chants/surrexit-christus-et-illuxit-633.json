@@ -1,0 +1,37 @@
+{
+  "id": "surrexit-christus-et-illuxit-633",
+  "incipit": "Surrexit Christus et illuxit",
+  "title": "Surrexit Christus et illuxit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Surréxit Christus, et illúxit nobis, quos redémit sánguine * suo.",
+  "gabc": "(c4) AL(cd~)le(de/feed)lú(ge/fgFE'e)ia.(d.) *(;) <i>ij.</i>(f!gwhgge/gvF'ED'//hgge/gvF'ED.) (;) (cfe/fgF'ED./ce/gff'fvED/eed.) <sp>V/</sp>.(::) Sur(cd~)ré(de!fvED'/dc//ef!gvgf)xit(ed/ffe) Chri(ded___)stus,(d.) (;) et(ixdhhivHG'/hvGE'/fvED.) il(c)lú(e!f'g)xit(gvF'ED//fgF'Ef) no(d!ef)bis,(ed..) (:) quos(h) re(gh)dé(j_k/jkj/hih/gi//gj/ijh/iih)mit(h.) (;) sán(dffe/ffe/gvF'Ef)gui(d!ef)ne(ed..) *(,) su(f!gwhg)o.(g_e/gvF'ED'//hgge/gvF'ED.) (;) (cfe/fgF'ED.//ce/gff'fvED/eed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "271"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "831"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "633",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

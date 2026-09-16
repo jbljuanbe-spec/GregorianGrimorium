@@ -1,0 +1,31 @@
+{
+  "id": "exsultabunt-3373",
+  "incipit": "Exsultabunt",
+  "title": "Exsultabunt",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Exsultábunt * sancti in glória: laetabúntur in cubílibus suis ℣. Cantáte Dómino cánticum novum: laus ejus in ecclésia * sanctórum",
+  "gabc": "(c3) EX(c)SUL(e)TÁ(egf)BUNT(f) *(,) sanc(hfghvFEge/fg)ti(f) (;) in(hh/ijIH) gló(ighvFEhhe//hiHF)ri(f)a:(f/hhh/fgf) (:) lae(hh)ta(h)bún(hg//hi!jvHGhhg,ihivHF)tur(fhFEfhhf//hvvGFheed) (:) in(d) cu(ef)bí(fhvGFg)li(e)bus(f) su(hf/hi)is(ih/ijIH) (,) (jh/jkIGhvFE//f!gwh!iv//h!ij) (,) (ijijHF/gwhf) <sp>V/</sp>.(::) Can(f)tá(h)te(ij) Dó(jvIHGhvFE,ge/f!hh/ijij,hj!kvIGhvFE//fgFEf,i!jwkjkvJI)mi(ji)no(i) (:) cán(i!jw!kvJIjw!kvJI)ti(i)cum(ij~) no(jhjvIHhf//hhf/hv//hhhf,hi!jvIHjvIHif)vum:(f) (:) laus(hhi~) e(ivHGE//fhGEfh,gi!jvHF)jus(fhFEfhhf//hvvGFheed) (:) in(d) ec(d)clé(d!ef)si(f)a(fhvGFg) *() sanc(ef)tó(hf/hi)rum(ijHGhi) (,) (e!fhhjIHGFgwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "456"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3373",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "amen-dico-vobis-quidquid-3905",
+  "incipit": "Amen dico vobis quidquid",
+  "title": "Amen dico vobis quidquid",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Amen dico vobis, * quidquid orántes pétitis, crédite quia accipiétis, et fiet vobis.",
+  "gabc": "(c4) A(cd)MEN(ixdh!iv) di(h)co(g) vo(jijh)bis,(h) *(,) quid(h)quid(g) o(f)rán(h)tes(f) pé(ghg)ti(fg)tis,(g) (;) cré(ixhih)di(g)te(f) qui(fg)a(f) ac(f)ci(f)pi(f)é(ixfg!hiHFg)tis,(f) (;) et(hhgh~) fi(f!gh)et(ffe) vo(de!fvEDe)bis.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "335"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3905",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

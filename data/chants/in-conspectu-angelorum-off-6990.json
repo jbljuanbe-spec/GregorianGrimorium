@@ -1,0 +1,31 @@
+{
+  "id": "in-conspectu-angelorum-off-6990",
+  "incipit": "In conspectu Angelorum (Off)",
+  "title": "In conspectu Angelorum (Off)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "In conspéctu Angelórum psallam tibi: adorábo ad templum sanctum tuum, et confitébor nómini tuo.",
+  "gabc": "(c4) In(f) con(gh)spé(hgh)ctu(hf/gh) (;6) (jhjg//ffd//fddc) (::) An(d)ge(dc/dff//gh/jvHG/ixhiHG)ló(f!ghGFg)rum(gf) (;) psal(fhhg)lam(hj) ti(hvGF)bi:(ixg!hih) (:) a(hghGF)do(f!ghg)rá(gffe)bo(d//ffd/fg) (;) (ffgd//eddc) (;) ad(f) tem(f)plum(d) san(e)ctum(f) tu(ghgh)um,(jh/ijHG) (;) et(f) con(f)fi(ghg)té(h)bor(g) nó(gf/ixhi)mi(gf)ni(f//ghffe) (;) tu(f)o.(fd//fg/hgh//jvHG//hvFD) (;) (fg/hgh//jvHG//hvFD) (;3) (ffgf//gff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "514"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6990",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "relinqui-domum-3917",
+  "incipit": "Relinqui domum",
+  "title": "Relinqui domum",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Reliqui * domum meam, dimísi haereditátem meam. ℣. Quia bonum mihi est adhaerére Deo: pónere in Dómino Deo * spem meam",
+  "gabc": "(c4) RE(d)LI(ffg)QUI(f) *(,) do(f)mum(gh~) me(hvGF/fvED)am,(ed) (;) di(fh)mí(h)si(gf/ghGFg) (,) hae(f)re(hj)di(j)tá(j)tem(ixjh!iw!jvIG/hw!ivHG) me(fgf)am.(f!hj) (,) (fh!jvvIG//fhg/hggf) <sp>V/</sp>.(z0::c3) Qui(d)a(d) bo(fe)num(eh) mi(h)hi(h) est(hih//ih/jvHF) (,) (hg/ijh jvIH/jvIH//hvGF) (;) ad(f)hae(fi)ré(i)re(ih/jki/hhf) (,) De(hf/hhh)o:(hf!gwh!iv//hi/jhh/iih) (:) pó(d)ne(d)re(d) in(d) Dó(d)mi(d)no(d) De(dfED)o(ef) *(,) spem(h) me(hiHF/hhh)am(hhf) (,) (gxgf/gvED//fgED//fe/hvhhhff//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[181]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3917",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

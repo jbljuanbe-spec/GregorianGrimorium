@@ -1,0 +1,37 @@
+{
+  "id": "sancte-michael-1103",
+  "incipit": "Sancte Michael",
+  "title": "Sancte Michael",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Sancte Míchael Archángele, defénde nos in pr'œlio: ut non pereámus in treméndo * judício.",
+  "gabc": "(c4) AL(d)le(ggf)lú(hg~)ia.(gv.efd.) *(;) <i>ij.</i>(df!ghhgjvIHG.) (,) (giihkvJIH'GivHG'Fgh//fefd.) (,) (df!ghhgjvIH'hg.) <sp>V/</sp>.(::) Sanc(dg~)te(gh) Mí(gf)cha(de)el(ev.dec.) (,) Arch(g!hi)án(ih~)ge(h/jkJH'GF'g)le,(g.) (;) de(g)fén(e)de(fe) nos(d) in(d) pr<sp>'œ</sp>(ef)li(g)o:(g/iihkvJIH'hg.) (:) ut(gk) non(k_g) per(hf)e(g!hi)á(i.h!iw!jvI'HG)mus(g'/hfg.) (;) in(d) tre(ggf)mén(hg~)do(g.) *() ju(f)dí(de)ci(ev.dec)o.(c.) (;) (df!ghhgjvIHG.) (,) (giihkvJIH'GivHG'Fgh//fefd.) (,) (df!ghhgjvIH'hg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "609"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1655"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1103",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "portas-coeli-1816",
+  "incipit": "Portas coeli",
+  "title": "Portas coeli",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Portas coeli * apéruit Dóminus: et pluit illis manna, ut éderent: panem coeli dedit illis: panem Angelórum manducávit homo, allelúia.",
+  "gabc": "(c3) POR(d)TAS(e) coe(f/hhf)li(e/gvFEf) *(,) a(de)pé(e/fhg)ru(hg)it(g) Dó(gi/jhhf)mi(fhf)nus:(efe) (;) et(fh~) plu(h)it(f) il(h)lis(hhhvFEg) man(ggh)na,(efeed) (,) ut(e/fhg) é(hhvGF)de(gf)rent:(f) (:) pa(df)nem(hjIH) coe(hhh/ih/ihh)li(ef) (,) de(f/hhhf)dit(fe) il(ede)lis:(ef!gw!hvGF) (:) pa(h)nem(hh//hhh) An(h)ge(f)ló(f/hh//hhh)rum(efe) (;) man(f)du(ed)cá(efe)vit(fgf) ho(g/ih/ihhe//hvGFgvFEf)mo,(fe) (;) al(f)le(fe/fc)lú(fe/fgFE)ia.(e/ffge) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "212"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1816",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

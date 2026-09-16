@@ -1,0 +1,37 @@
+{
+  "id": "miseratio-970",
+  "incipit": "Miseratio",
+  "title": "Miseratio",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Miserátio * hóminis circa próximum: misericórdia autem Dei super omnem carnem. Qui misericórdiam habet, docet et érudit quasi pastor gregem suum. Ps. Beátus vir qui non ábiit in consílio impiórum, et in via catórum non stetit: * et in cáthedra pestiléntiae non sedit. Glória Patri E u o u a e",
+  "gabc": "(c4) MI(dfe)se(f)rá(e!f'g)ti(g)o(g) *() hó(hgh)mi(f)nis(fdf.) (,) cir(g)ca(e) pró(fg)xi(f)mum:(egff/ded.) (;) mi(d)se(g)ri(h)cór(ixhi)di(h)a(h) au(jj)tem(hhg) De(ghffef)i(fe..) (,) su(f)per(f) o(e.f!gwh)mnem(h_g) car(gefv_ED)nem.(ed..) (:) Qui(d) mi(d)se(fe)ri(f)cór(dg~)di(g)am(g) ha(gegvFE)bet,(f.) (;) do(fffd)cet(fe) et(fg) é(ghgh)ru(fg)dit(g_e) (,) qua(g)si(g) pa(iij)stor(hg) gre(e!f'g)gem(gf~) su(fhG'FgvFE)um.(e.) <i>Ps.</i>(::) Be(hg)á(gh)tus(h) vir(h) qui(h) non(h) á(h)bi(h)it(h) in(h) con(h)sí(h)li(h)o(h) im(h)pi(h)ó(h)rum,(h.) (,) et(h) in(h) vi(h)a(h) ca(h)tó(hg)rum(gi) non(i) ste(hi)tit:(h.) *(:) et(hg) in(gh) cá(h)the(h)dra(h) pe(h)sti(h)lén(h)ti(h)ae(gf) non(gh) se(g)dit.(e.) (::) Gló(hg)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(h) o(gf) u(gh) a(g) e(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "631"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1693"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "970",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

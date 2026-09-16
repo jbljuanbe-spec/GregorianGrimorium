@@ -1,0 +1,31 @@
+{
+  "id": "evangelizare-297",
+  "incipit": "Evangelizare",
+  "title": "Evangelizare",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Evangelizáre paupéribus misit me: sanáre * contrítos corde.",
+  "gabc": "(c4) AL(cd)le(efEDgvFE)lú(de~)ia.(e.) *(;) <i>ij.</i>(eg!hvhg/jg/hhvG'FE.) (,) (ef!gvvF'EDec./g_f/ghG'FE'De.) <sp>V/</sp>.(::) E(c)van(de)ge(ed)li(cd)zá(efED'gvF'Ef)re(e_d) (,) pau(de)pé(gh/jvHG'hvhvGF'E)ri(de)bus(efvED'Cd.) (,) mi(ef!gvvF'E)sit(de) me:(effe.) (:) sa(g)ná(gefvEDC.gh/jjjvIGh_g/h_i,dg/h/jjjvIGh_g/h_i,jkkvJ'IHG.ij!kvkjjij)re(hg..) *(,) con(g.h!iw!jvI'HG'F)(,)trí(ghg)tos(f_e) cor(de~)de.(e.) (;) (eg!hvhg/jg/hhvG'FE.) (,) (ef!gvvF'ED'ec./g_f/ghG'FE'De.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "74**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "297",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "quid-bonum-618",
+  "incipit": "Quid bonum",
+  "title": "Quid bonum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quid bonum * ejus est, et quid pulchrum ejus, nisi fruméntum electórum, et vinum gérninans vírgines?",
+  "gabc": "(c3) QUid(dde) bo(gxd!ewf'!gv)num(f) *() e(gxfgFE')jus(feede) est,(ed..) (;) et(fh) quid(hf~) pul(hji)chrum(h_g) e(hv.hhhfivHG)jus,(g.) (;) ni(fh/ig/hf)si(f.) fru(de)mén(e.f!gw!hvGF)tum(f) e(f)le(f_e)ctó(gxegFE')rum,(feed.) (:) et(fd) vi(e)num(fh) gér(hji)ni(h_g)nans(hhh//fhE'De.) (,) vír(d!ewfef/hhh//ih'/ihhe.ehG'Fh)gi(ded__)nes?(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "628"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1691"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "618",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

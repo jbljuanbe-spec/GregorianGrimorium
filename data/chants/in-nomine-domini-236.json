@@ -1,0 +1,31 @@
+{
+  "id": "in-nomine-domini-236",
+  "incipit": "In nomine Domini",
+  "title": "In nomine Domini",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "In nómine Dómini * omne genu flectátur, caeléstium, terréstrium et infernórum: quia Dóminus factus obédiens usque ad mortem, mortem autem crucis: ídeo Dóminus Jesus Christus in glória est Dei Patris. Ps. Dómine exáudi oratiónem meam: * et clamor meus ad te véniat. In nómine.",
+  "gabc": "(c4) IN(ed~) nó(g)mi(hj)ne(j) Dó(ij)mi(j)ni(j.) *(,) om(ij~)ne(j) ge(j)nu(jjj) flec(hig)tá(h!iwj/kjj)tur,(ji..) (;) cae(hg)lés(hi)ti(h)um,(h.) (,) ter(hji)rés(jijh)tri(h.g!hwihi)um(ih..) (,) et(g) in(hj)fer(jjj)nó(ikjj)rum:(ji..) (:) qui(i)a(k) Dó(l)mi(k)nus(j) fac(k)tus(j) o(i)bé(kij)di(hg)ens(h.) (,) us(hg)que(h) ad(j) mor(ikjj)tem,(ji..) (;) mor(g)tem(hi~) au(i)tem(h) cru(gh/igh)cis:(ghGE.) (:) í(e!fwg'!hv)de(g)o(g.) (,) Dó(gh)mi(g)nus(g) Je(g)sus(g) Chris(h.g!hwihi)tus(ih..) (;) in(hg~) gló(h!iwj)ri(g)a(h) est(g.) (,) De(e!f'h)i(h) Pa(g_fhvGFgvFE)tris.(e.) <i>Ps.</i>(::) Dó(g)mi(hj)ne(j) ex(j)áu(j)di(j) o(j)ra(j)ti(j)ó(k)nem(j) me(ih)am:(jjj) *(:) et(ig~) cla(hj)mor(j) me(j)us(j) ad(jji) te(hg) vé(h')ni(i)at.(gh..) (::) In(ed~) nó(g)mi(hj)ne.(j) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "190"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "236",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

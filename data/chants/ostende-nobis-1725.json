@@ -1,0 +1,31 @@
+{
+  "id": "ostende-nobis-1725",
+  "incipit": "Ostende nobis",
+  "title": "Ostende nobis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ij. ℣. Osténde nobis Dómine misericórdiam tuam: et salutáre tu um * da nobis.",
+  "gabc": "(c3) AL(d!ef)LE(fe/f!gwhg)LÚ(fhhh)IA(hiHFfe) *(;) <i>ij.</i> (gh//efED//f!gwhhg ehf!gf/fe) <sp>V/</sp>.(::) Os(h)tén(hv//gih)de(h) no(hg)bis(g) Dó(gh!ivvHFhfg)mi(gf)ne(f) (;) mi(g)se(g)ri(gf)cór(hji)di(h)am(gh) tu(fehvvGE//gxfgFD//egFEfe)am:(e) (:) et(e) sa(e)lu(e)tá(feh)re(h) tu(hfhGE//fhFD//gxgvFEf!hhh/ijHF) (,) (gigivHGhe/gxfe/ge//gvFEfd)um(d) *(;) da(fd/ef) no(hg/hfh)bis.(ghFE) (,) (df!hvFE//df!gwhghvGFg egfgvEDefe) (,) (gxhhvFEfgEDgyhhvFEfgf/fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "2"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1725",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "dignus-est-agnus-128",
+  "incipit": "Dignus est Agnus",
+  "title": "Dignus est Agnus",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Dignus est Agnus, * qui occísus est, accípere virtútem, et divinitátem, et sapiéntiam, et fortitúdinem, et honórem. Ipsi glória et impérium in saécula saeculórum. Ps. Deus, judícium tuum Regi da: * et justítiam tuam Fílio Regis. Glória Patri. E u o u a e.",
+  "gabc": "(c4) DI(eef)GNUS(ed) est(gh) A(g/hj~)gnus,(j.) *(,) qui(j) oc(j)cí(h)sus(h!iwj/kjj) est,(ji..) (;) ac(g)cí(gh)pe(h)re(h') vir(h)tú(h_ghvGF'g)tem,(gf__) (,) et(g) di(hi)vi(iij)ni(h!iwj)tá(ikjj)tem,(ji..) (;) et(g) sa(gh)pi(h)én(jj//jj)ti(ih)am,(h.) (,) et(h) for(h)ti(gf)tú(fg/hg/hi)di(h)nem,(h.) (,) et(gh/ji) ho(jvvIH'iw!jvIH)nó(gh!ivHG'h)rem.(hg..) (:) I(h)psi(gh) gló(hkj)ri(kjjh)a(h.) (,) et(h) im(g)pé(gh/i.h!iwj)ri(gh_G'_FE'f)um(fe..) (;) in(ef) saé(e/f'h)cu(h)la(h!iwj) sae(g)cu(g_e)ló(fgF'E)rum.(e.) (::) <i>Ps.</i> De(g)us,(hj) ju(j)dí(j)ci(j)um(j) tu(k)um(j') Re(j)gi(ih) da:(jjj) *(:) et(ig) ju(hj)stí(j)ti(j)am(j) tu(j)am(j) Fí(jji)li(hg)o(h) Re(i)gis.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri.(j) (::) E(j) u(jji) o(hg) u(h) a(i) e.(gh..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": "Apoc. 5, 12 et 1, 6; Ps 71, 1",
+  "liturgical_occurrences": [
+    {
+      "calendar": "Roman",
+      "celebration": "In festo D.N. Jesu Christi Regis"
+    }
+  ],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "638"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1709"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "388"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "128",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

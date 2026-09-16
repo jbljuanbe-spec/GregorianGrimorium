@@ -1,0 +1,31 @@
+{
+  "id": "justus-ut-palma-all-946",
+  "incipit": "Justus ut palma (All.)",
+  "title": "Justus ut palma (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Justus ut palma florébit, et sicut cedrus * multiplicábitur.",
+  "gabc": "(c4) AL(c)le(dfdf)lú(ef!gvFEfg~)ia.(g.) *(;) <i>ij.</i>(hvGFgvFEf_g hvGFgvFE'Cd.) (,) (dfE'DCddc.) (;) (ghF'ED de!f'g/ef/gddc.) (,) (e/gghF'ED//efefd.) <sp>V/</sp>.(::) Ju(fhg__)stus(g_e//fgf/gddc.) (,) ut(cd) pal(e!f'g~)ma(gv.e!g_h) flo(fvED)ré(d.c!dw!evDCde)bit,(d.) (:) et(dede) sic(c)ut(e) ce(ixg_h/ig/h_e,fvEDfe/g_e//fvECed/fd..;ixce!g_h/ig/h_e,fvEDfe/g_e//fvECed/fd..;gv.ef/g_e/f_dev.,gv.ef/g_e/f_dev.c!dwe'!fv)drus(ed..) *(:) mul(c)ti(dfdf)pli(f)cá(ef!gvFE)bi(fg)tur.(g.) (,) (hvGFgvFEf_g hvGFgvFE'Cd.) (,) (dfE'DCddc.) (;) (ghF'ED de!f'g/ef/gddc.) (,) (e/gghF'ED//efefd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[49]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "946",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "amavit-eum-14",
+  "incipit": "Amavit eum",
+  "title": "Amavit eum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Amávit eum Dóminus, et ornávit eum: stolam glóriae índuit * eum.",
+  "gabc": "(c4) AL(c)le(dfde./fge/fddc)lú(de~)ia.(e.) *(;) <i>ij.</i>(cd/fde./fge/fddc/ege.) (,) (cd/fde./fge/fddc/ege.) (,) (ghGF'Dee) (,) (fgF'Ededdc//fff/ghGFgvFE.) <sp>V/</sp>.(::) A(c)má(dfd/ef)vit(f.) e(ffe)um(ed~) Dó(deD'C)mi(de)nus,(e.) (;) et(c) or(eg~)ná(ggf/gefvED)vit(ce) e(effe)um:(e.) (:) sto(c)lam(e) gló(ixgh!ivHG//fhGE.,ixce/ghivHG//fhGE.,gvFED'evD'C)ri(de)ae(e.) (;) ín(c)du(dfd/ef)it(e.) *() e(cd/fde./fge/fddc/ege. , cd/fde./fge/fddc/ege. , ghGF'Dee , fgF'Ededdc/fff/ghGFgvFE)um.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[39]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "14",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

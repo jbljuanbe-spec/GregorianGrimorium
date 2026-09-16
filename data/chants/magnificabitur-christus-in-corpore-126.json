@@ -1,0 +1,31 @@
+{
+  "id": "magnificabitur-christus-in-corpore-126",
+  "incipit": "Magnificabitur Christus in corpore",
+  "title": "Magnificabitur Christus in corpore",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Magnificábitur * Christus in córpore meo, sive per vitam, sive per mortem: mihi enim vívere Christus est et mori lucrum.",
+  "gabc": "(c4) MA(ef)gni(ed)fi(gh)cá(g)bi(hj)tur(j.) *(,) Chri(jvvIH)stus(ih..) (,) in(ij) cór(k)po(j)re(h) me(i)o,(g.) (;) si(hg)ve(h) per(j) vi(ikjj)tam,(ji..) (,) si(hg)ve(h) per(g) mor(egff)tem:(fe..) (:) mi(jjj)hi(ghff) e(ghghe)nim(e.) (,) ví(e!f'g)ve(f)re(e!f'g) Chri(eg)stus(fe) est(fff/ded.) (;) et(fffd) mo(f!gh)ri(gf/ghg) lu(egff)crum.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "100**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "126",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

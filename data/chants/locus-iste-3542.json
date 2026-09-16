@@ -1,0 +1,31 @@
+{
+  "id": "locus-iste-3542",
+  "incipit": "Locus iste",
+  "title": "Locus iste",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Locus iste * a Deo factus est, inaestimábile sacraméntum, irreprehensíbilis est. ℣. Deus, cui adstat Angelórum chorus, exáudi preces servórum * tuórum.",
+  "gabc": "(c3) LO(dde)CUS(d) i(gxd!ewf!gv)ste(f) *(,) a(fh) De(ffe)o(ef) fa(fefDCef/hf)ctus(ded) est,(d) (;) in(f)ae(fe)sti(eh)má(h)bi(gxihhfg)le(gf) sa(f)cra(ed!ew!fvEDe)mén(gxef!gvFE)tum,(fe) (:) ir(f)re(f)pre(f)hen(hh)sí(h)bi(f)lis(de) est.(dfe//highf/dfe/feed) <sp>V/</sp>.(::) De(d)us,(d) cu(d)i(d) ad(df!hh/ijh)stat(h) (,) An(h)ge(h)ló(h)rum(h) cho(h)rus,(ihhe/hih/ihhe) (,) (hi!kv//lvKIjvHF) (,) (hg/ijh jvIHjvIH//hvGF) (:) ex(h)áu(hi!jvIHhf/hhhi~)di(h) (,) pre(gxfgFE//fgFD//fvEDed)ces(d) (;) ser(d)vó(dfED)rum(ef) *() tu(h)ó(hiHFhhh)rum.(hhf) (,) (gxgf/gvED//fgED//fe/hvhhhff//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[64]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3542",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

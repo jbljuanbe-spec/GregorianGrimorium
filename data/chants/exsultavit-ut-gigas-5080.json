@@ -1,0 +1,31 @@
+{
+  "id": "exsultavit-ut-gigas-5080",
+  "incipit": "Exsultavit ut gigas",
+  "title": "Exsultavit ut gigas",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exsultávit ut gigas ad curréndam viam: a summo cælo egréssio ejus, et occúrsus ejus usque ad summum ejus.",
+  "gabc": "(c4) Ex(c)sul(d)tá(ffv)vit(d) (::) ut(dc~) gi(fg)gas(fef) (;) ad(f) cur(hg)rén(hjij)dam(hjg) vi(fgf)am:(f) (:) a(f) sum(f/hjjv)mo(gh) cæ(hg//jij)lo(hjg) (;) e(f)grés(gfg)si(fd)o(f) e(deddc~)jus,(dc) (:) et(f) oc(f)cúr(fh/jji~)sus(ih) e(fh)jus(ghGF) (;) us(ffg)que(f) ad(f) sum(f/hjjv)mum(hjg) (;3) e(fvED//gef)jus.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "19"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5080",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

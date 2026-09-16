@@ -1,0 +1,43 @@
+{
+  "id": "qui-sedes-domine-1007",
+  "incipit": "Qui sedes Domine",
+  "title": "Qui sedes Domine",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Qui sedes, Dómine, * super Chérubim, éxcita poténtiam tuam, et veni. ℣. Qui regis Israel, inténde: qui dedúcis velut ovem * Joseph.",
+  "gabc": "(c3) QUI(f) se(hi)des,(i/ih/i_f/hvGFhi/kvJI') Dó(i)mi(iji___)ne,(i.) *(;) su(j!llj)per(j_f) Ché(fhg)ru(h)bim,(ijIH'hf/hg/hiH'GE.) (:) éx(ef)ci(f)ta(fef) pot(d)én(de)ti(d)am(be~) tu(e)am,(ev.de'/f_b.) (;) et(ed/ef!hhhvF'ED'db./dfde) ve(e)ni.(gxe./fgED'db./dc/de'hvFE.) <sp>V/</sp>.(::) Qui(ei) re(iv.hi!jvHF'ivH'GE'f/h/hf/gvFEfvEDe.,hh//hhhe/fhF'DfhF'De.,hhi/kkkvIHG.ijIH'Gh_i)gis(i.) Is(i)ra(j!kwl)el,(lv_KI') in(h)tén(jk)de:(ji..) (:) qui(ij) de(h_f)dú(hvGE'f/h/hf/gvFEfvEDef)cis(e.) (;) ve(ef)lut(e) o(d!f'h)vem(h_g) *() Jo(f!ihi)seph.(ie..,igi/jki./jkJ'Ijh/iig./hig'/hvFEfde.) (,) (hhvF'EfvDB.ehf/gf/fe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "7"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "335"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "22"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1007",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

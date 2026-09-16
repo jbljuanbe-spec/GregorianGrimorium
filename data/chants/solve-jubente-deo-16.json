@@ -1,0 +1,31 @@
+{
+  "id": "solve-jubente-deo-16",
+  "incipit": "Solve, jubente Deo",
+  "title": "Solve, jubente Deo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Solve, jubénte Deo, terrárum, Petre, caténas: qui facis ut páteant caeléstia regna * beátis.",
+  "gabc": "(c4) AL(de~)le(efE'D)lú(e_d/fgeed~)ia.(d.) *(;) <i>ij.</i>(ixdhhg/hiHG'ge/gh//egFE'evD'Cd.) (,) (hf/ghhddggvFD'C/de.) (,) (fhG'ED'efeed.) <sp>V/</sp>.(::) Sol(de!fggvFD'/ew!fvED'Cd)ve,(d.) (,) ju(hf)bén(ggf~)te(f) De(ghhd./gvvFD'C/de. , fhG'ED'ewfeed)o,(d.) (;) ter(c)rá(d)rum,(e) Pe(ef!gvFE'e)tre,(c) ca(d)té(cfE'C/eed/fg)nas:(ed..) (:) qui(c!de) fa(gggvFDee//ghG'ED'/ew!fvED)cis(de..) (;) ut(egFE'e) pá(d)te(e)ant(eevD'C/de.) (,) cae(de)lé(e)sti(efE'D)a(d.) re(e_d/fgeed~)gna(d.) *(;) be(dh)á(ixhg/hiHG'ge/gh//egFE'evD'Cd.,hf/ghhddggvFD'Cde.,fhG'ED'efeed)tis.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "563"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "16",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

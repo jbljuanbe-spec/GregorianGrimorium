@@ -1,0 +1,31 @@
+{
+  "id": "sacerdos-sit-5057",
+  "incipit": "Sacerdos sit",
+  "title": "Sacerdos sit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Sacérdos sit sanctus, sicut et ego sanctus sum, Dóminus, qui sanctífico vos.",
+  "gabc": "(c4) Al(dfddc~)le(fgf)lú(gh~)ia.(h) (::) (ixivGF//gf/ghhv) (;3) (gh//jkJH) (;) (h!ijjvIGF/gh//fvEC) (;) (egFED//ffd) <sp>V/</sp>.(::) Sa(dc)cér(dffv)dos(deDC/ddc) (;4) sit(fe//ghGFED) san(cd!ef)ctus,(ed) (;) si(d)cut(c) et(d) e(dv//efddc//dffv//gh)go(fe) (;4) san(cd)ctus(d/efef) sum,(ed) (:) Dó(hgh//jvIG;3ixivHGF/gh;dhhgh/iyjvIG;4ixivHGFgh;jkJHGh//jk//jkJH)mi(ixih)nus,(h) (::) qui(d) san(dfddc~)ctí(fg)fi(f)co(gh) vos.(h) (;) (hvGE//gvFEC//feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "91*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5057",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "deus-qui-sedes-1601",
+  "incipit": "Deus qui sedes",
+  "title": "Deus qui sedes",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Deus, qui sedes super thronum, et júdicas aequitátem: esto refúgium páuperum * in tribulatióne.",
+  "gabc": "(c3) AL(e)LE(e)LÚ(ef/hf/hf//hjhi)IA.(i) *(;) <i>ij.</i>(h!iwj!kvJIHi gi!jvIH//ghFE) (,) (g!hi!jvIH//ghFE/fgffe) <sp>V/</sp>.(::) De(ef/hf/hf//hjhi)us,(i) (,) qui(ei) se(ij//hk/jki/jji)des(i) (,) su(i)per(g!hi) thro(i/jg/hi//ji/jg/hi , kkh/ji/jvHF/gwh!iv//giHGE , fhgh//fh//ghFD/ev ; ijIE/fe//f!gwh!iv//h/kki , kj/lk/lvKI kj/kvIH/iwj)num,(ijh/ivHG/hg) (;) et(fi) jú(i!jwk)di(ih)cas(h) ae(h)qui(hi)tá(ih/ivHF/ihi)tem:(ijh/ivHG//hg) (:) es(gh!ij)to(i) re(i)fú(hi)gi(i)um(i) páu(ijHGh)pe(f!gw!hvGFEf)rum(fe) *(;) in(e) tri(ef)bu(e)la(e)ti(e)ó(ef/hf/hf//hjhi)ne.(i) (;) (h!iwj!kvJIHi gi!jvIH//ghFE) (,) (g!hi!jvIH//ghFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "281"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1601",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

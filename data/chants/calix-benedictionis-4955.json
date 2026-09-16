@@ -1,0 +1,31 @@
+{
+  "id": "calix-benedictionis-4955",
+  "incipit": "Calix benedictionis",
+  "title": "Calix benedictionis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Calix benedictiónis, cui benedícimus, nonne communicátio Sánguinis Christi est? et panis, quem frángimus, nonne participátio Córporis Dómini est?",
+  "gabc": "(c4) Ca(g!hj)lix(j) (::) be(j)ne(j)di(jkjji)cti(j)ó(jh)nis,(iji) (;) cu(g)i(gih) be(j)ne(jjvHG)dí(g//jjv)ci(hkjji)mus,(hgh) (;) (jjvHGh) (;3) (ixgiHG/hffe) (:) non(f)ne(e!fg) com(g)mu(g)ni(g)cá(hgj)ti(j)o(iyjjvIH/jggf) (;) Sán(gi/kj)gui(jjvIH)nis(h) Chri(h)sti(hiHG) est?(hg) (:) et(g) pa(hi)nis,(iki//jkhhg) (;) quem(igh//jjkjji//jjvIH) (;3) frán(hj)gi(ghGFEf)mus,(fe) (::) non(ef)ne(ef) par(e)ti(d!fh)ci(h)pá(hjg)ti(fgFE)o(ffv/ded) (;) Cór(gjjv)po(h)ris(hiHG) (;3) (hvGF//gh!ivih) (;) Dó(jjv//gih//ggf/gh;3jkjjvIH)mi(fhGF)ni(gvFE) est?(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "509"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4955",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

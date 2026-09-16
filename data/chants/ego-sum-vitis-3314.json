@@ -1,0 +1,31 @@
+{
+  "id": "ego-sum-vitis-3314",
+  "incipit": "Ego sum vitis",
+  "title": "Ego sum vitis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ego sum vitis vera et vos pálmites, qui manet in me, et ego in eo, hic fert fructum multum, allelúia, allelúia.",
+  "gabc": "(c3)E(ggh)go(fgwh) sum(he~) <v>\\greheightstar</v>() vi(ggh)tis(hf~) ve(fihi)ra(ghf___) (,) et(g) vos(e/fg) pál(fg)mi(e/fg)tes,(f.) (;) qui(g) ma(i)net(h) in(iji) me,(g.) (,) et(h) e(i)go(h) in(gh) e(f)o,(ed/ef/fe.) (;) hic(g) fert(f.//gif/fe) fru(gi)ctum(h) mul(ijIG)tum,(g.) (;) al(g)le(gv.//e/gi)lú(ihi)ia,(g.) (,) al(h)le(f.//e/fg)lú(gf/fef)ia.(fe..) (::)",
+  "transcriber": "Benjamin Bloomfield",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "228"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3314",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

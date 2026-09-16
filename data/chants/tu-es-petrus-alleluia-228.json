@@ -1,0 +1,43 @@
+{
+  "id": "tu-es-petrus-alleluia-228",
+  "incipit": "Tu es Petrus (Alleluia)",
+  "title": "Tu es Petrus (Alleluia)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Tu es Petrus, et super hanc petram aedificábo Ecclésiam * meam.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) *(,) <i>ij.</i>(hv./iji./ef/h_f//hv./ghe/hhh.f!gwhf.) <sp>V/</sp>.(::) Tu(hi) es(i) Pe(jiihi)trus,(iv./hh/fgf.) (;) et(f) su(fg)per(f) hanc(f) pe(f!hh/ijHF'/ivH'GE/f./hfhhf/ge)tram(e.) (:) ae(f)di(e)fi(f)cá(ffe/ffe/fc..,ef!hvvF'E/hhh)bo(ivH'G/hf..) (;) Ec(f)clé(hh)si(h)am(hi~) *() me(i_h/jij)am.(jvvIH'GE//f!gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "409"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "534"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1520"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "228",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

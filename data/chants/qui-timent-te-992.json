@@ -1,0 +1,31 @@
+{
+  "id": "qui-timent-te-992",
+  "incipit": "Qui timent te",
+  "title": "Qui timent te",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Qui timent te, vidébunt me, et laetabúntur: quia in verba tua * supersperávi.",
+  "gabc": "(c4) AL(e)le(egf/efEDeed)lú(g!hwi'!jv)ia.(ih) *(,) (jvIHjji//gh/ihhg) (;) (gh!jvvIGhh//gh/i_g) (,) (gh!jvvIGhvvGF//ghg/hgge.) <sp>V/</sp>.(::) Qui(efE'D) ti(g)ment(hjh~) te,(j.) (,) vi(j)dé(j)bunt(j) me,(ih/jkJH'Ghg.) (;) et(hih) lae(iji)ta(h_g/h!iwj)bún(ikJ'I)tur:(i.) (:) qui(g)a(g!jj) in(j) ver(i_h~)ba(i) tu(g/hhf/gg//egeed/ef)a(e.) *(;) su(egf)per(e!f'g)spe(hiH'G)rá(g!hj)vi.(ih) (,) (jvIHjji//gh/ihhg) (;) (gh!jvvIGhh/gh/i_g) (,) (gh!jvvIGhvvGF//ghg/hgge.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "80**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "992",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

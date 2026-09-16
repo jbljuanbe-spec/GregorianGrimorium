@@ -1,0 +1,31 @@
+{
+  "id": "felices-sensus-6332",
+  "incipit": "Felices sensus",
+  "title": "Felices sensus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Felíces sensus beátæ Maríæ Virginis, qui sine morte, meruérunt martýrii palmam sub Cruce Dómini.",
+  "gabc": "(c4) Fe(d)lí(f)ces(fe) (::) sen(fge/fvEDe)sus(ed) (;) be(f)á(f)tæ(gh) Ma(h)rí(g)æ(f) Vir(ixghg/hi)gi(h)nis,(h) (:) qui(f) si(gh)ne(hghf//gvFE) mor(de/fef)te,(ed) (;) me(h)ru(h)é(ixjhhg/hi)runt(h) (;4) mar(d)tý(c!df)ri(f)i(f) pal(gh)mam(h) (;) sub(f) Cru(gh)ce(fe) Dó(d)mi(de/fef)ni.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "365"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6332",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

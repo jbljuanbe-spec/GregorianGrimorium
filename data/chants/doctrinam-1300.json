@@ -1,0 +1,37 @@
+{
+  "id": "doctrinam-1300",
+  "incipit": "Doctrinam",
+  "title": "Doctrinam",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Doctrínam * quasi antelucánum illúmino ómnibus, et enarrábo illam usque ad longínquum.",
+  "gabc": "(c4) DO(dfd)ctrí(eef//dgff'ffvD'C//dfD'C//dfd/ef)nam(f.) *(;) qua(e.f!gwh)si(hg) an(g)te(d!ewf)lu(gf)cá(f!gwhgh)num(eef.) (;) il(d)lú(dg)mi(hg)no(g) ó(hjh__!iwj)mni(g)bus,(fgffd.) (:) et(f) e(f_e/f!gwh)nar(h_g)rá(g/jjjvIH)bo(g_h) il(egF'E)lam(fff) (;) us(dec)que(fv.fff) ad(eef) lon(d!ewf)gín(fff/ghG'D//fffhvGFgvFE)quum.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "530"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1513"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1300",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

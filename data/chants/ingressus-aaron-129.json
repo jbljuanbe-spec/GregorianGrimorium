@@ -1,0 +1,31 @@
+{
+  "id": "ingressus-aaron-129",
+  "incipit": "Ingressus Aaron",
+  "title": "Ingressus Aaron",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ingréssus * Aaron tabernáculum, ut holocáustum offérret super altáre pro peccátis filiórum Israel, túnica línea indútus est.",
+  "gabc": "(c4) IN(f)grés(ixh_g/ihhf)sus(g_f) *(,) A(f)a(g)ron(h!iwj/kjj/hih.) (,) ta(j)ber(j)ná(h!iwj)cu(h)lum,(ixf!gwhg/hih.) (;) ut(hg) ho(hj)lo(gh)cáu(gfg)stum(g.) of(ghG'F)fér(ixfg/hgg'g//ggg_f/gih)ret(h.) (,) su(hgh)per(h!iwj) al(g/jjvHG'gfg)tá(f.e!fwg!hvGF'g)re(gf..) (:) pro(h) pec(j)cá(j_h/jjg/h//jjvH'Fg_f)tis(fgff//df/gffgD'Cded.) (;) fi(c)li(d)ó(f)rum(gf~) Is(f)ra(gh)el,(hv.gh!jvvH'G'ge//fge__!fwggfg.) (:) tú(dfe)ni(f)ca(ghg) lí(hj)ne(ji)a(jjj_h) (;) in(hfh)dú(h!iwji/jkj)tus(hg) est.(gh) (,) (f!gwhg/hjh./f!gwhg/hjhh/fgf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "20**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "129",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

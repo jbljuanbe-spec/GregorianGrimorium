@@ -1,0 +1,31 @@
+{
+  "id": "repleti-sumus-8125",
+  "incipit": "Repleti sumus",
+  "title": "Repleti sumus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Repléti sumus * mane misericórdia tua~: et exsultávimus et delectáti sumus, allelúia.",
+  "gabc": "(c4)RE(d_cd)plé(d!ewf)ti(fg) su(g)mus(ixgiggf.) *() ma(iyhjIGih)ne(h.) (;) mi(dh'!iv)se(h)ri(h)cór(h!iwj/ki'/jhh)di(g)a(f_g) (,) tu(g.h!iw!jvIH'hg)a~:(gf/gff/ded.) (:) et(d/fffd) ex(ff)sul(gh~)tá(g)vi(gf/hjIGih)mus(h.) (;) et(h) de(jjk)le(hhg)ctá(hhvGF'gffd)ti(fff) su(f!gwhhg)mus,(g_f/gff/ded.) (:) al(d/fff_dfixhiH'GF'fe~)le(ghGF'ge/f_d,fge/fhGF'fd/gf'/gff)lú(dc~)ia.(d/fff_d/fff/ded.___) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "441"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8125",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

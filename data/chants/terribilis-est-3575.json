@@ -1,0 +1,31 @@
+{
+  "id": "terribilis-est-3575",
+  "incipit": "Terribilis est",
+  "title": "Terribilis est",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Terríbilis est * locus iste: hic domus Dei est, et porta coeli: et vocábitur aula Dei. T. P. Allelúia, allelúia. Ps. Quam dilécta tabernácula tua, Dómine virtútum! * concupíscit, et déficit ánima mea in átria Dómini. Glória Patri E u o u a e",
+  "gabc": "(f3) TER(f)RÍ(f)BI(e)LIS(c) est(c!ef) *(,) lo(h)cus(hhh) i(hihh)ste:(gf) (;) hic(e) do(e!fg)mus(igge) De(ef!gw!hvGF)i(ef) est,(f) (;) et(fh~) por(h)ta(g!hi) coe(ih)li:(hihh/efe) (:) et(e) vo(f)cá(fh/ih)bi(hhh)tur(fgECe) (;) au(c!ef)la(f/hhe/gf) De(fgf)i.(f) <i>T. P.</i>(::) Al(e!fh~)le(hg)lú(hih)ia,(hhhffe) (,) al(fh~)le(hghf)lú(fgf)ia.(f) <i>Ps.</i>(::) Quam(e) di(fe)lé(eh)cta(h) ta(h)ber(h)ná(h)cu(h)la(h) tu(h)a,(h) Dó(h)mi(hg)ne(hi) vir(i)tú(hi)tum!(h) *(:) con(hf~)cu(fh)pí(h)scit,(h) et(h) dé(h)fi(h)cit(h) á(h)ni(h)ma(h) me(h)a(h) (,) in(h) á(h)tri(i)a(hf) Dó(h)mi(ge)ni.(fgf) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h) u(i) o(hf) u(h) a(ge) e(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[63]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3575",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "domine-in-tua-misericordia-1431",
+  "incipit": "Domine in tua misericordia",
+  "title": "Domine in tua misericordia",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Domine, * in tua misericórdia sperávi: exsultávit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi. Ps. Usquequo Dómine obliviscéris me infinem? * úsquequo avértis fáciem tuam a me? Glória Patri E u o u a e",
+  "gabc": "(c3) DO(df)MI(feede)NE,(ed) *(,) in(db~) tu(de)a(e) mi(f)se(f/hvhf)ri(fe)cór(ef~)di(de!fvEDe)a(ed) (;) spe(gxde!gvge!fw!gvFE)rá(de!fvEDe)vi:(ed) (:) ex(d)sul(d)tá(d!ef)vit(fe) cor(fh) me(hhh)um(h) (,) in(hf~) sa(hji)lu(hg)tá(hji)ri(ihhf) tu(f/hvhf)o:(f!gwh) (:) can(de~)tá(e)bo(d) Dó(d!ef)mi(ed!ewfef)no,(fe) (;) qui(f!gwh) bo(hihhvGFEgxfg)na(f) (,) trí(f!hhf)bu(ef)it(gxfge!fw!gvFE) mi(de!fvEDe)hi.(ed) <i>Ps.</i>(::) Us(d)que(f)quo(h) Dó(h)mi(h)ne(h) ob(h)li(h)vi(h)scé(h)ris(h) me(h) in(i)fi(i)nem?(h) *(:) ús(f)que(h)quo(h) a(h)vér(h)tis(h) fá(h)ci(h)em(h) tu(i)am(g) a(h) me?(f) (::) Gló(d)ri(f)a(h) Pa(h)tri(h) (::) E(h) u(h) o(i) u(g) a(h) e(fe/fvEDe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "265"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1431",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

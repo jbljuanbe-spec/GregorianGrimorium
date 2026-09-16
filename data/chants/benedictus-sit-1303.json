@@ -1,0 +1,31 @@
+{
+  "id": "benedictus-sit-1303",
+  "incipit": "Benedictus sit",
+  "title": "Benedictus sit",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Benedíctus sit * Deus Pater, unigenitúsque Dei Fílius, Sanctus quoque Spíritus: quia fecit nobíscum misericórdiam suam.",
+  "gabc": "(c4) BE(dg)ne(g./hji)dí(jkj)ctus(jvIH) sit(h.) *(,) De(hj!kvJH)us(hjhhg.) Pa(ikjjvIH)ter,(h_g//ih/igh.) (;) u(ef)ni(g)ge(h_g/jki'/jvH'G)ni(g_fh)tús(ghfg)que(f.) (;) De(ffff_d!gih)i(g) Fí(g./hjh)li(f_d/fhg)us,(e!fg..) (:) San(gh/jij)ctus(gjj'jj_g/jv) quo(ixjjjvH'GF'/gwh!ivHG'h)que(h_g) (,) Spí(hji)ri(jkj/ijh)tus:(ih..) (:) qui(dg)a(gj) fe(jjjvH'G)cit(g_f) no(hji)bís(jkj/ijH'G)cum(gf..) (;) mi(e!f'g)se(fh/jgh)ri(ef)cór(g)di(g.h!iw!jvIH)am(h.) (,) su(hjH'G)am.(gvFE/f_e//g_f/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "310"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1303",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

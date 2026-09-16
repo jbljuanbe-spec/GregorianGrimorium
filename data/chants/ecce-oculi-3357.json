@@ -1,0 +1,31 @@
+{
+  "id": "ecce-oculi-3357",
+  "incipit": "Ecce oculi",
+  "title": "Ecce oculi",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ecce óculi * Dómini super timéntes eum, sperántes in misericórdia ejus, allelúia: ut erípiat a morte ánimas eórum: quóniam adjútor et protéctor noster est, allelúia, allelúia. Ps. Exsultáte justi in Dómino: * rectos decet collaudátio. Glória Patri E u o u a e",
+  "gabc": "(c4) EC(eef)CE(dge) ó(eg)cu(gh)li(h) *() Dó(hkjji)mi(ji)ni(i) (,) su(jj//jj)per(h) ti(gfh)mén(hjg)tes(fhg) e(e/fhGE)um,(e) (:) spe(ef)rán(gh)tes(g) in(g) mi(gh)se(hhg)ri(fg)cór(gj)di(j)a(j) e(gf~)jus,(hg) (,) al(gj)le(jjj)lú(hvGFgwh!ivHG)ia:(hg) (:) ut(fg) e(gjjjj)rí(h)pi(g)at(kjj//jjj) a(gh!iwj) mor(hhgh~)te(ge) (,) á(e!fwg!hv)ni(g)mas(ghhg) e(gfh)ó(h!iw!jvIHGh)rum:(hg) (:) quó(g)ni(hj)am(jjj) ad(h)jú(jhig)tor(f) (,) et(g) pro(hi)té(iij)ctor(hhgh~) no(g)ster(gff) est,(dffff) (;) al(c)le(d)lú(edh)ia,(h) (,) al(hgg)le(e/fhGF/ghg)lú(egff)ia.(fe) <i>Ps.</i>(::) Ex(g)sul(hj)tá(j)te(j) ju(k)sti(j) in(j) Dó(j)mi(ih)no:(jjj) *(:) re(ig)ctos(hj) de(j)cet(j) col(jji)lau(hg)dá(h)ti(i)o.(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "430"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3357",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

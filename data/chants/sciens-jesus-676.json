@@ -1,0 +1,31 @@
+{
+  "id": "sciens-jesus-676",
+  "incipit": "Sciens Jesus",
+  "title": "Sciens Jesus",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Sciens Jesus * quia venit hora ejus ut tránseat ex hoc mundo ad Patrem: cum dilexísset suos, qui erant in mundo, in finem diléxit eos, allelúia, allelúia. Ps. Cantáte Dómino cánticum novum: * quia mirabília fecit. Glória Patri E u o u a e",
+  "gabc": "(c4) SCi(f)ens(fffd~) Je(ef!ghf)sus(dfe.) *(,) qui(fd)a(f) ve(e!f'g)nit(g_d) ho(fh)ra(hg) e(fhg)jus(egff'f) (;) ut(fd~) trán(gh~)se(h)at(hhggvFE) ex(g') hoc(hjjvIH) mun(jjvIG)do(hg__) (,) ad(fg) Pa(hggef)trem:(fe..) (;) cum(ge~) di(fg)lex(gh)ís(h!jjj)set(g) su(hg!hi)os,(h.) (,) qui(hig) e(gh)rant(h_g) in(f) mun(ge/fv_ED)do,(ed..) (;) in(fd~) fi(ef/gfh)nem(h) di(g)léx(hggf)it(fg) e(g_f/hvGFgvFE)os,(e.) (;) al(fd)le(f)lú(e!f'g)ia,(g_d) (,) al(fh)le(gv.fhGF'g)lú(egff)ia.(fe..) <i>Ps.</i>(::) Can(hg~)tá(gh)te(h) Dó(h)mi(h)no(h) cán(hg)ti(gi)cum(i) no(hi)vum:(h.) *(:) qui(hg)a(gh) mi(h)ra(h)bí(h)li(gf)a(gh) fe(g)cit.(e.) (::) Gló(hg)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(h) o(gf) u(gh) a(g) e(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "52**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "676",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

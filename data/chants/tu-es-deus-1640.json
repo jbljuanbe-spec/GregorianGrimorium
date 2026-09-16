@@ -1,0 +1,31 @@
+{
+  "id": "tu-es-deus-1640",
+  "incipit": "Tu es Deus",
+  "title": "Tu es Deus",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Tu es * Deus, qui facis mirabília solus: notam fecísti in géntibus virtútem tuam. ℣. Liberásti in bráchio tuo pópulum tuum, fílios Israel * et Joseph.",
+  "gabc": "(c4) TU(cd!ff/gvFE) es(e) *(,) De(ixef!gwhg)us,(giHGfffdgvFE) (;) qui(e!fg) fa(hv//gjh/ij)cis(i) (,) mi(ij)ra(i)bí(ij/kj)li(jjjh)a(hg/jij) (,) so(hjIG)lus:(ixgh/ef!gw!hig/ff/ded) (:) no(ghgk)tam(kjjhj) fe(g)cí(giihi)sti(g) (,) in(g) gén(giihjjhi)ti(gh)bus(ixef!gw!hig/ff/ded) (:) vir(gj//hi~)tú(iji!jw!kvJIH)tem(hv//g!jj//jj//jjjggf) (,) tu(fh!iwj)am.(ig//ivHGhhf/hh,g!jj//jj//jjjvHGFEixfh//ivGFghg/hgge) <sp>V/</sp>.(::) Li(g)be(g)rá(gj)sti(j) (,) in(j) brá(jkij)chi(ih)o(h!iwj) tu(j)o(ihjvIH) (,) (jj/ki/jvHG/jh/ihhg) (:) pó(ij//jjjvHGh!iwji,e!gh/jij/h!jj//jjjvHGh!iwj)pu(jjjvHGh)lum(hv//giHGhffe) (;) tu(fd/ffd/ef/gh//jkj//jjjvHGjjjji)um,(i) (:) fí(g)li(hj)os(j) Is(j)ra(j)el(i//jkh/jijHG) (,) (ji/jk//li/jkJIH) (,) (k/li/jkJIH//jijHGjg/ij gh!jjjvHGFfd) *(;) et(g) Jo(hj)seph.(iij/hih/ghg//e!fg/he//giHGhffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "65"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1640",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

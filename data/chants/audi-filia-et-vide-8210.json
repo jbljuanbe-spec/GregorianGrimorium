@@ -1,0 +1,31 @@
+{
+  "id": "audi-filia-et-vide-8210",
+  "incipit": "Audi filia et vide",
+  "title": "Audi filia et vide",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Audi, fília, * et vi de, et inclína aurem tuam:",
+  "gabc": "(c3) AU(e)di,(e) fí(e)li(e)a,(ehg) *(,)\r\net(hi~) vi(iv.hiH'Ghihi) de,(iv.h/iih/ii,hi/kkkikvkvJI'jhivHGh.g.) (:)\r\net(f) in(hh)clí(hi/kj)na(kkkvJI'jhivHGh.g.) (;)\r\n{au}(fi)rem(i!jwk) tu(ih/ikJI'H)am:(jiivF'Effe/ff,ef/hhhfhvhvGFhefvEDe.d. (:)\r\nqui(e)a(fd) con(e)cu(f)pí(hih)vit(hf~) rex(hi/kkkvIH'GhijvIHih/jihvhvG'FEf.e.) (;) spé(g_e/f.g!hwiiv)ci(ih)em(hi) tu(hv.f/hhvFDff,e/hhe/gvF'E)am(hf/hhfivH'GE,f!gwh_g/ihh'hhvF'Ef_gffe. (::)\r\n<sp>V/</sp>. Spé(ehivji/kkijvIHihi)ci(ihhf)e(f_efv.) tu(hg/hiF'Ehh)a,(hiHG.) (;) et(e) pul(e)chri(hh)tú(hi)di(hh/ig/hiFE)ne(hh) (,) tu(hi)a(ijI'Hl_k/jlkk/iji.) (:) in(ij)tén(hi)de,(i!jwk) pró(i_h)spe(ih)re(h.) (,) pro(h)cé(ih/ikJI'H)de,(ihhvFEffe/ff,ef/hhhfhvhvGF'hefvEDe.d.) (;) et(ef) re(e.f!gwh'iv)gna.(ijIH'hghv. ,ijIH'hgiv.kkkh/ijIG.hig'hvFEf_gffe.) (::)",
+  "transcriber": "Mateusz Ciesiółka",
+  "commentary": "Ps. 44, 11, 12. ℣. 5",
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "406"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8210",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

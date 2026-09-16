@@ -1,0 +1,37 @@
+{
+  "id": "suscepimus-deus-50",
+  "incipit": "Suscepimus Deus",
+  "title": "Suscepimus Deus",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Suscépimus * Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terrae. ℣. Sicut audívimus, ita et vídimus in civitáte Dei nostri, in monte sancto * ejus.",
+  "gabc": "(c4) SU(d)scé(ffg)pi(f)mus(f.) *(,) De(ghg'/hg)us,(gv./fgFD.) (,) mi(d)se(ffg)ri(f)cór(fg~)di(f)am(f) tu(fffvDC'/dff/hghf)am(f.) (;) in(hj~) mé(j)di(kvJH)o(h) tem(f)pli(h) tu(gv./fhf/gh)i:(g.) (:) se(h)cún(hg~)dum(j) no(j)men(ij) tu(hhg)um,(h_g) De(fg!hvGF'g)us,(gf..) (;) i(ffg)ta(f) et(f) laus(ghg'/hvG'F) tu(fv./ege/f_d)a(dc..) (;) in(fgf) fi(f!g'h)nes(ixhjHG'/hw!ivHG') ter(f)rae.(fffvDC.) (,) (fg!hvGF.e!g'h//fhg/hggf.) <sp>V/</sp>.(z0::c3) Sic(d)ut(d) au(fe~)dí(eh)vi(h)mus,(hih___//i_h/jvHF.) (,) (h_g/ijh'___ jvIH'/jvIH'//hvGF.) (:) i(f!h'i)ta(ih/jki/hhf.) (,) et(f) ví(hfh)di(hhh)mus(h.f!gwh!iv./hi/jhh/iih.) (:) in(d) ci(d)vi(d)tá(d)te(d) De(d)i(d) nos(de)tri,(d.) (,) in(d) mon(d)te(d) sanc(dfE'D)to(ef) *() e(fhG'F/hhh)jus.(hhf.) (,) (gxg_f/gvED./fgED./fe/hv.hhhff//dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "433"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1362"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "50",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "eduxit-dominus-1683",
+  "incipit": "Eduxit Dominus",
+  "title": "Eduxit Dominus",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Edúxit Dóminus * pópulum suum in exsultatióne, allelúia: et eléctos suos in laetítia, allelúia, allelúia. Ps. Confitémini Dómino, et invocáte nomen ejus: * annuntiáte inter gentes ópera ejus. Glória Patri. E u o u a e.",
+  "gabc": "(c3) E(h)DÚ(i)XIT(f) Dó(h)mi(hji)nus(i) *(,) pó(ik)pu(jh)lum(i) su(ikJI)um(i) (;) in(if) ex(hg)sul(hi~)ta(i)ti(hf)ó(giHG)ne,(g) (,) al(gj~)le(jv//iji/jvHG)lú(giHG)ia:(g) (:) et(f) e(hh)léc(hi)tos(hg) su(giHG)os(g) (,) in(hhh) lae(fhg)tí(hghf)ti(fe!fwgfg)a,(gf) (;) al(gf~)le(h)lú(hghf)ia,(e) (,) al(ef~)le(fv//dfe)lú(efe)ia.(e) <i>Ps.</i>(::) Con(ehg)fi(hi)té(i)mi(i)ni(i) Dó(i)mi(i)no,(i) (,) et(i) in(i)vo(i)cá(i)te(i) no(ik)men(j) e(ji~)jus:(ij) *(:) an(ig~)nun(hi)ti(i)á(i)te(i) in(i)ter(i) gen(i)tes(i) ó(i!jwk)pe(i)ra(h) e(hhh)jus.(fe) (::) Gló(ehg)ri(hi)a(i) Pa(i)tri.(i) (::) E(i) u(i!jwk) o(i) u(h) a(hhh) e.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "218"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1683",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

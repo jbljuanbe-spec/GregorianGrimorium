@@ -1,0 +1,31 @@
+{
+  "id": "sacerdotes-dei-5778",
+  "incipit": "Sacerdotes Dei",
+  "title": "Sacerdotes Dei",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Sacerdótes Dei benedícite Dóminum; sancti et húmiles corde laudáte Deum. ℣. Benedícite ómnia ópera Dómini Dómino: laudáte, et superexaltáte eum in sǽcula. Glória E u o u a e",
+  "gabc": "(c2) Sa(d)cer(dbc)dó(dc/ffg)tes(f) (::) De(fg)i(f) (;) be(f)ne(f)dí(f!gh)ci(h)te(jh//jvGF) (;4) (eg//hig//hiHG) (;4) Dó(f)mi(f!ghGFg)num;(gf) (:) san(f)cti(f) et(d) hú(d!efd)mi(dcf)les(ghf) cor(gh)de(h) (;) lau(fg)dá(gh/jjh)te(h) (;3) De(f!gh//jjvHGF//fhGF//gf)um.(f) <sp>V/</sp>.(::) Be(fg)ne(gf)dí(gh)ci(h)te(h) ó(h)mni(h)a(h) ó(h)pe(h)ra(hg) Dó(gi)mi(h)ni(h) Dó(g)mi(f)no:(f) (::) lau(h)dá(hj)te,(g) (;4) et(f) su(f)per(f)ex(f)al(f)tá(f)te(f) e(g)um(fd) in(f) s<sp>'ae</sp>(g)cu(f)la.(f) (::) Gló(fg)ri(gf)a(gh) (::) E(f) u(g) o(fd) u(f) a(g) e(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "11*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5778",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

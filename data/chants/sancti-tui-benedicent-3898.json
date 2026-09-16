@@ -1,0 +1,31 @@
+{
+  "id": "sancti-tui-benedicent-3898",
+  "incipit": "Sancti tui... benedicent",
+  "title": "Sancti tui... benedicent",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Sancti tui, Dómine, benedícent te: glóriam regni tui * dicent.",
+  "gabc": "(f3) AL(e)LE(f)LÚ(hi~)IA.(ih/iggf) *(,) <i>ij.</i>(hv/iji/ef/hf//hv//ghe/hhhf!gwhf) <sp>V/</sp>.(::) San(fe/f!gwh)cti(i) tu(jiihi)i,(iv//hh/fgf) (;) Dó(f!hh/ijHF/ivHGEf//hfhhf/ge)mi(ed)ne,(d) (;) be(ffe/ffe/fc,ef!hvvFE/hhhi)ne(h)dí(h)cent(ivHG/hf~) te:(f) (:) gló(f!hi)ri(jiihi)am(iv//hh/fgf) (,) re(f!hh/ijHF/ivHGE/f//hfhhf/ge)gni(e) tu(hh)i(hi) *(,) di(ih/jij)cent.(jvvIHGE//f!gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "364"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3898",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

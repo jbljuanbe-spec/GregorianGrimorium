@@ -1,0 +1,31 @@
+{
+  "id": "veni-domine-et-noli-com-757",
+  "incipit": "Veni Domine et noli (Com.)",
+  "title": "Veni Domine et noli (Com.)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes 1974",
+  "text_latin": "Veni, Dómine, * et noli tardáre: reláxa facínora plebis tuae.",
+  "gabc": "(c4) VE(f)ni,(fe) Dó(fg)mi(fvED)ne,(d!ewf.) *(,) et(cd) no(f)li(fe) tar(fg)dá(fvED)re:(d!ewf.) (;) re(fd)lá(ixf!gwh!iv)xa(h) fa(hg)cí(h!iwj)no(gh_G_FEf)ra(fe__) (,) ple(gffvEDfhg)bis(gf/ghf/gf fg/hf/gvFE) tu(d!ewfef)ae.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "31"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "757",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

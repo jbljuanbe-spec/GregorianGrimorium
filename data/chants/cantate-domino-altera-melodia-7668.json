@@ -1,0 +1,31 @@
+{
+  "id": "cantate-domino-altera-melodia-7668",
+  "incipit": "Cantate Domino (altera melodia)",
+  "title": "Cantate Domino (altera melodia)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. \\Vbar. Cantáte Dómino cánticum nóvum: quia mirabília fecit Dóminus.",
+  "gabc": "(c4)AL(dh)le(hvGFgvFEDd)lú(cd~)ia.(d.,dc/gv_//fg!hvGFED'//cdd;dh/hvGFgh_//dfEC.,egFED'//ce/feed.) (::) <sp>\\Vbar.</sp> Can(dh)tá(hvGFgvFEDd)te(cd) Dó(de/fd)mi(cd)no(d.) (;) cán(ddvCA)ti(cd)cum(d) nó(d!ewfd)vum:(d.) (:) qui(ixdhhvGF/gf/gh_//ivHGgf/gh)a(h.) (,) mi(hg)ra(fgf)bí(dfEDed)li(cd)a(d.) (;) fe(ddvCA)cit(cd~) Dó(de!fvEDd)mi(cd)nus.(d.,dc/gv_//fg!hvGFED'//cdd;dh/hvGFgh_//dfEC.,egFED'//ce/feed.) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": "Ps. 97, 1",
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "276"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7668",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

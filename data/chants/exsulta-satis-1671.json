@@ -1,0 +1,31 @@
+{
+  "id": "exsulta-satis-1671",
+  "incipit": "Exsulta satis",
+  "title": "Exsulta satis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Exsúlta satis * fília Sion, praédica fília Jerúsalem: ecce Rex tuus venit tibi sanctus, et salvátor.",
+  "gabc": "(c4) EX(g)SÚL(g!jjj)TA(h) sa(jji)tis(j) *(,) fí(j)li(jjjh)a(hg) Si(ghGF)on,(hv//jkjjjjvHGgf//hihig) (:) praé(j)di(jjj)ca(h) (,) fí(h!jj)li(hg)a(g) Je(h)rú(gf)sa(ff)lem:(ixef!hiHF//gdfv//fffd) (:) ec(d!fg)ce(g) Rex(hgh) tu(fg/hg/hih/ig)us(g) (;) ve(g)nit(ih~) ti(jv//ijh)bi(h) (,) sanc(hg~)tus,(hg) et(f) sal(fg~)vá(ghGFgvFE)tor.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "19"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1671",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "brachia-peccatorum-601",
+  "incipit": "Brachia peccatorum",
+  "title": "Brachia peccatorum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "BRáchia * peccatórum conteréntur, confírmat autem justos Dóminus.",
+  "gabc": "(c4) BRá(f!g'h)chi(g)a(g.) *(,) pec(g)ca(g)tó(gh/ji)rum(ih/jkj) (,) con(ij)te(hgh)rén(ixhv./gi'HF)tur,(f.) (:) con(fg~)fír(e!f'g)mat(g) au(gv./fhg)tem(g) (,) jus(gh/i.h!iwj)tos(hih) Dó(g)mi(gh!ivHG'h)nus.(hg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "467"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1421"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "601",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

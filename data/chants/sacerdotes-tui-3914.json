@@ -1,0 +1,31 @@
+{
+  "id": "sacerdotes-tui-3914",
+  "incipit": "Sacerdotes tui",
+  "title": "Sacerdotes tui",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Sacerdótes tui, * Dómine, índuant justítiam, et sancti tui exsúltent: propter David servum tuum, non avértas fáciem Christi tui. T. P. Allelúia, allelúia. Ps. Meménto Dómine David: * et omnis mansuetudinis ejus. Glória Patri E u o u a e",
+  "gabc": "(c4) SA(fff)CER(dfe)DÓ(ef/ghf)TES(dfe) tu(e!fg)i,(g) *(,) Dó(gjj)mi(hg)ne,(gv//ff/ded) (;) ín(gh!iwj)du(hg)ant(gd~) ju(fh)stí(ghfg)ti(gv//df!gvFEf)am,(fe) (;) et(f) sanc(e!fw!gh)ti(g) tu(hggef)i(fe) ex(e!fw!gh)súl(gh~)tent:(g) (:) pro(gj)pter(j) Da(jh!iwjij)vid(ji) (,) ser(ij/klk)vum(ji~) tu(jh!iw!jvIHGh)um,(hg) (;) non(gh) a(gh!iwj)vér(jjjhhg~)tas(g) fá(ghgh)ci(fgFEDe)em(ed) (;) Chri(de!f!gwh)sti(gv///fhGFg) tu(egff)i.(fe) <i>T. P.</i>(::) Al(e)le(f)lú(gh)ia,(g) (;) al(gh)le(gh!iwjjvIHG)lú(ge/fgFE)ia.(e) <i>Ps.</i>(::) Me(g)mén(hj~)to(j) Dó(k)mi(j)ne(j) Da(ih)vid:(jjj) *(:) et(ig) o(hj~)mnis(j) man(j)su(j)e(j)tu(jji)di(hg)nis(h) e(i)jus.(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[32]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3914",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

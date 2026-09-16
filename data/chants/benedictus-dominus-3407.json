@@ -1,0 +1,31 @@
+{
+  "id": "benedictus-dominus-3407",
+  "incipit": "Benedictus Dominus",
+  "title": "Benedictus Dominus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Benedíctus Dóminus Deus meus, qui docet manus meas ad praélium, et dígitos meos * ad bellum.",
+  "gabc": "(c4) AL(eef)LE(dg)LÚ(gig/h!iwjjk)IA.(i) *(;) (gh!iwjh//jh/ig) (,) (gh!iwjh//jh/igge) (,) (e!fg/hghFE/fgffe) <sp>V/</sp>.(::) Be(cd!ewff)ne(f)dí(fg)ctus(g) Dó(gh)mi(gf)nus(f) (,) De(ixf!gwh!iv)us(hg) me(ghGFg)us,(gf) (:) qui(fh!iwjj) do(ix/kjjh/ih)cet(h) ma(f)nus(gh) me(h/jhhfg)as(gv//ff/ded) (;) ad(d) praé(ff/ixhig/hh//gg/hfg,ixgjjh/ig/hh//gg/hfg;ixjjjh/ig/hh//gg/hfg,ef/ghg/fv//efd,de!fv/ghg)li(fe/fvEDe)um,(ed) (:) et(fc~) dí(df)gi(f)tos(fg) me(gf)os(f) *(,) ad(f) bel(ff/gf/hgh)lum.(hhf) (,) (hg/hvFD/gfffvEC//ggf/ghddc/da) (,) (cd!fvvDCd!ff/gff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "396"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3407",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

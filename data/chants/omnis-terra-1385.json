@@ -1,0 +1,31 @@
+{
+  "id": "omnis-terra-1385",
+  "incipit": "Omnis terra",
+  "title": "Omnis terra",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Omnis terra * adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime. Ps. Jubiláte Deo omnis terra, * psalmum dícite nómini ejus: date glóriam laudi ejus. Glória Patri. E u o u a e.",
+  "gabc": "(c4) O(fff)MNIS(dfe) ter(e!gh~)ra(h) *(,) a(gh)dó(hjjg)ret(hg/ff/ded) te,(ef!gwh) De(ghffef)us,(fe) (;) et(fff) psal(ef!gwh)lat(hg) ti(gef)bi:(ed) (:) psal(fvfff)mum(dfe) di(e!fh)cat(h) (,) nó(hg/h!jj)mi(hig)ni(hg) tu(ixef!hig)o,(g) (,) Al(fff)tís(e!fg)si(fhGFgvFE)me.(e) <i>Ps.</i>(::) Ju(hg)bi(gh)lá(h)te(h) De(h)o(hg) o(gi)mnis(i) ter(hi)ra,(h) *(:) psal(hg~)mum(gh) dí(h)ci(h)te(h) nó(h)mi(h)ni(h) e(h)jus:(h) (,) da(h)te(h) gló(h)ri(h)am(h) lau(gf~)di(gh) e(g)jus.(e) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "52"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1385",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

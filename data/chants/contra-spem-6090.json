@@ -1,0 +1,31 @@
+{
+  "id": "contra-spem-6090",
+  "incipit": "Contra spem",
+  "title": "Contra spem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Contra spem in spem crédidit, ut fíeret pater multárum géntium, secúndum quod dictum est ei.",
+  "gabc": "(f3) Con(f)tra(e!ghGFg) spem(gf) (::) in(hihhg) spem(fe) cré(f)di(f!ghgh)dit,(gf) (:) ut(h) fí(kxhi!jk)e(j)ret(j) pa(ji)ter(ij) (;) mul(h)tá(hvGE/fg)rum(f) (;1) gén(fihhvGE)ti(f!ghGFg)um,(gf) (:) se(c)cún(ef)dum(fe) quod(f) di(f!hh//hvFED)ctum(egef) est(f) e(fg!hvGFg)i.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "413"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6090",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

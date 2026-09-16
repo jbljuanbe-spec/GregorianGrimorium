@@ -1,0 +1,31 @@
+{
+  "id": "ego-pascam-769",
+  "incipit": "Ego pascam",
+  "title": "Ego pascam",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ego * pascam oves meas. ℣. Quod períerat requíram, et quod abjéctum erat redúcam. ℣. Quod confráctum fúerat alligábo, et quod infírmum fúerat consolidábo. ℣. Et quod pingue et forte custódiam. ℣. Et pascam illas * in judício.",
+  "gabc": "(c4) E(g)go(gv.fff_d/e_c cd/fvv//g./hjhhg.) *(,) pa(ixf!gwh!iv)scam(iv.hig//hiHGhg..) (;) o(hg/jjghvG'F)ves(f/h'j) me(j)as.(jijHG.ixjjvH'GhiGF.) (,) (iyh./jh/ig/hhg.) <sp>V/</sp>.(::) Quod(gd) pe(g)rí(hjIH)e(gf)rat(ghg.) (,) re(hi)quí(g.h!iwjhi)ram,(hg..) (:) et(hg~) quod(hgh) ab(f)jé(fg!hvhg)ctum(gh) e(hg/jjghvG'F)rat(f/h'j) (,) re(j)dú(j)cam.(jijHG.ixjjvH'GhiGF.) (,) (iyh./jh/ig/hhg.) <sp>V/</sp>.(::) Quod(jvviji) con(ig~)frá(hj)ctum(j) fú(ij)e(j)rat(j) (,) al(j)li(j)gá(j_kJ'Gh_g/h!iw!jvIHijh)bo,(hg..) (:) et(hg~) quod(ghg) in(fg)fír(jj)mum(hji) fú(j)e(j)rat(jjjkhhg/hg/jjh/jggf.) (;) con(gh)so(g)li(gh/jij)dá(j.h!iwj)bo.(jjjvIHivHGhg..) <sp>V/</sp>.(::) Et(fg) quod(gj) pin(iij)gue(gf) et(gh) for(hjIG)te(gv.) (,) (fh/ji/jkhhg/hg/jjh/jggf.) (;) cu(h!iwj)stó(j)di(jjj)am.(jh/jjlvKJ'jvIH'Ghg..) <sp>V/</sp>.(::) Et(hjh) pa(jji)scam(g) il(hg/h!iw!jvIHijh)las(hg..) *(;) in(g) ju(hg/jjghvG'F)dí(f!h'j)ci(j)o.(jijHGg'g/hggfg) (,) (jjjkvJ'IHhg/hjIHG'ghf.) (,) (h!iw!jvIH'ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "73**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "769",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

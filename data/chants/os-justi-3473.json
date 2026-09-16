@@ -1,0 +1,31 @@
+{
+  "id": "os-justi-3473",
+  "incipit": "Os justi",
+  "title": "Os justi",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Os justi * meditábitur sapiéntiam, et lingua ejus loquétur judícium. ℣. Lex Dei ejus in corde ipsíus et non supplantabúntur * gressus ejus.",
+  "gabc": "(c4) OS(ddcd/fffddcd) ju(dfd/fffvED)sti(dfddc) *(;) me(d)di(fddc)tá(fg)bi(ixfhg/hi)tur(h) (,) sa(hjhhg)pi(hggf)én(fh!jvHGh)ti(h)am,(ixhv//fg!hwihhggf) (:) et(dh) lin(hg/jij)gua(hf/hg) e(geg)jus(gvFED/fvED) (,) (fge/fgd/eddc) (;) lo(f!gh!jvIHG)qué(gf)tur(f) (,) ju(f)dí(f)ci(gvFD)um.(dc/d!ff//ghGE/fgf/f/ded) <sp>V/</sp>.(::) Lex(dh) De(h)i(g) e(hjij)jus(h) (,) (g/hhg/hh//gh!jjjh/jvvIH/jggf) (:) in(f) cor(ixghgh//fh!ivGE/fvDC//d!ff//g/hhg/hh , gh!jj//jjjkvJH)de(ji) i(ji)psí(ji)us(jjjvIH/jggf) (:) et(f) non(ixghgh//fh!ivGFE//fg!hvhg) sup(h)plan(ge~)ta(fg)bún(gffvED)tur(d/ffd) (,) (fge/fgd/eddc) *(;) gres(ff)sus(fg) e(gf/hgh)jus.(hvvGFEC//d!ewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[35]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3473",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

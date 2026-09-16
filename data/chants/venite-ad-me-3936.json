@@ -1,0 +1,31 @@
+{
+  "id": "venite-ad-me-3936",
+  "incipit": "Venite ad me",
+  "title": "Venite ad me",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Veníte ad me, omnes qui laborátis, et oneráti estis: et ego * refíciam vos.",
+  "gabc": "(c3) AL(eed~)LE(ff)LÚ(efe/hiHFgffe~)IA.(e) *(;) <i>ij.</i>(de!f!gwhe//de!f!gwhefvED) (;) (df!hi//hjijvHF) (,) (ehf!gwh!ivHFEDee) (,) (fh//g!hiHFED/ee//fe/hhe) <sp>V/</sp>.(::) Ve(e)ní(efe/hiHFgffe)te(e) ad(d/efd/ee) me,(d) (;) o(df!hv//jhi)mnes(i) (,) qui(h) la(j)bo(i)rá(jkJIi//hji/jkii,hiHFEhv//gh!ivHFEDee,fh//g!hiHFEDee,hji/jkJIi//hji/jki)tis,(i) (;) et(hjh/ii) o(e)ne(f!gwh)rá(h)ti(hhhvGF) e(fhe/fe)stis:(e) (:) et(e) e(ef)go(e) *() re(e)fí(ef)ci(ed)am(df!hiHFgffe~) vos.(e) (;) (de!f!gwhe//de!f!gwhefvED) (;) (df!hi//hjijvHF) (,) (ehf!gwh!ivHFEDee) (,) (fh//g!hiHFEDee//fe/hhe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "551"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3936",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

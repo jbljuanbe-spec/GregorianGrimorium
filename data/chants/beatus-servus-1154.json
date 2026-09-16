@@ -1,0 +1,37 @@
+{
+  "id": "beatus-servus-1154",
+  "incipit": "Beatus servus",
+  "title": "Beatus servus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "BEátus servus, * quem, cum vénerit Dóminus, invénerit vigilántem: amen dico vobis, super ómnia bona sua constítuet eum. T. P. Allelúia.",
+  "gabc": "(c2) BE(exdde//)á(cf)tus(f) ser(g_f/g!hwihi)vus,(ih..) *(,) quem,(hj) cum(h) vé(jkj)ne(i)rit(hvGF) Dó(h_i)mi(h)nus,(h.) (,) in(fh~)vé(h)ne(ghg)rit(ef) vi(g)gi(fe)lán(df)tem:(c.) (:) a(cd)men(f) di(fe)co(d) vo(fvEC)bis,(c.) (,) su(f)per(g) ó(i)mni(h)a(g) bo(g)na(f) su(g)a(f_g) (,) con(gf~)stí(g!hwi)tu(f)et(exfgF'Efgf) e(exdfee//)um.(ed..) <i>T. P.</i>(::) Al(exe)le(c.!fgF'Efgf)lú(dfee)ia.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[45]"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1203"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1154",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

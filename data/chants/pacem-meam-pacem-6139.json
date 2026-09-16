@@ -1,0 +1,31 @@
+{
+  "id": "pacem-meam-pacem-6139",
+  "incipit": "Pacem meam... pacem",
+  "title": "Pacem meam... pacem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Pacem meam do vobis: pacem relínquo vobis. T. P. Allelúia, allelúia.",
+  "gabc": "(c3) Pa(h)cem(h) me(hg)am(f) (::) do(fe) vo(fgffv)bis:(e) (:) pa(h)cem(hhv) re(hf)lín(hi)quo(h) vo(ih)bis.(ffe) <i>T. P.</i>(::) Al(hj)le(j)lú(jij>)ia,(g) (;3) al(hg~)le(fv//e!fg)lú(gffef)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "100*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6139",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

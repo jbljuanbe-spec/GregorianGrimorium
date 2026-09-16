@@ -1,0 +1,37 @@
+{
+  "id": "tui-sunt-caeli-1274",
+  "incipit": "Tui sunt caeli",
+  "title": "Tui sunt caeli",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tui sunt * cǽli, et tua est terra: orbem terrárum, et plenitúdinem ejus tu fundásti: justítia et judícium præparátio sedis tuæ.",
+  "gabc": "(c4) TU(f)I(ded) sunt(f) *() c<sp>'ae</sp>(e/fgF'EfvED)li,(fd/efe.) (;) et(fd~) tu(dfe)a(f) est(g_efvEDgvFE) ter(hvGFgvFE)ra:(e.) (:) or(d!g'h)bem(g) ter(fgffe)rá(egffe)rum,(fff) (;) et(dec) ple(dfe)ni(e)tú(egfg)di(d)nem(d.) (,) e(ff/gd/fffd/fffv_E~D~)jus(ed..) (,) tu(f!h'j) fun(gh)dá(egff)sti:(fe..) (:) jus(hg)tí(h_ghvGEf!gwhgh/f!gwhgh)ti(f)a(eef.) (,) et(f.d!ewf) ju(f)dí(fffhvGF'DgvFE'D)ci(d!ewf_d)um(d.) (;) præ(d)pa(ef)rá(gh)ti(g)o(ghGF.efED.) (,) se(fv.fffdgvFE)dis(g_f/hggf/ghg) tu(egff)æ.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "35"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "410"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1274",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

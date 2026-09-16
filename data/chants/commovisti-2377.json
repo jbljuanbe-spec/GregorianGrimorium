@@ -1,0 +1,31 @@
+{
+  "id": "commovisti-2377",
+  "incipit": "Commovisti",
+  "title": "Commovisti",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Commovísti * Dómine terram, et conturbásti eam. ℣. Sana contritiónes eius, quia mota est. ℣. Ut fúgiant a fácie arcus, ut liberéntur elécti * tui.",
+  "gabc": "(c4) COm(e)mo(e)ví(gh!/j.h!iwj)sti(k_j j'jjvH'GF.,gh!jjjvIG/h_g/h!iw!jvIHivHGhg..) *(;) Dó(gjjk)mi(h)ne(hg!/hf!//hjhj) ter(jvIH'iw!jvI'HG'h)ram,(hg..) (:)\r\net(g) con(h_g!/h!iwj)tur(g_f~)bá(g)sti(h) e(j.!/kjjg/j.!/kjj'jj!/kjjh,ji!/jjvI'G//hjhjvHF.,gh!jvvI'GhjHF'g)am.(g!/hhg.) (::)\r\n\r\n<sp>V/</sp>. Sa(g!jj!/kljj'jg,jj!/kljj'jh ijH'GF.//g.h!iwjjk)na(j.) (;) con(i!j'k~)tri(k_i)ti(kj)ó(j_kJ'G)nes(g_h) (,) e(fh!/ji!/jkhhg/hg/jjhjvGF)ius,(gf..) (:)\r\nqui(ixfh!/ih!/ig)a(j.) mo(jjjvHG'h)ta(g) est.(dg'!//jvHG./dg'!//hjhhg.,jjjg/hhfgv./dg!/hg!/hg!/hhg.) (::)\r\n\r\n<sp>V/</sp>. Ut(fg) fú(g!jj)gi(j)ant(jj!/kljj'jg,jj!/kljj'jh ijH'GF.//g.h!iwjjv) (;) a(jj) fá(j!k'l)ci(j_h)e(h_g) ar(h!jj!//jjj'jk~)cus,(gv.fh!/ji/jkhhg/hg/jjh!/jggf.) (:)\r\nut(fg!hj~) li(igh)be(gfg!/hjij)rén(j.h!iwj)tur(jjjvIHivHGhg..) (;) e(g)lé(hg!/jjghvG'F)cti *(f!h'j) tu(j)i.(jijHGg'g!/hggfg.,jjjkvJ'IH'hg/hjI'HG'ghf.,h!iw!jvIH'ihhg.) (::)",
+  "transcriber": "Jacques Peron",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "63"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "2377",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

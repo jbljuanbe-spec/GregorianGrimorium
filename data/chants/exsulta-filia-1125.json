@@ -1,0 +1,37 @@
+{
+  "id": "exsulta-filia-1125",
+  "incipit": "Exsulta filia",
+  "title": "Exsulta filia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Exsúlta * fília Sion, lauda fília Jerúsalem: ecce Rex tuus venit sanctus, et Salvátor mundi.",
+  "gabc": "(c4) EX(d!ewf)súl(cd~)ta(d) *(,) fí(d!f'g)li(gh)a(h) Si(ghe)on,(e.) (;) lau(e_g!hi)da(h) (,) fí(hjj)li(hg)a(g) Je(f!g'h)rú(ghf)sa(egff)lem:(fe..) (:) ec(e)ce(g) Rex(h) tu(i_h)us(ij) ve(hiHG'h)nit(hg..) (,) sanc(h_g~)tus,(g_f) et(gh) Sal(f)vá(e.f!gwh)tor(hg~) mun(egff)di.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "32"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "406"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1125",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

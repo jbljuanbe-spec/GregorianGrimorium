@@ -1,0 +1,31 @@
+{
+  "id": "confortamini-1478",
+  "incipit": "Confortamini",
+  "title": "Confortamini",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Confortámini, * et jam nolíte timére: ecce enim Deus noster retríbuet judícium: ipse véniet, et salvos nos fáciet.",
+  "gabc": "(c4) CON(cd)FOR(df)TÁ(e/fgFE)MI(fffvED)NI,(fd/efe) *(;) et(f) jam(dfe) no(f)lí(ixgf/fe/fg/hig)te(fh) ti(ghFE)mé(egFE)re:(e) (:) ec(df!gwh)ce(g) e(ixivHG)nim(ghgg/efe) (,) De(e!fg)us(hgg) nos(ef!gvFEfvED)ter(d/fd/efe) (;) re(d)trí(fvfff)bu(fe)et(dfe) ju(fg)dí(g)ci(gf!gwhgh)um:(hg) (:) ip(g)se(h) vé(ixhjh/ij)ni(g)et,(fgFEDewf) (;) et(cd) sal(dgf)vos(fff) nos(fg/hg/gf/ghg) fá(e)ci(egff)et.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "10"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1478",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

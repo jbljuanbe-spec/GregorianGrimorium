@@ -1,0 +1,31 @@
+{
+  "id": "intret-oratio-1459",
+  "incipit": "Intret oratio",
+  "title": "Intret oratio",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Intret * orátio mea in conspéctu tuo: inclína aurem tuam ad precem meam Dómine. Ps. Dómine Deus salútis meae: * in die clamávi, et nocte coram te. Glória Patri. E u o u a e.",
+  "gabc": "(c4) IN(gj)TRET(j) *() o(j)rá(jkjj)ti(hj)o(j) me(jkjj)a(h!jj/khhg) (;) in(g) con(h)spé(h/jjh/jij)ctu(gh) tu(hkj)o:(jkjjj) (:) in(jj)clí(klJIH)na(hkjji) au(g)rem(hj~) tu(jh/jvIG)am(gh/igh) (;) ad(f) pre(e!fg)cem(gj) me(jijg)am(fh/ji) (,) Dó(jh/jg)mi(ge)ne.(fgFE) <i>Ps.</i>(::) Dó(g)mi(hj)ne(j) De(j)us(j) sa(j)lú(k)tis(j) me(ih)ae:(jjj) *(:) in(ig~) di(hj)e(j) cla(j)má(j)vi,(j) et(j) noc(jji)te(hg) co(h)ram(i) te.(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri.(j) (::) E(j) u(jji) o(hg) u(h) a(i) e.(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "88"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1459",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "benedicam-dominum-1752",
+  "incipit": "Benedicam Dominum",
+  "title": "Benedicam Dominum",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Benedícam * Dóminum in omni témpore: semper laus ejus in ore meo. ℣. In Dómino laudábitur ánima mea: áudiant mansuéti, * et laeténtur.",
+  "gabc": "(c3) BE(ef)NE(e)DÍ(ef!hhhffe)CAM(ef) *(,) Dó(e!fh)mi(hhh)num(h/ijhhhvFE) (,) (hhhf/hvGE/fe//hf/gffe) (;) in(e) om(ehg~)ni(hi) tém(i)po(ih/kvJI/kvJI)re:(ig/hi!kvvIH//i!jwk/lkk/iji) (,) (hj/iji/jg//hih/ihhg) (:) sem(g!hi)per(jki/jhhg) laus(gh!i!jwk) e(ih/ih/ijIH)jus(hhhe) (,) (fgfj//iji/jh/hih/ihhg) (;) in(hf) o(h!iwjij)re(ji/hhf/hh/jkIH/jvIH) me(ihhvFE/hhe , hihi)o.(ji/jkIH/ijij//lvJI/jvHF//hhh/fgf) <sp>V/</sp>.(::) In(e) Dó(e!fh)mi(hhh)no(h/ijhhhvFE) (,) (hhhf/hvGE/fe//hf/gffe) (;) lau(g!hi~)dá(i)bi(h)tur(hg) á(hg/hji)ni(ihhvGF)ma(gf) (,) me(hf/hhvFE/f!gwhg)a:(hhvGF/he//fvED/ed) (:) áu(e)di(dc!dwed/ef)ant(e) man(d)su(f)é(h/ivHEf , f!gwh!ivHE/f//hif , i/jg/hiHGF , i/jg/hiHGF//hghFE , ih/ijIH)ti,(hhhvFE/ffe/ff) (,) (ef!hhhf//hvvGF/he//fvED/ed) *(;) et(ef) lae(hg)tén(hi)tur.(ijIHhg/hv) (,) (ijIHhg/iv//kkkh/ijIG//hig/hvFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "300"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1752",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

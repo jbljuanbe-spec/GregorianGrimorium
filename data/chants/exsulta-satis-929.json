@@ -1,0 +1,37 @@
+{
+  "id": "exsulta-satis-929",
+  "incipit": "Exsulta satis",
+  "title": "Exsulta satis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Exsúlta satis * fília Sion, praédica fília Jerúsalem: ecce Rex tuus venit tibi sanctus, et salvátor.",
+  "gabc": "(c4) EX(g)súl(g!jjj)ta(h) sa(jji)tis(j.) *(,) fí(j)li(jjjh)a(h_g) Si(ghG'F)on,(hv.jkjj'jjvHG'gf/h!ihig.) (:) praé(j)di(jjj)ca(h) (,) fí(h!jj)li(hg)a(g) Je(h)rú(g_f)sa(ff)lem:(ixef!hiH'Fg_dfv.fffd) (:) ec(d!f'g)ce(g) Rex(hgh) tu(fg/h_g/hih/i_g)us(g.) (;) ve(g)nit(ih~) ti(jv.ijh)bi(h) (,) sanc(hg~)tus,(h_g) et(f) sal(fg~)vá(ghG'FgvFE)tor.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "20"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "352"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "929",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

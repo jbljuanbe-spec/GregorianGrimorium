@@ -1,0 +1,37 @@
+{
+  "id": "afferentur-post-eam-768",
+  "incipit": "Afferentur... post eam",
+  "title": "Afferentur... post eam",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Afferéntur * regi vírgines post eam: próximae ejus afferéntur tibi.",
+  "gabc": "(c4) AF(c)fe(d)rén(f)tur(fff/ded.) *() re(fg)gi(fe/fggf.) (;) vír(fgffe)gi(de!fvED'e)nes(ed..) (`) post(dg) e(gf)am:(f.) (:) pró(hf/gh!jjh)xi(g)mae(fggf) e(d!ew!fvED)jus(dc/ded.) (;) af(c)fe(d)rén(ffd//fgf/ge/fgd)tur(dcd~) ti(d)bi.(dc/d!fffc//fvED'/ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "437"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1370"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "768",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

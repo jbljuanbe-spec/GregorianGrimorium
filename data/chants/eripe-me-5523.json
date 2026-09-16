@@ -1,0 +1,31 @@
+{
+  "id": "eripe-me-5523",
+  "incipit": "Eripe me",
+  "title": "Eripe me",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Eripe me de inimícis meis Deus meus: et ab insurgéntibus in me líbera me.",
+  "gabc": "(f3) Al(ef~)le(fhfg//hvGE;4fhfgf)lú(ef~)ia.(f) (::) (hvGF//iivHGF) (;3) (ghGF/fe) (;) (fhGF//iivHGF) (;3) (ghGF/fe) (;) (hhvGF//ggf) <sp>V/</sp>.(::) E(ef)ri(f)pe(f//hhf/ge) (;4) (f!ghGFEf) me(f) (;) de(fh) i(e)ni(f)mí(f)cis(fi) me(ih//ivHFE)is(f) (;) De(ih//ivHGF)us(f) me(hg//hvGE)us:(fhGF) (:) et(f) ab(f) in(hg)sur(hi)gén(iv//hih//fhgh//fgFE;4f!ghGFEf;fg/hi//hih;3f!ghGFEf;fg/hi)ti(fe)bus(ec) (;1) in(ef) me(fhGF) (::) lí(ef)be(fhfg//hvGE;4fhfgf)ra(ef) me.(f//hhvGF//ggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "297"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5523",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

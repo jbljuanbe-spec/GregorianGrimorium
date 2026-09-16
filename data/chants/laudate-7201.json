@@ -1,0 +1,31 @@
+{
+  "id": "laudate-7201",
+  "incipit": "Laudate",
+  "title": "Laudate",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Laudáte Dóminum omnes Gentes: et collaudáte eum omnes pópuli. ℣. Quóniam confirmáta est super nos misericórdia ejus: et véritas Dómini manet in ætérnum.",
+  "gabc": "(c4) Lau(g)dá(g!hih)te(ghhg) (::) Dó(gjjk)mi(h)num(gf/ghhg) (;) o(jjv)mnes(hih) Gen(j)tes:(jjv//khhghg/jjh/jggf) (:) et(f) col(hj)lau(igh)dá(gfg)te(gh/jij) (;6) e(jhj)um(jjvIH//ivHG/hg) (;) om(fh/jh!ih~)nes(j) pó(jijg;jjvHG/ixhiGF;iyhjhig)pu(fg)li.(ghhg) <sp>V/</sp>.(::) Quó(g)ni(g)am(gd) con(gh)fir(g)má(g!hj)ta(j) est(j) (;) su(jji)per(g) nos(hg//h!ijIH//ijhhg) (;) mi(g)se(ghg)ri(fg)cór(g!hj)di(j)a(j) (;6) e(ik/ljjh)jus:(jhhghg//jjh/jggf) (:) et(f) vé(hj)ri(igh)tas(gfg//hji) Dó(j)mi(hj)ni(ijhhg) (;) ma(hg/hj)net(ghGF) (::) in(f!hj) æ(j)tér(jijHG//ggv/hggfg;gjjkJIH/hg)num.(ghGF) (;) (hjIH//ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "193"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7201",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

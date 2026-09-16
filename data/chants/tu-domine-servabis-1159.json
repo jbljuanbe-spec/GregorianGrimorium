@@ -1,0 +1,31 @@
+{
+  "id": "tu-domine-servabis-1159",
+  "incipit": "Tu Domine servabis",
+  "title": "Tu Domine servabis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tu Dómine * servábis nos, et custódies nos a generatióne hac in aetérnum.",
+  "gabc": "(c4) TU(g) Dó(ji/j_k)mi(h!iw!jvI'HG'h)ne(hg..) *(,) ser(gh~)vá(h_f)bis(gh) nos,(e.) (;) et(g) cu(g)stó(ih/i_j)di(hg)es(g) nos(gh!ivih.) (;) a(h) ge(h)ne(hf)ra(gh)ti(hg)ó(ghfg)ne(f) hac(e!f'g) (,) in(g) ae(hggf/ghg)tér(egff)num.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "121"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1159",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

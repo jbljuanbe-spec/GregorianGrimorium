@@ -1,0 +1,37 @@
+{
+  "id": "tu-es-petrus-alleluia-3657",
+  "incipit": "Tu es Petrus (Alleluia)",
+  "title": "Tu es Petrus (Alleluia)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Tu es Petrus, et super hanc petram aedificábo Ecclésiam * meam.",
+  "gabc": "(f3) AL(e)LE(f)LÚ(hi~)IA.(ih/iggf) *(,) <i>ij.</i>(hv/iji/ef/hf//hv///ghe/hhhf!gwhf) <sp>V/</sp>.(::) Tu(hi) es(i) Pe(jiihi)trus,(iv///hh/fgf) (;) et(f) su(fg)per(f) hanc(f) pe(f!hh/ijHF/ivHGE/f/hfhhf/ge)tram(e) (:) ae(f)di(e)fi(f)cá(ffe/ffe/fc,ef!hvvFE/hhh)bo(ivHG/hf) (;) Ec(f)clé(hh)si(h)am(hi~) *() me(ih/jij)am.(jvvIHGE//f!gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "360"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "469"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3657",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

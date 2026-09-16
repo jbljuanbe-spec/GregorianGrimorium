@@ -1,0 +1,31 @@
+{
+  "id": "venite-audite-3510",
+  "incipit": "Venite audite",
+  "title": "Venite audite",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Venite, * audíte, et narrábo, omnes qui timétis Deum, quanta fecit Dóminus ánimae meae. Ps. Jubiláte Deo omnis terra: * psalmum dícite nómini ejus, date glóriam laudi ejus. Glória Patri. E u o u a e.",
+  "gabc": "(c4) VE(d)NI(fd/fff)TE,(f) *(,) au(g)dí(ixgiHG)te,(gf) (;) et(fe) nar(g)rá(ghf)bo,(f) (,) o(fgFD)mnes(d) qui(e) ti(f)mé(gf)tis(g) De(deDC)um,(c) (:) quan(fdf)ta(f) fe(ixgi)cit(h) Dó(gh)mi(gf)nus(f) (,) á(gf/hg)ni(f)mae(f) me(fgf)ae.(f) <i>Ps.</i>(::) Ju(fg)bi(gf)lá(gh)te(h) De(h)o(g) o(ixi)mnis(h) ter(g)ra:(f) *(:) psal(f)mum(gh) dí(h)ci(h)te(h) nó(h)mi(h)ni(h) e(hj)jus,(g) (,) da(f)te(f) gló(f)ri(f)am(g) lau(fd~)di(f) e(g)jus.(f) (::) Gló(fg)ri(gf)a(gh) Pa(h)tri.(h) (::) E(f) u(g) o(fd) u(f) a(g) e.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "343"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3510",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

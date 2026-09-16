@@ -1,0 +1,31 @@
+{
+  "id": "timeat-eum-809",
+  "incipit": "Timeat eum",
+  "title": "Timeat eum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Timeat * eum omne semen Israel: quóniam non sprevit neque despéxit deprecatiónem páuperis. T.P. Allelúia.",
+  "gabc": "(c4) TI(gh/ji)me(ij)at(i.) *() e(ikj)um(i./jjj) (,) o(h)mne(ghg') se(h)men(hi/jhhg) Is(j_h/k_j)ra(ikJ'I)el:(i.) (:) quó(g)ni(hih)am(hi) non(g!h'j) spre(jjjvIH)vit(ghggf.) (,) ne(gh/ihi)que(g_h) de(f)spéx(e!fg/hgh)it(fdf.) (,) de(cd)pre(c)ca(d)ti(f)ó(f_eg//hhj)nem(gh) páu(e)pe(egF'E)ris.(e.) <i>T.P.</i>(::) Al(f)le(e!fg/hgh)lú(hjg)ia.(gvFEf_e//g_f/gffe.) (::",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "32**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "809",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

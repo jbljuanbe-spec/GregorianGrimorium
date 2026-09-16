@@ -1,0 +1,31 @@
+{
+  "id": "egredere-3746",
+  "incipit": "Egredere",
+  "title": "Egredere",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Egredere * de terra tua, et de domo patris tui, et veni in terram, quam monstrábo tibi. Ps. Oblivíscere pópulum tuum, et domum patris tui * et concupíscet rex decórem tuum. Glória Patri E u o u a e",
+  "gabc": "(c4) EG(g)RE(gh)DE(g)RE(gd) *() de(d) ter(e)ra(fg) tu(ghg)a,(g) (;) et(g) de(hj) do(j)mo(jkj) pa(jjjhhg)tris(g!hj) tu(ih/jvIH)i,(h) (:) et(gjj) ve(hg/hvGF)ni(f) in(ef) ter(ghGFh)ram,(h) (;) quam(h) mon(h)strá(hih)bo(g) ti(gf/hvGF/gvFE)bi.(e) <i>Ps.</i>(::) O(g)bli(hj)ví(j)sce(j)re(j) pó(j)pu(j)lum(j) tu(j)um,(j) (,) et(j) do(j)mum(j) pa(k)tris(j) tu(ih)i(jjj) *(:) et(ig) con(hj)cu(j)pí(j)scet(j) rex(j) de(jji)có(hg)rem(h) tu(i)um.(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[180]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3746",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

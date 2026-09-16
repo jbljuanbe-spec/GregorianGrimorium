@@ -1,0 +1,31 @@
+{
+  "id": "ecce-quomodo-6790",
+  "incipit": "Ecce quomodo",
+  "title": "Ecce quomodo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ecce quómodo computáti sunt inter fílios Dei, et inter sanctos sors illórum est.",
+  "gabc": "(c4) Ec(d)ce(dfe) (::) quó(fg)mo(d)do(d) (;4) com(c)pu(e)tá(gh)ti(gf) sunt(fefd) (;) in(c)ter(e) fí(gh//jjkh)li(gh)os(h) De(h!ijh)i,(h) (:) et(hg~) in(ij)ter(hg) san(ihi)ctos(gh!ivih) (;) sors(fe) il(fge/fd)ló(df!gh)rum(fvED) est.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "519"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6790",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

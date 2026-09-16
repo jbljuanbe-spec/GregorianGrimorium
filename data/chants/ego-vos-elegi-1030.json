@@ -1,0 +1,37 @@
+{
+  "id": "ego-vos-elegi-1030",
+  "incipit": "Ego vos elegi",
+  "title": "Ego vos elegi",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Ego vos elégi de mundo, ut eátis, et fructum afferátis: et fructus vester * máneat.",
+  "gabc": "(c4) AL(d/ff)le(ef!gvEDffd)lú(ixf!gh/ig/h_e/fg~)ia.(g.) *(,) <i>ij.</i>(d!ef!gvEDffd) (,) (d!ef!gvEDhv.ghF'ED.) (,) (e_g//fgf/deddc.) (,) (fff/g_hGE'feed.) <sp>V/</sp>.(::) E(dffeggvFEfd)go(d.) (,) vos(d) e(dh)lé(ixhv.fh!ivGFhv.d!ef!hvGE'fd)gi(d.) (,) de(d) mun(d!fff)do,(e_devDCddc.) (;) ut(c.d!ewf) e(f!g_h)á(hvGF'fvED)tis,(dv.cd!evDCd.) (;) et(d) fru(d!fff)ctum(e_devDCd_c) (,) af(f!g_h)fe(fvED//cd!evDC'd)rá(d!ewfef)tis:(ed..) (:) et(dh~) fru(h'/jhhg/he/f_g//dfED.,ixdh'/jhhg/he/f_g/eg!ivHGhvFDfvED,hhggf/hjhhg)ctus(h.) ve(d!ff)ster(ef!gvEDffd) *(;) má(ix!f!gh/ig/h_e)ne(fg)at.(g.) (,) (d!ef!gvEDffd) (,) (d!ef!gvEDhv.ghF'ED.) (,) (e_g//fgf/deddc.) (,) (fff/g_hGE'feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "630"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1487"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1030",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

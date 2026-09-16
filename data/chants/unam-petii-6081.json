@@ -1,0 +1,31 @@
+{
+  "id": "unam-petii-6081",
+  "incipit": "Unam petii",
+  "title": "Unam petii",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Unam pétii a Dómino, hanc requíram, ut inhábitem in domo Dómini ómnibus diébus vitæ meæ.",
+  "gabc": "(c3) U(i)nam(ig) pé(ijij)ti(i)i(h) (::) a(fh) Dó(hgh)mi(fe)no,(ef/he/feed) (;) hanc(df/hhv//ikJI) (;6) re(ig//hiHGF//ghGF)quí(e!fgFEf)ram,(fe) (:) ut(h) in(ik)há(k)bi(jk)tem(i) (;6) in(j) do(ijh)mo(i) Dó(jk)mi(j)ni(iji) (;) ó(i)mni(h)bus(ghg) di(f)é(ghg)bus(f!ij) (;) vi(i)tæ(ig//hiHGF//ghGF) me(e!fgFEf)æ.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "294"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6081",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

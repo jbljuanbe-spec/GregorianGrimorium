@@ -1,0 +1,37 @@
+{
+  "id": "venite-post-me-552",
+  "incipit": "Venite post me",
+  "title": "Venite post me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Veníte post me: * fáciam vos piscatóres hóminum: at illi, relíctis rétibus et navi, secúti sunt Dóminum.",
+  "gabc": "(c4) VE(g)ní(g)te(d) post(geg~) me:(g.) *(,) fá(gjij)ci(hg)am(g) vos(ggd.) (,) pis(d)ca(e)tó(gg)res(gih/i_h) hó(g)mi(gh!ivHG'h)num:(hg..) (:) at(j) il(jhj~)li,(j) re(j)líc(j)tis(jh~) ré(ij)ti(hiHG'h)bus(hg..) (,) et(ge~) na(g//h'i/hig)vi,(g.) (;) se(g)cú(g)ti(h) sunt(geed/geg) Dó(g)mi(ghg___)num.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "395"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1306"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "552",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

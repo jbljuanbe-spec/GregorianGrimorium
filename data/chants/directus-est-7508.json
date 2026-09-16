@@ -1,0 +1,24 @@
+{
+  "id": "directus-est-7508",
+  "incipit": "Directus est",
+  "title": "Directus est",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "solesmes",
+  "text_latin": "Diréctus est * in pniténtiam géntis, gubernvit ad Dminum cor ipsus, et in diébus peccatrum corroborvit piettem. T.P. Allelia, allelia. Ps. Misericrdias Dmini * in térnum cantbo.",
+  "gabc": "(c4) DI(cd)réc(ixdh'iv)tus(h) est(h.) *() in(h) p<v>{\\ae}</v>(gfg)ni(hgh)tén(jj)ti(h_g)am(hfh) gén(hi<jh)tis,(h.) (;)\r\ngu(h)ber(j)n<v>{\\'a}</v>(jk)vit(klk) ad(j) D<v>{\\'o}</v>(j)mi(kvJH)num(h_g) cor(hiwj) ip(h_g)s<v>{\\'i}</v>(hggfg)us,(gf..) (:)\r\net(f) in(f) di(ghg')é(h)bus(fgf) pec(fg)ca(gff)t<v>{\\'o}</v>(deDC'd)rum(dc..) (;)\r\ncor(c/d'f)ro(f)bo(fe)r<v>{\\'a}</v>(fggvFD)vit(d.) (,) pi(dewf)e(ced)t<v>{\\'a}</v>(d_e_d_)tem.(d.) <i>T.P.</i>(::)\r\nAl(cdf~)le(f_e)l<v>{\\'u}</v>(fgf)ia,(fffddc.) (,) al(df~)le(fefd)l<v>{\\'u}</v>(d_e_d_)ia.(d.) <i>Ps.</i>(::)\r\nMi(f)se(gh)ri(h)c<v>{\\'o}</v>r(hj)di(h)as(h) D<v>{\\'o}</v>(h)mi(hg)ni(gh..) *(:)\r\nin(gf) <v>{\\ae}</v>(gh)tér(hjh)num(g') can(g)t<v>{\\'a}</v>(fsss)bo.(dc/d.f.) (::)",
+  "transcriber": "Boris Maire",
+  "commentary": "cf. Si 49, 3-4 Ps. 88, 2",
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7508",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

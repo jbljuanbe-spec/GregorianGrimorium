@@ -1,0 +1,31 @@
+{
+  "id": "manducaverunt-677",
+  "incipit": "Manducaverunt",
+  "title": "Manducaverunt",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Manducavérunt, * et saturáti sunt nimis, et desidérium eórum áttulit eis Dóminus: non sunt fraudáti a desidério suo.",
+  "gabc": "(c4) MAn(de)du(c//)ca(d)vé(fg)runt,(hf/ghhg.) *(,) et(fh) sa(g)tu(fe)rá(fh)ti(g) sunt(gf~) ni(g)mis,(d.) (:) et(d) de(fe)si(f)dé(gh)ri(g)um(g) e(g)ó(gfg)rum(dec.) (,) át(fg)tu(f)lit(f) e(f)is(ixf!gh/i.g!hw!ivHG') Dó(f)mi(fg!hvGF'g)nus:(gf..) (:) non(h) sunt(g) frau(gf~)dá(gg)ti(d.) (,) a(d!ewffvED'd) de(c)si(d)dé(fg)ri(g)o(ghfgvFE) su(d!ew!fef)o.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "84"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "677",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

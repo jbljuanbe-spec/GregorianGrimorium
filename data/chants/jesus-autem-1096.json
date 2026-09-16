@@ -1,0 +1,31 @@
+{
+  "id": "jesus-autem-1096",
+  "incipit": "Jesus autem",
+  "title": "Jesus autem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Jesus autem eo quod máneat in aetérnum. sempitérnum habet * sacerdótium.",
+  "gabc": "(c2) AL(c)le(cfe)lú(fg~)ia.(g.) *(,) <i>ij.</i>(ffg/e!g'h//fhg__!hwi_g./e.d!ewf/gffc) (,) (fffd//fe/gffvD'Cd_eddc.) <sp>V/</sp>.(::) Je(cfe)sus(fg) au(ghF'Ef_g~)tem(g.) (;) e(g)o(i.g!hw!ivHG'_) quod(f) má(fg)ne(gffvE'DC)at(ddc.) (,) in(cd) ae(c.d!ewf'!gv)tér(ghF'Ef_g)num.(g.) (:) sem(cfe)pi(fg)tér(g!hwi/jiig!hwi_hivHG)num(h_g) (,) ha(g)bet(i.g!hwi_hivHGhg..) *(;) sa(g)cer(gd)dó(dfe)ti(fg)um.(g.) (,) (ffg/e!g'h//fhg__!hwig./e.d!ewf/gffc) (,) (fffd//fe/gffvD'Cd_eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[101]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1096",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

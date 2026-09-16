@@ -1,0 +1,31 @@
+{
+  "id": "emitte-spiritum-6932",
+  "incipit": "Emitte Spiritum",
+  "title": "Emitte Spiritum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Emítte Spíritum tuum, et creabúntur, et renovábis fáciem terræ: sit glória Dómini in sǽcula, allelúia.",
+  "gabc": "(c4) E(dcd)mít(df)te(fg) (::) Spí(fh/jh)ri(ixgh!ivHG)tum(hg) (;4) tu(fg/hgh/jjv)um,(j) (;) et(h) cre(iyfh/ji)a(jkj)bún(jjh//ihhg~)tur,(hg) (:) et(fg) re(gh/ji)no(j)vá(jkj;6hkj)bis(jkj) (;6) (kijHGh) (;) fá(gh/ji)ci(jkj)em(hj) ter(jjv//lvKJ/kvJI)ræ:(i) (:) sit(gjjkjk) gló(kkj)ri(i!jk)a(kljjh/iji) (;6) Dó(jkJH)mi(hgji)ni(j) (;) in(j) s<sp>'ae</sp>(jjv)cu(gh/jggfg)la,(gf) (:) al(hj)le(jjg/hvGFg;jjvIH//ijIH)lú(hg~)ia.(g//jhihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "246"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6932",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "videte-quoniam-3660",
+  "incipit": "Videte quoniam",
+  "title": "Videte quoniam",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Vidéte * quóniam non soli mihi laborávi, sed ómnibus exquiréntibus veritátem.",
+  "gabc": "(c4) VI(d)DÉ(fhg)TE(gh) *(,) quó(gh)ni(g)am(g) non(g) so(gh)li(g) mi(fgff)hi(d!ew!fvEC) (,) la(f!gh)bo(fg)rá(g!hwihi)vi,(hg) (:) sed(ji) ó(jk)mni(j)bus(ji/jkj) ex(j)qui(j)rén(kij)ti(hg)bus(gf/h!iwj) (,) ve(ij)ri(hg)tá(gffd//fh/jggf!gwhgh)tem.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[180]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3660",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

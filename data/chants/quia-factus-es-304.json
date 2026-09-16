@@ -1,0 +1,31 @@
+{
+  "id": "quia-factus-es-304",
+  "incipit": "Quia factus es",
+  "title": "Quia factus es",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Quia factus es suscéptor meus, et refúgium meum in die tribulatiónis * meae.",
+  "gabc": "(f3) AL(fg~)le(f)lú(fg!hiivHG'/hwi)ia.(i.h!iw!jvIH/if..) *(;) (fg!hjh/ig//ef!hvhg/ivH'GF.) <sp>V/</sp>.(::) Qui(fhg)a(hi) fa(i)ctus(kxii/jkI'HG'/hwihi) es(hg..) (,) su(gf)scép(hji)tor(h) me(gf/gh)us,(g.) (;) et(f) re(f)fú(hg)gi(hi)um(i) me(i_e//giH'GF'/gwh_f)um(f.) (:) in(f) di(fg)e(f) tri(f)bu(f)la(f!gwh!iv./ghg)ti(ef)ó(fge)nis(f.) *(,) me(fg!hiivHG'/hwi)ae.(i.h!iw!jvIH/if..) (;) (fg!hjh/ig//ef!hhg/ivH'GF.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "470"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "304",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

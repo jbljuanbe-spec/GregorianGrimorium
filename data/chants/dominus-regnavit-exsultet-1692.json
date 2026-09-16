@@ -1,0 +1,31 @@
+{
+  "id": "dominus-regnavit-exsultet-1692",
+  "incipit": "Dominus regnavit, exsultet",
+  "title": "Dominus regnavit, exsultet",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Dóminus regnávit, exsúltet terra: laeténtur ínsulae * multae.",
+  "gabc": "(c3)AL(d!ef)LE(fe/f!gwhg)LÚ(fhhh)IA.(hiHFfe) *(;) <i>ij.</i>(gh//efED//f!gwhhg ehf/gffe) <sp>V/</sp>.(::) Dó(hv//gih)mi(h)nus(h) re(hg)gná(gh!ivvHFhf/gh)vit,(g) (;) ex(gf)súl(hji)tet(hv//ghfgFE) ter(hvvGE//gxfgFD//egFEfe)ra:(e) (:) lae(e)tén(fehhhfhGE//fhFD//gxgvFE/f!hhh/ijHF//,//gigivHGhe//gxfe/ge//gvFEfd)tur(d) (;) ín(fd)su(ef)lae(f) *() mul(hg/hfh)tae.(ghFE) (,) (df!hvFE//df!gwhghvGF/g egf/gvED/efe) (,) (gxhhvFE/fgED/gyhhvFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "56"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1692",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

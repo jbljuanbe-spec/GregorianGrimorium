@@ -1,0 +1,31 @@
+{
+  "id": "tamquam-filiis-3681",
+  "incipit": "Tamquam filiis",
+  "title": "Tamquam filiis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Tamquam fíliis dico: dilatámini * et vos.",
+  "gabc": "(c4) AL(g)LE(gh)LÚ(g!iwj/kjji)IA.(g) *(,) (jv//ijHGhfg//hg/h!jjjvIHGhihhg) <sp>V/</sp>.(::) Tam(g!hwi/ji~)quam(i) fí(h!iwji)li(hg)is(hi) di(hg)co:(g//hg/h!jjjvIHGhihhg) (:) di(g)la(hi)tá(ih/kj)mi(hg)ni(g) *() et(hi) vos.(ihhg) (,) (jv//ijHG/hfg//hg/h!jjjvIHGhihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "482"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3681",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

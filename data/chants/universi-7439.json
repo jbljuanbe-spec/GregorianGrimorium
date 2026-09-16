@@ -1,0 +1,24 @@
+{
+  "id": "universi-7439",
+  "incipit": "Universi",
+  "title": "Universi",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": null,
+  "mode_variant": null,
+  "version": "Salmodia",
+  "text_latin": "Univérsi, qui te exspéctant, non confundéntur, Dómine. ℣. Vías túas, Dómine, notas fac míhi: et sémitas túas édoce me.",
+  "gabc": "(cb3) U(d)ni(e)vér(g)si,(g) qui(g) te(g) ex(g)spé(h')ctant,(g.) (:)\r\nnon(g) con(g)fun(g)dén(f)tur,(g) Dó(e')mi(d)ne.(d.) (::) \r\n<sp>V/</sp>. Ví(g)as(g) tú(g)as,(g) Dó(g)mi(g)ne,(g)\r\nno(g)tas(g) fac(g) mí(h')hi:(g.) (:) et(g) sé(g)mi(g)tas(g) tú(g)as(g)\r\n(,) é(f)do(g)ce(e') me.(d.) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7439",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

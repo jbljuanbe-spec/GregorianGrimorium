@@ -1,0 +1,31 @@
+{
+  "id": "diffusa-est-com-9166",
+  "incipit": "Diffusa est (Com.)",
+  "title": "Diffusa est (Com.)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": null,
+  "text_latin": "Diffúsa est * grátia in lábiis tuis : proptérea benedíxit te Deus in aetérnum.",
+  "gabc": "(c4) DIf(d)fú(ffg)sa(f) est(f.) *() grá(ghgh)ti(g)a(fgFD.) (,) in(d) lá(dgf/g_h)bi(f)is(f) tu(fg!hvGFg)is :(gf..) (:) prop(fg)té(gjj)re(hjggfg)a(gf..) (,) be(fg)ne(f)dí(fg)xit(f) te(f.) De(d!ew!fvE'DC'd)us(dc..) (;) in(ffe) ae(ixgh!jvHG'hw!ivHG)tér(fg!hvGF'g)num.(gf..) (::)",
+  "transcriber": "Dominique CROCHU",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "559"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "9166",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

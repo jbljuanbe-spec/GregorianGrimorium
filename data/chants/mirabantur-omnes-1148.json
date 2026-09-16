@@ -1,0 +1,31 @@
+{
+  "id": "mirabantur-omnes-1148",
+  "incipit": "Mirabantur omnes",
+  "title": "Mirabantur omnes",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Mirabántur omnes * de his quæ procedébant de ore Dei.",
+  "gabc": "(c3) MI(ef)ra(e.f!gwh)bán(hhhvGF)tur(h.f!gw!hvGF) o(ef/gfg)mnes(fe..) *(;) de(ehg___/hih/ij) his(i.) quæ(ef) pro(efED')ce(f)dé(hi)bant(hih.) (;) de(hi) o(ihhvGF)re(h.) De(fheed/e!f'g)i.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "73"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1148",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

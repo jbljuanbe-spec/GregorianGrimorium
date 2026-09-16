@@ -1,0 +1,31 @@
+{
+  "id": "gaudeamus-mariae-boni-consilii-624",
+  "incipit": "Gaudeamus... Mariae... Boni Consilii",
+  "title": "Gaudeamus... Mariae... Boni Consilii",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Gaudeámus * omnes in Dómino, diem festum celebrántes sub honóre beátae Maríae Vírginis, Boni Consílii Matris: de cujus solemnitáte gaudent Angeli, et colláudant Fílium Dei. T.P. Allelúia, allelúia. Ps. Eructávit cor meum verbum bonum: * dico ego ópera mea regi. Glória Patri E u o u a e",
+  "gabc": "(c4) GAu(c)de(d)á(ixdh!iv)mus(h.) *(,) o(hg~)mnes(hg) in(fg) Dó(gjh)mi(ixh.g!hwihi)no,(ih..) (;) di(h)em(fg~) fe(g)stum(gff) ce(dg)le(gff)brán(dg~)tes(gff) (,) sub(f) ho(g)nó(g./hjh)re(ghg.) be(f)á(g)tae(f) Ma(f)rí(h)ae(gjj) Vír(h)gi(hih__)nis,(h.) (;) Bo(fg)ni(g) Con(g)sí(h)li(g)i(f) Ma(fgf__)tris:(f.) (:) de(fg) cu(fg)jus(f) so(f)lem(g)ni(g)tá(g./hjh)te(ghg.) (,) gau(fg)dent(f) An(fg/hgh)ge(gvFE'fwgfg)li,(gf..) (;) et(f) col(g)láu(g./hjHG)dant(h_g) (,) Fí(fge)li(f)um(fg/hfgvFE) De(d!ewfef)i.(ed..) <i>T.P.</i>(::) Al(ixhi)le(h)lú(hgh)ia,(f_d) (,) al(fg)le(e!fg/hfgvFE)lú(d!ewfef)ia.(ed..) <i>Ps.</i>(::) E(f)ru(gh)ctá(h)vit(h) cor(h) me(h)um(h) ver(hj)bum(h) bo(hg)num:(gh..) *(:) di(gf)co(gh) e(h)go(h) ó(h)pe(h)ra(hjh) me(g')a(f) re(fff)gi.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(dc/df..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "27**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "624",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

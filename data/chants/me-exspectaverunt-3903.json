@@ -1,0 +1,31 @@
+{
+  "id": "me-exspectaverunt-3903",
+  "incipit": "Me exspectaverunt",
+  "title": "Me exspectaverunt",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Me exspectavérunt * peccatóres, ut pérderent me: testimónia tua, Dómine, intelléxi: omnis consummatiónis vidi finem: latum mandátum tuum nimis. T. P. Allelúia, allelúia. Ps. Beáti immaculáti in via: * qui ámbulant in lege Dómini. Glória Patri E u o u a e",
+  "gabc": "(f3) ME(hf/hhh) ex(h)spe(h)cta(h)vé(hih)runt(hhh) *() pec(hih)ca(f)tó(f!hhf)res,(f) (,) ut(fef) pér(hf!gw!hi)de(h)rent(hiHGh) me:(f) (:) te(f)sti(h)mó(hi)ni(i)a(i) tu(i)a,(i) Dó(ij)mi(ih)ne,(h) (,) in(h)tel(h)lé(gh!ijIGh)xi:(h) (;) o(fi)mnis(i) con(i)sum(ih~)ma(hjij)ti(h)ó(fhgh)nis(f) (,) vi(fhg)di(hi) fi(fgFE)nem:(e) (:) la(h)tum(gihh) man(ef)dá(hhi)tum(h) tu(hf)um(i) ni(hiHF)mis.(f) <i>T. P.</i>(::) Al(e!fh~)le(hg)lú(hih)ia,(hhhffe) (,) al(fh~)le(hghf)lú(fgf)ia.(f) <i>Ps.</i>(::) Be(e)á(fe)ti(eh) im(h)ma(h)cu(h)lá(hg)ti(hi) in(i) vi(hi)a:(h) *(:) qui(hf) ám(fh)bu(h)lant(h) in(h) le(i)ge(hf) Dó(h)mi(ge)ni.(fgf) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h) u(i) o(hf) u(h) a(ge) e(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[49]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3903",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

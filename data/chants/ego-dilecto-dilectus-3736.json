@@ -1,0 +1,31 @@
+{
+  "id": "ego-dilecto-dilectus-3736",
+  "incipit": "Ego dilecto... dilectus",
+  "title": "Ego dilecto... dilectus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ℣. Ego dilécto meo, et diléctus meus mihi, qui páscitur * inter lília.",
+  "gabc": "(c4) AL(d!ff)LE(ef!gvED/ffd)LÚ(ixf!gh/ig/he/fg~)IA(g) *(,) (d!ef!gvED/ffd) (,) (d!ef!gvED/hv//ghFED) (,) (eg//fgf/deddc) (,) (fff/ghGE/feed) <sp>V/</sp>.(::) E(dffeg/gvFE/fd)go(d) (,) di(d)lé(dh)cto(h) me(ixhv//fh!ivGF/hv//d!ef!hvGE/fd)o,(d) (;) et(d) di(d)lé(d!fff)ctus(ed/evDCdc) (,) me(fg!hvGF/FVED)us(dv//cd!evDCd) mi(d!ewfef)hi,(ed) (;) qui(dh) pá(h/jhhg/he/fg//dfED,dh/jhhg/he/fg//ixeg!ivHG/hvFD/fvED,hhggf//hjh)sci(hg)tur(h) *(;) in(d!ff)ter(ef!gvED/ffd) lí(ixf!gh/ig/he)li(fg)a.(g) (,) (d!ef!gvED/ffd) (,) (d!ef!gvED/hv//ghFED) (.) (eg//fgf/deddc) (,) (fff/ghGE/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[170]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3736",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

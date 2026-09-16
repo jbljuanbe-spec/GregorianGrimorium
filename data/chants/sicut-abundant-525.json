@@ -1,0 +1,31 @@
+{
+  "id": "sicut-abundant-525",
+  "incipit": "Sicut abundant",
+  "title": "Sicut abundant",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Sicut abúndant passiónes Christi in nobis, ita et per Christum abúndat consolátio * nostra.",
+  "gabc": "(c4) AL(gf~)le(d!ef/ghg__)lú(fg~)ia.(g.) *(;) <i>ij.</i>(ghg/fgf/deddc.  cd!ef!gv'//hihhg.) <sp>V/</sp>.(::) Si(cd)cut(e!fwg) a(g)bún(ghgjvIHG'Efg~)dant(g) pas(g)si(gvFD)ó(eddc)nes(c.) (,) Chri(cd)sti(ef/ghg__) in(fg~) no(g)bis,(g.) (:) i(gvFD)ta(e!fg) et(hg) per(fg) Chri(ghg__)stum(g.) (,) a(j)bún(jvIHjvIG'hg~)dat(g.) con(d)so(ef)lá(ghg)ti(fe)o(fg) *() no(g)stra.(g.) (,) (ghg/fgf/deddc.) (,) (d!ef!gv'//hihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "99**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "525",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

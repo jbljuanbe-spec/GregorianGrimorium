@@ -1,0 +1,31 @@
+{
+  "id": "exite-de-medio-1191",
+  "incipit": "Exite de medio",
+  "title": "Exite de medio",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Exíte de médio Babylónis: mundámini, qui fértis vasa * Dómini.",
+  "gabc": "(c4) AL(cd)le(ef!ghhg)lú(gi/jhivHG)ia.(g.) *(;) (gh/ijh.__jvIHG.fhfg./egFE'DC.) (,) (cd!ef!ghhvGF'Deddc.) <sp>V/</sp>.(::) Ex(cd)í(fe/fg)te(gvFEDfg!hvhg.) (,) de(g) mé(gh)di(hg)o(fvED') Ba(d)by(dgF'E)ló(cdc__)nis:(c.) (:) mun(g)dá(hg/jv.ijhhvGE)mi(fg)ni,(g.) (,) qui(cd) fér(ef!ghhg)tis(g) va(gi/jhivHG)sa(g.) *(;) Dó(gh/ijh.__jvIH'G)mi(fhfg)ni.(egFE'DC.) (,) (cd!ef!ghhvGF'Deddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "70**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1191",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

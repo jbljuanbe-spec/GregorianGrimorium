@@ -1,0 +1,31 @@
+{
+  "id": "posuisti-domine-com-6199",
+  "incipit": "Posuisti Domine (Com.)",
+  "title": "Posuisti Domine (Com.)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Posuísti, Dómine, in cápite ejus corónam de lápide pretióso, allelúia.",
+  "gabc": "(c4) Po(c)su(d)í(f)sti,(fe/ghf) (::) Dó(f)mi(fgf)ne,(f) (;) in(f) cá(ixfg!hi)pi(h)te(h) e(hj)jus(hg) co(hj)ró(ghGFg)nam(gf) (;) de(dfe) lá(fg)pi(d!efEDCd)de(dc) (;4) pre(ffv)ti(gf/hvGF)ó(fgf)so,(f) (;) al(d)le(f)lú(fhggf~)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "454"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6199",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

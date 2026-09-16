@@ -1,0 +1,31 @@
+{
+  "id": "suscitabo-5064",
+  "incipit": "Suscitabo",
+  "title": "Suscitabo",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Suscitábo mihi sacerdótem fidélem, qui juxta cor meum et ánimam meam fáciet: et ædificábo ei domum fidélem, et ambulábit coram Christo meo cunctis diébus. ℣. Meménto Dómine David, et omnis mansuetúdinis ejus. Glória E u o u a e",
+  "gabc": "(c4) Su(ffv)sci(dg)tá(hjHGj)bo(j) (::) mi(jijh)hi(ji//jvHGh) (;) sa(g)cer(hj)dó(jjv)tem(hg) fi(hi)dé(hghGF)lem,(f) (:) qui(f) jux(ef/gh)ta(g) cor(gh) me(hg)um(ixgih//iggf) (;) et(g) á(iygh/jij)ni(j)mam(h) me(gj)am(jijh) (;6) fá(h)ci(hf/ghgh)et:(hg) (:) et(gd) æ(g)di(hj)fi(j)cá(jjhk)bo(j) e(ikjjv)i(ji) (;) do(jjvHG)mum(hjij) fi(j)dé(jhjg)lem,(g) (:) et(g) am(g)bu(ih)lá(hji/jh)bit(h) (;) co(g)ram(fg) Chri(gfhg)sto(g) me(ghj)o(jjvHG) (;) cun(gf/hjh/jjv)ctis(hg) di(ge)é(fgFE)bus.(e) <sp>V/</sp>.(::) Me(g)mén(hj)to(j) Dó(jk)mi(j)ne(j) Da(ih)vid,(hj) (::) et(g) o(hj)mnis(j) man(j)su(j)e(j)tú(ji)di(hg)nis(h) e(i)jus.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e(h) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "89*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5064",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

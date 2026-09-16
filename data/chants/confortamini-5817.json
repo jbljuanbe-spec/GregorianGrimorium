@@ -1,0 +1,31 @@
+{
+  "id": "confortamini-5817",
+  "incipit": "Confortamini",
+  "title": "Confortamini",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Confortámini, et jam nolíte timére: ecce enim Deus noster retríbuet judícium: ipse véniet, et salvos nos fáciet.",
+  "gabc": "(c4) Con(cd)for(df)tá(e!fgFE)mi(fvED)ni,(fd/efe) (::) et(fe~) jam(dfe) no(f)lí(gffe//fg/ixhig)te(fh) (;4) ti(ghGE)mé(fgFE)re:(e) (:) ec(df!gh)ce(g) e(ixgiHG)nim(hg) (;) De(e!fg)us(hg) no(e!fgFE//fvED)ster(fd/efe) (;) re(d)trí(f)bu(fe)et(dfe) ju(fg)dí(g)ci(gf/ghgh)um:(hg) (:) i(f)pse(h) vé(hjh/ij)ni(g)et,(fgFEDf) (;) et(cd) sal(fgf)vos(f) nos(fg/hggf//ghg) fá(e)ci(egffv)et.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "22"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5817",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

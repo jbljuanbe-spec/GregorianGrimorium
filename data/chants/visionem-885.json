@@ -1,0 +1,37 @@
+{
+  "id": "visionem-885",
+  "incipit": "Visionem",
+  "title": "Visionem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Visiónem * quam vidístis, némini dixéritis, donec a mórtuis resúrgat Fílius hóminis.",
+  "gabc": "(c4) VI(d)si(e_f)ó(g')nem(e) *() quam(gh) vi(fe)dí(d)stis,(d_fddc.) (,) né(f')mi(h)ni(g') di(h)xé(gf)ri(g)tis,(f.) (;) do(fd)nec(f') a(g) mór(h')tu(g)is(f') re(e)súr(fg)gat(g.) (,) Fí(e_f)li(g)us(fe) hó(d)mi(cd)nis.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "573"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1587"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "885",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

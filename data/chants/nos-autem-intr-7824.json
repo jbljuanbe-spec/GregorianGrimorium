@@ -1,0 +1,36 @@
+{
+  "id": "nos-autem-intr-7824",
+  "incipit": "Nos Autem (Intr)",
+  "title": "Nos Autem (Intr)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Cistercian",
+  "text_latin": "Nos autem gloriári opórtet, in cruce Dómini nostri Jesu Christi: in quo est salus, vita, et resurréctio nostra: per quem salváti, et liberáti sumus. Deus misereátur nostri, et benedícat nobis: illúminet vultum suum super nos, et misereátur nostri. Nos autem.",
+  "gabc": "(c4) NOS(d/ff) au(ef!gvFDfe)tem(fff) <v>\\red{*}</v>(::) glo(fd)ri(f)á(e!fg)ri(gd) o(fh)pór(gv//fhg)tet,(ef) (;) in(d) cru(g)ce(g) Dó(ixhg/hi)mi(h)ni(h) nos(jj)tri(hhg) (,) Je(hhg)su(f) Chris(ixef!hig)ti:(g) (:) in(e) quo(g) est(h) sa(ixhi)lus,(h) (;) vi(jj)ta,(hhg) (;) et(gh) re(hhg)sur(f)réc(e!fg)ti(g)o(ixgiHG) nos(gf/gfg)tra:(d) (:) per(d!fff) quem(f) sal(fd~)vá(fh)ti,(g) (;) et(hg~) li(f)be(gf)rá(e!fg)ti(ixgiHG) su(gfhvGFgvFE)mus.(e) (::) <v>\\redit{Ps.}</v> De(hg)us(gh) mi(h)se(h)re(h)á(h)tur(h) nos(h)tri,(h) (;) et(h) be(h)ne(hg)dí(gi)cat(i) no(hi)bis:(h) <v>\\red{*}</v>(::) il(hg~)lú(gh)mi(h)net(h) vul(h)tum(h) su(h)um(h) su(h)per(h) nos,(h) (;) et(h) mi(h)se(h)re(h)á(gf)tur(gh) nos(g)tri.(e) (::) Nos(d/ff) au(ef!gvFD/fe)tem.(fff) (::)",
+  "transcriber": "Aelredus",
+  "commentary": null,
+  "liturgical_occurrences": [
+    {
+      "calendar": "Roman",
+      "celebration": "Introitus, Lent"
+    }
+  ],
+  "bibliography": [
+    {
+      "title": "Graduale Cisterciense",
+      "editor": "Westmalle",
+      "year": 1934,
+      "page": "179"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7824",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

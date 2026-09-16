@@ -1,0 +1,37 @@
+{
+  "id": "majorem-caritatem-401",
+  "incipit": "Majorem caritatem",
+  "title": "Majorem caritatem",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Majórem * caritátem nemo habet, ut ánimam suam ponat quis pro amícis suis.",
+  "gabc": "(f3) MA(c)jó(egf)rem(f.) *(,) ca(f)ri(ef)tá(f!hhh_f/hjIH'ihh'hhvF'Ef!gwhf)tem(f.) (;) ne(fhf__!gwh)mo(ef) ha(f!gwh/ih)bet,(fhfh.) (:) ut(ef) á(hi)ni(i)mam(ij) su(h)am(kxhj/kjji.) (,) po(kxh.i!jwk_j)nat(ijiih) quis(h!iwji/hh/fgf.) (;) pro(h_g) a(gihh)mí(iv.hjIH'hf/hih)cis(hv.hhh) (,) su(f)is.(f!hhh_f/hhh/fgf.__) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "654"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1752"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "401",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

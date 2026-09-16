@@ -1,0 +1,31 @@
+{
+  "id": "intellige-clamorem-6106",
+  "incipit": "Intellige clamorem",
+  "title": "Intellige clamorem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Intellige clamórem meum: inténde voci oratiónis meæ, rex meus et Deus meus: quóniam ad te orábo, Dómine.",
+  "gabc": "(c3) In(df)tel(hhi)li(h)ge(h) (::) cla(h)mó(hi)rem(h) me(hggfg)um:(gf) (:) in(f)tén(ef)de(d) vo(hgh)ci(f) (;4) o(f)ra(d)ti(f)ó(fhGE)nis(fef) me(d!ef)æ,(f) (:) rex(h) me(hvGF)us(f) (;) et(f) De(hg)us(ef) me(fhFE//fvEDe)us:(ed) (:) quó(d)ni(d)am(de) ad(d) te(d) o(ef)rá(f)bo,(ef/hg//hih) (;) Dó(gxf!ghGFE//fgFE)mi(d!efEDe)ne.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "97"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6106",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

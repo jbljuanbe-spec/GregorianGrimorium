@@ -1,0 +1,31 @@
+{
+  "id": "regnavit-dominus-1513",
+  "incipit": "Regnavit Dominus",
+  "title": "Regnavit Dominus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ij. ℣. Regnávit Dóminus super omnes gentes: Deus sedet super sedem * sanctam suam.",
+  "gabc": "(c4) AL(de)LE(dc)LÚ(e!gh~)IA(hvGFD) *(,) <i>ij.</i>(fvEC/eg//hvGF/ge//fvEC/eed) <sp>V/</sp>.(::) Re(dc/ed/fg~)gná(ed)vit(fe) Dó(dc)mi(efd)nus(d) (,) su(hhg)per(evDC) om(de~)nes(e) gen(c!ef~)tes:(d) (:) De(hg/h!iw!jvIH)us(ge) se(fg)det(ed) (,) su(f)per(ghg~) se(hvED/fv//ced)dem(d) *(,) sanc(de)tam(dc~) su(e!gh)am.(hvGFD) (,) (fvEC/eg//hvGF/ge//fvEC/eed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "245"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1513",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "video-caelos-7087",
+  "incipit": "Video caelos",
+  "title": "Video caelos",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Vídeo cælos apértos, et Jesum stantem a dextris virtútis Dei: Dómine Jesu, áccipe spíritum meum, et ne státuas illis hoc peccátum.",
+  "gabc": "(c3) Ví(d!ef)de(e)o(e) (::) cæ(f)los(efe) a(d)pér(fe~)tos,(e) (;) et(hg) Je(hi)sum(i) stan(ig~)tem(ih) (;) a(h) dex(i)tris(hg) vir(f)tú(g!hi)tis(h) De(hfhe)i:(e) (:) Dó(ei)mi(iji)ne(hiHG) Je(f)su,(gh) (;) ác(i)ci(h)pe(hg) spí(g)ri(gf)tum(g) me(gffef)um,(fe) (:) et(e) ne(ec) stá(ef)tu(e)as(d) il(ed~)lis(c) (;1) hoc(de) pec(e)cá(efe)tum.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "387"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7087",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

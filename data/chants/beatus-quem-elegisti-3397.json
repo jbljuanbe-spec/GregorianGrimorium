@@ -1,0 +1,31 @@
+{
+  "id": "beatus-quem-elegisti-3397",
+  "incipit": "Beatus quem elegisti",
+  "title": "Beatus quem elegisti",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Beátus quem elegísti, et assumpsísti: inhabitábit in átriis * tuis",
+  "gabc": "(c4) AL(ce)LE(ed)LÚ(d/ghg)IA.(ggh) *(,) <i>ij.</i>(gjIHGgv//efEDC) (;) (efd/ee//ce!gvFED) (,) (ghf/gvvFD/ced) (,) (fff/gvFDe) <sp>V/</sp>.(::) Be(cg)á(gvFE)tus(ed) (,) quem(ef) e(ed)le(ce)gí(ggf//ghGEDff//egFDCe)sti,(e) (;) et(g) as(hg)sum(g/jjj)psí(iv//hjIGhv//gh!iwjg)sti:(g) (:) in(gh)ha(hg)bi(fh)tá(gvFDev//ced/efd)bit(d) (;) in(c) á(ce)tri(ed)is(d) *() tu(d/ghg)is(ggh) (,) (gjIHGgv//efEDC) (;) (efd/ee//ce!gvFED) (,) (ghfgvvFD/ced) (,) (fff/gvFDe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "460"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3397",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

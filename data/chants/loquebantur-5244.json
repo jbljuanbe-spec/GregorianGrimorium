@@ -1,0 +1,31 @@
+{
+  "id": "loquebantur-5244",
+  "incipit": "Loquebantur",
+  "title": "Loquebantur",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Loquebántur váriis linguis Apóstoli magnália Dei.",
+  "gabc": "(c4) Al(dc~)le(df//efd//evDC/dc)lú(fg/ixhi)ia.(h) (::) (gj//hih) (;) (fg/hiHG) (;4) (ef/ghGF) (;4) (dfddc) (;) (cd/ffv//ghhf//hghFED) (;) (fgf//gvFED//ffd) <sp>V/</sp>.(::) Lo(cd/fgFE)que(d)bán(df//fvED//eddc~)tur(dc) (;) vá(ixfg/hi)ri(h)is(h//gj//hih) (;) (ixfg/hiHG) (;4) (ef/ghGF) (;4) (dfddc) (;) lin(c!dffv//gh)guis(gf) (;) A(f)pó(ghgh//jjh;6hggf/gh//jjgh;fg/hgh)sto(f//egFE//fvED//efef)li(ed) (;) ma(dc~)gná(df//efd/ed)li(cd)a(d) (::) De(fhghFED;fgfgFEC//edffd)i.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "255"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5244",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

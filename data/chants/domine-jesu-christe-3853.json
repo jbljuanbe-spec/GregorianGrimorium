@@ -1,0 +1,31 @@
+{
+  "id": "domine-jesu-christe-3853",
+  "incipit": "Domine Jesu Christe",
+  "title": "Domine Jesu Christe",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Domine Jesu Christe, * Rex glóriae, libéra ánimas ómnium fidélium defunctórum de poenis inférni, et de profúndo lacu: líbera eas de ore leónis, ne absórbeat eas tártarus, ne cadant in obscúrum: sed sígnifer sanctus Míchael repraeséntet eas in lucem sanctam: * Quam olim Abrahae promisísti, et sémini ejus. ℣. hóstias et preces tibi Dómine laudis offérimus: tu súscipe pro animábus illis, quarum hódie memóriam fácimus: fac eas, Dómine, de morte transíre ad vitam. * Quam olim.",
+  "gabc": "(f3) DO(f)MI(ef)NE(f) Je(f)su(fe) Chri(f)ste,(fhffe) *(,) Rex(hv//g!hi) gló(gfh//ghf/gf)ri(ef)ae,(fhffe) (;) li(g)bé(ef)ra(f) á(fg)ni(f)mas(f) (,) ó(fg~)mni(f)um(f) fi(g)dé(gfh)li(fge)um(e) de(e!fh)func(gh)tó(fgf)rum(f) (;) de(f) poe(ef)nis(f) in(f)fér(f!gwhf)ni,(f) (,) et(g) de(e) pro(f)fún(h)do(g) la(fgf)cu:(f) (:) lí(g)be(e)ra(f) e(h)as(hg) de(f) o(g)re(f) le(i)ó(ivvHFE)nis,(f!gwhg) (;) ne(e) ab(f)sór(h)be(g)at(f) e(g)as(f) tár(ghf)ta(ef)rus,(f) (;) ne(f) ca(f)dant(ec~) in(e) ob(fg)scú(gf!gwhf)rum:(f) (:) sed(fg!hwi) sí(hg~)gni(fg)fer(g) sanc(gf~)tus(f!gwhg) Mí(fgf)cha(ef)el(f) (;) re(f)prae(f)sén(hg~)tet(hi) e(ivvHFE)as(fg) (,) in(eg~) lu(gf!gwh)cem(gf~) san(eg/hf~)ctam:(f) *(:) Quam(f) o(f)lim(ec~) A(e)bra(fg)hae(gf) pro(h)mi(hg)sí(fg)sti,(ffe) (;) et(hi) sé(gf//hiHFfe fhg/hig,fhg)mi(fge)ni(ec) e(e!fwg/hf~)jus.(f) <sp>V/</sp>.(::) hó(e)sti(fh)as(hhg) et(fe~) pre(fh)ces(hhg) (,) ti(e)bi(fh) Dó(h)mi(fgFE)ne(e) (,) lau(gf~)dis(gh) of(gf)fé(e)ri(ef)mus:(f) (:) tu(fg!hwi) sú(hg)sci(fg)pe(g) (,) pro(f) a(f)ni(e)má(fh)bus(ghg) il(f)lis,(f) (;) qua(ih)rum(iji) hó(h)di(gh)e(f) (,) me(f)mó(fe)ri(f)am(hg) fá(fg)ci(fe)mus:(e) (:) fac(fg) e(e)as,(ec) Dó(e)mi(ef)ne,(f) (,) de(h) mor(gff)te(e) tran(g!hi~)sí(iih)re(gf) ad(ghg) vi(f)tam.(f) *(::) Quam(f) o(f)lim.(ec~) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "86*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3853",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

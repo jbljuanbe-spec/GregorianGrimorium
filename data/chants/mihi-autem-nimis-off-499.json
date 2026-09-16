@@ -1,0 +1,37 @@
+{
+  "id": "mihi-autem-nimis-off-499",
+  "incipit": "Mihi autem nimis (Off.)",
+  "title": "Mihi autem nimis (Off.)",
+  "cantus_id": "g00009",
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Mihi * autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.",
+  "gabc": "(c4) MI(e!f'g)hi(ixhig'/hvF'E) *(,) au(ff/h)tem(h/jjj) ni(g/jjh/jvGF)mis(f_e/g_f/gffe.) (;) ho(dg)no(gih)rá(h!iwj!kvJH)ti(h_g) sunt(giH'Gh.) (;) a(ef)mí(d/fgf)ci(e) tu(fgF'E//ixfg/hihhg)i,(g./fg!hvhg.) (,) De(g_f/hvGF/gvFE)us:(fff/ded.___) (:) ni(df)mis(fff//fv.fff) (,) con(df/gef~)for(e)tá(ff/h)tus(h/jjj) est(g/jjjvH'Ghv.ixfh/ig/ff/ded.) (;) prin(df/gef~)ci(e)pá(ff/h_g/hvGF)tus(g.) (,) e(g/jjjh)ó(hv./giH'G)rum.(gvFE/f_e//g_f/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "394"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1306"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "499",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

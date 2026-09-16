@@ -1,0 +1,31 @@
+{
+  "id": "initio-cognovi-434",
+  "incipit": "Initio cognovi",
+  "title": "Initio cognovi",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Inítio cognóvi de testimóniis tuis, quia in aetérnum * fundásti ea.",
+  "gabc": "(f3) AL(fg)le(fe)lú(fg)ia.(f.) *(;) <i>ij.</i>(fg!hiivHGF.ghfgvFEffc//fgF'Ef.) (;) (fg!hi!jvIH'GFgvFEffc/b.c!dwe/f_e) (,) (f!gwh/ihhvGF//ef/ggf.) <sp>V/</sp>.(::) In(fe)í(fg)ti(fe)o(f//gh!ivHGF.) co(ghf/gf)gnó(ef)vi(f_c) (,) de(c) te(b.c!dwe)sti(evDC)mó(ef)ni(f)is(fgf) tu(ef)is,(f.) (:) qui(c)a(ef) in(e) ae(fg)tér(ghGFgvFEf.,fg!hiivHGF'gffe~)num(e_f) *(,) fun(fe~)dá(fg)sti(fe) e(ef)a.(f.) (;) (fg!hiivHGF.ghfgvFEffc//fgF'Ef.) (;) (fg!hi!jvIH'GFgvFEffc/b.c!dwe/f_e) (,) (f!gwh/ihhvGF//ef/ggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "108**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "434",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

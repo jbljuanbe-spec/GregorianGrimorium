@@ -1,0 +1,31 @@
+{
+  "id": "sapientiam-sanctorum-intr-11",
+  "incipit": "Sapientiam sanctorum (Intr.)",
+  "title": "Sapientiam sanctorum (Intr.)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Sapiéntiam * sanctórum narrent pópuli, et laudes eórum núntiet ecclésia: nómina autem eórum vivent in saéculum sǽculi. Ps. Exsultáte justi in Dómino: rectos decet collaudátio. Glória Patri E u o u a e",
+  "gabc": "(c4) SA(h)pi(h)én(h)ti(gf)am(f) *() sanc(gfg)tó(ixhgih)rum(h.) (,) nar(g_f)rent(hfh) pó(h)pu(h!iwj_h)li,(h.) (:) et(h) lau(jk~)des(k) e(kj)ó(kljjhi)rum(i_h) (,) nún(j)ti(jk)et(ki) ec(j)clé(i)si(hjI'H)a:(h.) (:) nó(h)mi(g)na(ghg) au(h)tem(f) e(hfh)ó(jh/jjjk)rum(j.) (,) vi(h!jjh)vent(h) in(hg/hfg) saé(d)cu(ff)lum(gvF'Ef') sǽ(d)cu(ded__)li.(d.) <i>Ps.</i>(::) Ex(f)sul(gh)tá(h)te(h) ju(hj)sti(h) in(h) Dó(h)mi(hg)no:(gh..) (:) re(gf)ctos(gh) de(h)cet(h) col(hjh)lau(g')dá(f)ti(fg)o.(h.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fg) e(h.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[25]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "11",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

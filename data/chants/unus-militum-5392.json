@@ -1,0 +1,31 @@
+{
+  "id": "unus-militum-5392",
+  "incipit": "Unus militum",
+  "title": "Unus militum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua.",
+  "gabc": "(c3) U(i)nus(ig) mí(ij)li(i)tum(g) (::) lán(h)ce(fe)a(f!gh) la(g)tus(h) e(ij)jus(i) a(ij)pé(hf)ru(h)it,(g) (;) et(i) con(h)tí(ij)nu(ih)o(h) e(hf)xí(hi)vit(i) (;3) san(iji)guis(g) et(h) a(fe/f!ghGFg)qua.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "284"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5392",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "confessio-4708",
+  "incipit": "Confessio",
+  "title": "Confessio",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Conféssio, et pulchritúdo in conspéctu ejus: sánctitas, et magnificéntia in sanctificatióne ejus.",
+  "gabc": "(c4) Con(f)fés(f)si(ixg!hih)o,(hg) (::) et(gf~) pul(hjjh)chri(giHG)tú(f)do(e//gfgffe) (;) in(df/gf) con(f)spé(f/hghg)ctu(dgFE) (;4) e(ffv//ghGD//ffv/ghgh)jus:(h) (:) sán(hf~)cti(g)tas,(ixgiHG/hffe) (;) et(fg) ma(f)gni(fg)fi(hvGF)cén(ixgiHGh)ti(ef/gfg)a(fgFED) (;) in(ef) san(ed~)cti(ef)fi(ed)ca(ef)ti(e)ó(d;4hiHG//hvGE)ne(ghghg//ffd//fd//ffv) (;) e(ghgh)jus.(hvGFE/fe) (;4) (gfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "545"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4708",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

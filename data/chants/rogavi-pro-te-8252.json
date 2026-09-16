@@ -1,0 +1,31 @@
+{
+  "id": "rogavi-pro-te-8252",
+  "incipit": "Rogavi pro te",
+  "title": "Rogavi pro te",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Rogávi pro te, Petre, ut non defíciat fides tua: et tu aliquándo convérsus, confírma * fratres tuos.",
+  "gabc": "(c4) Al(cd~)le(de/ge/feed)lú(eg//fhg/efd/c!ee)ia.(d.) *(;) <i>ij.</i> (ixhh/gih/ghg/gvF'ED.,cd/ede//g_hf/e!fg.,hvGF'E/dfED./c/efd.) (::) <sp>V/</sp>. Ro(dh)gá(ixh_g/hi'HG'h)vi(f_e) pro(ef) te,(gvFE) Pe(de)tre,(e.) (;) ut(eg!hv_GF) non(edd) de(c)fí(ef/gf)ci(ed)at(cd) (,) fi(d)des(cd) tu(de/ed)a:(d.) (:) et(cd) tu(d) a(ef)li(gh)quán(egFE'/ed~)do(d.) (,) con(h/hg/hvGF'/gvF'ED./ef!gh)vér(egFE'ed~)sus,(d.) (;) con(dede)fír(ixce!gh/igh./egF'ED.,ixce!gh/igh./egF'ED'/dc/ef)ma(ed..) *(;) fra(cd)tres(de/ge/fe/ed) tu(eg//fhg/efd/c!ee)os.(d.;ixhh/gih/ghg/gvF'ED.,cd/ede//g_hf/e!fg.,hvGF'E/dfED./c/efd.) (::)",
+  "transcriber": "Benjamin Bloomfield",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1543"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8252",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

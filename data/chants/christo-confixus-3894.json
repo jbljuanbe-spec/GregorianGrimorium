@@ -1,0 +1,31 @@
+{
+  "id": "christo-confixus-3894",
+  "incipit": "Christo confixus",
+  "title": "Christo confixus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Christo confíxus sum cruci: vivo ego, jam non ego, vivit vero in me * Christus.",
+  "gabc": "(c4) AL(cd~)LE(d!ewf!gvFED//fvEDC)LÚ(f!gh~)IA.(h) *(,) <i>ij.</i>(ixivHG/hvGF/ghhvGF/gd/evDC) (,) (fg!hvGFE/fvED/eed) <sp>V/</sp>.(::) Chri(cd)sto(d!ewf!gvFED//fvEDC) (,) con(f)fí(ixfg!hvGF/ghg/hi)xus(h) sum(gf) cru(gh)ci:(h) (:) vi(fe)vo(d) e(d!ewfef)go,(ed) (;) jam(hvGF/gd/evDC) non(fg!hvGFED) e(cd)go,(d) (:) vi(f!gh)vit(hj) ve(jvIHG/hhvGF/gvFD)ro(ed) (;) in(cd~) me(d!ewf!gvFED//fvEDC) *() Chris(f!gh)tus.(h) (,) (ixivHG/hvGF/ghhvGF/gd/evDC) (,) (fg!hvGFE/fvED/eed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "372"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3894",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

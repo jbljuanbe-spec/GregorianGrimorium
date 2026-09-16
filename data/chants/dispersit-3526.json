@@ -1,0 +1,31 @@
+{
+  "id": "dispersit-3526",
+  "incipit": "Dispersit",
+  "title": "Dispersit",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dispérsit, * dedit paupéribus: justítia ejus manet in saéculum saéculi: ℣. Potens in terra erit semen ejus: generátio rectórum * benedicétur",
+  "gabc": "(c3) DIS(c)PÉR(ef~)SIT,(f) *(,) de(hfg/hvFEge/fg)dit(f) (,) pau(f)pé(hf/h!ij)ri(hvGF)bus:(gxfe/gvFE) (:) ju(e)stí(ed/fef)ti(f)a(f) e(fd/ef!hvvFE//f!hhivHF)jus(f) (;) ma(fe/hji)net(ihhf) (,) in(f) saé(hf!gwh/if/ij)cu(h)lum(fh//ghFEf) (,) saé(d!ef/hvGFgef)cu(hf/hi)li:(ih/ijIH) (,) (jh/jkIGhvFE//f!gwh!iv//h!ij) (,) (ijijHFgwhf) <sp>V/</sp>.(::) Po(f)tens(h) in(ij~) ter(jvIHGhvFE,ge/f!hh/ijij,hj!kvIGhvFE//fgFEf,i!jwkjkvJIj)ra(ji) (:) e(i!jw!kvJIjw!kvJI)rit(i) se(i)men(ij) e(jh/jvIHhf//hhfhv//hhhf , hi!jvIHjvIHif)jus:(f) (:) ge(hh)ne(h)rá(h)ti(h)o(h) rec(hi)tó(ivHGE//fhGEfh , gi!jvHF)rum(fhFEfhhf//hvvGFheed) *(:) be(d!ef/hvGFg)ne(e)di(f)cé(hf/hi)tur(ijHGhi) (,) (e!fhhjIHGFgwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "511"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3526",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

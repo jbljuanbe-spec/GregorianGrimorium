@@ -1,0 +1,31 @@
+{
+  "id": "servite-domino-5572",
+  "incipit": "Servite Domino",
+  "title": "Servite Domino",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Servíte Dómino in timóre, et exsultáte ei cum tremóre: apprehéndite disciplínam, ne pereátis de via justa.",
+  "gabc": "(c3) Ser(df)ví(h)te(hg) (::) Dó(h)mi(f)no(fd) in(f) ti(f)mó(feede)re,(de) (:) et(d) ex(e)sul(f)tá(fh)te(e) e(fheede)i(ed) (;) cum(d!fhhv) tre(ihhvGFE)mó(fe/fg)re:(f) (:) ap(f)pre(h)hén(hi)di(i)te(i) di(h)sci(g)plí(h)nam,(fhe) (;) ne(f) pe(hg)re(hg)á(f)tis(e) (;4) de(d) vi(ef)a(efe) ju(d!efEDe)sta.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "77"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5572",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

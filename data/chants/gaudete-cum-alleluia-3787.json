@@ -1,0 +1,31 @@
+{
+  "id": "gaudete-cum-alleluia-3787",
+  "incipit": "Gaudete cum alleluia",
+  "title": "Gaudete cum alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Gaudéte * justi in Dómino, allelúia: rectos decet collaudátio, allelúia.",
+  "gabc": "(c4) GAU(dc~)DÉ(cd!fvED)TE(d!ewf) *() ju(ixdh!ivGFhg/hi)sti(h) (,) in(fh) Dó(hf/hhg)mi(gffgf)no,(f) (;) al(fg)le(gffd)lú(d!ewfd~)ia:(d) (:) re(gd/ghg!jvIHig)ctos(g) de(fgFEfwgfg)cet(gf) (,) col(fg)lau(fvED)dá(d)ti(d!ew!fvED)o,(d!ewf) (;) al(d!fh~)le(hg/hf/ge//fgfgvFC d!ewf/ge/fe)lú(de!fvEDe)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[19]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3787",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

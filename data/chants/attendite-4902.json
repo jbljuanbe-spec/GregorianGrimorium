@@ -1,0 +1,31 @@
+{
+  "id": "attendite-4902",
+  "incipit": "Attendite",
+  "title": "Attendite",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Atténdite pópule meus in legem meam.",
+  "gabc": "(c2) Al(d!efe~)le(d//efEDC;1ddc)lú(f//gh//ivGF//gih~)ia.(h) (::) (iji//jvIH) (;) (h!iji//jvIGF//gig//hih) (;) (h!iji/hig//hiFD) (;) (fg/iggf//ghggf) <sp>V/</sp>.(::) At(d)tén(fddc//fg)di(fhg/hi)te(h) (;) pó(hj!kvJI//jvIH//iig//hvGF;3giij)pu(h//jiiv)le(ih) (;) me(fg/igh;3ijh//iggf;hjh//jkJH;6ivGF//gig//hi)us(h) (::) in(d) le(dffv)gem(fg) me(ghGF//gi)am.(h) (;) (fg/iggf//ghggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "301"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4902",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

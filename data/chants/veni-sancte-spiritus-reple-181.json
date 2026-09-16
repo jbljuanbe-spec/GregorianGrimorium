@@ -1,0 +1,43 @@
+{
+  "id": "veni-sancte-spiritus-reple-181",
+  "incipit": "Veni Sancte Spiritus reple",
+  "title": "Veni Sancte Spiritus reple",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Hic genuflectitur.Veni Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem * accénde.",
+  "gabc": "(f3) AL(ef~)le(fg/hggf)lú(ef~)ia.(f.) *(,) (ii//gh!ivHG//fhg//eef.) (;) (kx/jj//ikJI'/ivHF.//giHG'E/ggf.) <sp>V/</sp>.(::) <alt>Hic genuflectitur.</alt>Ve(e!fwg/hggf/e_f)ni(f.) (,) San(f)cte(g!hwi) Spí(iv./hig/hfg)ri(gef)tus,(f.) (;) re(h)ple(gvFE'f/ggf.) (,) tu(f)ó(hg)rum(hi) cor(i_)da(ghfg) fi(g)dé(gf)li(ef)um:(f.) (:) et(g) tu(i)i(ij) a(j)mó(kx/kvJI'/ivHF./ghGF'/ef. , kxeg//i_j!kvJI'/ivHF.//ghGF'/ef./e!fwg'!hv//)ris(g.) (;) in(gef) e(gf)is(f.) i(ef~)gnem(f) *() ac(fg/hggf)cén(ef~)de.(f.) (,) (ii//gh!ivHG//fhg//eef.) (;) (kx/jj//ikJI'/ivHF./giHG'E/ggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[92]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "293"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "880"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "181",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

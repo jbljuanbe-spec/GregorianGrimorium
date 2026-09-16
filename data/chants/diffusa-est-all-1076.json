@@ -1,0 +1,37 @@
+{
+  "id": "diffusa-est-all-1076",
+  "incipit": "Diffusa est (All.)",
+  "title": "Diffusa est (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Diffúsa est grátia in lábiis túis: proptérea benedíxit te Deus * in aetérnum.",
+  "gabc": "(c3) AL(d!ef)le(f_e/f!gwhg)lú(fhh'h)ia.(hiHF'fe.) *(;) <i>ij.</i>(gh//efED./f!gwhhg ehf/gffe.) <sp>V/</sp>.(::) Dif(h)fú(hv.gih)sa(hg) est(g) grá(gh!ivvHF/hfg)ti(hg)a(g.) (;) in(gf~) lá(hji)bi(h)is(ghf'/gvF'E) tú(hhvGE.gxfgFD./egF'E/fe)is:(e.) (:) prop(e)té(feh)re(h)a(h.) be(h)ne(h)díx(h)it(h) te(h) (,) De(hfh'GE//fhF'DgxgvFE/f./hhh/ijHF. , gig___/ivHG'/he./gxf_e/g_e//gvFE/fd)us(d.) *(;) in(fde) ae(ef)tér(hg/hfh)num.(ghFE.) (,) (df!hvF'E//d.f!gw!hg/hvGFg.//egf'/gvE'Defe.) (,) (gxhhvF'E/fgED./gyhhvF'E/f_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "405"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1323"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1076",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

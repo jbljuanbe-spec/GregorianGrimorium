@@ -1,0 +1,31 @@
+{
+  "id": "videns-dominus-7057",
+  "incipit": "Videns Dominus",
+  "title": "Videns Dominus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Videns Dóminus flentes soróres Lázari ad monuméntum, lacrimátus est coram Judǽis, et exclamávit: Lázare, veni foras. Et pródiit ligátis mánibus et pédibus, qui fúerat quatriduánus mótuus.",
+  "gabc": "(c4) Vi(f)dens(f) Dó(f)mi(f)nus(f) (::) flen(f)tes(e) so(d)ró(e)res(f) Lá(g)za(g)ri(g) ad(g) mo(g)nu(e)mén(fe~)tum,(d) (:) la(f)cri(f)má(fh)tus(h) est(h) co(h)ram(g) Ju(f)d<sp>'ae</sp>(g)is,(d) (;) et(d) ex(g)cla(f)má(e)vit:(e) (:) Lá(h)za(gf/gh)re,(g) ve(h)ni(j) fo(h)ras.(h) (:) Et(f) pró(ixgi)di(ivHG)it(g) (;) li(g)gá(g)tis(e) má(gh)ni(f)bus(d) et(f) pé(fg)di(fe)bus,(c) (;) qui(f) fú(g)e(fe)rat(f) qua(f)tri(e)du(f)á(ge)nus(f) (;4) mó(ded)tu(cd!fvEDe)us.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "131"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7057",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

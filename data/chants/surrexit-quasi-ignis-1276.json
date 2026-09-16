@@ -1,0 +1,31 @@
+{
+  "id": "surrexit-quasi-ignis-1276",
+  "incipit": "Surrexit quasi ignis",
+  "title": "Surrexit quasi ignis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Surréxit quasi ignis: et verbum ipsíus quasi fácula * ardébat.",
+  "gabc": "(c4) AL(c)le(ce!gvvE'DefE'DC)lú(ce/ggh)ia.(ggvE'DefE'DC.) *(;) <i>ij.</i>(ghgjvIH'hg./ij!kvvJI'HGhig.) (,) (ij!kvvJI'HGhigge/fg..) <sp>V/</sp>.(::) Sur(c)ré(cdcfvED'ec)xit(c.) (,) qua(feg)si(gvFE'DC) i(ce/ggh)gnis:(g.) (:) et(g) ver(ghg)bum(gd) i(g)psí(ghgjvIH'hg)us(g.) (;) qua(ed/ef)si(e) fá(eggvFE'DCde)cu(dc)la(c.) *(;) ar(ce!gvvE'DefE'DC)dé(ce/ggh)bat.(ggvE'DefE'DC.) (;) (ghgjvIH'hg./ij!kvvJI'HGhig.) (,) (ij!kvvJI'HGhigge/fg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "73**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1276",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

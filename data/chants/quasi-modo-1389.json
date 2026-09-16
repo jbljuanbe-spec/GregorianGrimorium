@@ -1,0 +1,31 @@
+{
+  "id": "quasi-modo-1389",
+  "incipit": "Quasi modo",
+  "title": "Quasi modo",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Quasi modo * géniti infántes, allelúia: rationábiles, sine dolo lac concupíscite, allelúia, allelúia, allelúia. Ps. Exsultáte Deo adjutóri nostro: * jubiláte Deo Jacob. Glória Patri. E u o u a e.",
+  "gabc": "(c4) QUA(c)SI(d) mo(d)do(d) *() gé(d!fffg)ni(f)ti(f) in(f)fán(f)tes,(c) (,) al(f)le(gef)lú(fhGF)ia:(f) (:) ra(fd)ti(f)o(g)ná(ixgih)bi(gf)les,(f) (,) si(f)ne(e!fg) do(gf)lo(fgff/ded) (,) lac(d!fg) con(gh~)cu(f)pí(fgf)sci(d)te,(dcd) (;) al(c)le(ff)lú(fhGF)ia,(f) (,) al(df~)le(fe)lú(fgf)ia,(fffddc) (,) al(d)le(ff)lú(fhGF)ia.(f) <i>Ps.</i>(::) Ex(fg)sul(gf)tá(gh)te(h) De(h)o(h) ad(h)ju(g)tó(ixi)ri(h) nos(g)tro:(f) *(:) ju(f)bi(f)lá(f)te(g) De(fd)o(f) Ja(g)cob.(f) (::) Gló(fg)ri(gf)a(gh) Pa(h)tri.(h) (::) E(f) u(g) o(fd) u(f) a(g) e.(f/ghg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "221"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1389",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

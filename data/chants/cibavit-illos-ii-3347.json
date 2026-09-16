@@ -1,0 +1,31 @@
+{
+  "id": "cibavit-illos-ii-3347",
+  "incipit": "Cibavit illos. II",
+  "title": "Cibavit illos. II",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Cibávit íllos ex ádipe fruménti, * Allelúia, allelúia. Cibávit. ℣. Et de pétra, mélle saturávit éos. * Allelúia. ℣. Glória Pátri, et Fílio, et Spirítui Sáncto. Cibávit.",
+  "gabc": "(c4) CI(f)bá(f)vit(f) íl(g)los(f'_) (,) ex(f) á(f)di(f)pe(f) fru(e')mén(g)ti,(h.) * (;)  Al(h)le(h_g)lú(g)ia,(f_) al(d)le(vf_g)lú(gf~)ia.(f.) (::) Ci(f)bá(f)vit.(f) (::)\r\n<sp>V/</sp>. Et(f) de(f) pé(g)tra,(f'_) (,) mél(f)le(f) sa(f)tu(f)rá(f)vit(e') é(g)os.(h.) *(::) Al(h)le(h_g)lú(g)ia.(f_') (::) <sp>V/</sp>. Gló(f)ri(f)a(e') Pá(g)tri,(h'_) et(h) Fí(ixhi)li(h)o,(h_') (,) et(h) Spi(h)rí(h')tu(g)i(h) Sá(gf~)ncto.(f.) (::) Ci(f)bá(f)vit.(f) (::)",
+  "transcriber": "MarkM",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Cantus selecti",
+      "editor": "Solesmes",
+      "year": 1957,
+      "page": "15*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3347",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

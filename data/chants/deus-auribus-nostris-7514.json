@@ -1,0 +1,24 @@
+{
+  "id": "deus-auribus-nostris-7514",
+  "incipit": "Deus auribus nostris",
+  "title": "Deus auribus nostris",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": null,
+  "text_latin": "Deus, áuribus nostris audívimus; patres nostri annuntiavérunt nobis. Opus, quod operátus es in diébus eórum, et in diébus antíquis. ℣. Salvásti enim nos de affligéntibus nos, et odiéntes nos confudísti. ℣. In Deo laudábimur in sǽculum.",
+  "gabc": "(c4) De(g)us,(g) (;) áu(HGhiv)ri(I)bus(i/h) nos(g/h)tris(g) (:)\r\nau(f)dí(hJIjv)vi(H)mus;(h/jG/Hg/f) (::)\r\npa(g/h)tres(f) nos(g/h)tri(g) (,)\r\nan(j)nun(jv)ti(J)a(j)vé(i/j)runt(g) no(h/g)bis.(f/d) (;)\r\nO(FEfgvF~)pus,(f/e) quod(g) o(gv)pe(G)rá(hGFghv)tus(G) es(g/f) (;)\r\nin(f) di(f)é(h/j)bus(j) e(j)ó(jvH~j)rum,(j/i) (:)\r\net(g) in(g/h) di(GF)é(g/h)bus(g) an(j)tí(h/j/g/h)quis.(hh/g) <sp>V/</sp>.(::)\r\nSal(g)vá(g/f/dGFg)sti(g) (;)\r\ne(ghv)nim(G) nos(g) (;)\r\nde(g) af(ixh/i)fli(g)gén(HGhv)ti(H)bus(g) nos,(g/f) (:)\r\net(d) o(GFgv)di(G)én(ghv)tes(G) nos(g/f) (;)\r\ncon(hJIj)fu(h)dí(h/iHGh)sti.(hh/g) <sp>V/</sp>.(::)\r\nIn(g) De(g/h/j)o(j) (;)\r\nlau(jvI~)dá(h/j/gHGf/ghv)bi(H)mur(h/g) (:)\r\nin(j) s<sp>'ae</sp>(j/h/jIGhvG~f;hvI~j/hiv)cu(H)lum.(hh/g) (::)",
+  "transcriber": "Boris Maire",
+  "commentary": "Ps 43 (44) 2 V 9.10",
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7514",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

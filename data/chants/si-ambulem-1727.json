@@ -1,0 +1,31 @@
+{
+  "id": "si-ambulem-1727",
+  "incipit": "Si ambulem",
+  "title": "Si ambulem",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Si ámbulem * in médio umbrae mortis, non timébo mala: quóniam tu mecum es, Dómine. ℣. Virga tua, et báculus tuus, ipsa, me * consoláta sunt.",
+  "gabc": "(c4) SI(d) ám(fg)bu(gvFEfvEDe)lem(ed) *(,) in(f) mé(ghgh)di(hjHGFgwhgh)o(hg) (,) um(hv//f!gh)brae(g) mor(fv//dfe)tis,(d//ffd/fhhg) (;) non(dh) ti(hg)mé(h/jij)bo(hv//fh!jvHGFg) ma(fv//dfe)la:(d!ffd , fge/fgd/eddc) (:) quó(f)ni(d)am(e) tu(f) me(ghgh/gh/jj//jjj)cum(g) es,(hg/hfg) (,) Dó(d)mi(d)ne.(dc/d!ff/ghGEfgff/ded) <sp>V/</sp>.(::) Vir(hf hvhggef)ga(d) tu(dc/d!ff/gh!jjg,ixhhg/hvGFhiHGhw!ivHGhi)a,(h) (;) et(dh) bá(h/jjh)cu(h!jjh)lus(hg) tu(hg/h!jjjg ivHGgf/gh/jh!iwjh)us,(h) (:) i(hf//hvhggef)psa,(de) me(dc/d!ewf!gv//fg!hvFEfg!hvhg) *(,) con(g)so(gh)lá(ixjhiGFh!jjvHGh)ta(d) sunt.(dc/d!ff/ghGEfgff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "116"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1727",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

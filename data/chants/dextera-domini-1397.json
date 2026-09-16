@@ -1,0 +1,37 @@
+{
+  "id": "dextera-domini-1397",
+  "incipit": "Dextera Domini",
+  "title": "Dextera Domini",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dextera Dómini * fecit virtútem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini.",
+  "gabc": "(c4) DEX(e!gh)TE(hiHG)RA(g//ggg/hihi) Dó(gh)mi(efEDe)ni(ed) *(;) fe(de/ghg)cit(h) vir(hi!kki/jk)tú(hv//gih)tem,(h) (:) déx(jj)te(ji)ra(jjjh) Dó(hjjh)mi(h)ni(h) (,) ex(g)al(h)tá(hjjjjh/kjjh)vit(hiHG) me:(hg) (:) non(h!iwj) mó(j)ri(jvIH)ar,(h) (,) sed(g!jjj) vi(hig)vam,(egeg) (;) et(d) nar(e)rá(g)bo(e) ó(ghg)pe(h)ra(h/jkjkvJIH) Dó(h)mi(h)ni.(h!iwjjvIHiih) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "170"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "57"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1397",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

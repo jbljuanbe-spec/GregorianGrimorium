@@ -1,0 +1,31 @@
+{
+  "id": "te-decet-hymnus-1052",
+  "incipit": "Te decet hymnus",
+  "title": "Te decet hymnus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Te decet hymnus, Deus, in Sion: et tibi redétur votum * in Jerúsalem.",
+  "gabc": "(c2) AL(c)le(ce/g_f)lú(ef!gvFE'g)ia.(g_f/g_e) *(,) <i>ij.</i>(g/iivG'F/gvfffc..) (;) (dffe/fhGF'D//gf/gffc.) (,) (fffvD'C/d_eddc.) <sp>V/</sp>.(::) Te(cg'!hv) de(gh)cet(g) hym(gh)nus,(g.) (,) De(g!hw!ivHG)us,(ghf//gvFE/fe..) (;) in(fg) Si(gffe//fg!iiivGF/ii/jiivHG')on:(g/hhg.) (:) et(g) ti(h/iji)bi(i_h) re(iiivHG)dé(g_f)tur(fgffe.) (;) vo(ef!gvFE/fg!iiivGF/ii/jiivHG')tum(g/hhg.) *(;) in(g) Je(gd)rú(fe)sa(fg)lem.(ggd.) (,) (ghG'F/iii//ghG'D) (,) (ghG'F/iii//ghg.) (,) (g//ijI'G//iivG'F/iig.) (,) (g!iif/hvGF'/fc.) (;) (dffe/fhGF'D//gf/gffc.) (,) (fffvD'C/d_eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "346"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1052",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

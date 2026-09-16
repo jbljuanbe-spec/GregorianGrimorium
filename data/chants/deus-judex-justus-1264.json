@@ -1,0 +1,37 @@
+{
+  "id": "deus-judex-justus-1264",
+  "incipit": "Deus judex justus",
+  "title": "Deus judex justus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Deus judex justus, fortis et pátiens: numquid irascétur * per síngulos dies?",
+  "gabc": "(c4) AL(g)le(g)lú(gvvE'D/gh)ia.(g.) *(;) <i>ij.</i>(de//dec./g_h//gih/giHG'g) (,) (f!gh/j_h/jv.ijHG.) (;) (f!gh/j_h/kv.jlKJ'/jvI'HG'g) (,) (f!gh/kvJI//gjh/ihhg.) <sp>V/</sp>.(::) De(g)us(gh) ju(ggg)dex(d) ju(ev.dec./g!hwi_h/ivHG'h)stus,(g.) (;) for(gf!de~)tis(ev./dec.) et(g!h'i~) pá(i)ti(h!iwj!kvJH'GF'g)ens:(g.) (:) num(i)quid(g) i(h!iwj)ra(jvIH)scé(fh/jh/ig)tur(g.) *(;) per(f) sín(f!h'j)gu(ih)los(ji) di(hg)es?(g.) (,) (f!gh/j_h/jv.ijHG.) (;) (f!gh/j_h/kv.jlKJ'/jvI'HG'g) (,) (f!gh!kvJI//gjh/ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "328"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "982"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1264",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

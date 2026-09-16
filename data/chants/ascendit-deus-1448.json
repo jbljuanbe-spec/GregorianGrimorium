@@ -1,0 +1,31 @@
+{
+  "id": "ascendit-deus-1448",
+  "incipit": "Ascendit Deus",
+  "title": "Ascendit Deus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ascéndit * Deus in jubilatióne, Dóminus in voce tubae, allelúia.",
+  "gabc": "(c4) A(dcd)SCÉN(d!ewf)DIT(gh) *(,) De(h!iwj/ki/jvHG/hwihi)us(ih) (;) in(dh/ih) ju(hjhhg)bi(ghgh)la(gfg)ti(fg)ó(ji/jjjg/jvIH/hg)ne,(ghggf) (:) Dó(dh/ih)mi(h!jjh/jggfg)nus(gf) (,) in(hg~) vo(hg/jhhfg)ce(fdf) tu(fgf)bae,(fgf) (;) al(fffd/ffixhiHGFfe~)le(ghGF/ge/fd , fge/fhGF/fd//gf/gff)lú(dc~)ia.(d/fffd/fff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "243"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1448",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

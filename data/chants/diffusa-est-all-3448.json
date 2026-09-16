@@ -1,0 +1,31 @@
+{
+  "id": "diffusa-est-all-3448",
+  "incipit": "Diffusa est (All.)",
+  "title": "Diffusa est (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Diffúsa est grátia in lábiis túis: proptérea benedíxit te Deus * in aetérnum.",
+  "gabc": "(c3) AL(d!ef)LE(fe/f!gwhg)LÚ(fhhh)IA.(hiHFfe) *(;) <i>ij.</i>(gh//efED/f!gwhhg ehf/gffe) <sp>V/</sp>.(::) Dif(h)fú(hv//gih)sa(hg) est(g) grá(gh!ivvHF/hfg)ti(hg)a(g) (;) in(gf~) lá(hji)bi(h)is(ghf/gvFE) tú(hhvGE//gxfgFD//egFE/fe)is:(e) (:) prop(e)té(feh)re(h)a(h) be(h)ne(h)díx(h)it(h) te(h) (,) De(hfhGE//fhFD//gxgvFE/f/hhh/ijHF , gig/ivHG/he/gxfe/ge//gvFE/fd)us(d) *(;) in(fde) ae(ef)tér(hg/hfh)num.(ghFE) (,) (df!hvFE//df!gwhg/hvGFg egf/gvEDefe) (,) (gxhhvFE/fgED//gyhhvFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "350"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3448",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

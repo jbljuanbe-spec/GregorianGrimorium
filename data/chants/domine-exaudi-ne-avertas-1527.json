@@ -1,0 +1,31 @@
+{
+  "id": "domine-exaudi-ne-avertas-1527",
+  "incipit": "Domine exaudi... ne avertas",
+  "title": "Domine exaudi... ne avertas",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Domine * exáudi oratiónem meam, et clamor meus ad te pervéniat: ne avértas fáciem tuam a me.",
+  "gabc": "(c4) DO(d!ewf)MI(gf)NE(ghg) *(,) ex(hj)áu(hhvGFgwh!ivHG)di(hg) (,) o(d!ewf!gh)ra(gh)ti(g)ó(hjHG)nem(hjh/gh~) me(gffd//fh/jggf!gwh!iv)am,(hg) (:) et(fg) cla(hjHG)mor(hjh/gh~) me(gffd//fh/jggf!gwh!iv)us(hg) (;) ad(fg) te(hjhhgh) per(gd~)vé(fhGF)ni(fgFE)at:(e) (;) ne(dg) a(g)vér(hjhhg/h!iwjij)tas(ji) (,) fá(jvjh/jjh//jjjlk)ci(kj)em(jvIH) tu(ikJIHij)am(i) (;) a(gh) me.(gh!jjjvHGiv//gh!jjjvHGiv//iih/i//ki/jhhg) (,) (h/jjjh//jjjhhg/he) (,) (g/jjvHGhig//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "167"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1527",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

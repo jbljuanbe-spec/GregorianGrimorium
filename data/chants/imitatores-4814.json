@@ -1,0 +1,31 @@
+{
+  "id": "imitatores-4814",
+  "incipit": "Imitatores",
+  "title": "Imitatores",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Imitatóres mei estóte fratres, et observáte eos, qui ita ámbulant sicut habétis formam nostram.",
+  "gabc": "(c4) I(d)mi(ff)ta(f)tó(ghgh)res(g) (::) me(fgFD)i(d) (;) e(d)stó(dgf/gh)te(g) fra(f!ghGFg)tres,(gf) (:) et(f) ob(fh)ser(hjj)vá(hjggfg)te(gf) (;) e(ffg)os,(f) (;4) qui(f) i(fe)ta(fg) ám(d)bu(d!efEDCd)lant(dc) (;) si(c)cut(d) ha(f)bé(fgff)tis(fe) (;1) for(f!gh)mam(hjHG/ixhiHG) no(f!ghGFg)stram.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "514"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4814",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

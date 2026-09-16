@@ -1,0 +1,43 @@
+{
+  "id": "ego-sum-pastor-1220",
+  "incipit": "Ego sum pastor",
+  "title": "Ego sum pastor",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Ego sum pastor bonus: et cognósco oves meas, et cognóscunt me * meae.",
+  "gabc": "(c4) AL(d!ewfe)le(ddc)lú(fg!hvGF/g_h)ia.(h.) *(,) (ixgiH'GF./eg!hvGE'/f_d.) (,) (ce!gvgef//ef!hvGE'/f_dfvEC/eed.) <sp>V/</sp>.(::) E(h)go(gf) sum(ev.ce'!gvF'ED//cd!evDCd.) (;) pa(dfe/g_hg)stor(fvED//cd!evDC'd) bo(dfe/f_g)nus:(ed..) (:) et(d) co(d)gnó(fddc/fg!hvGF/g_h)sco(h.) (,) o(ixhv.giH'GF./eg!hvGE'/f_d. , ce!gvgef/ef!hvGE'/f_d)ves(d.) me(fvEC/efd)as,(d.) (:) et(d) co(d)gnó(fddc/fg!hvGF/g_h)scunt(h) me(h.) *(,) me(ixhv.giH'GF./eg!hvGE'f_d. , ce!gvgef//ef!hvGE'/f_d//)ae.(d.fvEC/eed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "264"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "47"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "818"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1220",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

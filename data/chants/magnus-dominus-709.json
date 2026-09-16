@@ -1,0 +1,37 @@
+{
+  "id": "magnus-dominus-709",
+  "incipit": "Magnus Dominus",
+  "title": "Magnus Dominus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Magnus Dóminus, et laudábilis valde, in civitáte Dei, * in monte sancto ejus.",
+  "gabc": "(c3) AL(ei)le(i)lú(hh/ivHF/hi~)ia.(i.) *(,) {<i>ij.</i>}(h!ij!kvJI'Hi./hii) (,) (h!ij!kvJI'Hi./hii) (,) (gi!jvIH'Fg./fh!ivFE'De.) (;) (ei!jvIH'Fg./fh!ivFE'D/eegE'D/ffe.) <sp>V/</sp>.(::) Ma(ivHF/hi~)gnus(i.) Dó(ikj/k!lm)mi(kvJI)nus,(i.) (;) et(ij~) lau(ih~)dá(fe)bi(de)lis(e.) val(ivHF/hi~)de,(i.) (:) in(i) ci(hg)vi(hi)tá(i)te(h!ij!kvJI'Hi./hii) (,) (h!ij!kvJI'Hi./hii) (,) (gi!jvIH'Fg./fh!ivFE'De.) De(egf/gh)i,(fe..) *(;) in(e) mon(g)te(e) san(g)cto(h) e(ij)jus.(i.) (,) (h!ij!kvJI'Hi./hii) (,) (h!ij!kvJI'Hi./hii) (,) (gi!jvIH'Fg./fh!ivFE'De.) (;) (ei!jvIH'Fg./fh!ivFE'D/eegE'D/ffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "340"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1014"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "709",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "inhabitabo-3532",
+  "incipit": "Inhabitabo",
+  "title": "Inhabitabo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Inhabitabo * in tabernáculo tuo in saécula: prótegar in velaménto alárum tuárum: quóniam tu, Deus meus, exaudísti oratiónem meam.",
+  "gabc": "(c4) IN(d)HA(f)BI(f)TA(fh)BO(g) *(,) in(f) ta(e)ber(f)ná(g)cu(f)lo(df) tu(fgf)o(f) (,) in(f) saé(ghgh)cu(g)la:(fgFD) (:) pró(ixf!gwh!iv)te(h)gar(hv//ghf) (,) in(f) ve(hj)la(j)mén(ixkjjhi)to(ih) (,) a(h)lá(ixhg!hwi)rum(h) tu(ghg)á(fg!hvGFg)rum:(gf) (:) quó(h)ni(g)am(h) tu,(ge) De(g)us(gh) me(fvED)us,(dfddc) (;) ex(d)au(fe~)dí(fff)sti(cd) (,) o(d)ra(fe)ti(g)ó(ixgi)nem(hiGF) me(fgf)am.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[127]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3532",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

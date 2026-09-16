@@ -1,0 +1,31 @@
+{
+  "id": "universi-1747",
+  "incipit": "Universi",
+  "title": "Universi",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Univérsi * qui te exspéctant, non confundéntur, Dómine. ℣. Vias tuas, Dómine, notas fac mihi: et sémitas tuas * édoce me.",
+  "gabc": "(f3) U(e)ni(f)vér(fh!ivHFgvECefef)si(f) *(,) qui(fe) te(h) ex(ij)spéc(j)tant,(ji/ji/jg/hih) (;) non(i) con(hg~)fun(ef)dén(hi)tur,(gh/ih/ivHG) Dó(f)mi(fgf)ne.(f) (,) (kxef!hh//i/jkIGhih/hf) (f+) <sp>V/</sp>.(::) (c4) Vi(dh)as(h) tu(hg)as,(gh) Dó(gf)mi(gh)ne,(h) (,) (f!gh!jvjh//f!gh!jvjh//jvjvHG/jk//jkJH) (,) (ixf!gh!jvjh/jjh/iggf) (:) no(hk)tas(kj) fac(jlKJkjjh) (,) mi(hf/gh/jjh///jjvHGh!iwji)hi:(jjjvIHjg/gf) (:) et(fg~) sé(g/hjHGgf)mi(g)tas(g) tu(hv//fgf//ef!gvf/fd/ec)as(c) *(,) é(ff)do(gf)ce(fhgh) me.(hvhvGFEC//d!ewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "2"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1747",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

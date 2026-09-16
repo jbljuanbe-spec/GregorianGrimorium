@@ -1,0 +1,31 @@
+{
+  "id": "beata-es-virgo-7238",
+  "incipit": "Beata es, Virgo",
+  "title": "Beata es, Virgo",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Beáta es Virgo María, quæ ómnium portásti Creatórem: genuísti qui te fecit, et in ætérnum pérmanes Virgo.",
+  "gabc": "(c4) Be(f)á(g)ta(gh/jh//ggf//ghg) es(g) (::) Vir(hjIH//kj//ijh//jg;3h!ijg;gghGF/gd;4gh/jhi)go(hg) (;) Ma(ig/hjjv//klKI//jkjjv)rí(hjg)a,(gd) (:) quæ(d) ó(fg)mni(g)um(ghd) (;1) por(d)tá(dc/dffv//gh/jg)sti(g) (;) Cre(gh)a(gjIG/hh;3fh/jg//ffd//ef/ghGFg)tó(ghg)rem:(g) (:) ge(gd)nu(fd//fhg)í(fg)sti(g) (;) qui(g) te(gh) fe(hg/hiHG//jg//hiHG;fg/hgh//jjh//jjg)cit,(g) (:) et(hvGF) in(hji) æ(ihj)tér(hjg)num(gfh) (;) pér(g)ma(ih)nes(jkIH) (;3) (gi//hjIH) (;3) (gjjv//hjg) Vir(ghggf~)go.(fg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "547"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7238",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

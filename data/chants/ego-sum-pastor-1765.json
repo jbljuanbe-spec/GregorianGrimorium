@@ -1,0 +1,37 @@
+{
+  "id": "ego-sum-pastor-1765",
+  "incipit": "Ego sum pastor",
+  "title": "Ego sum pastor",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ij. ℣. Ego sum pastor bonus: et cognósco oves meas, et cognóscunt me * meae.",
+  "gabc": "(c4) AL(d!ewfe)le(ddc)lú(fg!hvGF/gh)ia(h) *(,) <i>ij.</i>(ixgiHGF//eg!hvGE/fd) (,) (ce!gvgef//ef!hvGE/fdfvEC/eed) <sp>V/</sp>.(::) E(h)go(gf) sum(ev//ce!gvFED//cd!evDCd) (;) pa(dfe/ghg)stor(fvED//cd!evDCd) bo(dfe/fg)nus:(ed) (:) et(d) co(d)gnó(fddc/fg!hvGF/gh)sco(h) (,) o(ixhv//giHGF//eg!hvGE/fd , ce!gvgef//ef!hvGE/fd)ves(d) me(fvEC/efd)as,(d) (:) et(d) co(d)gnó(fddc/fg!hvGF/gh)scunt(h) me(h) *(,) me(ixhv//giHGF//eg!hvGEfd , ce!gvgef//ef!hvGE/fd)ae.(d//fvEC/eed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "224"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "41"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1765",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-qui-a-patre-6662",
+  "incipit": "Spiritus qui a Patre",
+  "title": "Spiritus qui a Patre",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Spíritus, qui a Patre procédit, allelúia, ille me clarificábit, allelúia, allelúia.",
+  "gabc": "(c4) Spí(f)ri(fg)tus,(g) (::) qui(g) a(g) Pa(g)tre(f) pro(h)cé(j)dit,(j) (;) al(ji~)le(j)lú(klk~)ia,(k) (:) il(l)le(k) me(ji) cla(h)ri(k)fi(j)cá(ji)bit,(g) (;) al(ge~)le(g)lú(fe)ia,(d) (;4) al(f)le(gh)lú(g)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "256"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6662",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

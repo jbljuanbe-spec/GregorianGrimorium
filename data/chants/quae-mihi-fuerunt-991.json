@@ -1,0 +1,37 @@
+{
+  "id": "quae-mihi-fuerunt-991",
+  "incipit": "Quae mihi fuerunt",
+  "title": "Quae mihi fuerunt",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quae mihi * fuérunt lucra, haec arbitrátus sum propter Christum detriménta.",
+  "gabc": "(c4) QUae(d!ewfe) mi(fgf)hi(fe) *(,) fu(gh)é(g)runt(fg) lu(fvED)cra,(d!ewf.) (;) haec(fgd__fv.) ar(c)bi(d)trá(fe)tus(g) sum(fg!hvhg.) (;) pro(ixhi)pter(hg) Chri(ghghvGF)stum(gvFDCd.) (,) de(fe/ggh)tri(fe)mén(de!fvED'e)ta.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "622E"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1681.4"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "991",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

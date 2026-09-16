@@ -1,0 +1,31 @@
+{
+  "id": "protege-domine-4811",
+  "incipit": "Protege, Domine",
+  "title": "Protege, Domine",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Prótege, Dómine, plebem tuam per signum sanctæ Crucis, ab ómnibus insídiis inimicórum ómnium: ut tibi gratam exhibeámus servitútem, et acceptábile fiat sacrifícium nostrum. T. P. Allelúia.",
+  "gabc": "(f3) Pró(ffvEC/e!fgf)te(ef)ge,(f) (::) Dó(ef/hgh)mi(gf)ne,(ghGE) (;4) (fe//f!ghf) (;) ple(gf)bem(ef) tu(fggf)am(f) (:) per(f) si(g!hiivHGF//hhg)gnum(g) (;) san(eg/hi//ivHGF;4hvGF/gf)ctæ(ef) Cru(fggf)cis,(f) (:) ab(fe) ó(ffe/fhGE;4g!hi)mni(hg)bus(fg) (;3) in(hhg)sí(fe)di(fg)is(g) (;) i(e)ni(gf)mi(hih)có(gf)rum(ghg) ó(fgf)mni(ef)um:(f) (:) ut(fe~) ti(ffvEC//e!fgf)bi(ef) gra(fgf)tam(f) (;) ex(f)hi(hg)be(hi)á(ijh//ivHGF;fg!hi//jh/ivHGF//ghg)mus(g) (;) ser(eg!hi//ivHGF;3hvGF/gf)vi(ef)tú(fgf)tem,(f) (:) et(fe) ac(f)ce(fe)ptá(fhGE;3g!hi)bi(hg)le(fg) fi(ghg)at(g) (;) sa(iivHGF//ghg)cri(e)fí(g!hiHGF)ci(hg)um(ef) (;4) no(fe//f!gh)strum.(gf) <i>T. P.</i>(::) Al(f)le(feg/hf//fef)lú(fe//f!gh)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "468"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4811",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "inimicitias-ponam-1083",
+  "incipit": "Inimicitias ponam",
+  "title": "Inimicitias ponam",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Inimicítias * ponam inter te et mulíerem, et semen tuum et semen illíus.",
+  "gabc": "(c4) I(h)ni(he)mi(g)cí(gih)ti(h)as(h.) *(,) po(h!jjj)nam(hghg..) (;) in(jj)ter(hgh) te(h/jjj//ikJ'I/jvIH/ih..) (,) et(hjH'Gh') mu(f)lí(fh!jvH'F)e(fgf___)rem,(f.) (:) et(h/jjk) se(h!jjj)men(h!jjj) tu(g/hig)um(egeg.____) (;) et(d) se(e_g)men(e/ghg___//ikj'/kvJ'IH') il(h)lí(h)us.(h!iwjjvIH/iih.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "584"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1603"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1083",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

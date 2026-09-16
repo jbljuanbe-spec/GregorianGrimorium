@@ -1,0 +1,37 @@
+{
+  "id": "tanto-tempore-1101",
+  "incipit": "Tanto tempore",
+  "title": "Tanto tempore",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Tanto témpore vobíscum sum, et non cognovítis me? Philíppe, qui videt me, * videt et Patrem.",
+  "gabc": "(c3) AL(e)le(ef)lú(fg)ia.(e.) *(,) (fe/fhGE.ee/fe/fe/fhGE.) (;) (giHG'FE/fe//fhG'FE/ffe.) <sp>V/</sp>.(::) Tan(eee)to(eh) tém(h)po(hg)re(fe/fgffe.) (,) vo(e)bís(ei)cum(ivHG'h) sum,(hg..) (;) et(e) non(e) co(gf~)gno(h)ví(hg)tis(fe) me?(e./fhg/hihhg.) (:) Phi(eh)líp(h)pe,(hg) qui(fe) vi(fg)det(fe~) me,(e./fgffe.) *(;) vi(eee)det(e) et(fg) Pa(g)trem.(g_e) (,) (fe/fhGE.ee/fe/fe/fhGE.) (;) (giHG'FE/fe//fhG'FE/ffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "493"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1465C"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1101",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "timebunt-gentes-1749",
+  "incipit": "Timebunt gentes",
+  "title": "Timebunt gentes",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Timébunt gentes * nomen tuum, Dómine, et omnes reges terrae glóriam tuam. ℣ Quóniam aedificávit Dóminus Sion, et vidébitur in majestáte * sua.",
+  "gabc": "(c4) TI(d)MÉ(ff)BUNT(gh~) gen(hfgvFED//ge/fg)tes(f) *(;) no(hf/gh!jj/kjk)men(jij) tu(hg/h/jjvHGF)um,(hg~) Dó(f)mi(fg!hvGFg)ne,(gf) (:) et(f) o(ghgh)mnes(jhhg) re(h!iwj)ges(ji) ter(jkJIH)rae(hjHGhjjhjvvIHjggf) (;) gló(f!gh/f!gh)ri(gf)am(fv//ef!gvgf) (,) tu(f!hhh//gh!jjjhjvvIHjg//fh!iw!jvIHGFf//hvGFgf)am.(f) (z0) <sp>V/</sp>(::c3) Quó(d)ni(d)am(d) ae(d)di(d)fi(fe)cá(eh)vit(h) (,) Dó(h)mi(h)nus(ihhhhf//hhf/hhe/gxfgED//hhjvIH//hvGF) (;) Si(hi)on,(ih/i/kkh//ih/kkkvIH//hvGF) (:) et(f) vi(hf)dé(h)bi(hfh)tur(hhhvFEf!hhhf/hhhvGFheed) (;) in(d) ma(d)je(d)stá(dfED)te(ef) *() su(fhGFhhh)a.(hhf) (,) (gxgf/gvED//fgED//fehvhhhff//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "56"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1749",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

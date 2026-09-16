@@ -1,0 +1,31 @@
+{
+  "id": "exaltabo-te-7207",
+  "incipit": "Exaltabo te",
+  "title": "Exaltabo te",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exaltábo te, Dómine, quóniam suscepísti me, nec delectásti inimícos meos super me: Dómine, clamávi ad te, et sanásti me.",
+  "gabc": "(c3) Ex(c)al(e)tá(egf)bo(f) te,(f) (::) Dó(f)mi(fhhv)ne,(fe/ffe) (:) quó(hhv)ni(fef)am(fh//giHG/hvGF/gf) (;) su(fhFEf)sce(d)pí(d//fhFEf)sti(ded) me,(d) (:) nec(fhhi) de(fh)le(fh)ctá(e!fgf)sti(fe//fhhvFEede) (;) i(c)ni(c)mí(ef)cos(fe) me(fhhih)os(h) (;) su(hi/jij)per(hf//ihihhe) (;3) (fhGF/gffe~) me:(fe) (:) Dó(fh/ih)mi(ivHF)ne,(fe//fvECe) (;) cla(fc)má(ef)vi(fe) ad(fhhih) te,(h) (:) et(h) sa(fhg)ná(hvFEf;3hhvFE/fhf//hhv)sti(fgf) me.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "73"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7207",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

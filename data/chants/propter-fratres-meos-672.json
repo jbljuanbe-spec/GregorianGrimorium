@@ -1,0 +1,37 @@
+{
+  "id": "propter-fratres-meos-672",
+  "incipit": "Propter fratres meos",
+  "title": "Propter fratres meos",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Propter * fratres meos et próximos meos, loquébar pacem de te. ℣. Custódi innocéntiam, et vide aequitátem: quóniam sunt relíquiae hómini * pacífico.",
+  "gabc": "(c4) PRop(ffg)ter(f) *() fra(f)tres(gh~) me(h_f/gvFED.g_d/fg)os(f) (;) et(f) pró(hf/gh!jj/kjk)xi(ij)mos(hg) me(h!iwj)os,(ih..) (;) lo(j)qué(j)bar(ij) pa(hhg)cem(h) de(hggfg) te.(f!gh!jv.klJH.) (,) (jjvH'GixhiGF'gwhg/hjhh/fgf.) <sp>V/</sp>.(z0::c3) Cus(d)tó(fe)di(eh) in(h)no(h)cén(h)ti(h)am,(hih__//i_h/jvHF.) (,) (h_g/ijh'__ jvIH'jvIH'//hvGF.) (:) et(h) vi(ihh'hvGE'/f!hhgxihhvG'FEfg)de(f.) (,) ae(gxeg)qui(g)tá(gg//gg/hvG'FE'fw!gvF'ED'e)tem:(ed..) (:) quó(f)ni(d)am(fh) sunt(h) re(h)lí(i_h//ghG'F//i_h//hhhvFE/fe/f!hh/ivHGh')qui(h)ae(h.) (;) hó(hh)mi(h)ni(h) *() pa(h)cí(ihhf/hh/ij)fi(hg)co.(hhhf/hhhf/hhf.) (,) (de/f!hh/ijghf./gxegFD.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "527"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1512"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "672",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "laetatus-sum-6365",
+  "incipit": "Laetatus sum",
+  "title": "Laetatus sum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus.",
+  "gabc": "(c4) Al(dc~)le(f)lú(ixgfi)ia.(h) (::) (ixiji//hig//f!gh//jhhg) (;) (fhg//dfddc) (;) (ffv//ghGE//feed) <sp>V/</sp>.(::) Læ(d)tá(fddc//fg)tus(f//ixhg/hi) sum(h) (;) in(h) his,(h) quæ(h) di(hv//jvhGF;4eg/hgh)cta(fg) sunt(fe) mi(d!efEDe)hi:(ed) (:) in(dc~) do(df//efd;1c!dfd;hhggf//hjh)mum(h) (;) Dó(hhvGE/fd//fvEC;eg//hvGEf)mi(ed)ni(d) (::) í(dffv//ghf)bi(ixgi)mus.(h) (;3) (ghFD) (;4) (ffv//gffv/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "5"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6365",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

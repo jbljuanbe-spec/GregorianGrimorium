@@ -1,0 +1,31 @@
+{
+  "id": "qui-me-dignatus-est-3662",
+  "incipit": "Qui me dignatus est",
+  "title": "Qui me dignatus est",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Qui me dignátus est * ab omni plaga curáre, et mamíllam meam meo péctori restitútere, ipsum ínvoco Deum vivum.",
+  "gabc": "(c4) QUI(d) me(ff) di(f)gná(ghgh)tus(g) est(fgFD) *(,) ab(d) om(fg~)ni(g) pla(gh)ga(f) cu(ff)rá(fgd!ew!fvEDCd)re,(dc) (;) et(f) ma(f)míl(fg~)lam(f) me(fg)am(f) (,) me(f)o(f) péc(g)to(f)ri(fe) re(g)sti(ixig!hwi)tú(f)te(fgf)re,(f) (:) ip(h)sum(g) ín(h!iwj)vo(gf)co(fgff/ded) (,) De(df/gh)um(ff) vi(fgf)vum.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "382"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3662",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

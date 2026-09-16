@@ -1,0 +1,31 @@
+{
+  "id": "caritas-dei-3753",
+  "incipit": "Caritas Dei",
+  "title": "Caritas Dei",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Caritas Dei * diffúsa est in córdibus nostris per inhabitántem Spíritum ejus in nobis. T. P. Allelúia, allelúia. Ps. Bénedic ánima mea Dómino: * et ómnia quae intra me sunt, nómini sancto ejus. Glória Patri E u o u a e",
+  "gabc": "(c4) CA(gj)RI(j)TAS(j) De(j)i(hih) *(,) dif(g)fú(gh/ih!ij)sa(ghGFEf) est(fe) (;) in(f) cór(e!fh)di(h)bus(h) no(hghf)stris(d!ewf) (:) per(fgf) in(ff)ha(ef)bi(g)tán(g/hjh/fhf/gh)tem(g) (,) Spí(hhg)ri(hg)tum(e) e(e!fg~)jus(g) in(f) no(egff)bis.(fe) <i>T. P.</i>(::) Al(f)le(fh/jh)lú(ghg)ia,(e) (,) al(g)le(ixg/hiGF/hvGFg)lú(egff)ia.(fe) <i>Ps.</i>(::) Bé(g)ne(hj)dic(j) á(j)ni(j)ma(j) me(k)a(j) Dó(j)mi(ih)no:(jjj) *(:) et(ig) ó(hj)mni(j)a(j) quae(j) in(j)tra(j) me(j) sunt,(j) (,) nó(j)mi(j)ni(jji) san(hg~)cto(h) e(i)jus.(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "434"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3753",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

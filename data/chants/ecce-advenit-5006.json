@@ -1,0 +1,31 @@
+{
+  "id": "ecce-advenit-5006",
+  "incipit": "Ecce advenit",
+  "title": "Ecce advenit",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ecce advénit dominátor Dóminus: et regnum in manu ejus, et potéstas, et impérium. ℣. Deus judícium tuum regi da: et justítiam tuam fílio regis. Glória E u o u a e",
+  "gabc": "(f3) Ec(ce!fh)ce(f) (::) ad(fe)vé(f!ghf)nit(f) (;) do(e)mi(hh)ná(h)tor(h) Dó(hiHG)mi(hvGFg)nus:(gf) (:) et(fh) re(h)gnum(hhv) (;) in(fe~) ma(f!ghf//gf)nu(ef) e(f!ghf//gffe~)jus,(fe) (:) et(f) po(hh)té(hi)stas,(f) (;) et(f/hi) im(i)pé(hiHG)ri(hvGFg)um.(gf) <sp>V/</sp>.(::) De(e)us(f) ju(eh)dí(h)ci(h)um(hg) tu(hi)um(i) re(hi)gi(h) da:(h) (::) et(h) ju(fh)stí(h)ti(h)am(h) tu(h)am(h) fí(i)li(hf)o(h) re(ge)gis.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "43"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5006",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

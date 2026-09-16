@@ -1,0 +1,31 @@
+{
+  "id": "in-exitu-israel-3493",
+  "incipit": "In exitu Israel",
+  "title": "In exitu Israel",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. In éxitu Israel ex Aegýpto, domus Jacob de pópulo * bárbaro",
+  "gabc": "(f3) AL(e!fg~)LE(g/hig/hffe)LÚ(fg~)IA.(g) *(;) <i>ij.</i>(fiHF/g//f!hh) (,) (f!gwh!ivHF/g//f!hh) (,) (g!hwi!jvIH/ivHF/gffe) (;) (ef/hffe//gihhhhvGFE//ghggf) <sp>V/</sp>.(::) In(e!fwggf) éx(f!gwh)i(gf)tu(f) Is(hjji)ra(gf/hvFEg)el(g) (;) ex(kxfji!jw!kvJIj) Ae(gfh)gýp(e!fh)to,(g//hiGF/hvGEf) (:) do(fg!hi)mus(ig) Ja(hiGF/hhg)cob(g) (;) de(eg) pó(ig/ijIG//egf/ivGF/hhg)pu(ef)lo(f) *(,) bár(e!fg~)ba(g)ro(gv//fiHF/g//f!hh) (,) (f!gwh!ivHF/g//f!hh) (,) (g!hwi!jvIH/ivHF/gffe) (;) (ef/hffe//gihhhhvGFE//ghggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "328"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3493",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

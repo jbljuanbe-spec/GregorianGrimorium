@@ -1,0 +1,31 @@
+{
+  "id": "introibo-in-domum-4770",
+  "incipit": "Introibo in domum",
+  "title": "Introibo in domum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Introíbo in domum tuam: adorábo ad templum sanctum tuum, et confitébor nómini tuo.",
+  "gabc": "(c4) In(e)tro(e)í(ege//ghg//ffd//gvFE)bo(f) (::) in(e!fg) do(ixfhg/hi)mum(h) (;) (jhjg//ffd) (;4) (ef!ghGF//gvFD) tu(egFE)am:(e) (:) a(d)do(g)rá(ixhg/hi)bo(h) (;) ad(h) tem(h)plum(h) san(h)ctum(jhhf~) tu(ghg)um,(dg) (;) (hvFD//ggv//hjhhg) (:) et(d) con(dg)fi(g)té(hjHG//hjjv)bor(j) (;) nó(ih)mi(jkj)ni(ig) (;3) (hv//ghGF//ghg) tu(egffv)o.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "383"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4770",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "qui-mihi-ministrat-685",
+  "incipit": "Qui mihi ministrat",
+  "title": "Qui mihi ministrat",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Qui mihi minístrat, * me sequátur: et ubi ego sum, illic et miníster meus erit.",
+  "gabc": "(c3) QUI(d) mi(gxf!gwh)hi(h) mi(gxhf)ní(ghg)strat,(f.) *(,) me(hi) se(h)quá(hfh)tur:(fhffd.) (:) et(d) u(d)bi(fh) e(h_f/hi/kjk)go(i_h) sum,(hg/hf..) (;) il(f)lic(hih__/ghFE'edev'fhffe.) (;) et(hv.ghf'hvE'D) mi(d)ní(bca__)ster(ba~) me(dfe__)us(e!fwg'!hvF'Ef) e(ded__)rit.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[15]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "685",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

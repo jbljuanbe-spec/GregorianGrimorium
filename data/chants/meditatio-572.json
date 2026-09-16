@@ -1,0 +1,31 @@
+{
+  "id": "meditatio-572",
+  "incipit": "Meditatio",
+  "title": "Meditatio",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Meditátio * cordis mei in conspéctu tuo semper: Dómine adjútor meus, et redémptor meus. Ps. Caeli enárrant glóriam Dei: * et ópera mánuum ejus annúntiat firmaméntum. Glória Patri. E u o u a e.",
+  "gabc": "(c4) ME(h)di(hfg)tá(hg!jvIH)ti(h)o(h.) *(,) cor(h)dis(h) me(hjh)i(ixhg/hih.) (;) in(f) con(f)spé(ixhf/hig)ctu(f) tu(f)o(f) sem(f)per:(e/fgff/ded.) (:) Dó(f)mi(h)ne(g) ad(h')jú(f)tor(g') me(d)us,(d!ewf.) (,) et(d) re(f)démp(e!g'h)tor(gh) me(fgF'E)us.(fff/ded.___) <i>Ps.</i>(::) Cae(f)li(gh) e(h)nár(h)rant(h) gló(hj)ri(h)am(h) De(hg)i:(gh..) *(:) et(gf) ó(gh)pe(h)ra(h) má(h)nu(h)um(h) e(h)jus(h.) (,) an(h)nún(h)ti(h)at(hjh) fir(g')ma(f)mén(fg)tum.(h.) (::) Gló(f)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(hjh) o(g') u(f) a(fg) e.(h.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "148"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "572",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

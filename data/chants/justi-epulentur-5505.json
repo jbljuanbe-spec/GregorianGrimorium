@@ -1,0 +1,31 @@
+{
+  "id": "justi-epulentur-5505",
+  "incipit": "Justi epulentur",
+  "title": "Justi epulentur",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Justi epuléntur, et exsúltent in conspéctu Dei: et delecténtur in lætítia. ℣. Exsúrgat Deus, et dissipéntur inimíci ejus, et fúgiant qui odérunt eum, a fácie ejus. Glória E u o u a e.",
+  "gabc": "(c4) Ju(ffg)sti(f) (::) e(gh)pu(f)lén(g)tur,(f) (;) et(f) ex(fe)súl(gh)tent(fg) (;3) in(f) con(ghg~)spé(h)ctu(f) De(fhGF/gf)i:(f) (:) et(f) de(f)le(ghg)ctén(hf//hggv)tur(fgFD) (;) in(ffv) læ(gf/ghg)tí(f)ti(fgf)a.(f) <sp>V/</sp>.(::) Ex(fg)súr(gf~)gat(gh) De(h)us,(h) (;3) et(h) dis(h)si(h)pén(h)tur(h) i(h)ni(hg)mí(ixgi)ci(h) e(g)jus,(f) (::) et(h) fú(hj)gi(g)ant(f) qui(f) o(f)dé(f)runt(f) e(f)um,(f) (;3) a(f) fá(g)ci(fd)e(f) e(g)jus.(f) (::) Gló(fg)ri(gf)a(gh) (::) E(f) u(g) o(fd) u(f) a(g) e.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "546"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5505",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dum-venerit-paraclitus-1392",
+  "incipit": "Dum venerit Paraclitus",
+  "title": "Dum venerit Paraclitus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dum vénerit * Paráclitus Spíritus veritátis, ille árguet mundum de peccáto, et de justítia, et de judício, allelúia, allelúia.",
+  "gabc": "(c3) DUM(fh~) vé(hgh)ne(gxfgFD)rit(d) *() Pa(f)rá(hgh)cli(fe)tus(ev//de!fvfe) (;) Spí(ggh)ri(f!gwh)tus(he~) ve(ggh)ri(hf)tá(fihi)tis,(hg) (:) il(fi)le(ih) ár(hi/jij)gu(h)et(g) mun(hih)dum(gf!gwh) de(f) pec(e)cá(f/hfg)to,(fe) (;) et(ec~) de(e) ju(fgf)stí(g)ti(fe)a,(e) (,) et(gf~) de(hih) ju(g)dí(e!fg)ci(fe)o,(e) (;) al(e)le(ege//gi)lú(ihi)ia,(g) (,) al(h)le(fv//e!fg)lú(gffef)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "228"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1392",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

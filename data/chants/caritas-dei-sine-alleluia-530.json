@@ -1,0 +1,31 @@
+{
+  "id": "caritas-dei-sine-alleluia-530",
+  "incipit": "Caritas Dei sine Alleluia",
+  "title": "Caritas Dei sine Alleluia",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Caritas Dei * diffúsa est in córdibus nostris per inhabitántem Spíritum ejus in nobis. T. P. Allelúia, allelúia. Ps. Bénedic ánima mea Dómino: * et ómnia quae intra me sunt, nómini sancto ejus. Glória Patri E u o u a e",
+  "gabc": "(c4) CA(gj)ri(j)tas(j) De(j)i(hih.) *(,) dif(g)fú(gh/ih!i_j)sa(ghG'__FE'f) est(fe..) (;) in(f) cór(e!f'h)di(h)bus(h) no(hghf)stris(d!ewf.) (:) per(fgf) in(ff)ha(ef)bi(g)tán(g/hjh/fhf/gh)tem(g.) (,) Spí(hhg)ri(h_g)tum(e) e(e!f'g~)jus(g.) in(f) no(egff)bis.(fe..) <i>T. P.</i>(::) Al(f)le(fh/jh)lú(ghg)ia,(e.) (,) al(g)le(ixg./hiG'F/hvGF'g)lú(egff)ia.(fe..) <i>Ps.</i>(::) Bé(g)ne(hj)dic(j) á(j)ni(j)ma(j) me(k)a(j) Dó(j)mi(ih)no:(jjj) *(:) et(ig) ó(hj)mni(j)a(j) quae(j) in(j)tra(j) me(j) sunt,(j.) (,) nó(j)mi(j)ni(jji) san(hg~)cto(h') e(i)jus.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "501"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "530",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

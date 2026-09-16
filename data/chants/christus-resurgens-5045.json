@@ -1,0 +1,31 @@
+{
+  "id": "christus-resurgens-5045",
+  "incipit": "Christus resurgens",
+  "title": "Christus resurgens",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Christus resúrgens ex mórtuis jam non móritur, allelúia: mors illi ultra non dominábitur, allelúia, allelúia.",
+  "gabc": "(c3) Chri(eh)stus(h) (::) re(hf)súr(hi)gens(g) ex(g) mór(gfh)tu(fe)is(e) (;) jam(g) non(g) mó(gfh)ri(f)tur,(e) (;) al(g)le(g)lú(fgffe~)ia:(e) (:) mors(g) il(f)li(gffe) ul(fg)tra(f) (;4) non(hhf~) do(h!ij)mi(ij)ná(h)bi(gihhv)tur,(hg) (:) al(hj)le(j)lú(jij>)ia,(g) (;) al(hg~)le(fv//e!fg)lú(gffef)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "209"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5045",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

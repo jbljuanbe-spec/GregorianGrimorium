@@ -1,0 +1,31 @@
+{
+  "id": "laetamini-cum-jerusalem-all-3547",
+  "incipit": "Laetamini cum Jerusalem (All.)",
+  "title": "Laetamini cum Jerusalem (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Laetámini cum Jerúsalem, et exsultáte in ea, omnes qui dilígitis * Dóminum.",
+  "gabc": "(c4) AL(d)LE(df/gf/efd)LÚ(ixf!gwh!ivHG)IA.(gh) *(,) <i>ij.</i>(d!ffe/fg!hvGF//ghg/hf/gffe) <sp>V/</sp>.(::) Lae(h)tá(gh)mi(g)ni(ge/gvFED) (,) cum(d) Je(ef)rú(gh)sa(g)lem,(ixg//hiHF/hfg) (;) et(g) ex(gh)sul(g)tá(ixgh!ij)te(giHG) in(g) e(gf!gwhgh)a,(hg) (:) om(hg~)nes(g//hg/hf) qui(ed) di(f)lí(fg)gi(f)tis(ef!gvFE/fvED/ed) *() Dó(ixf!gwh!ivHG)mi(hg)num.(gh) (,) (d!ffe/fg!hvGF//ghg/hf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "449"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3547",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

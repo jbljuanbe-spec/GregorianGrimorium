@@ -1,0 +1,31 @@
+{
+  "id": "levita-laurentius-3385",
+  "incipit": "Levita Laurentius",
+  "title": "Levita Laurentius",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Levíta Lauréntius bonum opus operátus est: qui per signum crucis caecos * illuminávit.",
+  "gabc": "(c3) AL(d)LE(efde/ffe)LÚ(df!hvGF/hh)IA.(e) *(;) <i>ij.</i>(hv/ijj/h/ii//efED/ffe) (,) (h/ig/hvFEDCB//ef!gwhhvGFE/ffe) <sp>V/</sp>.(::) Le(eh)ví(hg/fge)ta(fe) Lau(d)rén(efef/hvGF/ge)ti(fe)us(e) (;) bo(ei)num(i) o(iv//jkjjvIH/jh/ij)pus(i) (,) o(ij)per(i)á(j!kwlj/kvJI/jvIHii , ij/klj/kvJI/jvIHii , /ei/jvIHhvGFEfe)tus(de) est:(e/ffe) (:) qui(e) per(e) si(ehg)gnum(hi) cru(i/jkjjvIHG/hih)cis(i) (;) cae(hv//fhGFED//fgff)cos(e) *(,) il(d)lu(efde/ffe)mi(d)ná(df!hvGF/hh)vit.(e) (;) (hv/ijj/h/ii//efED/ffe) (,) (h/ig/hvFEDCB//ef!gwhhvGFE/ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "514"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3385",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

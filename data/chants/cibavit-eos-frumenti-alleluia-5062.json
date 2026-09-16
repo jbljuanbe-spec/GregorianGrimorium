@@ -1,0 +1,31 @@
+{
+  "id": "cibavit-eos-frumenti-alleluia-5062",
+  "incipit": "Cibavit eos... frumenti, alleluia",
+  "title": "Cibavit eos... frumenti, alleluia",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Cibávit eos ex ádipe fruménti, allelúia, et de petra, melle saturávit eos, allelúia, allelúia, allelúia. ℣. Exsultáte Deo adjutóri nostro: jubiláte Deo Jacob. Glória E u o u a e.",
+  "gabc": "(f3) Ci(c)bá(efe)vit(f) (::) e(fhf)os(efe) (;) ex(f) á(h)di(hh)pe(f) fru(e)mén(fhfge)ti,(c) (;) al(e)le(hghf)lú(fgf)ia,(f) (:) et(e) de(f) pe(hhv)tra,(h) (;3) mel(ih~)le(hihhv/fgf) (;) sa(f)tu(fi)rá(ih)vit(h!ij) e(ih)os,(h) (:) al(f)le(i)lú(ihihhg~)ia,(f) (;) al(h!ij>)le(ji)lú(ihhg~)ia,(fe) (;) al(fh)le(hvGF//fh/ighg)lú(f!ghGFg)ia.(gf) <sp>V/</sp>.(::) Ex(e)sul(f)tá(eh)te(h) De(h)o(h) ad(h)ju(hg)tó(hi)ri(i) no(hi)stro:(h) (::) ju(h)bi(h)lá(h)te(i) De(hf)o(h) Ja(ge)cob.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "267"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5062",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

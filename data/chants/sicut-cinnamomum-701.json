@@ -1,0 +1,31 @@
+{
+  "id": "sicut-cinnamomum-701",
+  "incipit": "Sicut cinnamomum",
+  "title": "Sicut cinnamomum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Sicut cinnamómum et bálsamum aromatízans odórem dedi: quasi myrrha elécta dedi suavitátem * odóris.",
+  "gabc": "(f3) AL(c)le(e_f//efef/hvGF'f)lú(ef~)ia.(f.) *(;) (gig'ivH'GF'gffe.) (,) (gf/giH'GF'gffe.) (,) (hhh/i_jIG'hggf.) <sp>V/</sp>.(::) Si(ffvEC)cut(ef) cin(f)na(f)mó(eg/ig/hggf)mum(gf..) (;) et(f) bál(fj'jji)sa(gfh)mum(feg) a(g)ro(g)ma(ivHGhvGF)tí(fg)zans(fe..) (;) o(ef)dó(hi!jvH'GF.fg!hi)rem(gf/hhf) de(e//ghf)di:(f.) (:) qua(feec)si(ef) myrr(fg)ha(fe/fg) e(giig/ivHG'h)lé(fg)cta(fe..) (;) de(f)di(fc) su(e)a(e)vi(ef)tá(fhfg.,giig/ivHG/hvGF/gvFEff/hhhfgvFE'f)tem(fe..) *(;) o(c!e_f//efef/hvGF'f)dó(ef)ris.(f.) (;) (gig'ivH'GF'gffe.) (,) (gf/giH'GF'gffe.) (,) (hhh/i_jIG'hggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "39**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "701",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

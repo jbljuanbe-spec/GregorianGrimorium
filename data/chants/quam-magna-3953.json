@@ -1,0 +1,31 @@
+{
+  "id": "quam-magna-3953",
+  "incipit": "Quam magna",
+  "title": "Quam magna",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Quam magna * multitúdo dulcédinis tuae, Dómine, quam abscondísti timéntibus te! T. P. Allelúia.",
+  "gabc": "(c3) QUAM(hjij) ma(h)gna(gvFE/fhhfh) *(,) mul(f)ti(fj)tú(ji/jhhf/hji)do(hg) (;) dul(h)cé(hi)di(h)nis(hg) tu(hvGFE)ae,(f) Dó(ehg)mi(hg)ne,(g) (:) quam(g) ab(e)scon(fg~)dí(ge/f!hh/ijIH/hvGE/f//ehg/hhg)sti(g) (;) ti(g)mén(gvFE/fdddb//de/fef)ti(e)bus(cedd) te!(dc) <i>T. P.</i>(::) Al(ddd)le(beDC//de/fef)lú(cedd)ia.(dc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "446"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3953",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

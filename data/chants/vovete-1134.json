@@ -1,0 +1,37 @@
+{
+  "id": "vovete-1134",
+  "incipit": "Vovete",
+  "title": "Vovete",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Vovéte, * et réddite Dómino Deo vestro, omnes qui in circúitu ejus affértis múnera: terríbili, et ei qui aufert spíritum príncipum: terríbili apud omnes reges terrae.",
+  "gabc": "(f3) VO(e!f'g)vé(f)te,(f.) *(,) et(e!f'h~) réd(hhi)di(h)te(h.) (,) Dó(h)mi(hhh)no(f) De(h)o(f) ves(hih)tro,(hhh) (;) om(fgF~'E~)nes(f_e) qui(e) in(e) cir(ehg~)cú(hi)i(i)tu(hi) e(i)jus(e.) (,) af(f)fér(hih)tis(gh) mú(f)ne(fgf___)ra:(f.) (:) ter(h)rí(hj)bi(iji)li,(i.) (,) et(hg) e(hif___)i(f.) qui(hg) au(hi)fert(hvGF) (,) spí(h)ri(h)tum(g!i'j) prín(ji/jhi)ci(h.g!hwihi)pum:(ih..) (:) ter(h)rí(hgh)bi(f)li(e.) (,) a(fgef)pud(efE'C) om(ef)nes(f_e) re(hh)ges(ig/h_g) ter(fg!hvGF'g)rae.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "368"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1050"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1134",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

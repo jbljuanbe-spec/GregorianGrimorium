@@ -1,0 +1,31 @@
+{
+  "id": "domine-memorabor-6241",
+  "incipit": "Domine, memorabor",
+  "title": "Domine, memorabor",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Domine, memorábor justítiæ tuæ solíus: Deus docuísti me a juventúte mea: et usque in senéctam et sénium, Deus ne derelínquas me.",
+  "gabc": "(c4) Do(f!gh)mi(g)ne,(g) (::) me(g)mo(gf)rá(ghfg)bor(d) (;) ju(d)stí(feg)ti(gefd)æ(d) tu(gfg)æ(g) (;) so(fg/hjij)lí(jhjg)us:(g) (:) De(j)us(jjv) do(ji)cu(h)í(i!jk)sti(ji) me(g) (;) a(gh) ju(g)ven(gh/ji)tú(ih)te(jkj) me(ixhgiHF)a:(f) (:) et(f) u(fh//jjk)sque(j) in(h) se(g)né(fgfg)ctam(d) (;) et(f) sé(e!fg)ni(ge/fd)um,(d) (;) De(gfg)us(ixgiggf) (;) ne(f!hj) de(f!hj)re(iyji//jvHG)lín(g)quas(gfhg) me.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "327"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6241",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

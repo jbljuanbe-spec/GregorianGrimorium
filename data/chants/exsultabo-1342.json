@@ -1,0 +1,31 @@
+{
+  "id": "exsultabo-1342",
+  "incipit": "Exsultabo",
+  "title": "Exsultabo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Exsultábo et laetábor in misericórdia tua, quóniam respexísti humilitátem meam: salvásti de necessitátibus * ánimam meam.",
+  "gabc": "(c2) AL(cd)le(c)lú(cfe/gh)ia.(g.) *(;) (fh!ivHGhvGFg.) (,) (fh!ivHGhvFDffg//cd!fvEDdc.) (,) (eg!hvGE.ced/eddc.) <sp>V/</sp>.(::) Ex(cd)sul(c)tá(cfe)bo(fg) (,) et(gh) lae(g)tá(gh!ij)bor(iivHG.) (;) in(g) mi(g)se(g/hih)ri(gf)cór(fvEDef!hvGF'fvEDef)di(f)a(e!fw!gvF'ED'ew!fvED') tu(c!d'e)a,(dc..) (:) quó(c)ni(cg)am(g) re(g)spe(gfg)xí(ihi/jg//jvIH'Fg.;gfg/ihi/jg//jvIH'F)sti(g'/hihhg.) (;) hu(g)mi(g)li(hih)tá(gf)tem(f) me(fvEDef!hvGF'fvEDef)am:(e./fgf'/gd//evDCdc..) (:) sal(cd~)vá(d!ff)sti(d_c) (,) de(c) ne(c)ces(cd)si(c)tá(c.d!ewfef)ti(e)bus(e.) *(,) á(f)ni(e)mam(fg) me(fe/fgf/gh)am.(g.) (;) (fh!ivHGhvGFg.) (,) (fh!ivHGhvFDffg//cd!fvED'dc.) (,) (eg!hvGE.ced/eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[148]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1342",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

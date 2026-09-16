@@ -1,0 +1,31 @@
+{
+  "id": "majorem-hac-dilectionem-3403",
+  "incipit": "Majorem hac dilectionem",
+  "title": "Majorem hac dilectionem",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Majórem hac * dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis. Ps. Beátus qui intélligit super egénum et páuperem: * in die mala liberábit eum Dóminus. Glória Patri E u o u a e",
+  "gabc": "(c3) MA(gxdf)JÓ(fg)REM(ed) hac(de!fvfe) *(,) di(f)le(d)cti(f)ó(hhi)nem(h) (,) ne(ihhvGF)mo(hh) ha(hi!jvIHi)bet,(ih) (:) ut(hf) á(hj)ni(i)mam(h) su(hiHF)am(f) po(gxde/fe/fg)nat(fe) quis(hh) (,) pro(d) a(ef)mí(f/hhf)cis(e) su(ef/hfh)is.(d) <i>Ps.</i>(::) Be(d)á(f)tus(h) qui(h) in(h)tél(h)li(h)git(h) su(h)per(h) e(h)gé(h)num(h) et(i) páu(i)pe(h)rem:(h) *(:) in(f) di(h)e(h) ma(h)la(h) li(h)be(h)rá(h)bit(h) e(i)um(g) Dó(h)mi(f)nus.(f) (::) Gló(d)ri(f)a(h) Pa(h)tri(h) (::) E(h) u(h) o(i) u(g) a(h) e(fe/fvED/e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "488"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3403",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

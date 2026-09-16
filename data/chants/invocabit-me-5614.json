@@ -1,0 +1,31 @@
+{
+  "id": "invocabit-me-5614",
+  "incipit": "Invocabit me",
+  "title": "Invocabit me",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Invocábit me, et ego exáudiam eum: erípiam eum, et glorificábo eum: longitúdine diérum adimplébo eum. ℣. Qui hábitat in adjutório Altíssimi, in protectióne Dei cæli commorábitur. Glória E u o u a e",
+  "gabc": "(c3) In(ed~)vo(e)cá(fhgh)bit(fd~) me,(e) (::) et(fde) e(ef/hg)go(h) (;) ex(h)áu(hhg~)di(fe)am(e!fh) e(hfhe)um:(e) (:) e(fdf)rí(hhv)pi(f)am(fdf) e(fgFEf)um,(fe) (;) et(ef) glo(e)ri(ef/hg)fi(h)cá(gi/jhhf)bo(hg) e(hghf)um:(f) (:) lon(g)gi(h)tú(i)di(h)ne(h) di(f)é(fgFEf)rum(fe) (;) ad(e!fg)im(gf~)plé(fgEC)bo(c/ef) e(fgFEf)um.(fe) <sp>V/</sp>.(::) Qui(e) há(f)bi(eh)tat(h) in(h) ad(h)ju(hg)tó(hi)ri(i)o(i) Al(i)tís(hi)si(h)mi,(h) (::) in(h) pro(fh)te(h)cti(h)ó(h)ne(h) De(h)i(h) cæ(h)li(hg) com(ef)mo(hg)rá(f)bi(e)tur.(e) (::) Gló(e)ri(f)a(eh) (::) E(h) u(hg) o(ef) u(hg) a(f) e(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "77"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5614",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

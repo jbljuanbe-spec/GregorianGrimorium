@@ -1,0 +1,31 @@
+{
+  "id": "vox-in-rama-4760",
+  "incipit": "Vox in Rama",
+  "title": "Vox in Rama",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Vox in Rama audíta est plóratus, et ululátus: Rachel plorans fílios suos, et nóluit consolári, quia non sunt.",
+  "gabc": "(c3) Vox(ef) in(hg) Ra(hi)ma(i) (::) au(ih)dí(ik)ta(ji) est(i) (;) pló(i)ra(ih)tus,(g) et(h) u(i)lu(h)lá(fh)tus:(g) (:) Ra(i)chel(ih/ijji) plo(gihhv)rans(hgg) (;3) fí(i)li(h)os(gh) su(fhe)os,(e) (:) et(e) nó(hhv)lu(fh)it(h) con(hf~)so(h)lá(hi)ri,(g) (;) qui(iih//ivHGh//f!hi)a(hg) non(efe) sunt.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "392"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4760",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

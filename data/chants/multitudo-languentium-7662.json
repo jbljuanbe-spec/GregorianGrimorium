@@ -1,0 +1,31 @@
+{
+  "id": "multitudo-languentium-7662",
+  "incipit": "Multitudo languentium",
+  "title": "Multitudo languentium",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Multitúdo languéntium, et qui vexabántur a spirítibus immúndis, veniébant ad eum: quia virtus de illo exíbat, et sanábat omnes.",
+  "gabc": "(f3)Mul(f)ti(ef)tú(fhGF)do(fh) (::) lan(hf~)guén(hi)ti(h!ijIHi)um,(ih) (;) et(hi) qui(h) ve(hg)xa(f)bán(hfh)tur(hiih) (;) a(f) spi(fe)rí(fh)ti(h)bus(gf) im(fe)mún(f!ghGFgffe~)dis,(fe) (;) ve(f)ni(h)é(hih)bant(h) ad(fe) e(f!ghGFg)um:(gf) (:) qui(h)a(i) vir(kxi!jkj)tus(ji) (;) de(hg) il(hi)lo(ih) ex(hg)í(f!ghGFgvFEf)bat,(fe) (;) et(f) sa(hg)ná(hhgh/ih//ihhvGFg)bat(gf) (,3) om(fg/hgh)nes.(gf) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "401"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7662",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

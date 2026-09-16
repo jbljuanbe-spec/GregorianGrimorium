@@ -1,0 +1,31 @@
+{
+  "id": "quasi-arcus-815",
+  "incipit": "Quasi arcus",
+  "title": "Quasi arcus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Quasi arcus refúlgens inter nébulas glóriae: et quasi flos rosárum * in diébus vernis.",
+  "gabc": "(c4) AL(g!hi~)le(i.h!iwjjvIH'Ghhg)lú(gi~)ia.(ij//ijhivHG.) *(,) <i>ij.</i>(ghg/h!iw!jvIH'ihhg.) <sp>V/</sp>.(::) Qua(g)si(hi) ar(ih)cus(h!iwjjvIH'G) re(g)fúl(ghhg)gens(g.) (,) in(g)ter(hi~) né(ih)bu(ivHG)las(g') gló(g)ri(gf)ae:(e!fg/hhg.) (;) et(gh) qua(gh)si(hih__!iwjjvIH'G) flos(ghhg) ro(g)sá(ef!gh)rum(hihivHG.) *(,) in(gi~) di(ij//ijhivHG)é(ghg)bus(g.h!iwjiih/ih) ver(g)nis.(hih/ivHG.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "86**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "815",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

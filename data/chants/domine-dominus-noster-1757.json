@@ -1,0 +1,31 @@
+{
+  "id": "domine-dominus-noster-1757",
+  "incipit": "Domine Dominus noster",
+  "title": "Domine Dominus noster",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Domine * Dóminus noster, quam admirábile est nomen tuum in univérsa terra! ℣. Quóniam eleváta est magnificéntia tua * super coelos.",
+  "gabc": "(c4) DO(ffg)MI(f)NE(f) *(,) Dó(ghgh)mi(gf)nus(ffhg) nos(f)ter,(fffvDC/dff//hg/hggf) (:) quam(ixhih) ad(hg~)mi(gj)rá(j)bi(ixkjjhi)le(ih) est(fh) (,) no(h)men(gf!gw!hvGFg) tu(ghg)um(g) (;) in(h) u(hg)ni(gj)vér(j)sa(ixjh!iw!jvIG/hw!ivHG) ter(fgf)ra!(f!hj) (,) (fh!jvvIG//fhg/hggf) <sp>V/</sp>.(z0::c3) Quó(d)ni(d)am(d) e(d)le(fe)vá(eh)ta(h) est(hih//ih/jvHF) (,) (hg/ijh jvIH/jvIH//hvGF) (:) ma(f)gni(fe)fi(h)cén(h)ti(gh)a(fe//fhe/fe) tu(de!fvEDe)a(ed) *(;) su(de)per(f) coe(fhGF/hhh)los.(hhf) (,) (gxgf/gvED//fgED//fe/hvhhhff//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "292"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1757",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

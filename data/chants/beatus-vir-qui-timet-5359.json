@@ -1,0 +1,31 @@
+{
+  "id": "beatus-vir-qui-timet-5359",
+  "incipit": "Beatus vir qui timet",
+  "title": "Beatus vir qui timet",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis.",
+  "gabc": "(c3) Al(d!fh)le(hf)lú(f//hih~)ia.(ih) (::) (ih//ffd) (;4) (gxfgFE) (;) (hihhf) (;4) (dfefeed) <sp>V/</sp>.(::) Be(d!fh)á(h//ivHE;4gxgfgED;df/hf)tus(f//hih//jvIH) vir,(h) (;) qui(hf) ti(g)met(fe//hihhf) (;3) (egFEf) Dó(d)mi(ded)num:(d) (:) in(d) man(d)dá(efef//ffef;hihih//ffef;hiHF)tis(gxgvFE) e(fhggfg)jus(gxgf) (::) cu(d!ef)pit(fgFE) ni(i)mis.(hhffv) (;4) (dfefeed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "407"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5359",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

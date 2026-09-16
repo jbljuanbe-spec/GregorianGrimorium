@@ -1,0 +1,37 @@
+{
+  "id": "memento-verbi-tui-696",
+  "incipit": "Memento verbi tui",
+  "title": "Memento verbi tui",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Meménto * verbi tui servo tuo, Dómine in quo mihi spem dedísti: haec me consoláta est in humilitáte mea.",
+  "gabc": "(c4) ME(f)mén(gh)to(hg) *() ver(h)bi(hg) tu(h)i(hf) ser(g)vo(gd) tu(f)o,(f.) Dó(e)mi(egff)ne(eef.) (;) in(d) quo(fhg) mi(h)hi(g_f) spem(gh) de(g)dí(egff)sti:(fe..) (:) haec(g) me(gh!ivih) con(h)so(hg)lá(h)ta(gh_G'_FE'f) est(fe..) (;) in(efe') hu(d)mi(efe')li(d)tá(e!f'g)te(f) me(egff)a.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "379"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1065"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "696",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

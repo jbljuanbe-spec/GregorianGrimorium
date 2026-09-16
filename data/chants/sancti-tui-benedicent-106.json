@@ -1,0 +1,37 @@
+{
+  "id": "sancti-tui-benedicent-106",
+  "incipit": "Sancti tui... benedicent",
+  "title": "Sancti tui... benedicent",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Sancti tui, Dómine, benedícent te: glóriam regni tui * dicent.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) *(,) <i>ij.</i>(hv./iji./ef/h_f//hv.ghe/hhh.f!gwhf.) <sp>V/</sp>.(::) San(f_e/f!gwh')cti(i) tu(jiihi)i,(iv.hh/fgf.) (;) Dó(f!hh/ijHF'/ivH'GEf./hfhhf/ge)mi(fe)ne,(e.) (;) be(ffe/ffe/fc..,ef!hvvF'E/hhhi)ne(h)dí(h)cent(ivH'G/hf~) te:(f.) (:) gló(f!h'i)ri(jiihi)am(iv.hh/fgf.) (,) re(f!hh/ijHF'/ivH'GE/f./hfhhf/ge)gni(e.) tu(hh)i(hi) *(,) di(i_h/jij)cent.(jvvIH'GE/f!gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "415"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1336"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "106",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

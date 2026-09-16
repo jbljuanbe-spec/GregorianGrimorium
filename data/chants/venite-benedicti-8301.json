@@ -1,0 +1,24 @@
+{
+  "id": "venite-benedicti-8301",
+  "incipit": "Venite Benedicti",
+  "title": "Venite Benedicti",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": null,
+  "text_latin": "Venite benedicti Patris mei, percipite regnum, alleluia: quod vobis paratum est ab origine mundi, alleluia, alleluia, alleluia. Ps. Exsultate justi in Domino rectos decet collaudatio Gloria Patri E u o u a e",
+  "gabc": "initial-style: 1;\r\nname: Sancti Mauricii et Sociorum eius;\r\noffice-part: Introitus;\r\nannotation: VIII;\r\n%width: 7.5;\r\n%height: 11;\r\n%spacing: vichi;\r\n%font: OFLSortsMillGoudy;\r\n%fontsize: 20;\r\n%%\r\n(c3)Ve(eh)ni(hhi)te(i) <v>\\greheightstar</v>()\r\nbe(iji)ne(h)di(ghiHGi)cti(i) Pa(i)tris(ef~) me(fvefd)i,(d) (;)\r\nper(f)ci(i)pi(h)te(hsss) re(hiHG)gnum, (hh ,) al(f)le(fvdfe)lu(efe)ia:(e) (:)\r\nquod(e) vo(e)bis(ehg) pa(hi)ra(i)tum(hi) est(ijii!ghg) (;)\r\nab(i) o(k)ri(k!kk!k)gi(i)ne(ijhi) mun(iji)di,(i) (:)\r\nal(ik~)le(ksss)lu(hih)ia,(f ,) al(hi~)le(i)lu(ki!kvJI)ia,(i ,) al(hi~)le(ivhighvFE)lu(efe)ia.(e)   \r\nPs.(::) Ex(ehg)sul(hi)ta(i)te(i) ju(ik)sti(j) in(j) Do(k)mi(kj)no(jk) <v>\\greheightstar</v>(:)\r\nre(ig~)ctos(hi) de(i)cet(i) col(ijwk)lau(i)da(h)ti(hhh)o(fe) (::)\r\nGlo(ehg)ri(hi)a(i) Pa(i)tri(i) (::)\r\nE(i) u(ijwk) o(i) u(h) a(hhh) e(fe) (::)",
+  "transcriber": "Théophane D",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8301",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

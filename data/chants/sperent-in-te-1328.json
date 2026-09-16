@@ -1,0 +1,37 @@
+{
+  "id": "sperent-in-te-1328",
+  "incipit": "Sperent in te",
+  "title": "Sperent in te",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Sperent in te * omnes, qui novérunt nomen tuum, Dómine: quóniam non derelínquis quaeréntes te: psállite Dómino, qui hábitat in Sion: quóniam non est oblítus oratiónem páuperum.",
+  "gabc": "(c4) SP{e}(gh/jij)rent(i) in(ij~) te(i.) *(,) o(ikj)mnes,(i./jjj) qui(h) no(ghg)vé(h)runt(hi/jhhg.) (,) no(gh/jij)men(j) tu(j_h/k_j)um,(j) Dó(i)mi(ikJ'I)ne:(i.) (:) quó(g)ni(hih)am(hi) non(g!h'j) de(jjjvIH)re(ghG'F)lín(gh)quis(ghggf.) (,) quae(g)rén(gh/jij)tes(g./h!iw!jvIH/ivHG'h) te:(hg..) (:) psál(gh'/ji~)li(jjj)te(h) Dó(j.h!iwj)mi(ghGF'g)no,(gf..) (;) qui(g) há(gh/i.h!iw!jvI'HG')bi(g)tat(gh/i.h!iw!jvI'HG.) (,) in(g.h!iw!jvIH) Si(fgf___)on:(fff) (:) quó(ed)ni(g)am(g) non(gh/ihi) est(g_h) ob(f)lí(e!fg/hgh)tus(fdf.) (,) o(c)ra(d)ti(f)ó(f_eg//hhj)nem(gh) páu(e)pe(egF'E)rum.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "329"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "983"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1328",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

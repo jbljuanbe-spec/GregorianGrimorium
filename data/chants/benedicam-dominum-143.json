@@ -1,0 +1,43 @@
+{
+  "id": "benedicam-dominum-143",
+  "incipit": "Benedicam Dominum",
+  "title": "Benedicam Dominum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Benedícam Dóminum, * qui mihi tríbuit intelléctum: providébam Deum in conspéctu meo semper: quóniam a dextris est mihi, ne commóvear. T. P. Allelúia.",
+  "gabc": "(c4) BE(c)ne(d)dí(ixdh'!iv)cam(hg~) Dó(h!jjj_h)mi(hg)num,(h.) *(;) qui(f) mi(g.h!iwj_h)hi(h) trí(h)bu(hgh)it(fg!hvhg.) (,) in(f)tel(ghg~)lé(h/jjjvG'F//h_g/hjh___!iwj_h)ctum:(h.) (:) pro(f)vi(g)dé(h)bam(j) De(jkJ'H)um(h.) (;) in(f) con(gh)spé(h_fh)ctu(h) me(gh!jjjggf)o(f.) sem(ixh_g/ihhf~)per:(gf..) (:) quó(fh)ni(h!iwji)am(ijh'/ivG'Fg.) (,) a(f!gwhg) dex(h_f/g_f/hjh___!iwj)tris(g) est(f) mi(d!ew!fvED'e)hi,(dc..) (;) ne(d) com(fe~)mó(f_d//gf/gffd//g_f//hvGF,fff/gf/gffe)ve(de!fvED'e)ar.(ed..) <i>T. P.</i>(::) Al(fff_d/ff/ixhiH'GF'fe~)le(ghGF'/ge/f_d,fge/fhGF'/fd/gf'/gff)lú(dc~)ia.(d/fff_d/fff/ded.___) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "116"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "511"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1484"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "143",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

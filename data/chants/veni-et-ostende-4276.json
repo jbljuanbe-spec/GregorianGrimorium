@@ -1,0 +1,31 @@
+{
+  "id": "veni-et-ostende-4276",
+  "incipit": "Veni et ostende",
+  "title": "Veni et ostende",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubim, et salvi érimus. ℣. Qui regis Israël, inténde : qui dedúcis velut ovem Joseph.",
+  "gabc": "(f3)Ve(ce!/fh)ni,(f) (::) et(e) o(fh)stén(h)de(hg) no(hghf)bis(f) (;) fá(hhv)ci(fge)em(e) tu(e!/fh)am,(h) (;3) Dó(f)mi(efEC)ne,(c) (;) qui(c) se(e!fh)des(f) su(hhv)per(fge) Ché(f)ru(hhv)bim,(ih) (;) et(f) sal(fhhv)vi(f) é(fegf)ri(fgf)mus.(f) (::) <sp>V/</sp>. Qui(e) re(f)gis(eh) Is(h)ra(hg)ël,(hi) in(i)tén(hi)de :(h) (::) qui(h) de(fh)dú(h)cis(h) ve(h)lut(i) o(hf)vem(h) Jo(ge)seph.(fgf) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "12"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4276",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

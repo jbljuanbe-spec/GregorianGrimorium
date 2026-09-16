@@ -1,0 +1,37 @@
+{
+  "id": "effuderunt-240",
+  "incipit": "Effuderunt",
+  "title": "Effuderunt",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Effudérunt * sánguinem sanctórum, velut aquam, in circúitu Jerúsalem. ℣. Et non erat qui sepelíret. ℣. Víndica, Dómine, sánguinem sanctórum tuórum, qui effúsus est * super terram.",
+  "gabc": "(c4) EF(f)fu(f)dé(fg!hvhg)runt(hggf!gw!h!ghvGFgf..) *(,) sán(gjjk)gui(h)nem(hg/hf//hjhj) san(jvIH'iw!jvI'HG'h)ctó(ghg___)rum,(g.) (;) ve(gh)lut(g) a(h_g/h!iwj)quam,(ghf.) (,) in(gh) cir(gh)cú(g)i(g)tu(h_g/h!iwj) Je(g_f)rú(g)sa(h)lem.(j./kjjg/j./kjj'jj/kjjh) (,) (ji/jjvI'Ghjh/jvHF.) (,) (gh!jvjvI'GhjHF'g/hhg.) <sp>V/</sp>.(::) Et(g) non(g) e(g!hwi'!jv)rat(j.) (,) qui(j) se(jkjj'j/kjjh,ji/jjvI'GhjhjvHF.g.h!iwj)pe(k)lí(jv.ikjjv'jvIG'h/jjhjvHF'g)ret.(g/hhg.) <sp>V/</sp>.(::) Vín(gd~)di(g)ca,(g!h'j) Dó(jjjvIH')mi(jhhg)ne,(g_h) (,) sán(h)gui(h)nem(h/jjh) sanc(gf)tó(ghg)rum(h_g) (,) (ixi_hivGF.g/hg/hg/hg/jjh/jggf.) (,) tu(gh/jij)ó(j.h!iwj)rum,(jjjvIHivHGhg..) (:) qui(g) ef(g)fú(h_g/h!iwj)sus(gh) est(g_f) *(,) su(f!h'j)per(j) ter(i_0/jhhg/hggfg.,jjjkvJ'IH'hg)ram.(ghGF.) (,) (h!iw!jijjh/ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "42"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "429"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "240",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

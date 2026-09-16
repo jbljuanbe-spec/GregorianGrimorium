@@ -1,0 +1,37 @@
+{
+  "id": "tanto-tempore-921",
+  "incipit": "Tanto tempore",
+  "title": "Tanto tempore",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tanto témpore * vobíscum sum, et non cognovístis me? Philíppe, qui videt me, videt et Patrem, allelúia: non credis quia ego in Patre, et Pater in me est? allelúia, allelúia.",
+  "gabc": "(c4) TAn(d)to(fd) tém(f)po(f)re(e_//fgf/eef/ded.) *(,) vo(d)bís(eef)cum(d) sum,(bxcdccb.) (;) et(df~) non(f) co(f)gno(fd)vís(f)tis(fg~) me?(e.) (:) Phi(f)líp(f)pe,(e_//fgf/eef/ded.) (,) qui(f) vi(gh)det(h) me,(ixhg/hih.) (,) vi(h)det(g') et(f) Pa(fff)trem,(fd~) al(fg~)le(e)lú(egff)ia:(fe..) (:) non(f_) cre(dgF'E)dis(ff) (,) qui(d)a(e) e(g!h'i)go(h) in(hg~) Pa(hj)tre,(ijI'H/ivHGh.) (;) et(e) Pa(gh)ter(g) in(ed~) me(evDC'd) est?(eef.) (;) al(c)le(d)lú(f)ia,(f_d) (,) al(fg)le(ixgv./f!gh/ig/h_g)lú(egff)ia.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "493"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1465D"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "921",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

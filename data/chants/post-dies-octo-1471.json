@@ -1,0 +1,31 @@
+{
+  "id": "post-dies-octo-1471",
+  "incipit": "Post dies octo",
+  "title": "Post dies octo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ℣. Post dies octo, jánuis clausis, stetit Jesus in médio discipulórum suórum, et dixit: * Pax vobis.",
+  "gabc": "(c3) AL(e)LE(ef//efED)LÚ(df!hvv/ij)IA(i) *(;) (hi/jh//ji/jvIH//fhGE/ffe) (;) (df!hvv/ijh//ji/jvIH//fhGE/ffe) (,) (df!hvv/ijIH/hvGFE/ffe) <sp>V/</sp>.(::) Post(ef) di(hg)es(hi) o(ij/kj/kvJI/jk)cto,(ji) (;) já(ihh)nu(f)is(fhGFg) clau(efe)sis,(e) (:) ste(e)tit(ehg) Je(hih)sus(i) (;) in(i) mé(ij/kj/kvJI/jk)di(ji)o(i) (,) di(i)sci(ij)pu(i)ló(ihh)rum(f) su(fhGFg)ó(efe)rum,(e) (:) et(e) di(e)xit:(ef//efED) *(,) Pax(df/hf) vo(h!ij)bis.(i) (;) (hi/jh//ji/jvIH//fhGE/ffe) (;) (df!hvv/ijh//ji/jvIH//fhGE/ffe) (,) (df!hvv/ijIH/hvGFE/ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "222"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1471",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tu-es-petrus-communio-666",
+  "incipit": "Tu es Petrus (Communio)",
+  "title": "Tu es Petrus (Communio)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tu es Petrus, * et super hanc petram aedificábo Ecclésiam meam.",
+  "gabc": "(c4) TU(f) es(df) Pe(fgff)trus,(cdc.) *(;) et(d) su(ffg)per(f) hanc(f) pe(fgf___)tram(f.) (;) ae(f)di(f!g'h)fi(h_g)cá(g)bo(fgFD.) (,) Ec(d)clé(ffg)si(f)am(fg/hg/h_g) me(fg!hvGF'g)am.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "412"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "534"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1521"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "577"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "666",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

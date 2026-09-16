@@ -1,0 +1,31 @@
+{
+  "id": "modicum-7569",
+  "incipit": "Modicum",
+  "title": "Modicum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Modicum et non vidébitis me, allelúia: íterum módicum, et vidébitis me, quia vado ad Patrem, allelúia, allelúia.",
+  "gabc": "(c4)MO(f/g'h)di(g)cum(g.) <v>\\greheightstar</v>(,) et(g) non(f) vi(ghg)dé(h)bi(g)tis(gfg) me,(d.) (,) al(gh)le(f)lú(hji)ia:(g.) (:) í(jjk)te(j)rum(j) mó(jhj)di(hiHG'h)cum,(h.g.) (,) et(g) vi(gd)dé(g)bi(h)tis(ijhi) me,(g.) (:) qui(ghivHG'h)a(h_g) va(g)do(f) ad(e) Pa(f)trem,(efd.) (;) al(g_f~)le(h)lú(j)ia,(i.) (,) al(j)le(hjI'G)lú(g_h_g_)ia.(g.) (::)",
+  "transcriber": "Christopher Tatum",
+  "commentary": "Io. 16,16",
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "234"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7569",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

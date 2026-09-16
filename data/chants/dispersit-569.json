@@ -1,0 +1,37 @@
+{
+  "id": "dispersit-569",
+  "incipit": "Dispersit",
+  "title": "Dispersit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Dispérsit, dedit paupéribus: justítia ejus manet in saéculum * saéculi.",
+  "gabc": "(c4) AL(g)le(g_h_g_gfg)lú(f!h'j)ia.(i_h) *(,) <i>ij.</i>(jkJ'HG.hjggfg.) (,) (ghg/hh/e!f'g//hjh/ig/hhg.) <sp>V/</sp>.(::) Dis(g)pér(g_h_g_gfg//fh!jv.h/jkJ'IHG.hjh/ig/h_g)sit,(g.) (;) de(g_dgv)dit(g.) pau(gh~)pé(hiH'G//h!iw!jvH'Gh)ri(fg)bus:(g.) (:) ju(f)stí(hj)ti(j)a(jjj) e(h!iwj/kjjvIH'G)jus(g.) (;) ma(fg)net(g) in(g) saé(gh)cu(g)lum(gfg) *(,) saé(f!h'j)cu(ih)li.(jkJ'HG.hjggfg.) (,) (ghg/hh/e!f'g//hjh/ig/hhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "556"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1480"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "569",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

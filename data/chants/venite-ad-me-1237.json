@@ -1,0 +1,43 @@
+{
+  "id": "venite-ad-me-1237",
+  "incipit": "Venite ad me",
+  "title": "Venite ad me",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Veníte ad me, omnes qui laborátis, et oneráti estis: et ego * refíciam vos.",
+  "gabc": "(c3) AL(eed~)le(ff)lú(efe/hiHF'gffe~)ia.(e.) *(;) <i>ij.</i>(de!f!gwhe./de!f!gwhe'fvED.) (;) (df!hi//hjijvHF.) (,) (ehf___!gwh'!ivHF'EDee) (,) (fh//g!h'iHF'EDee//fe/hhe.) <sp>V/</sp>.(::) Ve(e)ní(efe/hiHF'gffe)te(e) ad(d/efd/ee) me,(d.) (;) o(df!hv//jhi)mnes(i.) (,) qui(h) la(j)bo(i)rá(jkJI'i//hji/jkii,hiHF'Ehv.gh'!ivHF'EDee,fh//g!h'iHF'EDee,hji/jkJI'i//hji/jki)tis,(i.) (;) et(hjh/ii) o(e)ne(f!gwh)rá(h)ti(hhhvGF) e(fhe/fe)stis:(e.) (:) et(e) e(ef)go(e) *() re(e)fí(ef)ci(ed)am(df!hiHF'gffe~) vos.(e.) (;) (de!f!gwhe./de!f!gwhe'fvED.) (;) (df!hi//hjijvHF.) (,) (ehf___!gwh'!ivHF'EDee) (,) (fh//g!h'iHF'EDee//fe/hhe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[114]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "648"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1726"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1237",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

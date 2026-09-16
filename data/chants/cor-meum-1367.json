@@ -1,0 +1,37 @@
+{
+  "id": "cor-meum-1367",
+  "incipit": "Cor meum",
+  "title": "Cor meum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Cor meum * et caro mea exsultavérunt in Deum vivum. T. P. Allelúia.",
+  "gabc": "(c4) COR(fg) me(gff)um(de) *(,) et(cd~) ca(d!f'g)ro(gh) me(hjjg)a(g_f/hvGE.) (;) ex(fg)sul(f)ta(ghg)vé(hv.fh!jvvH'GE'f)runt(f.) (,) in(f) De(f_d/fvEC/fhg___)um(ghF'Ef) vi(ded___)vum.(d.) <i>T. P.</i>(::) Al(f)le(ef)lú(d./cd!ewf)ia.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "503"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1474"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1367",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

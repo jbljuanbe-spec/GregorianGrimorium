@@ -1,0 +1,31 @@
+{
+  "id": "jubilate-deo-omnis-terra-6611",
+  "incipit": "Jubilate Deo, omnis terra",
+  "title": "Jubilate Deo, omnis terra",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Jubiláte Deo omnis terra, servíte Dómino in lætítia: intráte in conspéctu ejus, in exsultatióne: quia Dóminus ipse est Deus.",
+  "gabc": "(c3) Ju(d)bi(d)lá(fhFE//fhe)te(d) (::) De(ev//dec/de)o(e) (;) o(gxgf~)mnis(ghggvEDe) (;4) ter(d!fh//jvIH/gyfhGE;4gxgf/ghED/ed)ra,(d) (:) ser(d)ví(fhfh)te(ef) (;3) Dó(gyhhV//fig//hjIH/ivHF)mi(f/ghf)no(f) (;) in(f) læ(ehhf//hjIH/ivHF)tí(f)ti(f/ghf)a:(f) (:) in(df)trá(hhi)te(h) (;3) in(f) con(h)spé(hi)ctu(h) e(hjIHG//hvGFg)jus,(gf) (;) in(f) ex(f!gh)sul(fe~)ta(fe)ti(edf)ó(fv//hef)ne:(ef) (:) qui(hv//fiHGE)a(ef) Dó(f!hi)mi(ihhf)nus(fhEDe) (;) i(d!ef//e!fh)pse(hghf) est(hghFE) (;1) De(effvED)us.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "125"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6611",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

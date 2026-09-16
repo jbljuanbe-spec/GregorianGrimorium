@@ -1,0 +1,31 @@
+{
+  "id": "jacob-autem-7212",
+  "incipit": "Jacob autem",
+  "title": "Jacob autem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Jacob autem génuit Joseph, virum Maríæ, de qua natus est Jesus, qui vocátur Christus. Allelúia, allelúia.",
+  "gabc": "(c4) Ja(c)cob(d) au(ixdh/iv)tem(h) (::) gé(h)nu(h)it(hg) Jo(iyhjij)seph,(hih) (;) vi(hg)rum(fe) Ma(ghg)rí(f!ghGFg)æ,(gf) (:) de(h) qua(h) na(hg)tus(h) est(jij) Je(hih)sus,(h) (;) qui(h) vo(g)cá(f!gh)tur(hg//hfgFE) Chri(de/fef)stus.(ed) (:) Al(ixhi)le(h)lú(hgh>)ia,(fd) (;) al(fg>)le(ef//ghf/gvFE)lú(de/fef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "368"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7212",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

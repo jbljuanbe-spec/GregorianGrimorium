@@ -1,0 +1,31 @@
+{
+  "id": "laetatus-sum-1011",
+  "incipit": "Laetatus sum",
+  "title": "Laetatus sum",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Laetátus sum * in his quae dicta sunt mihi: in domum Dómini íbimus. ℣. Fiat pax in virtúte tua: et abundántia * in túrribus tuis.",
+  "gabc": "(c2) LAe(ff)tá(g)tus(fgF'Dgfg) sum(g./hiHG'gf/ghg___.) *(;) in(fg) his(gj) quae(j) di(jii)cta(g) sunt(gj~) mi(j_)hi:(g) (,) (ihi/j_i//hjii/ghg.) (:) in(gh) do(gh)mum(g_e) Dó(f)mi(dec)ni(c.) (,) í(eggf/g_e//fvED'e!f'g/ffd!ewf)bi(cdc___)mus.(c.)\r\n<sp>V/</sp>.(::) Fi(gfg)at(gj~) pax(j_kJ'G//ihi/j_i//hjii/ghg.) (;) in(f) vir(g)tú(g!ii//iikvJI'ig)te(gffd) tu(fdffd/ec)a:(c.) (:) et(g) a(c)bun(df~)dán(fv.d!gf'g/jv.iiiih~)ti(ij)a(j_g//ihi/j_i//hjii/ghg.) *(;) in(cd) túr(fgf)ri(dgf/gh)bus(gh) tu(gf)is.(f.) (,) (hg/i_h/giHG'ge./fge'/fvD'Cd_eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "139"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1011",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

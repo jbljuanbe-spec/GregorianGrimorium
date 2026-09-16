@@ -1,0 +1,31 @@
+{
+  "id": "dominus-in-sina-6865",
+  "incipit": "Dominus in Sina",
+  "title": "Dominus in Sina",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Dóminus in Sina in sancto: ascéndens in altum, captívam duxit captivitátem.",
+  "gabc": "(c3) Al(d!ef)le(fe//fhg)lú(f//hhg~)ia.(h//ivHFfe) (::) (hhv//efED) (;) (f!ghg) (;4) (ehf//gffe) <sp>V/</sp>.(::) Dó(hgih)mi(h)nus(h) in(h) Si(hg)na(h) (;) in(h) san(g!hi//ivHF//hf/gh)cto:(h) (:) a(hf)scén(hji)dens(h) (;) in(gh) al(fe//hhvGE;1gxfgFD;4egFE/fe)tum,(e) (;) cap(e)tí(feh)vam(h) du(gyhf//hvGE//fhFD;gxgvFEf//hhv//ijHF;gygig//ivHG//he//fe;1ge/gvFE/fd)xit(d) (::) cap(fd)ti(ef)vi(f)tá(hg/hfh)tem.(ghFE) (;4) (df/hf//gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "243"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6865",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

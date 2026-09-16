@@ -1,0 +1,31 @@
+{
+  "id": "jesus-autem-6861",
+  "incipit": "Jesus autem",
+  "title": "Jesus autem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Jesus autem eo quod máneat in ætérnum, sempitérnum habet sacerdótium.",
+  "gabc": "(c2) Al(c)le(cfe)lú(fg~)ia.(g) (::) (ffg/e!gh//fhg!hig) (;4) (ed!ef/gffc) (;) (ff//fd//fe/gffvDC/deddc) <sp>V/</sp>.(::) Je(cfe)sus(fg) au(ghFE/fg~)tem(g) (;) e(g)o(ig/hiHG) quod(f) má(fg)ne(gffvEDC)at(ddc) (;) in(cd) æ(cd!ef!gv)tér(ghFE/fg)num,(g) (:) sem(cfe)pi(fg)tér(g!hi/jiig!hih/ivHG)num(hg) (;) ha(g)bet(ig!hih/ivHG/hg) (::) sa(g)cer(gd)dó(dfe)ti(fg)um.(g) (;) (ffg/e!gh//fhg!hig) (;4) (ed!ef/gffc) (;) (ff//fd//fe/gffvDC/deddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "65*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6861",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

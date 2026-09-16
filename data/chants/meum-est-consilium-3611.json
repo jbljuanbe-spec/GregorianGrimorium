@@ -1,0 +1,31 @@
+{
+  "id": "meum-est-consilium-3611",
+  "incipit": "Meum est consilium",
+  "title": "Meum est consilium",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Meum est * consílium, et aéquitas, mea est prudéntia, mea est fortitúdo. ℣. Ego diligéntes me díligo: et qui mane vígilant ad me, invénient me. ℣. In viis justítiae ámbulo, in médio semitárum judícii. ℣. Ut ditem diligéntes me, et thesáuros eórum * répleam.",
+  "gabc": "(c4) ME(g)UM(g/hih) est(g/hhg) *(,) con(fg)sí(gjjk)li(h)um,(gf/ghhg) (;) et(h) aé(jij)qui(hj)tas,(jjjkhhg/hg/jjh/jggf) (:) me(g)a(gef) est(dg) pru(g)dén(gv//f!gh!jjh,jjvHGhji/jh!iwj)ti(hiHGh)a,(hg) (:) me(ixfh/ih/ig)a(j) est(j) (,) for(jjjvHGh)ti(g)tú(dg//jvHG//dg//hjhhg , jjjg/hhf/gv//dg/hgh)do.(ghg/hhg) <sp>V/</sp>.(::) E(gj)go(jijh) di(jhhg)li(gh)gén(h/ijh)tes(gf) me(gh) (,) dí(h/ijh)li(gf)go:(g/hfg) (,) (ixih/ivGF//g/hg/hg/hg/jjh/jggf) (:) et(f) qui(hj) ma(igh)ne(gf) ví(gh)gi(g)lant(gh/jij) ad(jh!iwj) me,(jjjvIHivHGhg) (;) in(g)vé(hg/h!iwj)ni(ghf)ent(f!hj) me.(jijHG//ixjjvHG/hiGF) (,) (iyh/jh/ig/hhg) <sp>V/</sp>.(::) In(gd~) vi(g)is(hj) ju(ij)stí(gf)ti(g)ae(h!iwj) (,) ám(jk~)bu(kijh)lo,(hjIG//fh/ji/jkhhg/hg/jjh/jggf) (:) in(f) mé(hj)di(igh)o(gfg) se(g)mi(g)tá(gh)rum(g) (,) ju(g)dí(gh/jij)ci(jh!iwj)i.(jjjvIH/ivHGhg) <sp>V/</sp>.(::) Ut(gd~) di(g)tem(hj) di(j)li(i)gén(jk~)tes(g) me,(hg/h!iw!jvIHijhhg) (:) et(g) the(g)sáu(gh)ros(g) e(g)ó(hg/h!iwj)rum(ghf) *() ré(f!hj)ple(j)am.(jijHGgg/hggfg) (,) (jjjkvJIHhg/hjIHGghf) (,) (h!iw!jvIHihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[158]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3611",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

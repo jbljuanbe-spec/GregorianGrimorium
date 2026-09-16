@@ -1,0 +1,31 @@
+{
+  "id": "anima-mea-6570",
+  "incipit": "Anima mea",
+  "title": "Anima mea",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Anima mea desiderábit te in nocte: sed et spíritu meo in præcórdiis meis de mane vigilábo ad te.",
+  "gabc": "(c4) A(cd)ni(df)ma(e!fgFE) (::) me(fvED)a(fd/efe) (;) de(fe)si(d)de(f)rá(gffe;3ixfg/hig)bit(fh) te(h) (;) in(ghGE) no(fgFE)cte:(e) (:) sed(df/ghg) et(ixgiHG) spí(hg)ri(e!fg)tu(hg) (;4) me(e!fgFE//fvED)o(fd/efe) (;) in(d) præ(f)cór(fe)di(dfe)is(fg) me(gf/ghgh)is(hg) (;) de(f) ma(hjh//ij)ne(gv//fgFEDf) (:) vi(c)gi(d)lá(fgf)bo(f//ghggf//ghg) (;4) ad(egffv) te.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "431"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6570",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

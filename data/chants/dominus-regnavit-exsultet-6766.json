@@ -1,0 +1,31 @@
+{
+  "id": "dominus-regnavit-exsultet-6766",
+  "incipit": "Dominus regnavit, exsultet",
+  "title": "Dominus regnavit, exsultet",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ.",
+  "gabc": "(c3) Al(d!ef)le(fe//fhg)lú(f//hhg~)ia.(h//ih//ffe) (::) (hhv//efED) (;) (f!ghg) (;4) (ehf//gffe) <sp>V/</sp>.(::) Dó(hgih)mi(h)nus(h) re(h)gná(g!hi//ivHF//hf/gh)vit,(h) (;) ex(hf)súl(hji)tet(h) (;3) (ghf//gvFE) (;) ter(hhvGE;4gxfgFD;4egFE//fe)ra:(e) (:) læ(e)tén(fe//hhf/gyhvGE//fhFD;gxgvFEf//hhv//ijHF;gygig//ivHG//he//fe;4ge//gvFE//fd)tur(d) (::) ín(fd~)su(ef)læ(f) mul(hg/hfh)tæ.(ghFE) (;4) (df/hf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "54"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6766",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

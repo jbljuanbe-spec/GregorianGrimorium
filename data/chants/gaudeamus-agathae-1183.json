@@ -1,0 +1,37 @@
+{
+  "id": "gaudeamus-agathae-1183",
+  "incipit": "Gaudeamus... Agathae",
+  "title": "Gaudeamus... Agathae",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Gaudeámus * omnes in Dómino, diem festum celebrántes sub honóre Agathae Mártyris: de cujus passióne gaudent Angeli, et colláudant Fílium Dei. Ps. Eructávit cor meum verbum bonum: * dico ego ópera mea Regi. Glória Patri E u o u a e",
+  "gabc": "(c4) GAu(c)de(d)á(ixdh'!iv)mus(h.) *(,) om(hg~)nes(hg) in(fg) Dó(gjh)mi(ixh.g!hwihi)no,(ih..) (;) di(h)em(fg~) fes(g)tum(gff) ce(dg)le(gff)brán(dg~)tes(gff) (,) sub(f) ho(g)nó(g./hjh)re(ghg.) A(f)ga(h)thae(gjj) Már(h)ty(hih___)ris:(h.) (:) de(fg) cu(fg)jus(f) pas(f)si(g)ó(g./hjh)ne(ghg.) (,) gau(fg)dent(f) An(fg/hgh)ge(gvFE'/fwgfg)li,(gf..) (;) et(f) col(g)láu(g./hjHG)dant(h_g) (,) Fí(fge)li(f)um(fg/hf/gvFE) De(d!ewfef)i.(ed..) <i>Ps.</i>(::) E(f)ruc(gh)tá(h)vit(h) cor(h) me(h)um(h) ver(hj)bum(h) bo(hg)num:(gh..) *(:) di(gf)co(gh) e(h)go(h) ó(h)pe(h)ra(hjh) me(g')a(f) Re(fff)gi.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(dc/df..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "436"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1368"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1183",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

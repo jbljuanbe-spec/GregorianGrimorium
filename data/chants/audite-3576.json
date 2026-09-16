@@ -1,0 +1,31 @@
+{
+  "id": "audite-3576",
+  "incipit": "Audite",
+  "title": "Audite",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Audíte, reges, et áuribus percípite, príncipes: ego sum quae Dómino canam, psallam Dómino * Deo Israel.",
+  "gabc": "(c4) AL(dg~)LE(gf/ghFED//fe/fhg)LÚ(fg~)IA.(g) *(;) (dg/hggf//hjIH/jjg//hvGFED/ewfd) (;) (ghGF/hhg//jjh!iwjhhg) <sp>V/</sp>.(::) Au(dg~)dí(ghg)te,(gd) re(fvED/ewf)ges,(d) (;) et(ef) áu(gh)ri(g)bus(g) per(gi~)cí(ih!iwj)pi(hgh)te,(hjg) (,) prín(hvGF/gh)ci(fe)pes:(d) (:) e(gh!iwj)go(hgh) sum(gfh) (,) quae(hk) Dó(kjji/kj)mi(hg)no(g/hfg) ca(jvIH/iwj)nam,(hg) (:) psal(geg)lam(g) Dó(gh)mi(gf)no(fh) *() De(h)o(h/jj) Is(hg)ra(fg)el.(g) (;) (dg/hggf//hjIH/jjg//hvGFED/ewfd) (;) (ghGF/hhg//jjh!iwjhhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[125]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3576",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "religio-munda-1014",
+  "incipit": "Religio munda",
+  "title": "Religio munda",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Relígio munda * et immaculáte apud Deum et Patrem, haec est: visitáre pupílos et víduas in tribulatióne eórum, et immaculátum se custodíre ab hoc saéculo.",
+  "gabc": "(c3) RE(e)lí(eg)gi(f)o(f) mun(hg~)da(f.) *(,) et(e) im(h)ma(h_f)cu(g)lá(fe)te(e.) (,) a(e)pud(f) De(g)um(f) et(ef) Pa(hg/hih)trem,(fe) haec(d!ef) est:(fe..) (:) vi(ei'!jv)si(i)tá(ihi)re(i) pu(i)pí(i)los(i) et(h) ví(i)du(h)as(h.) (,) in(h) tri(h)bu(h)la(h)ti(h)ó(he)ne(f) e(h)ó(gihh)rum,(hg..) (:) et(f) im(f)ma(h)cu(h)lá(hhg)tum(f_e) se(e) cu(f)sto(ed)dí(e_f)re(e.) (,) ab(ed) hoc(bd) saé(c)cu(cedd)lo.(dc..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "557"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1564"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1014",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

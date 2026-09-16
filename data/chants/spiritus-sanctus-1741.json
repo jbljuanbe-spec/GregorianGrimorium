@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-sanctus-1741",
+  "incipit": "Spiritus Sanctus",
+  "title": "Spiritus Sanctus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "SPíritus Sanctus * docébit vos, allelúia: quaecúmque díxero vobis, allelúia, allelúia.",
+  "gabc": "(c4) SPí(gd)ri(f)tus(g) Sanc(gh)tus(g) *(,) do(h)cé(j)bit(i) vos,(jkj) al(h)le(g)lú(hih)ia:(g) (;) quae(h)cúm(j)que(i) dí(j)xe(h)ro(ij) vo(hg)bis,(f) (;) al(gf~)le(h)lú(j)ia,(i) (,) al(j)le(hjIG)lú(ghg)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "253"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1741",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

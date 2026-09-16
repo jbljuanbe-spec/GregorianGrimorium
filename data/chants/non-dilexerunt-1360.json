@@ -1,0 +1,31 @@
+{
+  "id": "non-dilexerunt-1360",
+  "incipit": "Non dilexerunt",
+  "title": "Non dilexerunt",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Non dilexérunt ánimas suas usque ad mortem: proptérea laetámini, caeli, et qui habitátis * in eis.",
+  "gabc": "(c4) AL(ddc~)le(egE'Cd./egED'ew!fvED)lú(dcd~)ia.(d.) *(;) (dhhvGEfvED.ce/fg'EDffd.) (;) (c/ee//c/dd//ce!gvvFDee) (,) (dfegvEDffd.) <sp>V/</sp>.(::) Non(d) di(d)le(cd)xé(dfddce//fg'EDffd)runt(d.) (,) á(d)ni(d)mas(dh) su(ixhiH'GhvGEfvED)as(dfddc.) (;) us(d)que(fe) ad(fg!hvF'ED) mor(d!ewf!gvEDffd)tem:(d.) (:) prop(c)tér(cd)e(d)a(d) lae(d)tá(dh/jjggf/gh.,hggf/gh/jjggf/gh.,g.h!iwj!kvJ'IH'Gh.,hkkj/klJ'IH'Gh.,g.h!iwj/kjjvIH)mi(gh)ni,(h) cae(hih__)li,(h.) (:) et(h) qui(hg) ha(h)bi(hjI'Gi!jk)tá(ih/jjh)tis(h.) *(;) in(ddc/egE'Cd./egED'ew!fvED) e(dcd)is.(d.) (;) (dhhvGEfvED.ce!fg'EDffd.) (;) (c/ee//c/dd//ce!gvvFDee) (,) (dfe/gvEDffd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "135**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1360",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

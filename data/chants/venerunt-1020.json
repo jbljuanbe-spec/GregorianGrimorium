@@ -1,0 +1,31 @@
+{
+  "id": "venerunt-1020",
+  "incipit": "Venerunt",
+  "title": "Venerunt",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Venérunt de tribulatióne magna, et lavérunt stolas suas, et dealbavérunt eas * in sánguine Agni.",
+  "gabc": "(c4) AL(gf~)le(d/ef/ghg__)lú(fg~)ia.(g.) *(;) <i>ij.</i>(ghg/fgf/deddc.) (,) (cd!ef!gv'//hihhg.) <sp>V/</sp>.(::) Ve(cd!e!fwg)né(ghg__jvIHG'Efg)runt(g.) (,) de(gvFD'eddc) tri(c)bu(d)la(e)ti(f)ó(ghg__)ne(fg) ma(g)gna,(g.) (;) et(gf~) la(d)vé(e!fg)runt(g) sto(hg)las(fg) su(ghg__)as,(g.) (:) et(jvIGjvIG'hgg) de(d)al(e)ba(f)vé(hg)runt(fg) e(ghg__)as(g.) *(;) in(g) sán(ghg)gui(fe)ne(fg) A(g)gni.(g.) (;) (ghg/fgf/deddc.) (,) (cd!ef!gv'//hihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "134**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1020",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "religio-munda-3496",
+  "incipit": "Religio munda",
+  "title": "Religio munda",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Relígio munda * et immaculáte apud Deum et Patrem, haec est: visitáre pupílos et víduas in tribulatióne eórum, et immaculátum se custodíre ab hoc saéculo.",
+  "gabc": "(c3) RE(e)LÍ(eg)GI(f)O(f) mun(hg~)da(f) *(,) et(e) im(h)ma(hf)cu(g)lá(fe)te(e) (,) a(e)pud(f) De(g)um(f) et(ef) Pa(hg/hih)trem,(fe) haec(d!ef) est:(fe) (:) vi(ei!jv)si(i)tá(ihi)re(i) pu(i)pí(i)los(i) et(h) ví(i)du(h)as(h) (,) in(h) tri(h)bu(h)la(h)ti(h)ó(he)ne(f) e(h)ó(gihh)rum,(hg) (:) et(f) im(f)ma(h)cu(h)lá(hhg)tum(fe) se(e) cu(f)sto(ed)dí(ef)re(e) (,) ab(ed) hoc(bd) saé(c)cu(cedd)lo.(dc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "492"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3496",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

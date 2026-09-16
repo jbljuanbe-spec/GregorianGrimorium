@@ -1,0 +1,31 @@
+{
+  "id": "unus-panis-3845",
+  "incipit": "Unus panis",
+  "title": "Unus panis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Unus panis * et unum corpus multi sumus, omnes qui de uno pane et de uno cálice participámus.",
+  "gabc": "(c3) U(i)NUS(ig) pa(ijij)nis(ih) *(,) et(fh) u(hgh)num(fg) cor(fe)pus(e//fhe/feed) (;) mul(df!hv/ikki)ti(ig!hw!ivHGFgw!hvGF) su(ef!gvFEf)mus,(fe) (:) o(h)mnes(ik) qui(k) de(jk) u(i)no(i) pa(ijh)ne(i) (,) et(i) de(i) u(ij)no(h) cá(jk)li(j)ce(iji) (;) par(ghg)ti(f!hi)ci(ig!hw!ivHGFgw!hvGF)pá(ef!gvFEf)mus.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[98]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3845",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

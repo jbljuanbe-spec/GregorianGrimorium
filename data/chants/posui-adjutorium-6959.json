@@ -1,0 +1,31 @@
+{
+  "id": "posui-adjutorium-6959",
+  "incipit": "Posui adjutorium",
+  "title": "Posui adjutorium",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Pósui adjutórium super poténtem: et exaltávi eléctum de plebe mea.",
+  "gabc": "(c3) Al(e)le(fde)lú(hf//hhih~)ia.(ij//hhe) (::) (hig//hvFD) (;4) (fhg!ih) (;) (hhvFE//fgffe) <sp>V/</sp>.(::) Pó(ef)su(e)i(e) ad(f)ju(h)tó(i;3hif//efd;4fh//hvGFEf)ri(e)um(e) (;) su(ef)per(e) po(d!fh)tén(ji//jiih~)tem:(ih) (;3) (gxf!ghFED//efd) (:) et(d) ex(e)al(f)tá(hi//kkh//iih;hhf//hhe//ffde;d!ef//fde;4fh//hvGFE/fe)vi(e) (;1) e(ef)lé(ef)ctum(e) (::) de(e) ple(fde)be(e) me(hf//hhih)a.(ij//hhe) (;) (highFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "36*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6959",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

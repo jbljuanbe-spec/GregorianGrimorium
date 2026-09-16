@@ -1,0 +1,31 @@
+{
+  "id": "quis-sicut-dominus-430",
+  "incipit": "Quis sicut Dominus",
+  "title": "Quis sicut Dominus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Quis sicut Dóminus Deus noster, qui in altis hábitat, et humília réspicit in caelo, * et in terra?",
+  "gabc": "(c4) AL(e)le(egf/efEDeed)lú(g!hwi'!jv)ia.(ih) *(,) <i>ij.</i>(jvIHjji//gh/ihhg) (;) (gh!jvvIGhh//gh/i_g) (,) (gh!jvvIGhhvGF//ghg/hgge.) <sp>V/</sp>.(::) Quis(efE'D) sic(g)ut(hj) Dó(jj)mi(jj)nus(ih/jkJH'Ghhg.) (,) De(hih)us(iji) no(hg)ster,(g./hji/kjji.) (:) qui(g!jj) in(j) al(i_h/iji)tis(iv.hihhg.) (,) há(ghf__/gff'fd//fhG'Fghg)bi(egff)tat,(fe..) (:) et(e) hu(egf)mí(e.f!gwh)li(g)a(g) ré(hj)spi(j)cit(i/jkhhg.) (;) in(g) cae(ikjk)lo,(ji..) *() et(g) in(hiH'G) ter(g!hi'!jv)ra?(ih) (,) (jvIHjji//gh/ihhg) (;) (gh!jjvIGhh//g.h/i_g) (,) (gh!jvvIGhhvGF//ghg/hgge.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "22**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "430",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

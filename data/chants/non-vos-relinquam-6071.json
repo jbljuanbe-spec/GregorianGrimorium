@@ -1,0 +1,31 @@
+{
+  "id": "non-vos-relinquam-6071",
+  "incipit": "Non vos relinquam",
+  "title": "Non vos relinquam",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Non vos relínquam órphanos: vado, et vénio ad vos: et gaudébit cor vestrum.",
+  "gabc": "(c4) Al(d!efe~)le(dc//ddc/ixfg)lú(hih/gh~)ia.(h) (::) (dh//ivHG//hvGF//gf//ghhv) (;) (fh!ivHG/ge) (;4) (ghGFEC) (;) (egFED//ffd) <sp>V/</sp>.(::) Non(d!efe~) vos(dc//ddc) (;4) re(f!gh)lín(hvGF//ghg/ixhi)quam(h) (;) ór(hhghg~)pha(f/gh)nos:(ih) (:) va(ixdh//ivHG//hvGF//gf//gh)do,(ih) (;) et(hg~) vé(hhg)ni(fg)o(gvFD//efEDC) (;4) ad(fh//fg) vos:(g) (:) et(f) gau(ghg~)dé(ixh//igh;3fh!ivGF;eg//hf//ge//fd//cffd;cf//ghhv//ivHG//hvGF//gf//gh)bit(ih) (::) cor(d!efEDC//ddc) (;4) ve(ixfg/hih//gh)strum.(fvEC) (;) (egFE//ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "255"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6071",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

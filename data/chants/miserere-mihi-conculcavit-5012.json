@@ -1,0 +1,31 @@
+{
+  "id": "miserere-mihi-conculcavit-5012",
+  "incipit": "Miserere mihi... conculcavit",
+  "title": "Miserere mihi... conculcavit",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Miserére mihi, Dómine, quóniam conculcávit me homo: tota die bellans tribulávit me. ℣. Conculcavérunt me inimíci mei tota die: quóniam multi bellántes advérsum me. Miserére.",
+  "gabc": "(c4) Mi(ef)se(dg)ré(h)re(gjh) (::) mi(g)hi,(hj) Dó(j)mi(ikjjv)ne,(ji) (;) quó(j)ni(jijh)am(jijHGh) (;3) con(g)cul(hj)cá(ij)vit(hg) me(hj) ho(hghggv)mo:(e) (:) to(h)ta(hg) di(hjgh)e(e) bel(fgefd~)lans(d) (;) tri(fe)bu(fg)lá(ghfg;4ef/ghfg)vit(egffv) me.(fe) <sp>V/</sp>.(::) Con(g)cul(hj)ca(j)vé(j)runt(j) me(j) i(j)ni(j)mí(j)ci(j) me(j)i(j) to(jk)ta(j) di(ih)e:(hj) (::) quó(g)ni(hj)am(j) mul(j)ti(j) bel(j)lán(j)tes(ji) ad(hg)vér(h)sum(i) me.(gh) (::) Mi(ef)se(dg)ré(h)re.(gjh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "139"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5012",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

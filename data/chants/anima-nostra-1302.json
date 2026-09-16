@@ -1,0 +1,31 @@
+{
+  "id": "anima-nostra-1302",
+  "incipit": "Anima nostra",
+  "title": "Anima nostra",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Anima nostra sicut passer erépta est de láqueo venántium: láqueus contrítus est, et nos liberáti * sumus.",
+  "gabc": "(c2) AL(c)le(cfe)lú(fg~)ia.(g.) *(,) <i>ij.</i>(ffg/e!g'h//fhg__!hwi_g./e.d!ewf/gffc) (,) (fffd//fe/gffvD'Cd_eddc.) <sp>V/</sp>.(::) A(cfe)ni(fg)ma(g) no(ghF'Ef_g)stra(g.) (;) si(g)cut(g) pas(g)ser(i.g!hw!ivHG') e(g)ré(ghF'E)pta(f_g) est(ghfgvFEfe..) (;) de(f) lá(e.f!gwh)que(hg)o(ghFDgv) ve(g)nán(gffvE'DC)ti(fg)um:(g.) (:) lá(cfe)que(fg)us(g) con(gh)trí(g!hwi/jiig!hwi_hivHG)tus(h_g) est,(g.) (:) et(g) nos(i.g!hwi_hivHGh_g) li(g)be(gf)rá(g)ti(dfe) *() su(fg)mus.(g.) (,) (ffg/e!g'h//fhg__!hwi_g./e.d!ewf/gffc) (,) (fffd//fe/gffvD'Cd_eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "91**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1302",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

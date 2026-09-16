@@ -1,0 +1,31 @@
+{
+  "id": "de-excelso-6501",
+  "incipit": "De excelso",
+  "title": "De excelso",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. De excélso misit ignem in óssibus meis, et erudívit me.",
+  "gabc": "(c4) Al(fd~)le(e!fg)lú(hgh)ia.(h/ixih/ggf) (::) (hih/gge) (;4) (ghGFE//fgffe) <sp>V/</sp>.(::) De(h) ex(h)cél(ghGE)so(fgfg) (;4) mi(ghg//hf)sit(ed) i(egFD)gnem(d) (:) in(dc~) ós(f)si(ghg)bus(h) me(ixhiGEg;hiGF//ffd//gvFE;df//hf/gffv//df//gvFEf)is,(fe) (::) et(fd) e(f)ru(e!fg)dí(gd//gvFE)vit(fd) (;4) (f!gh) me.(ixhih/ggf) (;) (hih/gge) (;4) (ghGFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "481"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6501",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

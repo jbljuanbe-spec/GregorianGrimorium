@@ -1,0 +1,31 @@
+{
+  "id": "bonum-est-confiteri-1194",
+  "incipit": "Bonum est confiteri",
+  "title": "Bonum est confiteri",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Bonum est * confitéri Dómino, et psállere nómini tuo, Altíssime.",
+  "gabc": "(c4) BO(ff)num(fhg) est(//g_d) *(,) con(dg)fi(h)té(h!jjjvH'G)ri(g.f!gw!hvGF'g) Dó(g)mi(gh/jhi)no,(hg..) (:) et(fg) psál(gjj'jj/kl)le(//j_i)re(jjjhhg.) (,) nó(g!jjj)mi(jk_J'_IH'i)ni(h) tu(gh!jvIH'i)o,(ih..) (;) Al(f!h'j~)tís(j)si(j)me.(//ji/jvHF'gw!hgh/j/kjjh/jjh/jjvH'Gh_ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "76"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1194",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pro-omnibus-3822",
+  "incipit": "Pro omnibus",
+  "title": "Pro omnibus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Pro ómnibus mórtuus est Christus: ut et qui vivunt, jam non sibi vivant, sed ei qui pro ipsis mórtuus est, * et resurréxit.",
+  "gabc": "(c4) AL(gh)LE(g)LÚ(ge/fvED/evDC)IA.(c) *(;) <i>ij.</i>(efe/ghg/hig//h!iw!jvIHG) (,) (egFEC/dde//gf/hgge) <sp>V/</sp>.(::) Pro(ed) óm(f)ni(e)bus(d/efe/deddc) (,) mór(eg)tu(g)us(f) est(ghg) Chri(e!fg)stus:(g) (:) ut(g) et(gh) qui(hg) vi(fvED/gvFE)vunt,(e) (;) jam(g) non(hi) si(i)bi(hi) vi(jvIH/ivHG)vant,(g) (:) sed(ji) e(j)i(h) qui(gh) pro(g) i(e!fwg!hv)psis(g) mór(hg)tu(f)us(e) est,(dg) *(;) et(g) re(gh)sur(g)ré(ge/fvED/evDC)xit.(c) (;) (efe/ghg/hig//h!iw!jvIHG) (,) (egFEC/dde//gf/hgge) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "416"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3822",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

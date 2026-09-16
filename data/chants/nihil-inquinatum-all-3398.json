@@ -1,0 +1,31 @@
+{
+  "id": "nihil-inquinatum-all-3398",
+  "incipit": "Nihil inquinatum (All)",
+  "title": "Nihil inquinatum (All)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ij. ℣. Nihil inquinátum in eam incúrrit: candor est lucis aetérnae, et spéculum sine mácula Dei majestátis, et imágo bonitátis * illíus.",
+  "gabc": "(c2) AL(c)LE(cfe)LÚ(fg~)IA(g) *(,) <i>ij.</i>(ffg/e!gh//fhg!hwig//ed!ewf/gffc) (,) (fffd//fe/gffvDC/deddc) <sp>V/</sp>.(::) Ni(cd)hil(c) in(cfe~)qui(fg)ná(ghFEfg)tum(g) (;) in(g) e(g)am(ig!hw!ivHG) in(g)cúr(ghFEfg)rit:(ghf/gvFE/fe) (:) can(ef!gwh)dor(hg) est(ghFDgv) (,) lu(gffvEDC)cis(ddc) ae(cd!ewf!gv)tér(ghFEfg~)nae,(g) (:) et(c) spé(cfe)cu(fg)lum(g) si(g)ne(gf) má(gh)cu(g)la(g) (;) De(hfg)i(g) ma(g)je(g)stá(g!hwi/jiig!hwih/ivHGh)tis,(hg) (:) et(g) i(g)má(g)go(ig!hwih/ivHG/hg) (,) bo(gh)ni(g)tá(gd)tis(d) *() il(dfe)lí(fg)us.(g) (,) (ffg/e!gh//fhg!hwig//ed!ewf/gffc) (,) (fffd//fe/gffvDC/deddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[170]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3398",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dextera-dei-159",
+  "incipit": "Dextera Dei",
+  "title": "Dextera Dei",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Déxtera Dei fecit virtútem: déxtera Dómini * exaltávit me.",
+  "gabc": "(c4) AL(dfddc~)le(f)lú(gh~)ia.(h!iw!jvHGhvGFgge.) *(,) <i>ij.</i>(e!gwhgh//g!hw!ivHGh.//de!f'g//fh/ghffe.) <sp>V/</sp>.(::) Déx(h)te(ghG'E)ra(g) De(fg!hvED'/ewfef)i(ed..) (;) fe(de!f'g/hgh)cit(ffe) vir(dc~)tú(d!ewfef)tem:(ed..) (:) déx(c)te(d)ra(f_e) Dó(fg)mi(gvF'E/fvED'e)ni(ed..) *(;) ex(dfdd)al(dc~)tá(f)vit(gh~) me.(h!iw!jvHG/hvGF/gge.) (,) (e!gwhgh/g!hw!ivHGh. de!f'g//fh/ghffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "269"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "159",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

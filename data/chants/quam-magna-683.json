@@ -1,0 +1,31 @@
+{
+  "id": "quam-magna-683",
+  "incipit": "Quam magna",
+  "title": "Quam magna",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quam magna * multitúdo dulcédinis tuae, Dómine, quam abscondísti timéntibus te. + Allelúia. In Missis vot. extra T. P. : +",
+  "gabc": "(c4) QUam(dh~) ma(ixhihh)gna(gf..) *(;) mul(f)ti(gfg)tú(hgh)do(hvGF'h/jjvGFfd!ewf.) (,) dul(d)cé(f)di(fe)nis(ghgh) tu(h/jjvHG)ae,(gf__) (;) Dó(fgFE')mi(feede)ne,(ed..) (:) quam(e) ab(c)scon(d)dí(ixdh'!iv)sti(h.) (,) ti(h)mén(h/jjj)ti(h_g)bus(g_f) te.(ixfh/ivHGhih.) (,) (ixfh/ivHFgvFD//cffd/cf.) (,) (ixfh/ivHFgvFD//cffd/cf.) +(,) Al(c)le(d)lú(dgffe/ffvED)ia.(ed..) (::) <i>In Missis vot. extra T. P. : +</i>() (cffd!ewffvED.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "56**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "683",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "concaluit-cor-237",
+  "incipit": "Concaluit cor",
+  "title": "Concaluit cor",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Concáluit cor meum intra me: et in meditatióne mea exardéscet * ignis.",
+  "gabc": "(c4) AL(dh)le(gvFE/g.h!iw!jvIH)lú(hih___)ia.(h.) *(;) (d!ewf!gvvFE/fvED/evDCd.) (;) (hig/hffvEC'/d/fff//ef/ge//gvFED.) <sp>V/</sp>.(::) Con(d)cá(cd)lu(d)it(dffvED'/gffe) cor(dc~) me(dfd)um(effe.) (,) in(ef/gf)tra(e.d!ewfd) me:(d.) (:) et(d) in(fe) me(fg)di(gh)ta(ixhi)ti(hg)ó(hg/hvGF'/gffe)ne(e./ghGF'ED) me(c/efd)a(d.) (;) ex(h)ar(gh)dé(gf//g/hjh'/ig//hvGF'/ghhhv'GFg.,hjh'/ig//hvGF'/ghhgh)scet(gvFE) *() ig(g.h!iw!jvIH'/ih)nis.(h.) (;) (d!ewf!gvvFE/fvED/evDCd.) (;) (hig/hffvEC'/d/fff//ef/ge//gvFED.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "502"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1473"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "237",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

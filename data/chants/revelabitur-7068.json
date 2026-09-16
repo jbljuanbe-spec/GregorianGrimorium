@@ -1,0 +1,31 @@
+{
+  "id": "revelabitur-7068",
+  "incipit": "Revelabitur",
+  "title": "Revelabitur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Revelátibur glória Dómini: et vidébit omnis caro salutáre Dei nostri.",
+  "gabc": "(c4) Re(fe)ve(f)lá(fhg)ti(gf)bur(fefd) (::) gló(d/fg)ri(gf)a(f) Dó(ghgh)mi(g)ni:(fgFD) (:) et(d) vi(f)dé(feg)bit(f) o(ffe~)mnis(d) ca(fegf)ro(f) (;) sa(f)lu(ghg)tá(h;3fh/jjvHG//fg)re(f) (;) De(fdfEC;4fhg)i(ghFEf) no(ded)stri.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "25"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7068",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

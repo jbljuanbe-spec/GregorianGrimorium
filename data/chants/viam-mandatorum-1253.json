@@ -1,0 +1,37 @@
+{
+  "id": "viam-mandatorum-1253",
+  "incipit": "Viam mandatorum",
+  "title": "Viam mandatorum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Viam * mandatórum tuórum cucúrri, cum dilatásti cor meum. T. P. Allelúia.",
+  "gabc": "(c4) VI(ghg)am(fg) *() man(gjji/j_k)da(ji)tó(jv./ijhi)rum(hhg.) (,) tu(g)ó(ghGF'/gffvED/gh)rum(g.) (;) cu(h)cúr(gjI'G/hh//fh!jvGF'/fd/ef!ghg)ri,(g.) (:) cum(ghg) di(fg)la(g)tá(gj/hi//h!jj//jjjhhggf./h!iwjj)sti(k_j) (;) cor(ij/kj) me(kjj'jj_h//jjh/jvIG/h.,fh!jvIG___/ivHG/hg)um.(g.) <i>T. P.</i>(::) Al(h!iwj)le(jv.jjjg/hvGFg./jjvIH'/iw!jvIH)lú(hg~)ia.(gjh/ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "502"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1474"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1253",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

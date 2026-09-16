@@ -1,0 +1,31 @@
+{
+  "id": "ego-dominus-dabo-eis-1325",
+  "incipit": "Ego Dominus dabo eis",
+  "title": "Ego Dominus dabo eis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Ego Dóminus dabo eis nomen mélius a fíliis et filiábus: nomen sempitérnum dabo eis, * quod non períbit.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) *(,) (hv.iji./ef/hf//hv.ghf/hhhf!gwhf.) <sp>V/</sp>.(::) E(fg)go(f) Dó(f_e/f!gwh'!iv)mi(jiihi)nus(iv.hh/fgf.) (;) da(fg)bo(f) e(f!hh/ijHF'ivH'GEf./hfhhf/ge)is(e.) (;) no(f)men(ef) mé(ffe/ffe/fc..,ef!hvvF'Ehhhi)li(h)us(h.) (,) a(h) fí(hi)li(h)is(h) et(h) fi(h)li(ivH'Gh)á(fgf__)bus:(f.) (:) no(f!h'i/jiihi)men(iv.hh/fgf.) sem(f)pi(f)tér(fg~)num(f) da(fg)bo(f) e(f!hh/ijHF'ivH'GEf./hfhhf/ge)is,(e.) *(;) quod(hh) non(h) pe(hi)rí(i_h/jij)bit.(jvvIH'GE//f!gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "131**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1325",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

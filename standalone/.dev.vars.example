@@ -1,4 +1,0 @@
-# Opcional: habilita Adzuna para ampliar la cobertura de España.
-# Nunca subas .dev.vars ni estas claves a GitHub.
-ADZUNA_APP_ID=
-ADZUNA_APP_KEY=

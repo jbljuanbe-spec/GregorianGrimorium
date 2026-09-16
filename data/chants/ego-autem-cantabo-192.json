@@ -1,0 +1,31 @@
+{
+  "id": "ego-autem-cantabo-192",
+  "incipit": "Ego autem cantabo",
+  "title": "Ego autem cantabo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Ego autem cantábo fortitúdinem tuam: et exsultábo mane misericórdiam * tuam.",
+  "gabc": "(c3) AL(ef)le(f)lú(hf/hh/ihhi)ia.(ijhhe.) *(,) <i>ij.</i>(hhh'j!lvI'HGF'/gwhf.) <sp>V/</sp>.(::) E(ef)go(f'/hgh) au(fiH'Gh)tem(hg) can(fi~)tá(ijIH'/h/gh!ivHG/hi)bo(i.) (;) for(ji//jki)ti(h)tú(hji/hhf)di(f)nem(fgef) tu(f!gwhgh)am:(gf..) (:) et(g) ex(e)sul(f)tá(hjIH'/h//fiH'GE/f./hf/hf/he)bo(e.) (,) ma(egFE'/f!hhhf//ijhh)ne(g_f/gvFE/fe..) (;) mi(fd)se(e)ri(f)cór(fih/ihhe~)di(ef)am(f.) *(,) tu(hf/hh/ihhi)am.(ijhhe.) (,) (hhh'j!lvI'HGF'/gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "469"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "192",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

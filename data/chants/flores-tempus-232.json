@@ -1,0 +1,31 @@
+{
+  "id": "flores-tempus-232",
+  "incipit": "Flores... tempus",
+  "title": "Flores... tempus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Flores apparuérunt in terra nostra, tempus putatiónis * advénit.",
+  "gabc": "(c4) AL(c)le(ce!gvvE'DefE'DC)lú(ce/ggh)ia.(ggvE'DefE'DC.) *(;) <i>ij.</i>(ghgjvIH'hg./ij!kvvJI'HGhig.) (,) (ij!kvvJI'HG//higge/fg..) <sp>V/</sp>.(::) Flo(cdcfvED'ec./fe/fggvFE'D)res(c.) ap(c)pa(cd)ru(c)é(ce/ggh)runt(g.) (;) in(g) ter(ghg)ra(gd) no(ghgjvIH'hg)stra,(g.) (:) tem(ed/ef)pus(e) pu(e)ta(de)ti(e)ó(eggvFE'DCdec)nis(c.) *(,) ad(ce!gvvE'DefE'DC)vé(ce/ggh)nit.(ggvE'DefE'DC.) (;) (ghgjvIH'hg./ij!kvvJI'HGhig.) (,) (ij!kvvJI'HG//higge/fg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "5**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "232",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

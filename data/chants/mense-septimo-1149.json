@@ -1,0 +1,37 @@
+{
+  "id": "mense-septimo-1149",
+  "incipit": "Mense septimo",
+  "title": "Mense septimo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Mense séptimo * festa celebrábitis, cum in tabernáculis habitáte fécerim fílios Israel, cum edúcerem eos de terra Aegýpti, ego Dóminus Deus vester.",
+  "gabc": "(c3) MEn(h)se(fh) sép(h)ti(f!gwh)mo(h.) *(,) fes(hg)ta(fe) ce(f)le(hg)brá(f)bi(f!gw!hvGF)tis,(f!gwh.) (;) cum(e) in(f) ta(fhg)ber(h)ná(i)cu(hg)lis(hh) ha(g)bi(h)tá(i)te(ig) fé(h)ce(g)rim(f.) (,) fí(h)li(hggf)os(f_h) Is(e)ra(f)el,(f!gw!hvGF.) (:) cum(g) e(h)dú(i)ce(i)rem(g) e(h)os(gf) de(e) ter(gh)ra(g) Ae(f)gýp(ef)ti,(e.) (;) e(h)go(hvGE) Dó(f)mi(g)nus(f.) (,) De(g)us(giGF'/gw!hvGF) ves(ef!gvFE'f)ter.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "372"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1055"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1149",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

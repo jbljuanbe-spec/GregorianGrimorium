@@ -1,0 +1,31 @@
+{
+  "id": "gloriosa-5179",
+  "incipit": "Gloriosa",
+  "title": "Gloriosa",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Gloriósa dicta sunt de te María, quia fecit tibi magna qui potens est.",
+  "gabc": "(c4) Glo(ed)ri(g)ó(hj)sa(j) (::) di(j)cta(j) sunt(ih) de(i!jkj) te(ig) (;) Ma(ixhf/gh/ighg)rí(egffv)a,(fe) (:) qui(h)a(hg) fe(hj)cit(ghg) ti(e!fgFE//fvED)bi(fd//efef) (;4) ma(de)gna(gh) (;) qui(gdf) po(f)tens(egffv) est.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "381"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5179",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

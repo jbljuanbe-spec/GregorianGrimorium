@@ -1,0 +1,31 @@
+{
+  "id": "non-habemus-hic-680",
+  "incipit": "Non habemus hic",
+  "title": "Non habemus hic",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Non habémus * hic manéntem civitátem, sed futúram inquírimus. Offerámus ergo hóstiam laudis semper Deo, fructum labiórum confiténtium nómini ejus. T.P. Allelúia.",
+  "gabc": "(c4) NON(fg) ha(f)bé(fg!hvGF'g)mus(gf..) *() hic(fgd) ma(fg)nén(fh/j.h!iwj)tem(g) ci(f)vi(d!ewf)tá(fgffvED)tem,(dfddc.) (;) sed(ixf!gwh'!iv) fu(h)tú(hjhhg)ram(gfg) in(d!f'g)quí(ghgg)ri(fgF'E)mus.(f.) (:) Of(g)fe(fg)rá(f)mus(d!ff) er(d!ff/g_f)go(f.) (,) hó(hjh__!iwj)sti(g)am(fhg) lau(fg!hv_GF)dis(gf..) (;) sem(gf~)per(fgF'D) De(d!fffvEDevDC'd)o,(dc..) (:) fru(fg/hg/hj)ctum(g) la(f)bi(f)ó(f)rum(fhg) con(f)fi(ghg)tén(h)ti(gf)um(fg!hvhg.) (;) nó(fg)mi(f)ni(f.!hjGF'gvFD'f) e(fg!hvGF'g)jus.(gf..) <i>T.P.</i>(::) Al(fg)le(f)lú(fg!hvGF'g)ia.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "26**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "680",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

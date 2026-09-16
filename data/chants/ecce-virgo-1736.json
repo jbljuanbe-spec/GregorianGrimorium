@@ -1,0 +1,31 @@
+{
+  "id": "ecce-virgo-1736",
+  "incipit": "Ecce virgo",
+  "title": "Ecce virgo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ecce virgo * concípiet, et páriet fílium: et vocábitur nomen ejus Emmánuel.",
+  "gabc": "(c4) EC(d)CE(dfe) vir(fg)go(d) *(,) con(ce)cí(gh)pi(gf)et,(fv//efd) (;) et(de) pá(gh!jj/kh)ri(gh)et(h) fí(h)li(h!iwjh)um:(h) (:) et(hg) vo(jj)cá(hg)bi(ixihi)tur(gh/ih) (,) no(fe)men(f) e(ixg!hw!ivHG)jus(hg) (,) Em(fge/ed)má(d!ewf!gh)nu(fvED)el.(d)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "22"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1736",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "corona-aurea-3458",
+  "incipit": "Corona aurea",
+  "title": "Corona aurea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Coróna áurea super caput ejus: expréssa signo sanctitátis, glória honóris, et opus * fortitúdinis.",
+  "gabc": "(c4) AL(ddc~)LE(egECd//egEDew!fvED)LÚ(dcd~)IA.(d) *(;) <i>ij.</i>(dhhvGE/fvED//ce!fgEDffd) (;) (c/ee//c/dd//ce!gvvFDee) (,) (dfegvEDffd) <sp>V/</sp>.(::) Co(cd)ró(dfddce//fgEDffd)na(d) áu(dc~)re(cd)a(d) (;) su(d)per(dh~) ca(ixhiHGhvGEfvED)put(dfddc) (,) e(dfe/fg!hvFED//ef!gvEDffd)jus:(d) (:) ex(dfd)prés(cd)sa(d) (,) si(cd~)gno(d) san(dh/jjggf/gh,hggf/gh/jjggf/gh,gh!iwj!kvJIHGh,hkkj/klJIH)cti(gh)tá(gh!iwj/kjjvIH)tis,(gh) (;) gló(h)ri(gh)a(h) ho(hjIGi!jk)nó(ih/jjh)ris,(h) (:) et(d) o(cd)pus(d) *() for(d)ti(dc)tú(egECd//egEDew!fvEDd)di(cd)nis.(d) (;) (dh/hvGE/fvED//ce!fgED/ffd) (;) (c/ee//c/dd//ce!gvvFDee) (,) (dfegvED/ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[145]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3458",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

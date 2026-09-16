@@ -1,0 +1,31 @@
+{
+  "id": "pascha-nostrum-7076",
+  "incipit": "Pascha nostrum",
+  "title": "Pascha nostrum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Pascha nostrum immolátus est Christus.",
+  "gabc": "(c2) Al(c)le(c)lú(c!df;1dg//ef)ia.(g) (::) (eg//hghg) (;3) (hg//fgf/ddc) (;) (cg//hghg//hvGE) (;4) (fgfgf/ddc) (;) (gv//cdcdb) (;1) (dfdeddc) <sp>V/</sp>.(::) Pa(f)scha(e) no(ghgh)strum(g//hg//he) (;) (f!ghg//he//fgffe) (:) im(g)mo(g)lá(gj//kvJI//jvIH//iig;jkJI//jvIH//iig;3hvGFE/fd;e!fg//hig//fgf//ddc;ce//ge//geg)tus(e) (;4) (gf/dc//evDC/dc) est(c) (::) Chri(c!df//dgeg)stus.(g) (;3) (cdcdb) (;) (dfd//eddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "198"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7076",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

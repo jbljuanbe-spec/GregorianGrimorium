@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-est-1773",
+  "incipit": "Spiritus est",
+  "title": "Spiritus est",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Spíritus est qui vivíficat: caro autem non prodest * quidquam. Non repetitur Allelúia.",
+  "gabc": "(c4) AL(g)LE(g)LÚ(gh!jvIH)IA.(jkJG//hvGFg) *(;) (dg/hggf//h/jh/ig) (,) (dg/hggf//h/ijg) <sp>V/</sp>.(::) Spí(gg)ri(g)tus(gi) est(ijIG//hihhg) (,) qui(gh) vi(gd)ví(g)fi(gh!ivHGh)cat:(hg) (:) ca(g)ro(ge//fgFE/fvED) au(gh!ivHGh)tem(hjg) (,) non(gfh) prod(hv//gjh/ih//gjhi)est(hg) *(;) quid(gh!jvIH)quam.(jkJG//hvGFg) (;) (dg/hggf//h/jh/ig) (,) (dg/hggf//h/ijg) (::) <i>Non repetitur</i> Allelúia. ()",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "260"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1773",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

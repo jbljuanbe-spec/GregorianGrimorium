@@ -1,0 +1,37 @@
+{
+  "id": "confiteor-tibi-1034",
+  "incipit": "Confiteor tibi",
+  "title": "Confiteor tibi",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Confíteor tibi, * Pater, Dómine caeli et terrae, quia abscondísti haec a sapiéntibus, et prudéntibus, et revelásti ea párvulis. ℣. Dómine spes mea a juventúte * mea.",
+  "gabc": "(c4) COn(d)fí(ffg)te(f)or(f) ti(fg)bi,(f.) *(,) Pa(ghg'/hg)ter,(gv.fgFD.) (,) Dó(dgf/gh)mi(g)ne(g) cae(fg)li(f) et(f) ter(fffvDC'dff//hghf)rae,(f.) (:) qui(h)a(h) ab(g)scon(jj)dí(j)sti(ji) haec(hgj./klkkj.) (;) a(j) sa(j)pi(hj)én(j)ti(kvJH)bus,(h) et(f) pru(h)dén(gv.fhfg)ti(hg)bus,(g.) (:) et(f) re(f)ve(hg)lá(gj)sti(j) e(j)a(ixj.h!iw!jvIG'hw!ivHG') pár(f)vu(fgf__)lis.(ixf./hj/klKJ'jg/h_f//hiGF.) <sp>V/</sp>.(z0::c3) Dó(hh)mi(h)ne(ihh'hfhv.ijh.) (,) (hv.ijIH.ijHF.ghFD.) (,) (fdfED//fd/ef/hh/ig/hf/hi/kkkh..) (;) spes(hf/hhh) me(h)a(h.f!gwh!iv.hi/jhh/iih.) (;) a(d) ju(d)ven(d)tú(dfE'D)te(ef) *() me(fhG'Fhhh)a.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff/dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "613"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1668"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1034",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tu-es-petrus-communio-3922",
+  "incipit": "Tu es Petrus (Communio)",
+  "title": "Tu es Petrus (Communio)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Tu es Petrus, * et super hanc petram aedificábo Ecclésiam meam.",
+  "gabc": "(c4) TU(f) es(df) Pe(fgff)trus,(cdc) *(;) et(d) su(ffg)per(f) hanc(f) pe(fgf)tram(f) (;) ae(f)di(f!gh)fi(hg)cá(g)bo(fgFD) (,) Ec(d)clé(ffg)si(f)am(fg/hg/hg) me(fg!hvGFg)am.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "362"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "470"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3922",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

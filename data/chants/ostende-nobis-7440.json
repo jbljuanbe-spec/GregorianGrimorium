@@ -1,0 +1,24 @@
+{
+  "id": "ostende-nobis-7440",
+  "incipit": "Ostende nóbis",
+  "title": "Ostende nóbis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": null,
+  "mode_variant": null,
+  "version": "Salmodia",
+  "text_latin": "Allelúia, allelúia. ℣. Osténde nóbis, Dómine, misericórdiam túam: et salutáre túum da nóbis. Allelúia.",
+  "gabc": "(cb3) Al(g)le(g)lú(g)ia,(g) (,) al(f)le(g)lú(e'd)ia.(d.) (::)\r\n<sp>V/</sp>. Os(d)tén(e)de(g) nó(g)bis,(g)\r\nDó(g)mi(g)ne,(g) (;) mi(g)se(g)ri(g)cór(g)di(g)am(g) tú(h')am:(g.) (:) et(g) sa(g)lu(g)tá(g)re(g)\r\ntú(g)um(f) da(g) nó(e')bis.(d.) (::) Al(f)le(g)lú(e'd)ia.(d.) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7440",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

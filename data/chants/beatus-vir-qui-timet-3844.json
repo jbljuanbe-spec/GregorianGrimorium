@@ -1,0 +1,31 @@
+{
+  "id": "beatus-vir-qui-timet-3844",
+  "incipit": "Beatus vir qui timet",
+  "title": "Beatus vir qui timet",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Beátus vir * qui timet Dóminum, qui mandátis ejus cupit nimis ℣. Potens in terra erit semen ejus: generátio rectórum benedicétur. ℣. Glória et divítiae in domo ejus, et justítia ejus manet * in saéculum saéculi.",
+  "gabc": "(c4) BE(g)Á(g/hih)TUS(g/hhg) vir(g) *(,) qui(gjj) ti(jk)met(hvGFghhg) (,) Dó(hjij)mi(hj)num,(jjjkhhg/hg/jjh/jggf) (:) qui(f!hj) man(igh)dá(gfg)tis(gh/jij) e(jh!iwj)jus(jjjvIH/ivHG/hg) (;) cu(ixfh/ih/ig)pit(j) ni(jv//ijg//ixjjvHG/hiGF,iyh/jh/ig)mis(g/hhg) <sp>V/</sp>.(::) Po(g!hwi!jv)tens(j) in(j) ter(j)ra(j) e(ij)rit(j) (,) se(j)men(j) e(jkJG/hg/h!iw!jvIH/ijh)jus:(hg) (:) ge(f!hj)ne(igh)rá(gf/gh)ti(g)o(g) re(gh/jij)ctó(jh!iwj)rum(jjjvIH/ivHG/hg) (;) be(hg/h!iwj)ne(ghGF)di(f!hj)cé(j)tur.(jijHG//ixjjvHG/hiGF) (,) (iyh/jh/ig/hhg) <sp>V/</sp>.(::) Gló(g!hwi!jv)ri(j)a(j) et(j) di(j)ví(ij)ti(j)ae(j) (,) in(j) do(j)mo(j) e(jkJG/hg/h!iw!jvIH/ijh)jus,(hg) (:) et(f!hj) ju(igh)stí(gf/gh)ti(g)a(gh/jij) e(jh!iwj)jus(jjjvIH/ivHG/hg) (;) ma(hg/h!iwj)net(gh) *(,) in(f) saé(fh!iw!jk)cu(j)lum(j) saé(j)cu(j)li.(jijHG/gg/hggfg) (,) (jjj/kvJIH/hg/hjIHG/ghf) (,) (h!iw!jvIH/ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[7]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3844",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

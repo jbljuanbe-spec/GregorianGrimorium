@@ -1,0 +1,31 @@
+{
+  "id": "franciscus-3374",
+  "incipit": "Franciscus",
+  "title": "Franciscus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Francíscus pauper et húmilis, coelum dives ingréditur, hymnis coeléstibus * honorátur.",
+  "gabc": "(c4) AL(cd/fg)LE(edf//efd/ed)LÚ(cd~)IA.(d) *(;) <i>ij.</i>(ixfg!hvhf//hv//giHF) (,) (ixhv//giHGF//deddc) (,) (cf/g/hh//fhghvFED/ffd) <sp>V/</sp>.(::) Fran(cd/fgEDfv//efd/ed)cís(cd)cus(d) (,) pau(f!gh)per(hf) et(ixhv//giHF) (,) (ixhv//giHGF//deddc) hú(cd/fg)mi(edffd)lis,(d) (:) coe(h)lum(g) di(h)ves(g) in(fh~)gré(ixhg/hh//fh!ivGFhh/fhf/gf)di(dcd)tur,(d) (:) hy(ixdcf//hfhivGFhv//,ixf!gwhghivGFh)mnis(hgg) (,) coe(e!fg)lé(edf//efd/ed)sti(cd)bus(d) *(;) ho(cd/fg)no(edf//efd/ed)rá(cd)tur.(d) (;) (ixfg!hv//hf//hv//giHF) (,) (ixhv//giHGF//deddc) (,) (cf/g/hh//fhghvFEDffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "531"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3374",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

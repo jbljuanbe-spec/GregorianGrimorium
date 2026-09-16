@@ -1,0 +1,31 @@
+{
+  "id": "surrexit-dominus-vere-1217",
+  "incipit": "Surrexit Dominus vere",
+  "title": "Surrexit Dominus vere",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Surréxit Dóminus vere, et appáruit * Petro.",
+  "gabc": "(c4) AL(fg~)le(g/hjg/hvGF)lú(fh!jjk)ia.(jjvIGh.) *(,) <i>ij.</i>(ijH'G/ixfihhg.) <sp>V/</sp>.(::) Sur(fg)réx(g/hjg/hvGF'g)it(f.) (,) Dó(fh!jjk)mi(j)nus(j) ve(jv_IGh. , ijH'G//ixfihhg)re,(g.) (:) et(fg) ap(g/hjg/hvGF'g)pá(fg)ru(f)it(f.) *(,) Pe(fh!jjk)tro.(jjvIGh.) (,) (ijH'G//ixfihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "251"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1217",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

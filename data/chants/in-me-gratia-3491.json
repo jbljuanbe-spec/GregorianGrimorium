@@ -1,0 +1,31 @@
+{
+  "id": "in-me-gratia-3491",
+  "incipit": "In me gratia",
+  "title": "In me gratia",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "In me * grátia omnis viae et veritátis, in me omnis spes vitae et virtútis: ego quasi rosa plantáta super rivos aquárum fructificávi.",
+  "gabc": "(c4) IN(df) me(ef!ghhg) *(,) grá(hv//jkjkvJI)ti(jjjh)a(hg) (;) o(hggf~)mnis(f) vi(hg/jjjh//jkJIjjjh)ae(hgh) (,) et(h) ve(hi)ri(hg)tá(gjIHhg)tis,(ghggf) (:) in(hj) me(jjj//jkj) o(jj//jkj)mnis(jkjjgh) spes(gihhg) vi(gh/ji)tae(j) (,) et(jjjgh/jkj) vir(jjjg//hj/klj)tú(jjjg//jvIHhg)tis:(ghggf) (:) e(fh)go(hjIH) qua(gjjj)si(j) ro(jjjk/jlk)sa(kljjh) (,) plan(hg~)tá(gjIGhvGF)ta(f) (;) su(f)per(f) ri(fhg)vos(g) a(g)quá(g/jj//jjj)rum(h!iw!jvIHGhih) (;) fru(gf)cti(gh)fi(hg)cá(h/jkjjh//jjh/jjvHG)vi.(g/hihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "540"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3491",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

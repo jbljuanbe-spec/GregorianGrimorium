@@ -1,0 +1,31 @@
+{
+  "id": "doctrinam-5922",
+  "incipit": "Doctrinam",
+  "title": "Doctrinam",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Doctrínam quasi antelucánum illúmino ómnibus, et enarrábo illam usque ad longínquum.",
+  "gabc": "(c4) Do(dfd)ctrí(eef/dgf//ff//fvDC//dfDC//dfd!ef)nam(f) (::) qua(ef!gh)si(hg) an(g)te(d!ef)lu(gf)cá(f!ghgh)num(eef) (;) il(d)lú(dg)mi(hg)no(g) ó(hjh!ij)mni(g)bus,(fgffd) (:) et(f) e(fe/f!gh)nar(hg)rá(g//jj//jvIH)bo(gh) il(egFE)lam(fff) (;) u(dec)sque(fv//fff) ad(eef) lon(d!ef)gín(fff/ghGD/fff/hvGF/gvFE)quum.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "502.2"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5922",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "levita-laurentius-5870",
+  "incipit": "Levita Laurentius",
+  "title": "Levita Laurentius",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Levíta Lauréntius bonum opus operátus est: qui per signum Crucis cæcos illuminávit.",
+  "gabc": "(c3) Al(d)le(efd//effe)lú(df//hvGFh>)ia.(e) (::) (hi!jvv//hiiv//efED//ffe) (;) (hig//hvFEDCB) (;) (ef/hhvGFE/ffe) <sp>V/</sp>.(::) Le(fh)ví(hvGF//he)ta(e) (;4) Lau(d)rén(efef//hvGF//he//fe)ti(de)us(e) (:) bo(ei)num(i) o(i!jkj//kvJH//jh//ij)pus(i) (;) o(ij)pe(i)rá(jv//klj//kvJI//jvIH/iiv;ei//jvIH//hvGFE)tus(de) est:(e) (:) qui(ef) per(e) si(ehg)gnum(hi//jkJI//hhg) Cru(hih//ij)cis(i) (;) cæ(hf//hvGE//fvED//fgffv)cos(e) (::) il(d)lu(efde)mi(fe)ná(df//hvGF/hv)vit.(e) (;) (hi!jvv//hiiv//ef/hhvGFE//ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "544"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5870",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

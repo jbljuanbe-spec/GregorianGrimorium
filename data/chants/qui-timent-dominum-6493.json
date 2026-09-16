@@ -1,0 +1,31 @@
+{
+  "id": "qui-timent-dominum-6493",
+  "incipit": "Qui timent Dominum",
+  "title": "Qui timent Dominum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Qui timent Dóminum, sperent in eum: adjútor et protéctor eorum est.",
+  "gabc": "(c4) Al(d)le(ff)lú(gf//ghgh)ia.(h//jvHGF) (::) (eg/hgh) (;4) (fhg//hffvEC) (;) (d!fg) (;4) (egFED//ffd) <sp>V/</sp>.(::) Qui(cd) ti(dh;3ixgih//ivGF;ggf//ggv//f!gh//jjg;hhg//hvGF//hiHG//hi)ment(h) (;) Dó(hg//jjvHG;3ixhihi)mi(g)num,(gf) (:) spe(fe//fg/hgh)rent(hghf//ghg) (;4) in(fd) e(ffe//gfgFD//efd)um:(d) (:) ad(d)jú(dffd//ffd;4de/fg!hv)tor(ghg) (;) et(f) pro(ghg)té(h//jjhhgh;fh/jg//ffd//ffv//hvGF//fvED)ctor(ed) (::) e(d)o(dffv//gf)rum(fg/hgh) est.(hjHGF) (;) (eg!hvGE//feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "336"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6493",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

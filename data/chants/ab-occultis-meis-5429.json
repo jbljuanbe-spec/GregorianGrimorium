@@ -1,0 +1,31 @@
+{
+  "id": "ab-occultis-meis-5429",
+  "incipit": "Ab occultis meis",
+  "title": "Ab occultis meis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ab occúltis meis munda me, Dómine: et ab aliénis parce servo tuo.",
+  "gabc": "(c3) Ab(e) oc(e)cúl(gih)tis(h) (::) me(ef)is(efED) (;) mun(fh)da(hf) me,(h) Dó(hi/jji)mi(gihhv)ne:(hg) (:) et(h) ab(iji) a(jk)li(j)é(ljji//jkJIj)nis(ijIH) (;) par(g!hi)ce(h) ser(g!hi)vo(h) tu(gvFEf;ehg//hhg//hji/jh//iig)o.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "126"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5429",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

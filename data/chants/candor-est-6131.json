@@ -1,0 +1,31 @@
+{
+  "id": "candor-est-6131",
+  "incipit": "Candor est",
+  "title": "Candor est",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Candor est lucis ætérnæ, spéculum sine mácula, et imágo bonitátis illíus.",
+  "gabc": "(c4) Al(d)le(ff)lú(fgf/ixivHGh)ia.(hv//fgf) (::) (ivGF//hhf) (;) (dfe//gvFD/dc//ffc) (;) (fhgj//jj/kjjh) (;3) (fhghggf) <sp>V/</sp>.(::) Can(ffgf/ixivHGh)dor(hv//fgf) est(f//ivGF//hhf) (;) lu(f!hjjvIG/ixgjjv/kjjhi)cis(ih) (;3) æ(f!gh)tér(jhhgh)næ,(hggf) (:) spé(fg/hgh/iyjjvIHG;3jjvIGFh;fg/hgh//fgf/ixih)cu(ghf)lum(f) (;) si(df)ne(fgf) má(fef)cu(d)la,(cf) (:) et(df) i(f)má(hggf)go(f) (;4) bo(d)ni(ffv)tá(fgf/ixivHG/hf)tis(f) (::) il(dfe//gf/ddc)lí(ffc;fhgj//jjv/kjjhi)us.(h) (;3) (fhghggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "540"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6131",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

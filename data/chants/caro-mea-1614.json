@@ -1,0 +1,31 @@
+{
+  "id": "caro-mea-1614",
+  "incipit": "Caro mea",
+  "title": "Caro mea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Caro mea vere est cibus, et sanguis meus vere est potus: qui mandúcat meam carnem, et bibit meum sánguinem, in me manet, et ego * in eo.",
+  "gabc": "(c3) AL(d)LE(efde/ffe)LÚ(df!hvGF/hh)IA.(e) *(;) <i>ij.</i>(hv/ijj/h/ii//efED/ffe) (,) (h/ig/hvFEDCB//ef!gwhhvGFE/ffe) <sp>V/</sp>.(::) Ca(eh)ro(hg/fge) me(fe)a(e) (,) ve(d)re(efef) est(f) ci(hvGF/ge)bus,(e) (;) et(ei) san(iv//jkjjvIH/jh/ij)guis(i) me(ij)us(i) (,) ve(ij)re(i) est(i) po(j!kwlj/kvJI/jvIH/i)tus:(i) (:) qui(ij) man(i)dú(ij/klj/kvJI/jvIH/i)cat(i) (;) me(ei/jvIH/hvGFE)am(fe) car(de)nem,(e/ffe) (;) et(e) bi(ehg)bit(hi) me(i/jkjjvIHG/hih)um(i) (,) sán(hv//fhGFED//fg)gui(fe)nem,(e) (;) in(d) me(efde/ffe) ma(df!hvGF/hh)net,(e) (;) et(h) e(ijj)go(h) *() in(i) e(i)o.(efED/ffe) (,) (h/ig/hvFEDCB//ef!gwhhvGFE/ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "269"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1614",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

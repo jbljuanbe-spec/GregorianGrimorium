@@ -1,0 +1,31 @@
+{
+  "id": "tuam-crucem-5465",
+  "incipit": "Tuam crucem",
+  "title": "Tuam crucem",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tuam Crucem adorámus, Dómine, tuam gloriósam recólimus passiónem. ℣. Miserére nostri Jesu benígne, qui passus es cleménter pro nobis. ℣. O Crux benedícta, quæ sola fuísti digna portáre Regem cælórum, et Dóminum.",
+  "gabc": "(c3) Tu(e)am(e) Cru(e!fgf)cem(effe) (::) a(ehhi)do(f)rá(fe/fde)mus,(e) (;) Dó(hhv)mi(fe)ne,(e) (;4) (ehFE//fe/fe//hhf/heed) (:) tu(d!fh)am(gef) glo(ed/ef)ri(e)ó(ef)sam(e) (;) re(e)có(ef)li(e)mus(e) pas(e)si(ef/hgh)ó(hfh)nem.(hhvGF//gvFE/fe) <sp>V/</sp>.(::) Mi(ef!gh)se(gf)ré(hi)re(e) (;4) no(fe//f!ghGF//ghf)stri(efe) (;) Je(feev)su(d) be(ef)ní(fv//ehghf~)gne,(gf) (;) (df//hghFE) (;4) (gxgfgED) (;) (efefe//hhf/heed) (:) qui(e) pas(fde)sus(gyef/hgh) es(h) (;3) cle(h)mén(fgf)ter(h) pro(h) no(hghe;hhvFE/gxfgED;gyfhf//ge)bis.(effe) <sp>V/</sp>.(::) O(e!fh) Crux(hhi) be(fh)ne(hi)dí(ihhvGF)cta,(fv//hvGE) (;) (df/hg//hiffefe//hhf/heed) (:) quæ(d) so(fh)la(gef) fu(ede)í(ef/hgh)sti(h) (;3) di(hfh)gna(hhvGF//gvFE/fe) (;) por(ef)tá(ef)re(e) (::) Re(e)gem(fe/fh) cæ(efd)ló(d!fh)rum,(h) (;) et(h) Dó(hghFE//eev/feede;ehhiHGF/fe)mi(e)num.(efED) (;) (fhGF//gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "74*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5465",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

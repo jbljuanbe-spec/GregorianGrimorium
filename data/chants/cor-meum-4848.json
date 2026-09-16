@@ -1,0 +1,31 @@
+{
+  "id": "cor-meum-4848",
+  "incipit": "Cor meum",
+  "title": "Cor meum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Cor meum, et caro mea exsultavérunt in Deum vivum. T. P. Allelúia.",
+  "gabc": "(c4) Cor(fg) me(gffv)um,(df) (::) et(cd) ca(d!fg)ro(gh) me(hjjg)a(gfhGF) (;) ex(fd)sul(f)ta(ghg)vé(h;3fh/jjvHG/fg)runt(f) (;) in(fg) De(fd//fvEC;4fhg)um(ghFEf) vi(ded)vum.(d) <i>T. P.</i>(::) Al(df~)le(fefd)lú(ded)ia.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "483"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4848",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

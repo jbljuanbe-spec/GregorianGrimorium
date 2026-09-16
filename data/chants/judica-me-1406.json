@@ -1,0 +1,31 @@
+{
+  "id": "judica-me-1406",
+  "incipit": "Judica me",
+  "title": "Judica me",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Judica me * Deus, et discérne causam meam de gente non sancta: ab hómine iníquo et dolóso éripe me: quia tu es Deus meus, et fortitúdo mea. Ps. Emítte lucem tuam, et veritátem tuam: * ipsa me deduxérunt, et adduxérunt in montem sanctum tuum, et in tabernácula tua. Júdica.",
+  "gabc": "(c4) JU(egf)DI(f)CA(e!fg) me(g) *() De(ixgiHG)us,(gf) (;) et(f) dis(fffd)cér(fg~)ne(g) cau(jj)sam(hg) me(gh/ji)am(ih) (,) de(jj) gen(hi~)te(gf) non(e!fg) sanc(egff)ta:(fe) (:) ab(fgf) hó(e!fwg!hv)mi(g)ne(g) i(g)ní(ixhg/hig)quo(gf) (,) et(hj) do(j)ló(ji/jhi)so(g) (,) é(ii)ri(h)pe(h!iwj/kjj) me:(ji) (:) qui(gh)a(h) tu(h/ijh) es(h) De(giHG)us(gh) me(ff//efd)us,(ed) (;) et(fd~) for(ef)ti(g)tú(ixg/hig)do(gfhvGFg) me(egff)a.(fe) <i>Ps.</i>(::)  E(hg)mít(gh)te(h) lu(h)cem(h) tu(h)am,(h) et(h) ve(h)ri(hg)tá(gi)tem(i) tu(hi)am:(h) *(:) ip(hg)sa(gh) me(h) de(h)du(h)xé(h)runt,(h) (,) et(h) ad(h)du(h)xé(h)runt(h) in(h) mon(h)tem(h) sanc(h)tum(h) tu(h)um,(h) (,) et(h) in(h) ta(h)ber(h)ná(h)cu(gf)la(gh) tu(g)a.(e) (::) Jú(egf)di(f)ca.(e!fg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "130"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1406",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

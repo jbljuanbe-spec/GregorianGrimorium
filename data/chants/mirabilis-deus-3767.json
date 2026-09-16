@@ -1,0 +1,31 @@
+{
+  "id": "mirabilis-deus-3767",
+  "incipit": "Mirabilis Deus",
+  "title": "Mirabilis Deus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Mirábilis Deus * in sanctis suis: Deus Israel, ipse dabit virtútem, et fortitúdinem plebi suae: benedíctus Deus, allelúia.",
+  "gabc": "(c4) MI(d!ewf)RÁ(fg/hg)BI(ghg)LIS(gh~) De(hjIGhvGF)us(f) *(;) in(fh) sanc(hj/kjkvJIH)tis(h) su(hj!kvJH)is:(hjhhg) (:) De(hj)us(jjj) Is(h!jjj)ra(gh)el,(ixfihhg) (,) i(g)pse(h) da(iijhjvIHhg)bit(ghggf) (;) vir(h!iwji~)tú(jvjjj/kl)tem,(jkjji) (,) et(g) for(g/jjj)ti(ji)tú(i!kl)di(jvIH)nem(hjhhg) (,) ple(hg/jkj)bi(jjjg) su(gjhhg)ae:(ghggf) (:) be(fg)ne(h)dí(hjvvHGh!iwji)ctus(j) De(jkj/ki/jvHG/gfg,f!gh!jjjg//hjggf!gw!hi)us,(hg) (:) al(hg~)le(gjg/hggf//gh!iwj/kijvIHiwji/hiHG)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[22]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3767",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

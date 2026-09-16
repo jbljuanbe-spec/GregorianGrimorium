@@ -1,0 +1,31 @@
+{
+  "id": "justi-decantaverunt-6424",
+  "incipit": "Justi decantaverunt",
+  "title": "Justi decantaverunt",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Justi decantavérunt, Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt páriter: quóniam sapiéntia apéruit os mutum, et linguas infántium fecit disértas. ℣. Dómine, Dóminus noster, quam admirábile est nomen tuum in univérsa terra. Glória E u o u a e.",
+  "gabc": "(c4) Ju(ff)sti(ed) (::) de(g)can(hj)ta(j)vé(ij)runt,(j) (;) Dó(j)mi(jj)ne,(j) (;) no(j)men(jkj) san(hj)ctum(j) tu(jkjj)um,(h//jjkhhg) (:) et(g) vi(hji)ctrí(j)cem(kjj) ma(hjj)num(g) tu(gfh)am(h) (;) lau(h)da(hjj)vé(g)runt(hggf//ghg) pá(f)ri(egff)ter:(fe) (:) quó(f)ni(ff)am(f) sa(ed)pi(g)én(g!hj)ti(j)a(j) (;) a(h)pé(hjj)ru(hg)it(g) os(gh/jij) mu(g!hjjhjg)tum,(g) (;) et(g) lin(hi)guas(i) in(i)fán(i)ti(kj)um(jj//hih) (;) fe(gh)cit(h) di(hfg/ixhighg)sér(egff)tas.(fe) <sp>V/</sp>.(::) Dó(g)mi(hj)ne,(j) Dó(jk)mi(j)nus(j) no(ih)ster,(hj) (::) quam(g) ad(hj)mi(j)rá(j)bi(j)le(j) est(j) no(j)men(j) tu(j)um(j) (;3) in(j) u(j)ni(ji)vér(hg)sa(h) ter(i)ra.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e.(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "424"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6424",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

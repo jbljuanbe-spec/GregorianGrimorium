@@ -1,0 +1,43 @@
+{
+  "id": "domine-jesu-christe-1199",
+  "incipit": "Domine Jesu Christe",
+  "title": "Domine Jesu Christe",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine Jesu Christe, * Rex glóriae, líbera ánimas ómnium fidélium defunctórum de poenis inférni, et de profúndo lacu: líbera eas de ore leónis, ne absórbeat eas tártarus, ne cadant in obscúrum: sed sígnifer sanctus Míchael repraeséntet eas in lucem sanctam: * Quam olim Abrahae promisísti, et sémini ejus. ℣.~Hóstias et preces tibi Dómine laudis offérimus: tu súscipe pro animábus illis, quarum hódie memóriam fácimus: fac eas, Dómine, de morte transíre ad vitam. * Quam olim.",
+  "gabc": "(f3) DO(f)mi(ef)ne(f) Je(f)su(fe) Chri(f)ste,(fhffe.) *(,) Rex(hv.g!hi) gló(gfh./ghf/gf)ri(ef)ae,(fhffe.) (;) lí(g)be(ef)ra(f) á(fg)ni(f)mas(f.) (,) ó(fg~)mni(f)um(f) fi(g)dé(gfh)li(fge)um(e) de(e!fh)func(gh)tó(f_g_f_)rum(f.) (;) de(f) poe(ef)nis(f) in(f)fér(f!gwh_f)ni,(f.) (,) et(g) de(e) pro(f)fún(h)do(g) la(f_g_f_)cu:(f.) (:) lí(g)be(e)ra(f) e(h)as(hg) de(f) o(g)re(f) le(i)ó(ivvHF'E)nis,(f!gwhg.) (;) ne(e) ab(f)sór(h)be(g)at(f) e(g)as(f.) tár(ghf)ta(ef)rus,(f.) (;) ne(f) ca(f)dant(ec~) in(e) ob(fg)scú(g.f!gwh_f)rum:(f.) (:) sed(f.g!hwi) sí(hg~)gni(fg)fer(g.) sanc(gf~)tus(f!gwhg) Mí(fgf)cha(ef)el(f.) (;) re(f)prae(f)sén(hg~)tet(hi) e(ivvHF'E)as(fg..) (,) in(eg~) lu(g.f!gwh)cem(gf~) sanc(eg/hf~)tam:(f.) *(:) Quam(f) o(f)lim(ec~) A(e)bra(fg)hae(gf) pro(h)mi(hg)sí(fg)sti,(ffe.) (;) et(hi) sé(gf//hiHF'fe.//fhg/hig,fhg)mi(fge)ni(e_c) e(e!fwg/hf~)jus.(f.) (::) <sp>V/</sp>.~Hó(e)sti(fh)as(hhg) et(fe~) pre(fh)ces(hhg.) (,) ti(e)bi(fh) Dó(h)mi(fgF'E)ne(e.) (,) lau(gf~)dis(gh) of(gf)fé(e)ri(ef)mus:(f.) (:) tu(f.g!hwi) sú(hg)sci(fg)pe(g.) (,) pro(f) a(f)ni(e)má(fh)bus(ghg) il(f.)lis,(f.) (;) qua(ih)rum(iji') hó(h)di(gh)e(f.) (,) me(f)mó(fe)ri(f)am(hg) fá(fg)ci(fe)mus:(e.) (:) fac(fg) e(e)as,(ec) Dó(e)mi(ef)ne,(f.) (,) de(h) mor(gff)te(e) tran(g!hi~)sí(iih)re(gf) ad(ghg) vi(f.)tam.(f.) *(::) Quam(f) o(f)lim.(ec~) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "100*"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1813"
+    },
+    {
+      "title": "Chants of the Church",
+      "editor": "Solesmes",
+      "year": 1956,
+      "page": "67"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1199",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

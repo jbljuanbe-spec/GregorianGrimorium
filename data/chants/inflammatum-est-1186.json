@@ -1,0 +1,37 @@
+{
+  "id": "inflammatum-est-1186",
+  "incipit": "Inflammatum est",
+  "title": "Inflammatum est",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Inflammátum est * cor meum, et renes mei commutáti sunt: zelus domus tuae comédit me. ℣. Pósuit os meum quasi gládium acútum: in umbra manus suae protéxit me, et pósuit me sicut sagíttam * eléctam.",
+  "gabc": "(c4) IN(c)flam(d)má(ff)tum(f_g) est(ghgg) *(,) cor(fgd~) me(dfe/f.d!ew!fvE'DC'd)um,(dc..) (;) et(d) re(fddc)nes(fg) me(ixfhg/hi)i(h.) (,) com(hjhhg)mu(hggf)tá(fh!jvH'G)ti(h) sunt:(ixhv.f.g!hwihhggf.) (:) ze(dh)lus(h) do(h_g/jij)mus(h_f/hg) (`) tu(g_eg)ae(gvF'EDfvED) (,) (fge'/fgd'/eddc.) (;) co(f!gh!jvIH'G)mé(gf)dit(fgFD) me.(dc/d!ff/ghG'E/fgff/ded.) <sp>V/</sp>.(::) Pó(dh)su(h)it(h) os(hg) me(gh/jh/jggf)um(f.) (;) qua(hj)si(j_i) glá(j)di(hgh)um(h) a(fh)cú(j_0kvJH'jvGF'//hghhghv.,k_lJ'IH)tum:(ixhihih'jvHG'gfg.) (:) in(fh) um(h!jj/k_j/k_jkvJH)bra(h.) (,) ma(hgh)nus(gfg) su(hhg/hhg/jjvIH)ae(hih.__) (;) pro(hg)téx(h!iwj)it(g) me,(fh/jh/jjjh..) (:) et(fhg~) pó(h_f/ghGF.,hg!hfg./d!ewf//e!gwhg/h!jj)su(h)it(fg) me(ghg/ff/ded.) (;) si(d/fffd)cut(ef) sa(gf)gít(ixfhghv.fh!ivGF'E//f!gwh!iv)tam(hg__) *(,) e(gh)lé(ixjhiGF'h!jjvH'G)ctam.(hghFEfg..) (,) (d!ewf!gv.fhGF'ED'ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "622A"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1681.2"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1186",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

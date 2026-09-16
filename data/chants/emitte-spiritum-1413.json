@@ -1,0 +1,31 @@
+{
+  "id": "emitte-spiritum-1413",
+  "incipit": "Emitte Spiritum",
+  "title": "Emitte Spiritum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ij. ℣. Emítte Spíritum tuum, et creabúntur: et renovábis fáciem * terrae.",
+  "gabc": "(c4) AL(fd~)LE(e!fg)LÚ(hgh)IA(ixhiHGgf) *(,) <i>ij.</i>(ixhiHGge//ghGFE/fgf/fe) <sp>V/</sp>.(::) E(h)mít(h)te(ixg//ivHG/hffe) (,) Spí(fh)ri(ghg/hf)tum(ed~) tu(egFD)um,(d) (:) et(dc~) cre(f)a(ghg)bún(ixhiGE/g//hiFD//fffd/gvFE , df/hf/ge/fv//df!gv/ef~)tur:(e) (:) et(f) re(f)no(f)vá(ef)bis(f) fá(e!fg)ci(gd/gvFE)em(e) *(,) ter(fd/ef!gh)rae.(ixhiHG/gf) (,) (ixhiHG/ge//ghGFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "249"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1413",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "posuisti-domine-all-4966",
+  "incipit": "Posuisti Domine (All.)",
+  "title": "Posuisti Domine (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Posuísti Dómine super caput ejus corónam de lápide pretióso.",
+  "gabc": "(c4) Al(cd/fg>)le(edf;1efd//ed)lú(cd~)ia.(d) (::) (fg!hvhf/ixhg/ivHGF) (;4) (deddc) (;) (cd/ffv//ghhf) (;) (hghFEC//dfED) <sp>V/</sp>.(::) Po(cd/fg)su(edf;1efd//ed)í(cd)sti(d) (;) Dó(fg!hvhf/ixhg/ivHGF;4deddc;1cd/fg)mi(ed//ffd)ne(d) (:) su(h)per(g) ca(h)put(g) e(fhhg//hhv//fh//hvGFg)jus(d) (;) co(dcf)ró(hf/ixhiGFh;df/hf//ixhiGFh;3hhgh)nam(gf) (;) de(e!fg) lá(edf;1efd//ed)pi(cd)de(d) (::) pre(cd/fg)ti(edf;1efd//ed)ó(cd)so.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "13*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4966",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

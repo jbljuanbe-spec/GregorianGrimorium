@@ -1,0 +1,31 @@
+{
+  "id": "posui-vos-495",
+  "incipit": "Posui vos",
+  "title": "Posui vos",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Pósui vos, ut eátis, et fructum afferátis: et fructus vester * máneat.",
+  "gabc": "(c4) AL(cd~)le(d!ewf!gv.efd)lú(dc/ee)ia.(d.) *(,) (ixf!gh/iggfh.//fhg!efddce./d!ewfd.) <sp>V/</sp>.(::) Pó(d)su(c)i(d) vos,(d!ewf!gv.efddce.) (,) ut(d) e(ixfh)á(hvGFgh/iggf/gh)tis,(h.) (;) et(hg~) fru(gfh)ctum(hg) af(edf)fe(fe)rá(dec/egf/efddc/d!ewfd)tis:(d.) (:) et(dh) fru(ixhiHG'g//ef/gfh./egF'ED.,f!gh/jiivHGhh//jgg/hff/d!ewf'!gv)ctus(g.) ves(fhg!efd)ter(dcd.) *(;) má(d!ewf!gv.efd)ne(dc/ee)at.(d.) (,) (ixf!gh/iggfh.//fhg!efddce./d!ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "568"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "495",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

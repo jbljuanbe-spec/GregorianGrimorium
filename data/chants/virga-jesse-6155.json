@@ -1,0 +1,31 @@
+{
+  "id": "virga-jesse-6155",
+  "incipit": "Virga Jesse",
+  "title": "Virga Jesse",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Virga Jesse flóruit, Virgo Deum, et hóminem génuit: pacem Deus réddidit, in se reconcílians ima summis.",
+  "gabc": "(c4) Al(d)le(gg)lú(ghg//jvIH//ig;4hf/gffe~)ia.(g) (::) (klj//kkg) (;) (ikJH//ig//hhg) <sp>V/</sp>.(::) Vir(gghg//jvIHhg~)ga(g) (;3) Jes(gk)se(lj//kki//hig) (;4) fló(g)ru(hvGFE)it,(g) (:) Vir(g!hi)go(hj//ik//jvIH/ig) (;) De(gh/jg/hvGFE)um,(g) (;) et(g) hó(gh/ji//hji)mi(h)nem(i) (;3) gé(jij)nu(hg//hvGFE)it:(g) (:) pa(k)cem(g) (;3) De(kk//lvKJk)us(ki) réd(k)di(jvIH)dit,(jvIH/ig) (:) in(g) se(hi) re(i)con(k)cí(jvIH/ig;hg)li(fe)ans(g) (::) i(d)ma(ggv) sum(ghg//jvIH/ig;4hf/gffe~)mis.(g) (;) (klj//kkg) (;) (ikJH/ig//hhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "444"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6155",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "crastina-die-1438",
+  "incipit": "Crastina die",
+  "title": "Crastina die",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Crástina die delébitur iníquitas terrae: et regnábit super nos * Salvátor mundi.",
+  "gabc": "(c3) AL(e)LE(ef)LÚ(fg)IA.(e) *(,) <i>ij.</i>(fe/fhGE//ee/fe/fe/fhGE;giHGFEfe//fhGFEffe) <sp>V/</sp>.(::) Crá(eee)sti(eh)na(h) (:) di(hg)e(fe/fgf/fe) de(e)lé(ei)bi(ivHGh)tur(hg) (,) i(e)ní(g)qui(f)tas(hg) ter(fe)rae:(e//fhg/hih/hg) (:) et(e) re(eh)gná(h)bit(hg) su(f)per(fe~) nos(e//fgf/fe) *(;) Sal(eee)vá(e)tor(fg) mun(g)di.(ge,fe/fhGE//ee/fe/fe/fhGE;giHGFE/fe//fhGFE/ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "24"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1438",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

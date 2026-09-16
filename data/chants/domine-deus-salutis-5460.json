@@ -1,0 +1,31 @@
+{
+  "id": "domine-deus-salutis-5460",
+  "incipit": "Domine, Deus salutis",
+  "title": "Domine, Deus salutis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Dómine, Deus salútis meæ: in die clamávi, et nocte coram te.",
+  "gabc": "(c4) Al(f)le(egFE//fvED/ed)lú(gh/ij)ia.(ih) (::) (jvIH//jji) (;3) (g!hihhg) (;) (gh/ijIG//hhv//g!hig) (;) (ggf//ghg) (;3) (hvFE//fgffe) <sp>V/</sp>.(::) Dó(efED)mi(g)ne,(hj) (;6) De(j)us(ih//jkJHG//hhg) (;) sa(hjh)lú(jji)tis(hg/hj) me(ikjjv)æ:(ji) (:) in(g) di(gjjv)e(ih) cla(j)má(gv//hhf//gge//ffd;fhGF//ghg)vi,(e//gfgffe) (;) et(f) no(egf)cte(e!fg) (::) co(hiHG)ram(gh/ij) te.(ih) (;) (jvHG/hvFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "309"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5460",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

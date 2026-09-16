@@ -1,0 +1,31 @@
+{
+  "id": "domine-refugium-1108",
+  "incipit": "Domine refugium",
+  "title": "Domine refugium",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine, * refúgium factus es nobis, a generatióne et progénie. ℣. Priúsquam montes fíerent, aut formarétur terra et orbis: a sǽculo, et in sǽculum tu es * Deus.",
+  "gabc": "(c3) DO(egf)mi(f)ne,(f.) *(,) re(f)fú(hfg/hvF'E/gef)gi(gf)um(f.) (;) fa(hf/h!i'j)ctus(hvGF) es(gxfe/gvFE.) (,) no(ed/fef)bis,(fd/ef!hvvF'E/f!gwh/ihh/fgf.) (:) a(hh) ge(h)ne(h)ra(h)ti(h)ó(hg/hi!jvHG/hhg , i_h/ivHF)ne(fhF'E/fhhf//hvvGF'/heed.) (:) et(d!e'f/hvGF'g) pro(ef)gé(hf)ni(hi)e.(ih/ijI'H) (,) (jh/jkIG'/hvF'E//f!gwh!iv./h!i'j) (,) (ijijHF'/gwhf.) <sp>V/</sp>.(::) Pri(f)ús(h)quam(ij~) mon(jvI'HG'/hvF'E , ge/f!hh/ijij. , hj!kvIG'/hvF'E/fgF'Ef. , i!jwk_j/kvJI'j)tes(ji..) (:) fí(i!jw!kvJI'/jw!kvJI)e(i)rent,(i.) (,) aut(i) for(i)ma(i)ré(i)tur(ij~) ter(j_h/jvIH'hf//hhf/hv.hhh_f,hi!jvIH/jvIH/if)ra(f.) (`) et(hh) or(h)bis:(h.) (:_) a(hi) s<sp>'ae</sp>(ivH'GE//fhGE/fh..,gi!jvHF')cu(f)lo,(fhF'E/fhhf//hvvGF'/heed.) (:) et(d) in(d) s<sp>'ae</sp>(d!e'f)cu(f)lum(f./hvGF'g) (,) tu(e) es(f) *() De(hf/h_i)us.(i_jH'G/hi..) (,) (e!f'h/h'jIH'GF'/gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "381"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1108",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "voce-mea-6687",
+  "incipit": "Voce mea",
+  "title": "Voce mea",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Voce mea ad Dóminum clamávi, et exaudívit me de monte sancto suo: non timébo mília pópuli circumdántis me.",
+  "gabc": "(c4) Vo(fh)ce(h) me(hggfg)a(gf) (::) ad(f) Dó(g)mi(hf)num(ixgi) cla(i)má(hjii)vi,(ih) (:) et(f) ex(gh)au(g)dí(ffv)vit(d!efEDCd) me(dc) (;) de(f) mon(gh)te(hg) san(hj)cto(hghg) su(f!ghGFg)o:(gf) (:) non(h) ti(h)mé(ghg)bo(fgf) mí(g)li(f)a(fe/fgf) (;4) pó(d!fgf)pu(d!efEDCd)li(dc) (;) cir(fg/hgh)cum(hjHGF;4eg/ixhig//hiHG)dán(f)tis(f!ghGFg) me.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "86"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6687",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

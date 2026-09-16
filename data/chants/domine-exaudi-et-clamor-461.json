@@ -1,0 +1,31 @@
+{
+  "id": "domine-exaudi-et-clamor-461",
+  "incipit": "Domine exaudi... et clamor",
+  "title": "Domine exaudi... et clamor",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine * exáudi oratiónem meam, et clamor meus ad te pervéniat. T. P. Allelúia.",
+  "gabc": "(c4) DO(d!ewf)mi(gf)ne(ghg.) *(,) ex(hj)áu(hhvGF'gwh!iv_HG)di(hg..) (,) o(d!ewf!gh)ra(gh)ti(g)ó(hjH'G)nem(hjh/gh~) me(gffd//fh/jggf!gwh'!iv)am,(hg..) (:) et(fg) cla(hjH'G)mor(hjh/gh~) me(gffd//fh/jggf!gwh'!iv)us(hg..) (;) ad(fg) te(hjhhgh) per(g_d~)vé(fhG'F)ni(fgF'E)at.(e.) <i>T. P.</i>(::) Al(f)le(e!fg/hgh)lú(hjg)ia.(gvFEf_e//g_f/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[142]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "461",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

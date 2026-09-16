@@ -1,0 +1,37 @@
+{
+  "id": "benedicta-sit-sancta-349",
+  "incipit": "Benedicta sit sancta",
+  "title": "Benedicta sit sancta",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Benedícta sit * sancta Trínitas, atque indivísa Unitas: confitébimur ei, quia fecit nobíscum misericórdiam suam. Ps. Dómine Dóminus noster: * quam admirábile est nomen tuum in univérsa terra! Glória Patri. E u o u a e.",
+  "gabc": "(c3) BE(e)NE(e)DÍ(ehgh)CTA(fvED) sit(e.) *(,) san(ef/hgh)cta(h) Trí(hhhf)ni(fe)tas,(e.f!gwh.) (;) at(hfge)que(e) in(e)di(fde)ví(ehh)sa(f) U(fdf)ni(fgFE'f)tas:(fe..) (:) con(e)fi(ef/hg)té(g)bi(gi/jhhf)mur(h_g) e(hghf)i,(f.) (;) qui(hg)a(h) fe(i)cit(h) no(g.f!gwh)bís(fgFE'f)cum(fe..) (;) mi(e!f'g)se(g_f)ri(fgE'C)cór(c!e'f)di(f)am(f) su(fgFE'f)am.(fe..) <i>Ps.</i>(::) Dó(e)mi(fe)ne(eh) Dó(hg)mi(hi)nus(i) nos(hi)ter:(h.) *(:) quam(hf~) ad(fh)mi(h)rá(h)bi(h)le(h) est(h) no(h)men(h) tu(h)um(h.) (,) in(h) u(h)ni(hhg)vér(ef)sa(hg) ter(f)ra!(e.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri.(h) (::) E(h) u(hhg) o(ef) u(hg) a(f) e.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "308"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "909"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "349",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

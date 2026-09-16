@@ -1,0 +1,31 @@
+{
+  "id": "laetare-jerusalem-1581",
+  "incipit": "Laetare Jerusalem",
+  "title": "Laetare Jerusalem",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Laetáre * Jerúsalem: et convéntum fácite omnes qui dilígitis eam: gaudéte cum laetítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestrae. Ps. Laetátus sum in his quae dicta sunt mihi: * in domum Dómini íbimus. Glória Patri. E u o u a e.",
+  "gabc": "(c3) LAE(d)TÁ(gxdgef)RE(ed) *() Je(d)rú(e)sa(f)lem:(hh) (;) et(h) con(hf~)vén(hji)tum(hg) fá(hji)ci(hg)te(hhh/fgf) (;) o(f)mnes(hiHFfd) qui(gxg) di(gxg)lí(g)gi(egf)tis(ggvFEfw!gvFE) e(de!fvEDe)am:(ed) (:) gau(fh~)dé(h)te(f) cum(hgh) lae(e)tí(gxfgf)ti(ded)a,(d) (;) qui(d) in(e) tri(gxg)stí(f/ghf)ti(fe!fwgfg)a(gf) (,) fu(f!hhivHGF)í(gxfe!fwgfg)stis:(gf) (:) ut(f) ex(fe)sul(h)té(hji)tis,(ih) (,) et(hhh) sa(e)ti(g)é(gi/jij)mi(hiHGFg)ni(gf) (;) ab(d) u(gxeg)bé(ffg)ri(e)bus(hh) (,) con(d)so(ef)la(f)ti(h)ó(hiHEf)nis(gxfhFEfw!gvFE) ves(de!fvEDe)trae.(ed) <i>Ps.</i>(::) Lae(d)tá(f)tus(h) sum(h) in(h) his(h) quae(h) di(h)cta(h) sunt(i) mi(i)hi:(h) *(:) in(f) do(h)mum(h) Dó(i)mi(g)ni(g) í(h)bi(f)mus.(f) (::) Gló(d)ri(f)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(i) u(g) a(h) e.(fefvEDe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "118"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1581",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

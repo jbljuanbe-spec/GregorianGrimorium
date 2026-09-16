@@ -1,0 +1,31 @@
+{
+  "id": "ex-ore-infantium-5996",
+  "incipit": "Ex ore infantium",
+  "title": "Ex ore infantium",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ex ore infántium, Deus, et lacténtium perfecísti laudem propter inimícos tuos. ℣. Dómine Dóminus noster, quam admirábile est nomen tuum in univérsa terra. Glória E u o u a e.",
+  "gabc": "(f3) Ex(fhhv) o(egf)re(f) (::) in(hg)fán(hi)ti(i)um,(hi) De(ivHF)us,(f) (;) et(fi) la(i)ctén(ij)ti(ih)um(hgih) (;) per(fg)fe(fe)cí(fhg)sti(hi) lau(fgFE)dem(e) (:) prop(h)ter(hh) i(f)ni(fi)mí(ihji)cos(ihhf) (;3) tu(fh//eh;3ghf//ggf)os.(f) <sp>V/</sp>.(::) Dó(e)mi(f)ne(ehg) Dó(hi)mi(i)nus(i) no(hi)ster,(h) (::) quam(h) ad(fh)mi(h)rá(h)bi(h)le(h) est(h) no(h)men(h) tu(h)um(h) (;3) in(h) u(h)ni(i)vér(hf)sa(h) ter(ge)ra.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "390"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5996",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

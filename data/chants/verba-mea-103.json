@@ -1,0 +1,31 @@
+{
+  "id": "verba-mea-103",
+  "incipit": "Verba mea",
+  "title": "Verba mea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Verba mea áuribus pércipe, Dómine: intéllige * clamórem meum.",
+  "gabc": "(f3) AL(ef~)le(f)lú(ef~)ia.(f/ggf.) *(;) <i>ij.</i>(fg!h'i/j.f!gw!hvGF.//e!fwg/hggf.) <sp>V/</sp>.(::) Ver(ef~)ba(f) me(fhg___!hw!ivHF)a(f.) (,) áu(f!h'i~)ri(i)bus(iij) pér(i_f/ghGF./e!fwg'!hv)ci(gf)pe,(f.) (,) Dó(f_c/de!fgf___)mi(ef)ne:(f.) (:) in(f)tél(g!hwi/ji~)li(i_f/ghGF./e!fwg'!hv)ge(gf..) *(;) cla(f)mó(ed)rem(ef~) me(fe)um.(f/ggf.) (;) (fg!h'i/j.f!gw!hvGF./e!fwg/hggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "312"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "103",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

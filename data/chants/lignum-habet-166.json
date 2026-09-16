@@ -1,0 +1,37 @@
+{
+  "id": "lignum-habet-166",
+  "incipit": "Lignum habet",
+  "title": "Lignum habet",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Lignum * habet spem: si praecísum fúerit, rursum viréscit, et rami ejus póllulant.",
+  "gabc": "(c4) LI(fhggfg)gnum(g_f) *(,) ha(h/jjh!iwj)bet(h_gh) spem:(ghg/ff/ded.) (:) si(df) prae(fff)cí(d!ew!fvE'DC'd)sum(d_c) fú(ixfg/hg/hi)e(h)rit,(h.) (;) rur(hjh)sum(hjg/fvED'ewf.) (,) vi(d)ré(ffg/ef!gv//fg/hg/hvGF'/fvED/fvED')scit,(d/fff) (:) et(fd~) ra(fhg)mi(g) e(ixh!jjvH'G/hiGF'/gwhgh//gh!jjj/kvJH)jus(h.) (;) pól(hv./fhggv//efD'C/dff'ff//ghgh)lu(gf)lant.(f/ghggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "466"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1421"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "166",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

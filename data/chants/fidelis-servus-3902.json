@@ -1,0 +1,31 @@
+{
+  "id": "fidelis-servus-3902",
+  "incipit": "Fidelis servus",
+  "title": "Fidelis servus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Fidélis servus * et prudens, quem constítuit Dóminus super famíliam suam: ut det illis in témpore trítici mensúram. T. P. Allelúia.",
+  "gabc": "(c3) FI(e)DÉ(f)LIS(ge) ser(fh~)vus(h) *() et(hg~) pru(hi)dens,(i) (;) quem(i) con(i)stí(ijij)tu(ih)it(h) Dó(hi)mi(h)nus(hg/hih) (;) su(h)per(hg) fa(ge)mí(gh)li(f!hi)am(hg~) su(e)am:(e) (:) ut(h) det(h) il(hih)lis(e) (,) in(ghf~) tém(hi~)po(ijiigh)re(hg) (;) trí(i!jw!kvJIih//ighvGF//g!hi!jv)ti(hf)ci(hi) men(hg~)sú(efe)ram.(e) <i>T. P.</i>(::) Al(f!gwh)le(hih/gih//fhgh/fge)lú(efe)ia.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[31]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3902",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

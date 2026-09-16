@@ -1,0 +1,31 @@
+{
+  "id": "dominus-dixit-6135",
+  "incipit": "Dominus dixit",
+  "title": "Dominus dixit",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dóminus dixit ad me: Fílius meus es tu, ego hódie génui te. ℣. Quare fremuérunt gentes, et pópuli meditáti sunt inánia? Glória E u o u a e",
+  "gabc": "(f3) Dó(f!hih)mi(hh)nus(f) (::) di(fh)xit(fh) ad(e) me:(f) (;) Fí(fgf)li(fe)us(f) me(hg)us(hi) es(fgFE) tu,(e) (:) e(eg/ih)go(h) hó(fhhv)di(fe)e(e) (;) gé(fhe)nu(hh)i(ivHGh) te.(f) <sp>V/</sp>.(::) Qua(e)re(f) fre(eh)mu(hg)é(hi)runt(i) gen(hi)tes,(h) (::) et(h) pó(fh)pu(h)li(h) me(h)di(h)tá(h)ti(h) sunt(i) i(hf)ná(h)ni(ge)a?(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "26"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6135",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

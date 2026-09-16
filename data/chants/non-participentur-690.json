@@ -1,0 +1,31 @@
+{
+  "id": "non-participentur-690",
+  "incipit": "Non participentur",
+  "title": "Non participentur",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Non participéntur * sancta, donec exsúrgat póntifex in ostensiónem et veritátem.",
+  "gabc": "(c4) NON(ff) par(fhg'/hf)ti(dg)ci(gvFE)pén(gh)tur(h.) *(,) sanc(ixhv.gih'ivG'Ff'g!hiH'Gih)ta,(h.) (;) do(jj)nec(gh) ex(f)súr(e!fg~)gat(g) pón(ixg/jjvH'G//hiH'Gh)ti(f)fex(ff/h_g/ihhf.) (:) in(f) o(ef!ghg)sten(gh)si(ghG'F)ó(gh)nem(h/jjjvIH.) (,) et(hg) ve(eef)ri(d!ewf)tá(fff/ghG'DfffhvGFgvFE)tem.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[120]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "690",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

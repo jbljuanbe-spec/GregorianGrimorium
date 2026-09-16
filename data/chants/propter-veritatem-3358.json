@@ -1,0 +1,31 @@
+{
+  "id": "propter-veritatem-3358",
+  "incipit": "Propter veritatem",
+  "title": "Propter veritatem",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Propter veritátem, * et mansuetúdinem, et justítiam: et dedúcet te mirabíliter déxtera tua. ℣. Audi fília, et vide, et inclína aurem tuam: quia concupívit rex * spéciem tuam.",
+  "gabc": "(c4) PRO(ffg)PTER(f) ve(f)ri(gh)tá(hg/hf)tem,(f) *(,) et(gh~) man(gh~)su(ff)e(f)tú(f)di(fgf)nem,(f) (;) et(f) ju(f)stí(ixfg/ih)ti(ii//iiivGFgi!jvIHi)am:(iv//h!ij/hig/hihig) (:) et(ixgih~) de(ixij)dú(j)cet(iv//hifg) te(ixgii) (,) mi(fhg)ra(ixi)bí(iji)li(jg/ivGFg)ter(g) (;) déx(ixiiivGFE//g!ii/jki)te(i)ra(jhivGFfd/fff) tu(fgf)a.(f) <sp>V/</sp>.(z0::c3) Au(d)di(f) fí(gxfh/ih/ih//ivFD//fhivFDfhfg,fh/ih/ih//ivFDed//ddd/fh/ijh)li(igh)a,(h) (;) et(h!ij) vi(ih)de,(hg/ih//jvIHG/hf) (:) et(f) in(fi~)clí(i)na(ih/jki/hhf) (,) au(hf/hhh)rem(h) tu(h)am:(hf!gwh!iv//hi/jhh/iih) (:) qui(f)a(f) con(f)cu(fi)pí(i)vit(h/ie!fv) rex(f!hi/hhf//hfhhefd) *(;) spé(f/hhfg)ci(ef)em(gxhf/ge) tu(d)am.(cd!efe) (,) (gxde!fhFE//d!ef!hhegvFD) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "518"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3358",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

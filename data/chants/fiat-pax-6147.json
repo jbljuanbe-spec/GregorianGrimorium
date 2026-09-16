@@ -1,0 +1,31 @@
+{
+  "id": "fiat-pax-6147",
+  "incipit": "Fiat pax",
+  "title": "Fiat pax",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Fiat pax in virtúte tua: et abundántia in túrribus tuis.",
+  "gabc": "(c4) Al(f)le(egFE//fvED/ed)lú(gh!ij)ia.(ih) (::) (jvIH/jji//g!hihhg) (;) (gh/ijIG/hh//g!hig) (;) (ggf/ghg//hvFE//fgffe) <sp>V/</sp>.(::) Fi(efED//g!hj)at(j) pax(ih//jkJHG/hhg) (;) in(h) vir(hjh)tú(jji)te(hg/hj) tu(ikjjv)a:(ji) (:) et(g) a(gjjv)bun(ih~)dán(jg//hhf//gge/ffd;fhGF/ghg)ti(e)a(e//gfgffe) (::) in(f) túr(egf)ri(e!fg)bus(hiHG) tu(gh!ij)is.(ih) (;) (jvHG/hvFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "99*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6147",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

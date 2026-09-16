@@ -1,0 +1,31 @@
+{
+  "id": "ecce-elongavi-24",
+  "incipit": "Ecce elongavi",
+  "title": "Ecce elongavi",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ecce * elongávi fúgiens et mansi in solitúdine: quóniam vidi iniquitátem et contradictiónem in civitáte. Ps. Exáudi, Deus, oratiónem meam, et ne despéxeris deprecatiónem meam: * inténde mihi, et exáudi me. Glória Patri E u o u a e",
+  "gabc": "(c4) EC(f)ce(gh) *() e(h)lon(h)gá(jjj)vi(hg) fú(ixgihi)gi(gf)ens(f.) (;) et(hg) man(h!jjj)si(ih..) in(jjj) so(j')li(kvJ'Ij)tú(h)di(hih__)ne:(h.) (:) quó(h)ni(gf)am(f) vi(fgF'D)di(d.) i(df)ni(fffd)qui(d')tá(d!ff/deD'C)tem(c.) (;) et(cd) con(ff)tra(d)di(ff)cti(d)ó(deD'C)nem(c.) (,) in(fff) ci(f')vi(gvF'Ef)tá(ded__)te.(d.) <i>Ps.</i>(::) Ex(f)áu(gh)di,(h) De(h)us,(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am,(h.) (,) et(h) ne(h) de(h)spé(h)xe(h)ris(h) de(h)pre(h)ca(h)ti(h)ó(hj)nem(h) me(hg)am:(gh..) *(;) in(gf~)tén(gh)de(h) mi(h)hi,(h) et(hjh) ex(g')áu(f)di(fff) me.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "94**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "24",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

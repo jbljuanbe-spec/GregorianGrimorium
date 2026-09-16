@@ -1,0 +1,31 @@
+{
+  "id": "sub-umbra-illius-3730",
+  "incipit": "Sub umbra illius",
+  "title": "Sub umbra illius",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Sub umbra illíus * quem desideráveram, sedi, et fructus ejus dulcis gúturi meo. T. P. Allelúia.",
+  "gabc": "(c3) SUB(e) um(gih)bra(gv//efED) il(h)lí(gh!iwj)us(i) *(,) quem(i) de(ih)si(ef)de(f)rá(fh)ve(h)ram,(hi!jvji) se(gihh)di,(hg) (:) et(f) fru(ji)ctus(j) e(ljji/jkjjij)jus(ijHG) (;) dul(g!hi)cis(h) gú(g!hi)tu(h)ri(g) me(gvFEf,ehg/hhg//hji/jh/iivHG)o.(g) <i>T. P.</i>(::) Al(hi)le(h)lú(hhh/jvIH/ivHG)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[171]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3730",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

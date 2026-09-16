@@ -1,0 +1,31 @@
+{
+  "id": "qui-vult-venire-6924",
+  "incipit": "Qui vult venire",
+  "title": "Qui vult venire",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Qui vult veníre post me, ábneget semetípsum, et tollat crucem suam, et sequátor me. T. P. Allelúia.",
+  "gabc": "(c4) Qui(d) vult(df) (::) ve(fe)ní(gh)re(ixhih) post(fg) me,(fvED) (;) áb(f!ghg/hi)ne(h)get(h) se(fe)me(d)tí(f!gh)psum,(e) (:) et(h) tol(ghg~)lat(ef) cru(ghgh)cem(fd) su(egff)am,(fe) (:) et(eg/hjh) se(fg)quá(ef)tor(de/feed~) me.(d) <i>T. P.</i>(::) Al(fg>)le(ef//ghf/gvFE)lú(de/fef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "17*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6924",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

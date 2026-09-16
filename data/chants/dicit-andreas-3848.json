@@ -1,0 +1,31 @@
+{
+  "id": "dicit-andreas-3848",
+  "incipit": "Dicit Andreas",
+  "title": "Dicit Andreas",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dicit Andréas * Simóni fratri suo: Invénimus Messíam, qui dícitur Christus: et addúxit eum ad Jesum.",
+  "gabc": "(c3) DI(hh)CIT(h) An(hi~)dré(i)as(hgh) *(,) Si(h)mó(hg)ni(ge) fra(g)tri(hih) su(hf!gw!hvGFEf)o:(fe) (:) In(h)vé(ik)ni(j)mus(ijg) Mes(h)sí(ihi)am,(ie) (;) qui(f) dí(hg)ci(h!ij)tur(ij~) Chris(hiHG)tus:(g) (:) et(g) ad(h)dú(ij)xit(i) e(hf)um(fe) ad(ef) Je(e)sum.(dvCB//ece) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "337"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3848",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

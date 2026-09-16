@@ -1,0 +1,31 @@
+{
+  "id": "excita-domine-1642",
+  "incipit": "Excita Domine",
+  "title": "Excita Domine",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Excita, Dómine, poténtiam tuam, et veni, ut salvos * fácias nos.",
+  "gabc": "(c3) AL(fd~)le(e!fg)lú(hgh)ia.(ixhiHGgf) *(,) <i>ij.</i>{}(ixhiHGge//ghGFEfgf/fe) <sp>V/</sp>.(::) Ex(h)ci(h)ta,(ixgivHGhf/fe) Dó(fd/ef!gh/hg)mi(fg)ne,(g) (;) po(g)tén(gh)ti(ghg/hf)am(ed~) tu(egFD)am,(d) (:) et(f!gwhg) ve(ixhiGEg//hiFD//ff/fdgvFE,df/hf/gefv//df!gvFEf)ni,(fe) (:) ut(d) sal(fd~)vos(f) *() fá(e!fg)ci(gdgvFE)as(fd/ef!gh) nos.(ixhiHGgf,ixhiHGge//ghGFEfgf/fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "8"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1642",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

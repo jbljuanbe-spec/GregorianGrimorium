@@ -1,0 +1,31 @@
+{
+  "id": "benedictus-es-in-labiis-6310",
+  "incipit": "Benedictus es... in labiis",
+  "title": "Benedictus es... in labiis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Benedíctus es, Dómine, doce me justificatiónes tuas: in lábiis meis pronuntiávi ómnia judícia oris tui.",
+  "gabc": "(c3) Be(e)ne(e)dí(gihh)ctus(fh) es,(hg) (::) Dó(h)mi(gihh)ne,(hg) (:) do(h)ce(hg) me(hg) (;3) ju(f)sti(f!ghg)fi(fe)ca(f)ti(e)ó(ehhf//ivHGh)nes(gf) (;3) tu(df/hvFD)as:(ed) (:) in(de) lá(ef)bi(e)is(e!fh) me(ffef)is(f//hhiffe) (;) pro(h)nun(h)ti(fh)á(ghffe;hhf//ivHG)vi(hhvGF//hffv//ded) (:) ó(df)mni(f)a(hghf//hvGF) ju(d)dí(fhf/gh)ci(e)a(de) (;) o(ehhe//hhv)ris(fh) (;4) tu(gxfe/fgED//efDC/deDC)i.(c) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "66"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6310",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

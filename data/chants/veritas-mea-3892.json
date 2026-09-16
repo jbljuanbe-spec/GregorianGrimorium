@@ -1,0 +1,37 @@
+{
+  "id": "veritas-mea-3892",
+  "incipit": "Veritas mea",
+  "title": "Veritas mea",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Veritas mea, * et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus.",
+  "gabc": "(f4) VE(hh)RI(hiHG)TAS(ggh~) me(h!jjh/jjh/gih)a,(h) *(;) et(h!jjj) mi(h)se(g)ri(h)có(h!iwj/kj)rdi(j)a(jkjji) me(h!iwj)a(jkjji) (,) cum(hg) i(h!iw!jvIHi)pso:(hg) (:) et(h) in(jhj) nó(j)mi(kvJH)ne(ji) me(jijg)o(egeg) (;) ex(d)al(e)tá(gh)bi(hg)tur(h) cor(j)nu(jkjji) e(h!iwjij)jus.(ih) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[39]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[5]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3892",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

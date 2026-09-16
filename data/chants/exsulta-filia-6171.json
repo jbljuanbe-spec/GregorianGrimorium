@@ -1,0 +1,31 @@
+{
+  "id": "exsulta-filia-6171",
+  "incipit": "Exsulta, filia",
+  "title": "Exsulta, filia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exsúlta, fília Sion, lauda, fília Jerúsalem: ecce Rex tuus venit sanctus, et Salvátor mundi.",
+  "gabc": "(c4) Ex(dffv)súl(cd)ta,(d) (::) fí(d!fg)li(gh)a(h) Si(ghe)on,(e) (;) lau(eg!hi)da,(h) (;) fí(hjjv)li(hg)a(g) Je(f!gh)rú(ghf)sa(egff)lem:(fe) (:) ec(e)ce(g) Rex(h) tu(jh)us(ij) ve(hiHGh)nit(hg) (;) san(hg~)ctus,(gf) (;4) et(gh) Sal(f)vá(ef!gh)tor(g) mun(egff)di.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "31"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6171",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

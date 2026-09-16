@@ -1,0 +1,37 @@
+{
+  "id": "virgo-dei-genitrix-1114",
+  "incipit": "Virgo Dei Genitrix",
+  "title": "Virgo Dei Genitrix",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Virgo Dei Génitrix, quem totus non capit orbis, in tua se clausit víscera * factus homo.",
+  "gabc": "(c4) AL(c)le(d)lú(ix!ed/hi)ia.(h.) *(,) <i>ij.</i>(ghG'Fhv.fgF'EgvF'ED.) (;) (ce!gvgef//deDC.) (,) (c!ff/eg'!hvF'EC'ewfd.) <sp>V/</sp>.(::) Vir(dffeggvFE'fd~)go(d.) (,) De(de)i(cd) Gé(ixdh/jjh/iggf)ni(gh)trix,(hv.dh/jjh/iggf/ghh/d!ef!hvGE'fd.) (;) quem(dc~) to(cd!fvvED'e!f'g)tus(ghhg.) (,) non(f) ca(fhhghvGFgvFE'D)pit(cd) or(d!ewfef)bis,(ed..) (:) in(h) tu(h)a(g) se(h) clau(jk/jkj/hiH'Gjv//gjjvIH'G)sit(fg~) ví(gddcf/ghh//fhghF'ED)sce(cd)ra(d.) *(,) fa(c)ctus(d) ho(ix!ed/hi)mo.(h.) (,) (ghG'Fhv.fgF'EgvF'ED.) (;) (ce!gvgef//deDC.) (,) (c!ff//eg'!hvF'EC'ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "623"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1684"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1114",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

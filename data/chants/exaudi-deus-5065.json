@@ -1,0 +1,31 @@
+{
+  "id": "exaudi-deus-5065",
+  "incipit": "Exaudi, Deus",
+  "title": "Exaudi, Deus",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exáudi Deus oratiónem meam, et ne despéxeris deprecatiónem meam: inténde in me, et exáudi me. ℣. Contristátus sum in exercitatióne mea: et conturbátus sum a voce inimíci, et a tribulatióne peccatóris. Glória E u o u a e.",
+  "gabc": "(c3) Ex(f)áu(f)di(e) (::) De(f)us(e) (;1) o(f)ra(d)ti(fh)ó(hvGF)nem(hhv) me(h!ijIHi)am,(ih) (:) et(hf~) ne(h) de(i)spé(j)xe(i)ris(h) (;6) de(h)pre(h)ca(h)ti(h)ó(hvGF)nem(f) me(efEDe)am:(ed) (:) in(d)tén(ef)de(fh) in(fe~) me,(efED) (;) et(d!ef) ex(fe)áu(gxf!ghGFE//fgFE)di(d!efEDe) me.(ed) <sp>V/</sp>.(::) Con(d)tri(f)stá(h)tus(h) sum(h) in(h) ex(h)er(h)ci(h)ta(h)ti(h)ó(h)ne(h) me(i)a:(h) (::) et(f) con(h)tur(h)bá(h)tus(h) sum(h) a(h) vo(h)ce(h) in(h)i(h)mí(h)ci,(h) (;) et(h) a(h) tri(h)bu(h)la(h)ti(h)ó(h)ne(h) pec(i)ca(g)tó(h)ris.(fefED) (::) Gló(d)ri(f)a(h) (::) E(h) u(h) o(i) u(g) a(h) e.(fefED) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "126"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5065",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

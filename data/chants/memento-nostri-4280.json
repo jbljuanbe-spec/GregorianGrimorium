@@ -1,0 +1,31 @@
+{
+  "id": "memento-nostri-4280",
+  "incipit": "Memento nostri",
+  "title": "Memento nostri",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Meménto nostri Dómine in beneplácito pópuli tui : vísita nos in salutári tuo : ad vidéndum in bonitáte electórum tuórum, in lætítia gentis tuæ : ut laudéris cum hereditáte tua. ℣. Confitémini Dómino quóniam bonus : quóniam in saéculum misericórdia ejus.",
+  "gabc": "(c4)Me(d)mén(dffdfe~)to(c) (::) no(f)stri(g) Dó(ixhg!/hi)mi(h)ne(h) (;) in(hf~) be(h)ne(ge)plá(fg)ci(g)to(g) (;3) pó(g)pu(g)li(ghFEf) tu(ded)i :(d) (:) ví(d!fg)si(g)ta(ge!/fd) nos(d) (;) in(dc) sa(ded)lu(dc)tá(dfe)ri(fg) tu(deDC)o :(c) (:) ad(de) vi(dc)dén(de)dum(d) in(dc) bo(d)ni(fe)tá(f)te(dfddc) (;) e(e)le(f)ctó(ge)rum(gh) tu(fe)ó(ded)rum,(d) (:) in(f) læ(gh)tí(hjij)ti(h)a(f) gen(h)tis(jijh) tu(ixhih)æ :(h) (:) ut(fh) lau(ge)dé(fg)ris(ge!/fd) cum(ded) he(dc)re(d)di(fe)tá(f)te(e!fgFE!/f) tu(ded)a.(d) (::) <sp>V/</sp>. Con(f)fi(gh)té(h)mi(h)ni(h) Dó(h)mi(h)no(h) (;3) quó(hj)ni(h)am(h) bo(hg)nus :(gh) (::) quó(gf)ni(gh)am(h) in(h) saé(h)cu(h)lum(h) (;3) mi(h)se(h)ri(h)cór(hjh)di(g)a(f) e(fe)jus.(d) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "20"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4280",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

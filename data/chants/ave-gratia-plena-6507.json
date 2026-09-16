@@ -1,0 +1,31 @@
+{
+  "id": "ave-gratia-plena-6507",
+  "incipit": "Ave, gratia plena",
+  "title": "Ave, gratia plena",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ave, grátia plena, Dóminus tecum, benedícta tu in muliéribus.",
+  "gabc": "(c4) A(d/fff/gvFD)ve,(dc) (::) grá(fhg)ti(g)a(g) ple(ixgiHG/gf/gvFD//cd/efd)na,(d) (:) Dó(d!ef/gf/ghg)mi(fg)nus(g) (;3) te(ggghf//hji/hig)cum,(g) (:) be(gj)ne(ji)dí(jkj)cta(jvIH/hvGF/gf) tu(f) (;) in(f) mu(e!fg//f!gh)li(ed/ffd)é(d/hvvGFED/evDCd;ff/gvED/ffe)ri(cd)bus.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "424"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6507",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

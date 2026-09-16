@@ -1,0 +1,31 @@
+{
+  "id": "inveni-david-1837",
+  "incipit": "Inveni David",
+  "title": "Inveni David",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Alleluia. * ij. ℣. Invéni David ser- vum meum: óle o sancto meo unxi * eum.",
+  "gabc": "(f3) AL(e)LE(f)LU(hi~)IA.(ih/ig/gf) *(,) <i>ij.</i>(hv/iji/ef/hf/hv/ghe/hh/hf/ghf) <sp>V/</sp>. (::) In(fe/f!gh!iv)vé(vji/ihi)ni (iv//hh/fgf) (,) Da(f/hh/ij/H/F/iv/HG/E/f/hfh/hf/ge)vid(e) (;) ser-(f/fe/f/fe/fc) (,) (ef/hv/hv/FE/hhh)vum(iHG/h) me(fgf)um:(f) (:) ó(f!hi)le(ji/ihi) o(iv/hh/fgf) (,) sa(fg~)ncto(f) me(f!hh/ij/HF/iv/HG/E/f/hfh/hf/ge!)o(e) (;) un(hh)xi(hi) *() e(ih/jij)um.(jv/jvIHG/E/f!g!hv!f) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "44"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1837",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

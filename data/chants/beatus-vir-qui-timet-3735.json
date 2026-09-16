@@ -1,0 +1,31 @@
+{
+  "id": "beatus-vir-qui-timet-3735",
+  "incipit": "Beatus vir qui timet",
+  "title": "Beatus vir qui timet",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Beátus vir, * qui timet Dóminum: in mandátis ejus cupit nimis. ℣. Potens in terra erit semen ejus: generátio rectórum * benedicétur.",
+  "gabc": "(c4) BE(d)Á(ff/ge/fd//gef)TUS(d/gef) vir,(f) *(;) qui(jj) ti(jkj)met(j) Dó(ixjh/ivHG/ivHG//f!gwhgh//gh)mi(fg)num:(fgff/ded) (:) in(d) man(d)dá(fgfg/hg//jv//ikjjvIH)tis(hv//gj/kj) e(jjji/jvIH)jus(ih) (;) cu(jjlKJ)pit(ji/jjjhj) ni(gh)mis.(ef!gwhgh ghGFf//fhg/hggf) <sp>V/</sp>.(z0::c3) Po(d)tens(d) in(f) ter(h)ra(ihhhh//f!hhhvFED//fvED/fvED) (,) (f!gwh/ig/ih//hhhjIH//hvGF) (;) e(f!hi)rit(ih/jki/hhf) se(hf/hhh)men(h) e(ihhf/hv ,df/hf/hv//ihhf/hv//ih/ihhg/hvGF)jus:(gf) (:) ge(f)ne(h)rá(h)ti(hfih)o(hhhvFD) re(f)ctó(hv//fig/hvFEf,egFE/fvEDe)rum(ed) *(;) be(d)ne(ef)di(fhGF)cé(i)tur.(hhf) (,) (gxgf/gvED//fgED//fe/hv/hhhff//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[9]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3735",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

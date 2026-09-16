@@ -1,0 +1,31 @@
+{
+  "id": "illumina-5998",
+  "incipit": "Illumina",
+  "title": "Illumina",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Illúmina óculos meos: ne unquam obdórmiam in morte: nequándo dicat inimícus meus: Præválui advérsus eum.",
+  "gabc": "(c4) Il(f)lú(fhghf)mi(dgFE)na(e) (::) ó(ge)cu(ghg)los(h) (;3) me(ixhv//gih//ivGF//fg/hiHG//ih)os:(h) (:) ne(jjv) un(gh)quam(f) (;4) ob(e)dór(ge//ghg)mi(gffvED)am(ed) (;) in(fh) mor(hg//jjvGE//ge;3ghGF//gvFE)te:(f) (:) ne(ef/gh)quán(gh)do(ghGF) di(gh)cat(hjjvIH) (;) i(h)ni(ghg)mí(hjjvIH)cus(gh) me(fgFE)us:(f) (:) Præ(dfd)vá(ffv)lu(dc)i(c) (;) ad(dfdf)vér(ffv)sus(df) (;1) e(ffv//ghFD//ffv//hvGF//gvFE)um.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "291"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5998",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

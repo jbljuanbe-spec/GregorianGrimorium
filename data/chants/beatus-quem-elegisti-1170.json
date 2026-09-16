@@ -1,0 +1,37 @@
+{
+  "id": "beatus-quem-elegisti-1170",
+  "incipit": "Beatus quem elegisti",
+  "title": "Beatus quem elegisti",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Beátus quem elegísti, et assumpsísti: inhabitábit in átriis * tuis.",
+  "gabc": "(c4) AL(ce)le(ed)lú(d/ghg)ia.(ggh.) *(,) <i>ij.</i>(gjI'HG'gv//efE'DC.) (;) (efd/ee//ce!gvFED.) (,) (ghfgvvFDced.) (,) (fffgvFDe.) <sp>V/</sp>.(::) Be(cg)á(gvFE)tus(e_d) (,) quem(ef) e(ed)le(ce)gí(ggf//ghGE'Dff//egFD'Ce)sti,(e.) (;) et(g) as(hg)sum(g/jjj)psí(iv.hjI''Ghv.g.h!iwjg)sti:(g.) (:) in(gh)ha(hg)bi(fh)tá(gvFDev.ced/efd)bit(d.) (;) in(c) á(ce)tri(ed)is(d) *() tu(d/ghg)is.(ggh.) (,) (gjI'HG'gv//efE'DC.) (;) (efd/ee//ce!gvFED.) (,) (ghfgvvFDced.) (,) (fffgvFDe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "519"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1479"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1170",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

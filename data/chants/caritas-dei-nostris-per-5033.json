@@ -1,0 +1,31 @@
+{
+  "id": "caritas-dei-nostris-per-5033",
+  "incipit": "Caritas Dei... nostris per",
+  "title": "Caritas Dei... nostris per",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Caritas Dei diffúsa est in córdibus nostris per inhabitántem spíritum ejus in nobis. T. P. Allelúia, allelúia. ℣. Bénedic ánima mea Dómino: et ómnia quæ intra me sunt nómini sancto ejus. Glória E u o u a e.",
+  "gabc": "(c4) Ca(gj)ri(j)tas(j) (::) De(j)i(hih) (;4) dif(g)fú(hjh//jjv)sa(ghGFEf) est(fe) (;) in(f) cór(e!fh)di(h)bus(h) no(hghf)stris(df) (:) per(fgf) in(ef)ha(g)bi(g)tán(gh/jh//fhf/gh)tem(g) (;) spí(hhg)ri(hg)tum(f) e(e!fg)jus(g) in(f) no(egffv)bis.(fe) <i>T. P.</i>(::) Al(f)le(fh/jh)lú(ghggf~)ia,(e) (;) al(g)le(ixg!hiGF//hvGFg)lú(egffv)ia.(fe) <sp>V/</sp>.(::) Bé(g)ne(hj)dic(j) á(j)ni(j)ma(j) me(jk)a(j) Dó(j)mi(ih)no:(hj) (::) et(g) ó(hj)mni(j)a(j) quæ(j) in(j)tra(j) me(j) sunt(j) (;6) nó(j)mi(j)ni(ji) san(hg)cto(h) e(i)jus.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e.(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "481"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5033",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

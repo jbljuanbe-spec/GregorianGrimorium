@@ -1,0 +1,31 @@
+{
+  "id": "omnia-detrimentum-4858",
+  "incipit": "Omnia detrimentum",
+  "title": "Omnia detrimentum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Omnia detriméntum feci, ut Christum lucrifáciam.",
+  "gabc": "(c4) Al(ef)le(dg)lú(gi//gh/jjk)ia.(i) (::) (gh/jh/igge) (;) (ggfg//jvIHG/ge//fgffe) <sp>V/</sp>.(::) O(gj)mni(j)a(jv//h!iji//jv//hihhg) (;) de(g)tri(hj)mén(jjgh)tum(h) fe(i/jkHG/ikjk)ci,(ji) (:) ut(gjjv//hjjv) Chri(ghf/gvFE/fd;fhGF/ghg)stum(egf/gffe) (::) lu(ef)cri(dg)fá(gi)ci(i/jkHGi)am.(i) (;) (gh/jh/igge) (;) (ggfg//jvIHG/ge//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "398"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4858",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

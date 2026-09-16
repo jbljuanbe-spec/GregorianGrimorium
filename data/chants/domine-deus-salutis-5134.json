@@ -1,0 +1,31 @@
+{
+  "id": "domine-deus-salutis-5134",
+  "incipit": "Domine, Deus salutis",
+  "title": "Domine, Deus salutis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Domine, Deus salútis meæ, in die clamávi, et nocte coram te: intret orátio mea in conspéctu tuo, Dómine, allelúia.",
+  "gabc": "(c4) Do(df)mi(gf)ne,(g) (::) De(hjh)us(ghGF) (;) sa(fh)lú(hjjh//ij)tis(hfhg) me(ghg)æ,(g) (:) in(g) di(gi/kj)e(jjhj) cla(g)má(hjh)vi,(gh) (;) et(fg) no(hjh)cte(ghGF) co(f)ram(fg/hghggf~) te:(gf) (:) in(gh)tret(gh) o(gf)rá(hjh/ij)ti(gh)o(gf) (;3) me(gh)a(hjhhv/fgf) (;) in(gh) con(gh/ji)spé(j)ctu(gh) (;3) tu(g!hji)o,(jjvIH//ijIH) (;3) Dó(hg)mi(gh/jhi)ne,(hg) (;) al(hg~)le(e!fg;4ghe//fg)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "262"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5134",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dixit-jesus-discipulo-3579",
+  "incipit": "Dixit Jesus discipulo",
+  "title": "Dixit Jesus discipulo",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dixit Jesus * discípulo: Ecce mater tua. Et ex illa hora accépit eam discípulus in sua.",
+  "gabc": "(c4) DI(f)XIT(h) Je(h/jjh!iwj)sus(gh) *(,) di(gfh)scí(ixhiHG)pu(hg)lo:(g//hg/hg/jjh/ivGFg) (:) Ec(f)ce(h) ma(jjjk)ter(hg~) tu(ghGFg)a.(gf) (:) Et(d) ex(dc) il(fh)la(hg) ho(ixhig/hg)ra(fe) (,) ac(fe)cé(fg)pit(ghg) e(ed!ewf)am(dc/dfED) (;) di(cd)scí(dggf/ghg)pu(fg)lus(gd) in(f) su(ixfhgivHGFfdfv//,fff//fgf/ghg/hf/gf)a.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[202]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3579",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

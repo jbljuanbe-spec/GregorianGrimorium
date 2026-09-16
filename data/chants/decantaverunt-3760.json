@@ -1,0 +1,31 @@
+{
+  "id": "decantaverunt-3760",
+  "incipit": "Decantaverunt",
+  "title": "Decantaverunt",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Decantavérunt, * Dómine, nomen sanctum tuum, et victrícem manum tuam laudáverunt.",
+  "gabc": "(c4) DE(de)CAN(c)TA(d)VÉ(fg)RUNT,(hf/ghhg) *(,) Dó(fh)mi(g)ne,(fe) no(fh)men(hg) san(h)ctum(fg~) tu(gg)um,(d) (:) et(d) vic(fe)trí(f!gh)cem(g) ma(g)num(g) tu(gfg)am(dec) (,) lau(fg~)dá(ghf/gvFE)ve(d!ewfef)runt.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "401"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3760",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

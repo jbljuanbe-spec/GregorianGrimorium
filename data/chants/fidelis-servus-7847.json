@@ -1,0 +1,31 @@
+{
+  "id": "fidelis-servus-7847",
+  "incipit": "Fidelis servus",
+  "title": "Fidelis servus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Cistercian",
+  "text_latin": "Fidélis servus et prudens, quem constítuit Dóminus super famíliam suam: ut det illis in témpore trítici mensúram.",
+  "gabc": "(c3) FI(e)DÉ(f)LIS(hg) ser(hi~)vus(i) (::) et(hg~) pru(hi)dens,(i) (;) quem(i) con(i)stí(ijij)tu(ih)it(h) Dó(hi)mi(h)nus(hg/hih) (;) su(h)per(hhg) fa(f)mí(hh)li(f!hi)am(hg~) su(e)am:(e) (:) ut(h) det(h) il(hih/hg~)lis(f) in(hg~) tém(hi)po(ijIHGh)re(hg) (;) trí(ij!kvJIih//ig/hvGF//gh!ij)ti(hf)ci(g!hi) men(hg~)sú(efe)ram.(e) (::) <v>\\black{(}</v>Al(ei/ji)le(if/hiHGhe)lú(efe)ia.<v>\\black{)}</v>(e) (::)",
+  "transcriber": "Aelredus",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Cisterciense",
+      "editor": "Westmalle",
+      "year": 1934,
+      "page": "32*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7847",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

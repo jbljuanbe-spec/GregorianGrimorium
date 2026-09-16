@@ -1,0 +1,31 @@
+{
+  "id": "ambulate-3424",
+  "incipit": "Ambulate",
+  "title": "Ambulate",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ambuláte * indilectióne, sicut et Christus diléxit nos, et trádidit semetípsum pro nobis oblatiónem et hóstiam Deo in odórem suavitátis. Allelúia.",
+  "gabc": "(c4) AM(c)BU(d)LÁ(ff)TE(f) *() in(g)di(f)lec(gh)ti(gf)ó(fgFD)ne,(d/fff) (;) si(fg)cut(f) et(f) Chri(ixf!gwh!iv)stus(h) (,) di(ixh)lé(jjh/ij)xit(gfg) nos,(dfddc) (;) et(ff) trá(fe/fg)di(dc)dit(ff) se(f)met(f)í(gf/hg)psum(g) (,) pro(gh) no(fg!hvGFg)bis(gf) (:) ob(f)la(fg)ti(g)ó(gh/jhj)nem(g) et(f) hós(gh)ti(g)am(f) De(hf/gh)o(g) (;) in(ixgih) o(ixij)dó(gf)rem(fgFD) su(f)a(f)vi(ixgh)tá(hf/gh!jjh//giHGF , fff//fgf/ghg/hf/gf)tis.(f) (:) Al(gf~)le(fff//hg/hg)lú(fg!hvGFg)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "420"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3424",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ab-ortu-solis-6216",
+  "incipit": "Ab ortu solis",
+  "title": "Ab ortu solis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ab ortu solis usque ad occásum, magnum est nomen meum, in Géntibus, et in omni loco sacrificátur, et offértur nómini meo oblátio munda: quia magnum est, dicit Dóminus exercítuum.",
+  "gabc": "(c3) Ab(d) or(gxde!fg)tu(f) (::) so(feede)lis(ed) (;) us(de/fegf)que(f) ad(fh~) oc(gyhg)cá(h//ghfg)sum,(f) (:) ma(f)gnum(h!ij) est(i) no(i)men(iji) me(hih)um,(h) (;) in(h) Gén(gxgih)ti(g!hiHGFg)bus,(gf) (:) et(fdf) in(fhhf) o(fh)mni(h) lo(gxg!hiHGFg)co(gf) (;4) sa(f)cri(egFEf)fi(d)cá(ded)tur,(d) (;) et(d) of(fh)fér(ijiiv)tur(h) nó(hih)mi(hf)ni(hhv) me(hihh)o(h) (;) o(fdf)blá(fhg//hih)ti(f)o(efe) mun(d!efEDe)da:(ed) (:) qui(de/fhg//hih)a(f) ma(efe~)gnum(d!efEDe) est,(ed) (;) di(d)cit(ef) Dó(f)mi(e)nus(e/ffhg//hih) (;4) ex(f)er(efe~)cí(d)tu(d!efEDe)um.(d!efe) (;4) (fhffv/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "42"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6216",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

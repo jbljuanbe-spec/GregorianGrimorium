@@ -1,0 +1,37 @@
+{
+  "id": "beati-mundo-corde-345",
+  "incipit": "Beati mundo corde",
+  "title": "Beati mundo corde",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "BEáti mundo corde, * quóniam ipsi Deum vidébunt: beáti pacífici, quóniam fílii Dei vocabúntur: beáti qui persecutiónem patiúntur propter justítiam, quóniam ipsórum est regnum cælórum.",
+  "gabc": "(c4) BE(h)á(h)ti(hg) mun(hj)do(ji) cor(hi)de,(h.) *(;) quó(h)ni(g)am(hvGE) i(f!gh)psi(g.) (,) De(hvGF')um(g) vi(f_e)dé(de!fvED'e)bunt:(ed..) (:) be(df)á(fef)ti(d!ewf) pa(fd)cí(fh)fi(gf)ci,(fg!hvhg.) (;) quó(gh)ni(gf)am(f) fí(gh)li(h)i(h) De(j)i(h) vo(h)ca(h_g)bún(fg!hvG~F~)tur:(gf..) (:) be(f!hj)á(j!kl)ti(k_j) (,) qui(j') per(j)se(h')cu(j)ti(g')ó(h)nem(g') pa(h)ti(g')ún(h)tur(j.h!iwji.) (,) prop(g)ter(hggf) ju(gh)stí(f)ti(fg!hvGF'g)am,(gf..) (:) quó(h)ni(g)am(hgh) i(f)psó(gfg)rum(fe) est(dfddc.) (,) re(f.e/gwhgh)gnum(gh) cæ(f_e)ló(de!fvED'e)rum.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "650"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1727"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "345",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

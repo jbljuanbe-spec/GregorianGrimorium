@@ -1,0 +1,31 @@
+{
+  "id": "cantabo-domino-794",
+  "incipit": "Cantabo Domino",
+  "title": "Cantabo Domino",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Cantábo * Dómino, qui bona tríbuit mihi: et psallam nómini Dómini altíssimi.",
+  "gabc": "(c3) CAn(d)tá(gxege)bo(g) *() Dó(gxf/ghg)mi(gvFE)no,(ge/fgf.) (,) qui(ef) bo(hhi)na(h) trí(hihhe)bu(f)it(fiH'Gh) mi(fgf___)hi:(f.) (:) et(h) psal(hi~)lam(g_f) nó(hi!jk)mi(k)ni(j/klk) Dó(ij)mi(ih)ni(hih/hvG'FE/fe..) (,) al(gig//ijhh'/hvF'ED//fhf)tís(f)si(fgf___)mi.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "323"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "794",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

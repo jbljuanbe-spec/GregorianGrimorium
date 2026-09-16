@@ -1,0 +1,31 @@
+{
+  "id": "valde-mirabilis-204",
+  "incipit": "Valde mirabilis",
+  "title": "Valde mirabilis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Valde mirábilis es, * o María, et fácies tua plena est gratiárum. T.P. Allelúia:",
+  "gabc": "(c4) VAl(gg)de(g) mi(g)rá(g)bi(gh)lis(hvGF//g.h!iwjg) es,(g.) *(,) o(g!jj) Ma(jkij)rí(hjI'G)a,(g.) (;) et(g) fá(hih)ci(g)es(e) tu(ffg)a(gvFED.) (,) ple(f!gh)na(fg) est(g.h!iwjg) gra(f)ti(ghg')á(h!jjhi)rum.(g.) <i>T.P.</i>(::) Al(g)le(ghfg)lú(gh/jhi)ia:(hg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "52**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "204",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

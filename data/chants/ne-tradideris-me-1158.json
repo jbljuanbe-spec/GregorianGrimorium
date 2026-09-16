@@ -1,0 +1,31 @@
+{
+  "id": "ne-tradideris-me-1158",
+  "incipit": "Ne tradideris me",
+  "title": "Ne tradideris me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ne tradíderis me, * Dómine, in ánimas persequéntium me: quia insurrexérunt in me testes iníqui, et mentíta est iníquitas sibi.",
+  "gabc": "(c3) NE(e) tra(f)dí(hgh)de(f)ris(fe~) me,(hi) *() Dó(igh)mi(fe)ne,(e.) (;) in(e) á(eih/ij)ni(i)mas(i) per(i)se(i)quén(jk)ti(j)um(ih~) me:(i!jwkjji.) (:) qui(ij!kvJI'j)a(j_i) in(ig~)sur(ij)re(i)xé(jjk)runt(j) in(ih~) me(i!jwkjji.) (,) tes(ij)tes(h) i(f)ní(hgh)qui,(fe..) (;) et(e) men(ei~)tí(i)ta(i) est(ii/jvG'Ef.) (,) i(e)ní(gh)qui(f!h'i)tas(h) si(efe___)bi.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "165"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1158",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

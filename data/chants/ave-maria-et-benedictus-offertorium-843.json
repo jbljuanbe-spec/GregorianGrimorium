@@ -1,0 +1,43 @@
+{
+  "id": "ave-maria-et-benedictus-offertorium-843",
+  "incipit": "Ave Maria... et benedictus (Offertorium)",
+  "title": "Ave Maria... et benedictus (Offertorium)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ave * María, grátia plena, Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ven tris tui. T. P. Allelúia.",
+  "gabc": "(c4) A(fg/hgh/fhfgvFE.//d!ef!g'h/fhf/gh)ve(g.) *(;) Ma(h)rí(jj//jjjvH'GFghjvHF'g)a,(g.) (:) grá(g_dfv.efd//de!f'g)ti(fg)a(g) ple(ghhg)na,(g.) (:) Dó(jvIHk_j//ijh/ig./hi/jg.)(,)(jvIHk_j//ijh/ig./hi/jg)mi(fg)nus(g.) (,) te(ggg/hvGFg_d//gjhi)cum:(hg..) (:) be(h)ne(jj)dí(jk!lvlk)cta(jk/kj) tu(ji/jkh/hg.) (;) in(g) mu(gjjvI'H)li(hkj)é(jjvI'H)ri(jvIHij)bus,(i.) (:) et(g) be(i)ne(jkj)dí(hjgh)ctus(fg!hvhg.) (;) fru(g_f/ghf/fe)ctus(d.) ven(de!f'ghvF'ED) (,) (de!f'g)tris(fhfg) tu(ghhg)i.(g.) (::)\r\n<i>T. P.</i> Al(h!iwji~)le(jkJH'/gi.//hjIH'/g!jj//hig___)lú(ghg___)ia.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[79]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "23"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "355"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "843",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

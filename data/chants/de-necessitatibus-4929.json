@@ -1,0 +1,31 @@
+{
+  "id": "de-necessitatibus-4929",
+  "incipit": "De necessitatibus",
+  "title": "De necessitatibus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "De necessitátibus eórum edúxit eos: et státuit procéllam ejus in auram, et siluérunt fluctus ejus: et lætáti sunt, quia siluérunt: et dedúxit eos in portum voluntátis eórum. T. P. Allelúia.",
+  "gabc": "(c4) De(fgffe) ne(c)ces(d)si(f)tá(ffv)ti(fg/hgh)bus(hg) (::) e(ghg)ó(hjjv)rum(g) (;) e(gjjh)dú(ixgihiGF)xit(gffe) (;) e(iygh/ji//jkijh)os:(h!ijIHG/hhg) (:) et(gh/ji) stá(j)tu(ikjjv)it(ji) (;) pro(j)cél(jkj)lam(ji) e(jvIH)jus(hji//jkhhg) (;) in(g!ik) au(kikJI)ram,(i) (:) et(j) si(hj)lu(j)é(ikjjv)runt(ji/jkj) (;3) flu(jk)ctus(j) e(jh)jus:(hg/hih) (:) et(g!hj) læ(j)tá(jh//jjlKJ/jvIH)ti(hg) (;3) (ixivHG/hvGFg) sunt,(gf) (;) qui(f)a(gh) si(hg)lu(h)é(hjjv)runt:(h!ijIHG//hih) (:) et(gf) de(ghg)dú(hjIH)xit(hg) e(ghghg)os(hjIH) (;) in(f) por(hgj)tum(j/klk) (;3) vo(kjji)lun(hgh)tá(jkjjvHGF/ixgh!ivHG)tis(hg) (;) e(h)ó(jkjjh//jjh;3jjvHG)rum.(iyg!hihhg) <i>T. P.</i>(::) Al(g)le(ghfg)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "450"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4929",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

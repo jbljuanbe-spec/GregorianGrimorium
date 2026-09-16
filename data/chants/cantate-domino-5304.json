@@ -1,0 +1,31 @@
+{
+  "id": "cantate-domino-5304",
+  "incipit": "Cantate Domino",
+  "title": "Cantate Domino",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Cantáte Dómino, allelúia: cantáte Dómino, et benedícite nomini ejus: bene nuntiáte de die in diem salutáre ejus, allelúia, allelúia.",
+  "gabc": "(f3) Can(f)tá(f)te(hg) (::) Dó(hi)mi(ivHG/hvGFg)no,(gf) (;) al(fhg~)le(egf)lú(fgf)ia:(f) (:) can(f)tá(h)te(hg) Dó(hj)mi(ji)no,(hih) (;) et(h) be(g)ne(h)dí(i)ci(hg)te(f) no(fh)mi(gh)ni(gf) e(fgf)jus:(f) (:) be(jijg//high)ne(f) (;3) nun(fh)ti(hf)á(hi//jvIHG//hihi)te(ih) (;) de(g) di(hg)e(f) in(fe) di(f!ghGFEf)em(fe) (;) sa(fhf)lu(fe)tá(fgf)re(ef) e(fgf)jus,(f) (:) al(kxjk)le(j)lú(jij>)ia,(hf) (;) al(hi>)le(gh//ijh/ivHG)lú(fg/hgh)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "231"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5304",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

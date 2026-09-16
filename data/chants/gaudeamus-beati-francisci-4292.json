@@ -1,0 +1,31 @@
+{
+  "id": "gaudeamus-beati-francisci-4292",
+  "incipit": "Gaudeamus… beati Francisci",
+  "title": "Gaudeamus… beati Francisci",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beáti Francísci : de cujus solemnitáte gaudent Angeli, et colláudant Fílium Dei. ℣. Exsultáte justi in Dómino : rectos decet collaudátio.",
+  "gabc": "(c4)Gau(c)de(d)á(ixdh!iv)mus(h) (::) om(h)nes(hg) in(fg) Dó(hjjh)mi(iyhg/hihi)no,(ih) (:) di(h)em(fg) fe(g)stum(gffv) ce(dg)le(gvFE)brán(d)tes(gffv) (;) sub(d) ho(g)nó(gh/jh)re(ghg) (;4) be(fh)á(h)ti(gjjv) Fran(h)cí(ixhih)sci :(h) (:) de(fg) cu(fg)jus(f) so(f)lem(f)ni(g)tá(gh/jh)te(ghg) (;4) gau(fg)dent(f) An(fg/hgh)ge(gvFEfgfg)li,(gf) (:) et(f) col(g)láu(gh/jh)dant(ghg) (;4) Fí(fg)li(f)um(ef//ghf/gvFE) De(de/fef)i.(ed) (::)\r\n <sp>V/</sp>. Ex(f)sul(gh)tá(h)te(h) ju(hj)sti(h) in(h) Dó(h)mi(hg)no :(gh) (::) re(gf)ctos(gh) de(h)cet(h) col(hjh)lau(g)dá(f)ti(fe)o.(d) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "587"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4292",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

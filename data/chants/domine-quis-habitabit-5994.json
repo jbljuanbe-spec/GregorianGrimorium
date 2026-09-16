@@ -1,0 +1,31 @@
+{
+  "id": "domine-quis-habitabit-5994",
+  "incipit": "Domine, quis habitabit",
+  "title": "Domine, quis habitabit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Domine, quis habitábit in tabernáculo tuo? aut quis requiéscet in monte sancto tuo? Qui ingréditur sine mácula, et operátur justítiam.",
+  "gabc": "(c4) Do(f)mi(ef)ne,(df) (::) quis(dc) ha(fg)bi(f)tá(gh)bit(h) (;) in(h) ta(h)ber(h)ná(hj)cu(h)lo(g) tu(f!ghg)o?(hg) (:) aut(g) quis(h) re(f)qui(d)é(fef)scet(d) (;) in(dc~) mon(f)te(gh) san(hj)cto(hghg) tu(f!ghGFg)o?(gf) (:) Qui(j) in(j)gré(k)di(ji)tur(h) si(j)ne(g) má(h)cu(g)la,(f) (;) et(f) o(f)pe(g)rá(fdf;4efd//evDCd)tur(dc) (;) ju(f)stí(fhGF/gvFEf;4hghf)ti(fgf)am.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "115"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5994",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

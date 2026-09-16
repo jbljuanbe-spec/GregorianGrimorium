@@ -1,0 +1,31 @@
+{
+  "id": "sancti-tui-1231",
+  "incipit": "Sancti tui",
+  "title": "Sancti tui",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Sancti tui, * Dómine, benedícent te: glóriam regni tui dicent, allelúia, allelúia. Ps. Exaltábo te Deus meus Rex: * et benedícam nómini tuo in saéculum, et in saéculum saéculi. Glória Patri E u o u a e",
+  "gabc": "(c4) SAnc(f)ti(fff/ded__) tu(g)i,(h) *(,) Dó(hkjji)mi(ji)ne,(j.) (;) be(jjj)ne(g!hwih)dí(j)cent(gh~) te:(e.) (:) gló(ef)ri(g)am(g!hj) re(hi)gni(h) tu(hhg)i(h!iwj) di(h!iw!jvI'HG'h)cent,(hg..) (:) al(e)le(f)lú(gf~)ia,(g.) (,) al(gf~)le(g_e/f!gwh_g)lú(ghghFD'ewf/ge~)ia.(e.) <i>Ps.</i>(::) Ex(g)al(hj)tá(j)bo(j) te(j) De(k)us(j) me(j)us(ih) Rex:(jjj) *(:) et(ig) be(hj)ne(j)dí(j)cam(j) nó(j)mi(j)ni(j) tu(j)o(j.) (,) in(j) saé(j)cu(j)lum,(j) et(j) in(j) saé(j)cu(jji)lum(hg) saé(h')cu(i)li.(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[18]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1231",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

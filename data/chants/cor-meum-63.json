@@ -1,0 +1,31 @@
+{
+  "id": "cor-meum-63",
+  "incipit": "Cor meum",
+  "title": "Cor meum",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Cor meum * et caro mea exsultavérunt in Deum vivum. ℣. Etenim passer invénit sibi donum, et turtur nidum sibi, ubi ponat pullos suos. ℣. Altária tua, Dómine virtútum, Rex meus, et Deus * meus.",
+  "gabc": "(c4) COR(g) me(g/hih)um(g/hhg.) *(,) et(fg) ca(gjjk)ro(hg/hf//hjhj) me(jvIH'iw!jvI'HG'h)a(hg..) (;) ex(g)sul(gj)ta(j)vé(ik/ljjh)runt(jhhg/hg/jjh/jggf.) (;) in(g) De(hfg)um(gh/jij) vi(j.h!iwj)vum.(jjjvIH/ivHGhg..) <sp>V/</sp>.(::) E(g)te(hjhj'jj//kvJ'IG/h_g/h!iw!jvIH/ijh)nim(hg..) (;) pas(g)ser(ghg) in(fg)vé(jj)nit(hji) si(ij/kjji)bi(i.) (,) do(hjIG'h)num,(gv.fh/ji/jkhhg/hg/jjh/jggf.) (:) et(f) tur(hj)tur(igh) ni(gfg)dum(gh/jij) si(j.h!iwj)bi,(jjjvIHivHGhg..) (:) u(gh)bi(g) po(h_g/h!iwj)nat(ghf) (,) pul(f!h'j)los(j) su(j)os.(jijHG.ixjjvHG./hiGF.) (,) (iyh./jh/ig/hhg.) <sp>V/</sp>.(::) Al(g)tá(g!hwi'!jv)ri(j)a(j) tu(ij)a,(j.) (,) Dó(j)mi(j)ne(j) vir(j)tú(j_kJ'G/h_g/h!iw!jvIH/ijh)tum,(hg..) (:) Rex(g) me(h_g/h!iwj)us,(g_h) (,) et(f) De(f.h!iwj'!kv)us(j) *() me(j)us.(jijHGg'g/hggfg.) (,) (jjj/kvJ'IH'hg/hjI'HG'ghf.) (,) (h!iw!jvIH'ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "626"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "63",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

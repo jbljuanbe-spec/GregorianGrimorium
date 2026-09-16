@@ -1,0 +1,31 @@
+{
+  "id": "ego-dominus-inebriabo-183",
+  "incipit": "Ego Dominus inebriabo",
+  "title": "Ego Dominus inebriabo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Ego Dóminus inebriábo ánimam sacerdótum pinguédine: et pópulus meus bonis meis * adimplébitur.",
+  "gabc": "(c4) AL(cd)le(d)lú(dc/eed~)ia.(d.) *(;) (fhg/fhGE'ed//gvFDee/cd/ed.) (;) (fg!hvGEgvFED'ewfd.) <sp>V/</sp>.(::) E(c)go(cd) Dó(dfddcd//c.d!ew!fvED)mi(cd)nus(d.) (,) in(fhg)e(gvFD)bri(fgF'Ef)á(ded__)bo(d.) (,) á(dh)ni(h)mam(hgh) sa(g)cer(g)dó(gh)tum(g) pin(hjh)gué(ggvFD'dcd//cd!fvEDfe/fgeed,hhf/ggf)di(gh)ne:(h.) (:) et(gh!jvIH) pó(hj)pu(gf)lus(gvFE) me(dc)us(ev.ce!gv//c!eggvFD'dcd//cfeede.) (;) bo(dc)nis(cd) me(dc/efd)is(d.) *(,) ad(d)im(f)plé(fh)bi(hg)tur.(fhGE'ed//gvFDee/cd/ed.) (;) (fg!hvGEgvFED'ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "117**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "183",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

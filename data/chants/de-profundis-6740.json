@@ -1,0 +1,31 @@
+{
+  "id": "de-profundis-6740",
+  "incipit": "De profundis",
+  "title": "De profundis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "De profúndis clamávi ad te, Dómine: Dómine, exáudi oratiónem meam.",
+  "gabc": "(f3) De(e) pro(f)fún(fhf//hhg~)dis(fef) (::) cla(e)má(ef/hf)vi(h) ad(hghf) te,(fgEC/efef) (;3) Dó(f)mi(fgf)ne:(f) (:) Dó(hig/hf)mi(ef)ne,(f) (;3) ex(fh/ji)áu(highf~)di(f) (;) o(f)ra(fe)ti(hih)ó(hhv//egf)nem(fg) me(f)am.(f) (;4) (hhv/egf) (;) (fhg//hiGF/hf) (;3) (gvFE//fvEC/ef) (;) (hfgf//hf//eec//ef) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "352"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6740",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

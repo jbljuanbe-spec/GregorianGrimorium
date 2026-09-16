@@ -1,0 +1,31 @@
+{
+  "id": "stetit-angelus-off-5330",
+  "incipit": "Stetit Angelus (Off)",
+  "title": "Stetit Angelus (Off)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Stetit Angelus juxta aram templi, habens thuríbulum áureum in manu sua: et data sunt ei incénsa multa: et ascéndit fumus arómatum in conspéctu Dei. T. P. Allelúia.",
+  "gabc": "(c4) Ste(ffvDC//dffv//hgh)tit(fgf) (::) An(f!gh)ge(h)lus(hf//ixhig//ffv/ded) (;) jux(d)ta(dgfg) (;4) a(dgf/efd//ed)ram(cd) (;1) tem(dv//c!df//ef//hvGE/fd)pli,(d) (:) ha(df!hv;3ixjjh//ivGE/fg)bens(fe) (;) thu(ce)rí(gh)bu(hvGE//fvDCd)lum(d) (;) áu(dv//c!df//ef!gvEDf;1efd/ed)re(cd)um(dv//fddc) (;) in(d) ma(cd)nu(d) su(d!efd)a:(d) (:) et(c) da(d)ta(ede) sunt(dec) e(c!df//efd)i(d) (;) in(d)cén(cd)sa(d) mul(d!efd)ta:(d) (:) et(c) a(d)scén(dh//jjh;6ixgihig;4f!gh//jjg;fhgh;3fh/jg//ffdf;eg//hjh//jhhgh>)dit(f) (;) fu(e!fgEDf;1efd)mus(dfddc) (;1) a(c!df//e!fg)ró(edfe)ma(ded)tum(d) (;) in(d) con(cd)spé(d)ctu(d) De(de/fef)i.(ed) <i>T. P.</i>(::) Al(cd)le(fgED;4hghFD;cd/fe//fggf;hvGF/fd//fvED//ed)lú(cd)ia.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "439"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5330",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

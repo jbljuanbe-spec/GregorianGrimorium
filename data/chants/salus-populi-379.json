@@ -1,0 +1,31 @@
+{
+  "id": "salus-populi-379",
+  "incipit": "Salus populi",
+  "title": "Salus populi",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Salus pópuli * ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Deus in perpétuum, allelúia.",
+  "gabc": "(c4) SA(ixf!gwh'!iv)lus(h) pó(ixhiHG')pu(hggfg)li(g_f) *(,) e(hj)go(j_i) sum,(jjj//hjG'Fg.) (;) di(df!gh)cit(g) Dó(gh/j.h!iwj)mi(fgf__)nus:(f.) (:) de(f) qua(gh)cúm(hg~)que(g) tri(g)bu(g)la(gh)ti(g)ó(g.h!iw!jvIH)ne(hgh.) (,) cla(fh)má(h/jjjvG'Fhh,gh!jkjk)ve(h)rint(hg~) ad(ixgiHG') me,(hggf.) (;) ex(g)áu(hf~)di(g)am(hj) e(jkJ'Hjjj_h//jkJ'H)os:(hih.__) (:) et(f) e(g)ro(hj) il(j)ló(hj)rum(jjhi) De(g.h!iwj/kjjij)us(ji..) (;) in(hi) per(hg~)pé(jkj'/ki'jvHG.jkj'/ki'jvH'Fg.,fhhgh/jki/jh)tu(fgf__)um,(f.) (:) al(hg~)le(gh)lú(fg!hvGF'g)ia.(f!gwhg/hjh.) (,) (f!gwhg/hjhh/fgf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "105**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "379",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

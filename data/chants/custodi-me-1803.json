@@ -1,0 +1,31 @@
+{
+  "id": "custodi-me-1803",
+  "incipit": "Custodi me",
+  "title": "Custodi me",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Custódi me, * Dómine, de manu peccatóris: et ab homínibus iníquis éripe me, Dómine.",
+  "gabc": "(c4) CU(d)STÓ(d)DI(cd) me,(fffgFDff) *(,) Dó(ixcf/hhg/hiGFiygh!iw!jvIH)mi(hih)ne,(h) (;) de(fg) ma(fh!iwj)nu(ji/jkj) pec(h)ca(fd)tó(dfED)ris:(d) (:) et(f) ab(f) ho(f)mí(ixhf/hig)ni(fe)bus(f) i(f)ní(ixfh/ivHFgvFD)quis(c/ffd) (,) é(f)ri(f)pe(ixhf/hig) me,(f) (;) Dó(ixfh/ivHFgvFD//cffd/cf,ixfh/ivHF/gvFD)mi(d!ewfd)ne.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "163"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1803",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

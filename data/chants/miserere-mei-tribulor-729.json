@@ -1,0 +1,31 @@
+{
+  "id": "miserere-mei-tribulor-729",
+  "incipit": "Miserere mei... tribulor",
+  "title": "Miserere mei... tribulor",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Miserére mei, * Dómine, quóniam tríbulor: conturbátus est in ira óculus meus, ánima mea, et venter meus. ℣. Quóniam defécit in dolóre vita mea, et anni mei in gemítibus. ℣. Infirmáta est in paupertáte virtus mea: et ossa mea * conturbáta sunt.",
+  "gabc": "(f3) MI(f)se(efE'C)ré(efe)re(fg) me(gf)i,(f.) *(,) Dó(ef/hgh)mi(ghG'F)ne,(e!fwgf//ghghvGFgf..) (;) quó(ef!hhi)ni(h)am(h) trí(ihhg)bu(fe)lor:(ef/gf/ggf/gh/iffe.) (:) con(e)tur(e)bá(gh)tus(f) est(f) in(f) i(fg)ra(f.) (,) ó(fg)cu(f)lus(f) me(f_e/f!gwh'!iv)us,(hg/hiih.) (:) á(hji)ni(h_g)ma(h_f) me(fihhvFE)a,(e.) (;) et(f) ven(hg~)ter(h_f) me(fihhvFE')us.(e//hhhivHE'f/ggf.) <sp>V/</sp>.(::) Quó(f)ni(e)am(f) de(f)fé(f!hh/ijhhg/ihhggf!gwhgh)cit(gf..) (,) in(f) do(hfh)ló(iv.hi!jvIG)re(giH'GhvGFgf..) (;) vi(f)ta(fi) me(hiHF'fe//hiHF'fe//hvGF'ihhvGF)a,(fhffe.) (:) et(e) an(gh)ni(f) me(f_e/f!gwh'!iv)i(hg/hiih.) (;) in(h) ge(hi)mí(i_f/ihhvGF)ti(ef)bus.(f/ggf.) <sp>V/</sp>.(::) In(fhg)fir(hi)má(i)ta(jiihi) est(iv.hh/fgf.) (,) in(fe) pau(h)per(h!i'j)tá(jvIH'GhvGF'g)te(gf..) (;) vir(f')tus(i) me(jiif/hhfjvIH'hvGF)a:(fe/ggf/gh/iffe.) (:) et(e) os(gh)sa(f) me(f_e/f!gwh'!iv)a(kx!hgi./jkiih.) *(;) con(hihhe~)tur(f!gwhg)bá(hv.gh/ihi)ta(f) sunt.(fe/f/hh/ijI'Gh.) (,) (gh!jvIH'hvGFggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[145]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "729",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "gloria-et-honore-3779",
+  "incipit": "Gloria et honore",
+  "title": "Gloria et honore",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Glória * et honóre coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine.",
+  "gabc": "(c4) GLÓ(f)RI(ixfg!hwihi)A(h) *(,) et(h) ho(h)nó(iyh!jjjvIHjjjvIH//gih)re(hggfg) (;) co(f!gh)ro(ghGF)ná(ghg/hvGF)sti(jvvIG) e(jjvIHG)um:(ghggf) (:) et(h) con(jjk)sti(hhg)tu(f)í(fg!hvhg)sti(jjjvIH) e(ghffd)um(d) (;) su(f)per(ff) ó(ff/gfg)pe(deDCd)ra(dc/f!gwhg) (;) má(h!jjjvIH//giHG)nu(gf)um(f) tu(f)á(fgFE)rum,(fg!hvhg) (;) Dó(giHGg//fhGFfd/fv fff/gf/gff)mi(d)ne.(fffgd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[11]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3779",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

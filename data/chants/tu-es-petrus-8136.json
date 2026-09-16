@@ -1,0 +1,24 @@
+{
+  "id": "tu-es-petrus-8136",
+  "incipit": "Tu es Petrus",
+  "title": "Tu es Petrus",
+  "cantus_id": "Aleluia",
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": null,
+  "mode_variant": null,
+  "version": "salmodia",
+  "text_latin": "Allelúia, Allelúia. Tu es Pétrus, et súper hanc pétram ædificábo Ecclésiam meam, allelúia.",
+  "gabc": "(c3) AL(h)le(h)lú(h)ia,(h) Al(g)le(h)lú(f)ia.(e.) (::)\r\nTu(e) es(f) Pé(h)trus,(h) (:) et(h) sú(h)per(h) hanc(h) pé(i)tram(h.) (:) æ(h)di(h)fi(h)cá(h)bo(h) Ec(h)clé(h)si(g)am(h) me(f)am,(e.) (;) al(g)le(h)lú(f)ia.(e.) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8136",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

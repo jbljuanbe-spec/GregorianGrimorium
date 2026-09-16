@@ -1,0 +1,37 @@
+{
+  "id": "benedicite-omnes-angeli-1127",
+  "incipit": "Benedicite omnes Angeli",
+  "title": "Benedicite omnes Angeli",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Benedícite * omnes Angeli Dómini Dóminum: hymnum dícite, et superexaltáte eum in sǽcula. T. P. Allelúia.",
+  "gabc": "(c4) BE(eef)ne(de)dí(gh)ci(g_f)te(fff/ded.___) *(,) o(g)mnes(g) An(iij)ge(h)li(g) Dó(h)mi(g)ni(f) Dó(hih)mi(ghg___)num:(g.) (:) hym(g)num(g) dí(i_j)ci(h)te,(g.h!iwjiih.) (;) et(h) su(iji)per(g)ex(h)al(g)tá(f!g'h)te(g) e(efED'e)um(ed..) (,) in(fv.fffde/g_h) s<sp>'ae</sp>(gv.fg/hhg)cu(egff)la.(fe..) <i>T. P.</i>(::) Al(ff)le(d!ewf!gvFE)lú(egff)ia.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "611"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1657"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1127",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

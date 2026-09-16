@@ -1,0 +1,31 @@
+{
+  "id": "per-lignum-4990",
+  "incipit": "Per lignum",
+  "title": "Per lignum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Per lignum servi facti sumus, et per sanctam Crucem liberáti sumus: fructus árboris sedúxit nos, Fílius Dei redémit nos. T. P. Allelúia.",
+  "gabc": "(c4) Per(gd) li(f!gh)gnum(g) (::) ser(g)vi(gh) fa(hvGF)cti(h) su(hih)mus,(hg) (;) et(g) per(g) san(hi)ctam(h) Cru(gh)cem(g) (;3) li(g)be(gh)rá(hvGF)ti(h) su(h!iji)mus:(hg) (:) fru(ji)ctus(j) ár(klk)bo(j)ris(ji) (;3) se(hg)dú(h!iji)xit(hihhg~) nos,(hg) (;) Fí(g)li(g)us(g) De(h)i(g) re(f)dé(gh)mit(hihhg~) nos.(g) <i>T. P.</i>(::) Al(ji~)le(hkJIHGF)lú(hihhg~)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "469"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4990",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

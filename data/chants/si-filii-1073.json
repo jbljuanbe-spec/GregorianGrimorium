@@ -1,0 +1,37 @@
+{
+  "id": "si-filii-1073",
+  "incipit": "Si filii",
+  "title": "Si filii",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Si fílii, et herédes: herédes quidem Dei, coherédes autem Christi: si tamen compátimur, * ut et conglorificémur.",
+  "gabc": "(c4) AL(ed~)le(g)lú(hj)ia.(h.) *(;) (h!iwj!kvJH'G/ikjj'jjh//ivHGE'/ed.) (,) (hhvG'F/jvvIHG'/hffe.) <sp>V/</sp>.(::) Si(ed) fí(g)li(hj)i,(i) et(h) he(ik)ré(ji)des:(hg..) (;) he(ih)ré(jk)des(jji) qui(hg)dem(hih) De(gf)i,(ed..) (;) co(dh)he(hj)ré(jji)des(ggf) au(g)tem(ghg) Chris(e.)ti:(e.) (:) si(gh) ta(g!hwi'!jv)men(j) com(ih~)pá(ji)ti(jk)mur,(kv./jkjji.) *(;) ut(g) et(h) con(g)glo(hj)ri(j)fi(ihk)cé(kvJIH'/iwj!kvJI)mur.(i.) (;) (h!iwj!kvJH'G/ikjj'jjh//ivHGE'/ed.) (,) (hhvG'F/jvvIHG'/hffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "480"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1434"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1073",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

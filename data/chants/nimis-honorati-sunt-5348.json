@@ -1,0 +1,31 @@
+{
+  "id": "nimis-honorati-sunt-5348",
+  "incipit": "Nimis honorati sunt",
+  "title": "Nimis honorati sunt",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.",
+  "gabc": "(c4) Al(gf~)le(e!fg//hiHG)lú(fg/hvhg~)ia.(g) (::) (gvFD//e!fg//hiHG//fggv) (;) (kjjvIHG//fg/hvhg) <sp>V/</sp>.(::) Ni(g)mis(e!fg) ho(g)no(hi)rá(ijh//jiivHGF)ti(hg) sunt(g) (;) a(gvFD)mí(e/fg)ci(g//hiHG) tu(fg/hvhg)i,(g) (;) De(kjjvIHG//fg/hvhg)us:(g) (:) ni(g)mis(e!fg) con(g)for(hi)tá(ijh//ki//hig;jvHG//hvFD)tus(fh//jjh//iig) est(g) (;) prin(gf~)ci(e!fg)pá(hiHG//fg/hvhg)tus(g) (::) e(gvFD)ó(e/fg//hiHG//fggv;kjjvIHG//fg/hvhg)rum.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "4*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5348",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

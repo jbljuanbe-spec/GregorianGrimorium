@@ -1,0 +1,31 @@
+{
+  "id": "caro-mea-vere-4939",
+  "incipit": "Caro mea vere",
+  "title": "Caro mea vere",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Caro mea vere est cibus: et sanguis meus vere est potus: qui mandúcat meam carnem, et bibit meum sánguinem, in me manet, et ego in eo.",
+  "gabc": "(c3) Al(d)le(efd//effe)lú(df//hvGF/h>)ia.(e) (::) (hi!jvv//hiiv//efED//ffe) (;) (hig//hvFEDCB) (;) (ef/hhvGFE//ffe) <sp>V/</sp>.(::) Ca(fh)ro(hvGF//he) me(fe)a(e) (;) ve(d)re(efe) est(f) ci(hvGF//he)bus:(e) (:) et(ei) san(i//jkj//kvJH//jh//ij)guis(i) me(ij)us(i) (;) ve(ij)re(i) est(i) po(j//klj//kvJI//jvIHi)tus:(i) (:) qui(ij) man(i)dú(j//klj//kvJI//jvIHi)cat(i) (;) me(ei//jvIH//hvGFE)am(fe) car(de)nem,(effe) (:) et(e) bi(ehg)bit(hi) me(i!jkj//jvIHG//hih//ij)um(i) (;3) sán(hf//hvGFE)gui(df/gffv)nem,(e) (;) in(d) me(efd//effe) ma(df/hvGFh)net,(e) (::) et(h) e(ij)go(h) in(i) e(iv//efED//ffe)o.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "269"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4939",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

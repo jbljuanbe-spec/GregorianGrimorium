@@ -1,0 +1,31 @@
+{
+  "id": "ego-clamavi-3588",
+  "incipit": "Ego clamavi",
+  "title": "Ego clamavi",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ego clamávi, * quóniam exaudísti me Deus: inclína aurem tuam, et exáudi verba mea.",
+  "gabc": "(c4) E(fg)GO(gh) cla(h)má(hfg)vi,(ge/fd) *(;) quó(fg)ni(g)am(gh) ex(g)au(hi~)dí(iij)sti(hk) me(k) De(ij)us:(ih) (:) in(j)clí(jl)na(klk) au(ji~)rem(j) tu(klKJ)am,(jh) (;) et(ji) ex(j)áu(ki/jk~)di(hg) (,) ver(fvED//geg)ba(g) me(ghg)a.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "332"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3588",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

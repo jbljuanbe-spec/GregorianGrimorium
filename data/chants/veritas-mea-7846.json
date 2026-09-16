@@ -1,0 +1,31 @@
+{
+  "id": "veritas-mea-7846",
+  "incipit": "Veritas mea",
+  "title": "Veritas mea",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Cistercian",
+  "text_latin": "Veritas mea, et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus.",
+  "gabc": "(f4) VE(hh)RI(hiHG)TAS(gh) (::) me(h/jjjh/jjvHGih)a,(h) (:) et(h/jjj) mi(h)se(g)ri(h)cór(hj/kj/ji~)di(hj)a(jkjji)  me(hj)a(jkjji) cum(hg~) i(hjIHi)pso:(hg) (:) et(h) in(jhj) nó(j)mi(kvJH)ne(j) me(ji/jg)o(egeg) (;) ex(d)al(e)tá(gh)bi(hg)tur(h) cor(j)nu(ij/kj/kvJI) e(hi/jij)jus.(ih) (::) <v>\\black{(}</v>Al(hji~)le(gjIH)lú(hj/kij)ia.<v>\\black{)}</v>(ih) (::)",
+  "transcriber": "Aelredus",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Cisterciense",
+      "editor": "Westmalle",
+      "year": 1934,
+      "page": "35*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7846",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

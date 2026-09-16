@@ -1,0 +1,31 @@
+{
+  "id": "cibavit-sine-alleluia-3463",
+  "incipit": "Cibavit sine Alleluia",
+  "title": "Cibavit sine Alleluia",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Cibávit eos * ex ádipe fruménti: et de petra, melle saturávit eos. Ps. Exsultáte Deo adjutóri nostro: * jubiláte Deo Jacob. Glória Patri E u o u a e",
+  "gabc": "(f3) CI(c)BÁ(efe)VIT(f) e(fhf)os(efe) *(,) ex(f) á(h)di(hhh)pe(f) fru(e)mén(egf/ge)ti:(c) (:) et(e) de(f) pe(hh)tra,(hi~) mel(ih~)le(hihh/fgf) (,) sa(f)tu(fi)rá(iv//hji)vit(ihhf) e(fg/eh//ghf/ggf)os.(f) <i>Ps.</i>(::) Ex(e)sul(fe)tá(eh)te(h) De(h)o(h) ad(h)ju(hg)tó(hi)ri(i) no(hi)stro:(h) *(:) ju(hf)bi(fh)lá(h)te(i) De(hf)o(h) Ja(ge)cob.(fgf) () (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h) u(i) o(hf) u(h) a(ge) e(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[75]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3463",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

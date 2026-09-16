@@ -1,0 +1,31 @@
+{
+  "id": "salvabo-populum-5286",
+  "incipit": "Salvabo populum",
+  "title": "Salvabo populum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Salvábo pópulum meum Israël in die malo: et ero eis in Deum, in veritátem, et in justítiam.",
+  "gabc": "(c4) Al(ghg//f~)le(efde//fggv)lú(fhhg~)ia.(g) (::) (ghGFE/edh) (;3) (gjIHG) (;3) (hfh//ivHG) (;) (gvFE/fd) (;1) (de/fg!hv//ghGF) (;) (hji//jkJIHG//hihhg) <sp>V/</sp>.(::) Sal(g)vá(gf)bo(ghg) (;3) pó(ixfh/ijhhg)pu(fg)lum(g) (;) me(gkJH//jkJIHG;3jh/ij)um(hg) (;4) Is(d)ra(ef!gv)ël(gd) (;) in(d) di(fe)e(fg) ma(gh/ixfh/ijhhg)lo:(gv//hihhg) (:) et(gh) e(gf)ro(ed) e(gf//hhg)is(fg) (;) in(gh) De(gv//f!gh;3ixfh/ijhhg)um,(fg) (;) in(gkJH) ve(jk)ri(iyjvIHG;3jh/ij)tá(hg)tem,(g) (::) et(gh) in(ggf~) ju(efde//fggv)stí(fhhv)ti(g)am.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "105*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5286",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

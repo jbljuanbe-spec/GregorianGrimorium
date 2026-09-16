@@ -1,0 +1,31 @@
+{
+  "id": "adjutor-et-protector-5757",
+  "incipit": "Adjutor et protector",
+  "title": "Adjutor et protector",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Adjútor, et protéctor noster est Dóminus: in eo lætábitur cor nostrum, et in nómine sancto ejus sperávimus. Allelúia, allelúia. ℣. Qui regis Israël, inténde: qui dedúcis velut ovem Joseph. Glória E u o u a e.",
+  "gabc": "(c4) Ad(g)jú(g)tor,(hj) (::) et(j) pro(j)té(jjh//jg)ctor(gh) no(f)ster(e!fh) est(h) (;3) Dó(hjgge)mi(fg)nus:(e) (:) in(fge) e(fg)o(g) læ(gh)tá(h)bi(g)tur(ixgih//iggf) (;) cor(g!hjjh) no(hf/ghgh)strum,(hg) (:) et(f) in(g) nó(gjjh)mi(h)ne(gh) san(jh//jvIG)cto(gh/jgh) (;4) e(ef/ghGF)jus(f/hj) (;) spe(j)rá(jjg//jjvHG/ge)vi(fgFE)mus.(e) (:) Al(f)le(fh/jh)lú(ghggf~)ia,(e) (;) al(g)le(ixg!hiGF//hvGFg)lú(egffv)ia.(fe) <sp>V/</sp>.(::) Qui(g) re(hj)gis(j) Is(j)ra(j)ël,(jk) in(j)tén(ih)de:(hj) (::) qui(g) de(hj)dú(j)cis(j) ve(j)lut(ji) o(hg)vem(h) Jo(i)seph.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e.(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "365"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5757",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

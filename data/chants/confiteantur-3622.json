@@ -1,0 +1,31 @@
+{
+  "id": "confiteantur-3622",
+  "incipit": "Confiteantur",
+  "title": "Confiteantur",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Confiteántur Dómino misericórdiae ejus, et mirabília ejus fíliis * hóminum",
+  "gabc": "(c3) AL(d!ef)LE(fe/f!gwhg)LÚ(fhhh)IA.(hiHF/fe) *(;) <i>ij.</i>(gh//efED//f!gwhhg ehf/gffe) <sp>V/</sp>.(::) Con(hv/gih)fi(h)te(h)án(hg)tur(g) Dó(gh!ivvHF/hfg)mi(hg)no(g) (;) mi(g)se(g)ri(gf)cór(hji)di(h)ae(gh) e(fe/hvvGE/gxfgFD//egFE/fe)jus,(e) (:) et(e) mi(feh)ra(h)bí(h)li(h)a(h) e(hfhGE//fhFD/gxgvFE/f//hhh/ijHF/ , gig/ivHG/he//gxfe/ge//gvFE/fd)jus(d) (;) fí(fd)li(ef)is(f) *() hó(f)mi(hg/hfh)num(ghFE) (,) (df!hvFE//df!gwhg/hvGFg egf/gvED/efe) (,) (gxhhvFE/fgED//gyhhvFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "360"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3622",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

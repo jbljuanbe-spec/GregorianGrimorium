@@ -1,0 +1,31 @@
+{
+  "id": "posuisti-domine-off-3723",
+  "incipit": "Posuisti Domine (Off.)",
+  "title": "Posuisti Domine (Off.)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Posuísti * Dómine in cápite ejus corónam de lápide pretióso: vitam pétiit a te, tribuísti ei, allelúia.",
+  "gabc": "(c4) PO(f)SU(g)Í(g/hjHGgf/ghg)STI(g) *(,) Dó(hg/h!jj/kvJH)mi(gfh)ne(h) (;) in(h) cá(jhhf/ghGFfdec , cd!ff/gh/jh)pi(g)te(f) e(fg~)jus(g) (;) co(gh!iwj)ró(jj/ijg//hjij/kljj)nam(ki/jhhg) (;) de(g) lá(g)pi(g)de(gggvEDeg!hvGFg) (,) pre(g)ti(hj)ó(ig/h!jj/klKI/jkjjh/ig)so:(g) (:) vi(g)tam(gh~) pé(hvGF/gvFEf//ghffdg)ti(fg)it(g) (,) a(h) te,(gjIGhh//fh!jvGFfd/ef!ghg) (:) tri(g)bu(g)í(gjji/jh)sti(h) e(gh)i,(h) (;) al(h!iwji~)le(jkJH//gi hjIH//g!jj/hig)lú(ghg)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[13]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3723",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

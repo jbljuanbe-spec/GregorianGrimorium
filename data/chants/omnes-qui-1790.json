@@ -1,0 +1,31 @@
+{
+  "id": "omnes-qui-1790",
+  "incipit": "Omnes qui",
+  "title": "Omnes qui",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Omnes * qui in Christo baptizáti estis, Christum induístis, allelúia.",
+  "gabc": "(f3) OM(fc/ef~)NES(f) *(,) qui(e) in(f) Chris(f/ghf)to(fef) (,) bap(f)ti(hh)zá(h)ti(fe) es(e!gwh!ivHG/hwihi)tis,(ie) (;) Chris(fe/f!gwhh)tum(hiHF) in(hhf~)du(hh)í(fgFE)stis,(e) (;) al(hhf~)le(hh)lú(hih)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "220"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1790",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

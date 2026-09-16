@@ -1,0 +1,31 @@
+{
+  "id": "mihi-autem-nimis-4899",
+  "incipit": "Mihi autem nimis",
+  "title": "Mihi autem nimis",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Mihi autem nimis honoráti sunt amíci tui Deus: nimis confortátus est principátus eórum. T. P. Allelúia, allelúia. ℣. Dómine, probásti me, et cognovísti me: tu cognovísti sessiónem meam, et resurrectiónem meam. Glória E u o u a e",
+  "gabc": "(f3) Mi(e)hi(f) au(f)tem(hh) (::) ni(ihi)mis(ihif) (;) ho(fi)no(i)rá(ij)ti(ih) sunt(hgihhv) (;) a(f)mí(ege)ci(f) tu(f)i(hg/hi) De(fgFE)us:(e) (:) ni(h)mis(hhv) con(f)for(fi)tá(i)tus(h) est(hjiiv) (;) prin(hihhg~)ci(ef)pá(hhi)tus(h) (;3) e(h)ó(hjIH)rum.(hhv/fgf) <i>T. P.</i>(::) Al(ef~)le(hg)lú(hih)ia,(hhvFE) (;) al(fhg~)le(ehGF)lú(f;3high>)ia.(gf) <sp>V/</sp>.(::) Dó(e)mi(f)ne,(eh) pro(h)bá(h)sti(h) me,(h) (;3) et(hg) co(hi)gno(i)ví(hi)sti(h) me:(h) (::) tu(h) co(fh)gno(h)ví(h)sti(h) ses(h)si(h)ó(h)nem(h) me(h)am,(h) (;3) et(h) re(h)sur(h)re(h)cti(i)ó(hf)nem(h) me(ge)am.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "1*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4899",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

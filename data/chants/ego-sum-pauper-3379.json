@@ -1,0 +1,31 @@
+{
+  "id": "ego-sum-pauper-3379",
+  "incipit": "Ego sum pauper",
+  "title": "Ego sum pauper",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ego sum * pauper et dolens: salus tua, Deus, suscépit me. Laudábo nomen Dei cum cántico: et magnificábo eum in laude.",
+  "gabc": "(c4) E(fg)GO(gh) sum(h) *() pau(hfg)per(g) et(g) do(ge/fd)lens:(d) (;) sa(f)lus(fg) tu(g)a,(gh) De(hj)us,(ij) (,) su(hk)scé(k)pit(ij) me.(ih) (:) Lau(j)dá(jl)bo(klk) no(ji)men(j) De(klKJ)i(jh) (,) cum(j) cán(jk)ti(j)co:(ig/hih) (;) et(h) ma(h)gni(ji)fi(j)cá(ki/jk)bo(hg) e(hg)um(geed/geg) in(g) lau(ghg)de.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "532"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3379",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

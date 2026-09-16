@@ -1,0 +1,31 @@
+{
+  "id": "juravit-dominus-3481",
+  "incipit": "Juravit Dominus",
+  "title": "Juravit Dominus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Jurávit Dóminus, et non paenitébit eum: Tu es sacérdos in aetérnum, secúndum órdinem * Melchisedech.",
+  "gabc": "(c4) AL(cd~)LE(de/ge/feed)LÚ(eg//fhg/efd/c!ee)IA.(d) *(;) <i>ij.</i>(ixhh/gih/ghg/gvFED) (,) (cd/ede//ghf/e!fg) (,) (hvGFE/dfED//c!efd) <sp>V/</sp>.(::) Ju(dh)rá(ixhg/hiHGh)vit(fe) Dó(ef!gvFE)mi(de)nus,(e) (;) et(eg!hvGF) non(edd) pae(c)ni(ef/gf)té(ed)bit(cd) e(deed)um:(d) (:) Tu(cd) es(d) sa(ef!gh)cér(egFEed~)dos(d) (,) in(hhg/hvGFgvFED) ae(ef!gh)tér(egFEed~)num,(d) (;) se(dede)cún(c)dum(e) ór(ixgh/igh//egFED , ixce!gh/igh//egFEDdc~)di(c!ef)nem(ed) *(;) Mel(cd)chi(de/ge/feed)se(eg//fhg/efd/c!ee)dech.(d) (;) (ixhh/gih/ghggvFED) (,) (cd/ede//ghf/e!fg) (,) (hvGFEdfED//c!efd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[33]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3481",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "foderunt-3799",
+  "incipit": "Foderunt",
+  "title": "Foderunt",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Fodérunt * manus meas et pedes meos: dinumeravérunt ómnia ossa mea.",
+  "gabc": "(f3) FO(f)DÉ(ef)RUNT(f) *() ma(f!gw!hvGFEh)nus(h) me(gh!ivHFEf)as(fgf) (,) et(hj) pe(ij)des(ih) me(hih)os:(h) (:) di(hj)nu(ji)me(hg)ra(hi)vé(f!gw!hvGFEf)runt(fe) (,) ó(h)mni(g)a(hi) os(ijIH)sa(ivHFEf) (,) me(hhf//ighvFEf)a.(f/ggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[83]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3799",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

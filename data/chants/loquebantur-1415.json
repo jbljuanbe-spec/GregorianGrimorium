@@ -1,0 +1,31 @@
+{
+  "id": "loquebantur-1415",
+  "incipit": "Loquebantur",
+  "title": "Loquebantur",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Loquebántur váriis linguis Apóstoli magnália * Dei",
+  "gabc": "(c4) Al(dc~)le(df/efd/evDC)lú(ixf!gwh!iv)ia.(gfj//hih) *(,) <i>ij.</i>(ixfg!hw!ivHG//ef!gw!hvGF/deddc) (;) (cd!ewf!ghh//fhg/hvFED fgf/gvFED/ffd) <sp>V/</sp>.(::) Lo(cd!ewf!gvFE)que(d)bán(dffffvED/evDC)tur(dc) (,) vá(ixf!gwh!iv)ri(hgj)is(hih) (,) (ixfg!hw!ivHG//ef!gw!hvGF/deddc) (,) lin(cd!ewf!ghGF)guis(gf) (;) A(f)pós(ghgh/jjjvIH)to(hiih)li(h) (:) ma(dc~)gná(df/efd/ed)li(cd)a(d) *() De(ixf!gwh!iv)i(hgj//hih) (,) (ixfg!hw!ivHG//ef!gw!hvGF//deddc) (;) (cd!ewf!ghh//fhg/hvFED fgf/gvFED/ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "252"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1415",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

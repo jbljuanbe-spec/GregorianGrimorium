@@ -1,0 +1,31 @@
+{
+  "id": "assumpta-est-3447",
+  "incipit": "Assumpta est",
+  "title": "Assumpta est",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Assumpta est * María in coelum: gaudent Angeli, collaudántes benedícunt Dóminum, allelúia.",
+  "gabc": "(c4) AS(fg)SUM(g/hjHGgf)PTA(ghg) est(g) *(,) Ma(hg/h!jj/kvJH)rí(gfh)a(h) (;) in(h) coe(jhhf/ghGFfdec,cd!ff/gh!jvHGgfg)lum:(g) (:) gau(gh!jji/jg//hjij/kljj)dent(ki/jhhg) (,) An(g)ge(g)li,(gggvED/eg/hvGFg) (:) col(g)lau(hj)dán(ig/h!jj/klKI/jkjjh/ig)tes(g) (;) be(g)ne(gh)dí(hvGF/gvFEf//ghffdg)cunt(fg) (,) Dó(hv//gjIG/hh//fh!jvGFfd/ef!ghg)mi(fg)num,(g) (;) al(h!iwji~)le(jkJH//gi hjIH//g!jj//hig)lú(ghg)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "519"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3447",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

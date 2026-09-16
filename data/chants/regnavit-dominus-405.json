@@ -1,0 +1,37 @@
+{
+  "id": "regnavit-dominus-405",
+  "incipit": "Regnavit Dominus",
+  "title": "Regnavit Dominus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Regnávit Dóminus super omnes gentes: Deus sedet super sedem * sanctam suam.",
+  "gabc": "(c4) AL(de)le(dc)lú(e!g'h~)ia.(hvGFD.) *(,) <i>ij.</i>(fvEC/eg//hvGF/ge//fvEC/eed.) <sp>V/</sp>.(::) Re(dc/ed/fg~)gná(ed)vit(fe) Dó(dc)mi(efd)nus(d.) (,) su(hhg)per(evDC) om(de~)nes(e) gen(c!e'f~)tes:(d.) (:) De(h_g/h!iw!jvIH)us(ge) se(fg)det(ed__) (,) su(f)per(ghg~) se(hvED/fv.ced)dem(d.) *(,) san(de)ctam(dc~) su(e!g'h)am.(hvGFD.) (,) (fvEC/eg//hvGF/ge//fvEC/eed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "288"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "855"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "405",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

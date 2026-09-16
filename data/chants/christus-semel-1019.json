@@ -1,0 +1,37 @@
+{
+  "id": "christus-semel-1019",
+  "incipit": "Christus semel",
+  "title": "Christus semel",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Christus * semel oblátus est ad multórum exhauriénda peccáta: secúndo sine peccáto apparébit exspectántibus se in salútem.",
+  "gabc": "(c4) CHri(fhg)stus(g) *() se(g)mel(ghe) ob(fg)lá(gi)tus(hiH'G) est(ghg.___) (;) ad(g) mul(g)tó(fhg)rum(g) ex(g)hau(hi~)ri(ih)én(i)da(h) pec(i)cá(hg)ta:(g.) (:) se(hj)cún(jij)do(h_g) (,) si(h)ne(g) pec(h)cá(gf)to(f) ap(h)pa(j)ré(ikjj)bit(ji..) (;) ex(jjj)spe(hg)ctán(gh)ti(g)bus(f) se(gvE'Dg.) (,) in(g) sa(g)lú(ghg___)tem.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "541"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1535"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1019",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

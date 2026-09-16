@@ -1,0 +1,31 @@
+{
+  "id": "posuisti-domine-all-3950",
+  "incipit": "Posuisti Domine (All.)",
+  "title": "Posuisti Domine (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Posuísti, Dómine, super caput ejus corónam de lápide * pretióso.",
+  "gabc": "(c4) AL(cd/fg)LE(edf//efd/ed)LÚ(cd~)IA.(d) *(;) (ixfg!hvhf//hv//giHF) (,) (ixhv//giHGF//deddc) (,) (cf/g/hh//fhghvFEDffd) <sp>V/</sp>.(::) Po(cd/fg)su(edf//efd/ed)í(cd)sti,(d) (,) Dó(ixfg!hvhf//hv//giHF//,ixhv//giHGF//deddc ,cd/fg)mi(edffd)ne,(d) (:) su(h)per(g) ca(h)put(g) e(f!hhg/hh//ixfh!ivGFhh//fhfgvFD)jus(d) (;) co(dcf)ró(ixhfhivGFhv//,ixf!gwhghivGFh)nam(hgg) (,) de(e!fg) lá(edf//efd/ed)pi(cd)de(d) *(;) pre(cd/fg)ti(edf//efd/ed)ó(cd)so.(d) (;) (ixfg!hvhf//hv//giHF) (,) (ixhv//giHGF//deddc) (,) (cf/g/hh//fhghvFEDffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[10]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3950",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

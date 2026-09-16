@@ -1,0 +1,31 @@
+{
+  "id": "introibo-ad-altare-4851",
+  "incipit": "Introibo ad altare",
+  "title": "Introibo ad altare",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Introíbo ad altáre Dei: ad Deum qui lætíficat juventútem meam.",
+  "gabc": "(c4) In(g!hj)tro(j)í(jh//jvIG)bo(g) (::) ad(g!hji) al(j)tá(i!jk)re(kh) (;6) De(ikj)i:(ikjjv/ghg) (:) ad(g) De(gh/ij)um(ih) (;3) qui(jjv) læ(hg)tí(hj)fi(ghGFg)cat(gf) (;) ju(g)ven(hggf~)tú(fh/jhj)tem(ijIH) me(g!hiHGh)am.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "63"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4851",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

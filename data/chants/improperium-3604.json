@@ -1,0 +1,31 @@
+{
+  "id": "improperium-3604",
+  "incipit": "Improperium",
+  "title": "Improperium",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Improperium * expectávit cor meum, et misériam: et sustínui qui simul contristarétur, et non fuit: et qui consolarétur, et non invéni, allelúia.",
+  "gabc": "(c3) IM(f)PRO(c)PE(e!fg)RI(f)UM(f) *(,) ex(hg)pe(h)ctá(i)vit(g) cor(ij) me(hhf!gwh/ih)um,(h) (;) et(ghg) mi(fe)sé(f!gwh)ri(gf)am:(f) (:) et(f) su(c)stí(e!fg)nu(f)i(f) (,) qui(hg) si(ef)mul(f) con(fi~)tri(iji)sta(hiHG)ré(f)tur,(h//ijIH) (;) et(hi~) non(hgh) fu(fgf)it:(efe) (:) et(ef~) qui(fi) con(ij)so(h)la(h)ré(f!gw!hvGFEf)tur,(fe) (;) et(ef~) non(fef) in(edf)vé(f!gwhf)ni,(f) (;) al(fi~)le(ig/hg)lú(fe/f!gwh)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "443"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3604",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

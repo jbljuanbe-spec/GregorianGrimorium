@@ -1,0 +1,31 @@
+{
+  "id": "dolorosa-3824",
+  "incipit": "Dolorosa",
+  "title": "Dolorosa",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dolorósa * et lacrimábilis es, Virgo María, stans juxta crucem Dómini Jesu Fílii tui Redemptóris ℣. Virgo Dei Génitrix, quem totus non capit orbis, hoc crucis fert supplícium, auctor vitae * factus homo.",
+  "gabc": "(c4) DO(fe)LO(fg)RÓ(g)SA(gv//ff/ded) *(,) et(f) la(dfe)cri(fg)má(gff)bi(df)lis(egFE) es,(e) (;) Vir(ed~)go(g) Ma(hj)rí(i!jw!kvJIH//fhf/gh)a,(g) (:) stans(df) jux(feg)ta(gefd) cru(cd)cem(d) (,) Dó(f)mi(gh)ni(ixhivHGh/e!fg) Je(gf/hhvGEfd)su(d) (;) Fí(dc)li(f)i(gh) tu(ixhivHG)i(e!fg) Re(g)demp(df)tó(efED , ixf/hiHGge//ghGFEfgFE)ris(e) <sp>V/</sp>.(::) Vir(h)go(ixjhhgh/e!fg eg!ivHGhvFDe) (,) (ghFEghfffdfEDf!gh) (,) De(gf/gh)i(g) Gé(f)ni(ghgh)trix,(hghf) (;) quem(ed) to(fg//ef!hvGEfd)tus(d) (,) non(e) ca(c)pit(d) or(d!ff//fffd/fvEDe!fg)bis,(ghhg) (:) hoc(h) cru(gf/gh)cis(g) fert(fg) sup(f)plí(f)ci(ghgh)um,(hghf) (,) au(f)ctor(ed) vi(fg//ef!hvGEfd)tae(d) *(;) fa(cd!ff)ctus(fg) ho(gf/hgh)mo.(hhf) (,) (hg/hvFDgfffvEC//ddc/da) (,) (cd!fvvDCd!ff/gff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "402"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3824",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

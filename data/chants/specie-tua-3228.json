@@ -1,0 +1,37 @@
+{
+  "id": "specie-tua-3228",
+  "incipit": "Specie tua",
+  "title": "Specie tua",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Spécie tua, et pulchritúdine tua inténde, próspere procéde, * et regna.",
+  "gabc": "(c3) AL(d!ef)LE(fe/f!gwhg)LÚ(fhhh)IA.(hiHFfe) *(;) (gh//efED//f!gwhhg ehf/gffe) <sp>V/</sp>.(::) Spé(hv//gih)ci(hg)e(g) tu(gh!ivvHFhf/gh)a,(g) (;) et(g) pul(g)chri(gf)tú(hji)di(h)ne(gh) tu(fehvvGE//gxfgFD/egFEfe)a(e) (:) in(e)tén(feh)de,(h) (,) pró(hfhGE//fhFD//gxgvFEf!hhh/ijHF,gigivHG/he//gxfe/ge//gvFEfd)spe(ed)re(d) (;) pro(fd)cé(ef)de,(f) *() et(f) reg(hg/hfh)na.(ghFE) (,) (df!hvFE//df!gwhghvGFg egf/gvED/efe) (,) (gxhhvFEfgEDgyhhvFEfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[48]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[62]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3228",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

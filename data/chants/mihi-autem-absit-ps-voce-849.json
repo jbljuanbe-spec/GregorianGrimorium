@@ -1,0 +1,37 @@
+{
+  "id": "mihi-autem-absit-ps-voce-849",
+  "incipit": "Mihi autem absit. Ps. Voce",
+  "title": "Mihi autem absit. Ps. Voce",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Mihi autem * absit gloriári, nisi in cruce Dómini nostri Jesu Christi, per quem mihi mundus crucifíxus est, et ego mundo. Ps. Voce mea ad Dóminum clamávi: * voce mea ad Dóminum deprecátus sum. Glória Patri E u o u a e",
+  "gabc": "(f3) MI(e)hi(f) au(f)tem(hh) *(,) ab(ihi)sit(ihi_f) glo(hj)ri(ih)á(hg)ri,(e_f) (;) ni(fi)si(i) in(i) cru(kxi!jwkj)ce(ji__) (,) Dó(ij)mi(ih)ni(hv.gih) no(fge)stri(f.) (,) Je(f)su(hhi) Chri(fgF'E)sti,(e.) (:) per(h) quem(hhh) mi(f)hi(fi) mun(i)dus(h) cru(h)ci(hi)fíx(i)us(h) est,(hji.) (;) et(hihh) e(ef!hhi)go(h) mun(hjI~'H~)do.(hhh/fgf.__) <i>Ps.</i>(::) Vo(e)ce(fe) me(eh)a(h) ad(h) Dó(h)mi(hg)num(hi) cla(i)má(hi)vi:(h.) *(:) vo(hf)ce(fh) me(h)a(h) ad(h) Dó(h)mi(h)num(h') de(i)pre(hf)cá(h)tus(ge) sum.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "602"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1643"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "849",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "o-quam-pulchra-179",
+  "incipit": "O quam pulchra",
+  "title": "O quam pulchra",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. O quam pulchra est casta generátio * cum claritáte!",
+  "gabc": "(c4) AL(c!de)le(eddc)lú(ixfg!hi)ia.(hg/hf/gge.) *(,) (e!ghG'FED'evDC.) (;) (cd/eddc/ixfg!hiH'Ghf/gge.) (,) (e!ghG'FED'evDC.) (,) (cd!fv.ghG'FE.) <sp>V/</sp>.(::) O(c!de) quam(eddc) pul(ixfg!hi)chra(hg/hf/gge) est(e.) (,) ca(e)sta(ghg) ge(fe)ne(d)rá(c)ti(de)o(eddc/ixfg!hiH'Ghf/gge.) (,) (e!ghG'FED'evDC.) *(;) cum(c!df~) cla(ffe)ri(dc)tá(f!gh)te!(ixhiH'Ghf/gge.) (,) (e!ghG'FED'evDC.) (;) (cd/eddc/ixfg!hiH'Ghf/gge.) (,) (e!ghG'FED'evDC.) (,) (cd!fv.ghG'FE.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[58]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "179",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

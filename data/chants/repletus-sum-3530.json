@@ -1,0 +1,31 @@
+{
+  "id": "repletus-sum-3530",
+  "incipit": "Repletus sum",
+  "title": "Repletus sum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Replétus sum consolatióne, superabúndo gáudio in omni tribulatióne * nostra.",
+  "gabc": "(c4) AL(d)LE(dc)LÚ(df~)IA.(ffg) *(,) <i>ij.</i>(fg!hv//ghggd/ffg) (,) (fg!hv//ghGFfgvFEDewfd) <sp>V/</sp>.(::) Re(d)plé(fg)tus(gf/gd) sum(dc) con(fg~)so(f)la(f)ti(fe)ó(ghgh)ne,(hvGFef!gvgf) (;) su(f)pe(fe)ra(g)bún(fg~)do(hgh) gáu(hvGFghffvED//cd!ewf)di(ed)o(d) (:) in(d!ewf) o(ffg~)mni(gfg) tri(d)bu(d)la(dg)ti(gf)ó(d!ewfd)ne(dc) *() no(df)stra.(ffg) (,) (fg!hv//ghggd/ffg) (,) (fg!hv//ghGFfgvFEDewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "482"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3530",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

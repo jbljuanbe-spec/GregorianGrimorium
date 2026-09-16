@@ -1,0 +1,31 @@
+{
+  "id": "ego-clamavi-464",
+  "incipit": "Ego clamavi",
+  "title": "Ego clamavi",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ego clamávi, * quóniam exaudísti me Deus: inclína aurem tuam, et exáudi verba mea.",
+  "gabc": "(c4) E(fg)go(gh) cla(h)má(hfg)vi,(ge/fd.) *(;) quó(fg)ni(g)am(gh) ex(g)au(hi~)dí(iij)sti(hk) me(k) De(ij)us:(ih..) (:) in(j)clí(jl)na(klk) au(ji~)rem(j) tu(klK'J)am,(jh__) (;) et(ji) ex(j)áu(k_i/jk~)di(h_g) (,) ver(fvE'D//geg)ba(g) me(ghg___)a.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "386"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "464",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

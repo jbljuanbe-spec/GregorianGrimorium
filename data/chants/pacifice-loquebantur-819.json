@@ -1,0 +1,31 @@
+{
+  "id": "pacifice-loquebantur-819",
+  "incipit": "Pacifice loquebantur",
+  "title": "Pacifice loquebantur",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Pacífice * loquebántur mihi inimíci mei: et in ira molésti erant mihi. ℣. Vidísti Dómine, ne síleas: ne discédas * a me.",
+  "gabc": "(c3) PA(b)cí(dde)fi(d)ce(d.) *(,) lo(d)que(d)bán(d)tur(ef~) mi(f_devDCB.e_c/de)hi(d.) (;) i(d)ni(d)mí(fd/ef!hh/i!jwk)ci(h.) (,) me(h_f/hv./ihhggfg)i:(f hhf/hihh'h/fgf.) (:) et(hh) in(h) i(ih/ij_h ih/ij_ij//hi/jij)ra(jh/jki/hh/fgf.) (;) mo(f)lés(gxf.e!fwg//)ti(f_e) e(df)rant(gxfhFE'fw!gvFE) mi(ded)hi.(d!f'h) (,) (df'!hv/hv'GEdfe/feed.) <sp>V/</sp>.(::) Vi(d)dí(d)sti(fe) Dó(eh)mi(h)ne,(hih___//i_h/jvHF.) (,) (h_g/ijh'___ jvIH'jvIH'//hvGF.) (:) ne(f) sí(h_f//g_0!h_0i!jwk)le(i_h/ivHFhhh)as:(h.) (;) ne(d) di(d)scé(dfE'D)das(ef) *() a(fhG'Fhhh) me.(hhf.) (,) (gxg_f/gvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "164"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "819",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

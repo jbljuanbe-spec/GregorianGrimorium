@@ -1,0 +1,43 @@
+{
+  "id": "assumpta-est-maria-all-960",
+  "incipit": "Assumpta est Maria (All.)",
+  "title": "Assumpta est Maria (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Assúmpta est María in caelum: gaudet exércitus * Angelórum.",
+  "gabc": "(c4) AL(cd)le(ef!ghhg)lú(gi/jh/ivH~G~)ia.(g.) *(;) <i>ij.</i>(gh/ijh.___jvIHG./fhfg./egFE'DC.) (,) (cd!ef!ghhvGF'D/eddc.) <sp>V/</sp>.(::) As(cd)súm(fe~)pta(fg) est(gvFED/fg!hvhg.) (,) Ma(g/hhg)rí(fvED)a(d.) in(dgF'E) cae(cdc___)lum:(c.) (:) gau(g/hg/jv.ijhhvGEfg~)det(g.) (,) ex(cd)ér(ef!ghhg)ci(gi/jh/ivHG)tus(g.) *(;) An(d)ge(d)ló(gh/ijh.___jvIHG./fhfg)rum.(egFE'DC.) (,) (cd!ef!ghhvGF'D/eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "584"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1603"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "591"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "960",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

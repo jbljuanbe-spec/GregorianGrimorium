@@ -1,0 +1,31 @@
+{
+  "id": "inclina-aurem-tuam-1494",
+  "incipit": "Inclina aurem tuam",
+  "title": "Inclina aurem tuam",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Inclína * aurem tuam, accélera, ut éruas nos.",
+  "gabc": "(c4) IN(f)CLÍ(fgf)NA(fd) *() au(fe~)rem(f) tu(ghGF/gh)am,(h) (:) ac(f)cé(h)le(ghGFEf)ra,(fe) (,) ut(f) é(ghGF)ru(g)as(ghGF/ghGF) nos.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "288"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1494",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

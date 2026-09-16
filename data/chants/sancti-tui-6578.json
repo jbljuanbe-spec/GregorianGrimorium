@@ -1,0 +1,31 @@
+{
+  "id": "sancti-tui-6578",
+  "incipit": "Sancti tui",
+  "title": "Sancti tui",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Sancti tui, Dómine, benedícent te: glóriam regni tui dicent, allelúia, allelúia. ℣. Exaltábo te Deus meus rex: et benedícam nómini tuo in sǽculum et in sǽculum sǽculi. Glória E u o u a e",
+  "gabc": "(c4) San(f)cti(ffv/ded) (::) tu(g)i,(h) Dó(hkjji)mi(ji)ne,(j) (;) be(jjv)ne(g!hih)dí(j)cent(gh) te:(f) (:) gló(e!fh)ri(h)am(hj) re(hg~)gni(hi) tu(hg)i(hj) (;3) di(h!ijIHGh)cent,(hg) (:) al(e!fg~)le(g//ef)lú(gh)ia,(g) (;) al(ghg~)le(hvFD)lú(fgf~)ia.(fe) <sp>V/</sp>.(::) Ex(g)al(hj)tá(j)bo(j) te(j) De(jk)us(j) me(j)us(ih) rex:(hj) (::) et(g) be(hj)ne(j)dí(j)cam(j) nó(j)mi(j)ni(j) tu(j)o(j) (;) in(j) s<sp>'ae</sp>(j)cu(j)lum(j) et(j) in(j) s<sp>'ae</sp>(j)cu(ji)lum(hg) s<sp>'ae</sp>(h)cu(i)li.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "28*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6578",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

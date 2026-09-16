@@ -1,0 +1,31 @@
+{
+  "id": "principes-3450",
+  "incipit": "Principes",
+  "title": "Principes",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Príncipes * persecúti sunt me gratis, et a verbis tuis formidávit cor meum: laetábor ego super elóquia tua, quasi qui invénit spólia multa. T. P. Allelúia.",
+  "gabc": "(c4) PRÍN(f!gh)CI(h)PES(ixhih) *() per(h)se(h)cú(hj)ti(h) sunt(g) me(f) gra(ixf!gwh!iv)tis,(hg) (;) et(g) a(gf) ver(ixhi)bis(hg) tu(ixhiHG)is(hg) (,) for(g)mi(gf)dá(ixhig)vit(fh) cor(g) me(egff)um:(fe) (:) lae(g)tá(g)bor(f) e(g)go(f) (,) su(fff)per(d) e(g)ló(iij)qui(hg)a(g) tu(gh!ivHGh)a,(hg) (:) qua(gh)si(gh) qui(g) in(h)vé(jkj)nit(ijh/jvGF) (,) spó(hfh)li(g)a(ef/ghffe) mul(d!ewfef)ta.(ed) <i>T. P.</i>(::) Al(fg~)le(ed!fh//ghg/e!fg/hfgvFE)lú(d!ewfef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[60]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3450",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

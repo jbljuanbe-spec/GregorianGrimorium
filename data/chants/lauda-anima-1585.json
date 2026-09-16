@@ -1,0 +1,31 @@
+{
+  "id": "lauda-anima-1585",
+  "incipit": "Lauda anima",
+  "title": "Lauda anima",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Lauda * ánima mea Dóminum: laudábo Dóminum in vita mea: psallam Deo meo, quámdiu ero, allelúia.",
+  "gabc": "(c4) LAU(ce/ge/ghGF/fvED)DA(fd/efe) *(,) á(fd)ni(fe)ma(f) me(hgge)a(fhGF/ghg) Dó(e)mi(egff)num:(eef) (:) lau(ed~)dá(ghg)bo(h) Dó(ixhjh/ij)mi(g)num(fgFE) (;) in(f) vi(fe/f!gwh)ta(hhg) me(ge/ghffe)a:(efED/eef) (:) psal(ce/gf)lam(ffffc) De(d!ewf!gvFE)o(f) me(ixfh!ivHG)o,(gh) (;) quám(f)di(ixef!hig)u(gf) e(f)ro,(d!ewf/fvED) (;) al(ce/gf)le(ffffc//fffe//hg/hffe)lú(egFE)ia.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "258"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1585",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

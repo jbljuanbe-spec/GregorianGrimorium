@@ -1,0 +1,37 @@
+{
+  "id": "quasi-modo-25",
+  "incipit": "Quasi modo",
+  "title": "Quasi modo",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quasi modo * géniti infántes, allelúia: rationábiles, sine dolo lac concupíscite, allelúia, allelúia, allelúia. Ps. Exsultáte Deo adjutóri nostro: * jubiláte Deo Jacob. Glória Patri. E u o u a e.",
+  "gabc": "(c4) QU{a}(c)si(d) mo(d)do(d) *() gé(d!fffg)ni(f)ti(f) in(f)fán(f)tes,(c.) (,) al(f)le(gef)lú(fhG~'F~)ia:(f.) (:) ra(fd)ti(f)o(g)ná(ixgih)bi(gf)les,(f.) (,) si(f)ne(e!f'g) do(gf)lo(fgff/ded.) (,) lac(d!f'g) con(gh~)cu(f)pí(fgf)sci(d)te,(dcd.) (;) al(c)le(ff)lú(fhG~'F~)ia,(f.) (,) al(df~)le(f_e)lú(fgf)ia,(fffddc.) (,) al(d)le(ff)lú(fhG~'F~)ia.(f.) <i>Ps.</i>(::) Ex(fg)sul(gf)tá(gh)te(h) De(h)o(h) ad(h)ju(g)tó(ixi)ri(h) nos(g)tro:(f.) *(:) ju(f)bi(f)lá(f')te(g) De(fd)o(f') Ja(g)cob.(f.) (::) Gló(fg)ri(gf)a(gh) Pa(h)tri.(h) (::) E(f') u(g) o(fd) u(f') a(g) e.(f'/ghg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "261"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "809"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "25",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "domine-vivifica-109",
+  "incipit": "Domine vivifica",
+  "title": "Domine vivifica",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine, * vivífica me secúndum elóquium tuum: ut sciam testimónia tua.",
+  "gabc": "(c4) DO(j)mi(h)ne,(h!iwj/k_jj'jhhg//iki.___) *(,) vi(ege___)ví(gh)fi(g)ca(hjhhg/h!iw!jij) me(ji..) (;) se(ikj)cún(jjj)dum(h_g) e(ghe)ló(g)qui(gihhg)um(g) tu(f)um:(fgff/ded.___) (:) ut(g) sci(h_g/h!iwj_i)am(j.) (,) tes(jj//jj)ti(g)mó(h_f)ni(g)a(g/jjh/ig/h_g) tu(egff)a.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "92"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "109",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "unus-panis-147",
+  "incipit": "Unus panis",
+  "title": "Unus panis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Unus panis * et unum corpus multi sumus, omnes qui de uno pane et de uno cálice participámus.",
+  "gabc": "(c3) U(i)nus(ig) pa(ijij)nis(i_h) *(,) et(fh) u(hgh)num(fg) cor(fe)pus(e./fhe/feed.) (;) mul(df!hv'/ikki)ti(i.g!hw!ivH'GF'gw!hvGF) su(ef!gvFE'f)mus,(fe..) (:) o(h)mnes(ik) qui(k) de(jk) u(i)no(i) pa(ijh)ne(i.) (,) et(i) de(i) u(ij)no(h) cá(jk)li(j)ce(iji.) (;) par(ghg)ti(f!h'i)ci(i.g!hw!ivH'GF'gw!hvGF)pá(ef!gvFE'f)mus.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[134]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "147",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

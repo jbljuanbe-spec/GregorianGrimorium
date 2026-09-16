@@ -1,0 +1,31 @@
+{
+  "id": "in-multitudine-7206",
+  "incipit": "In multitudine",
+  "title": "In multitudine",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. In multitúdine presbyterórum prudéntium sta, et sapiéntiæ illórum ex corde conjúngere, ut omnem narratiónem Dei possis audíre.",
+  "gabc": "(c4) Al(ggd/gh!ij)le(hg)lú(hfg)ia.(g) (::) (gi/kvvJIH//jg/he/fvED) (;) (df!gh/jg/hf/gd/gv) <sp>V/</sp>.(::) In(gg) mul(hg)ti(gj)tú(jk)di(j)ne(j) (;) pres(j)by(ji)te(g)ró(hg/h!ijIH/hg)rum(g) (;) pru(dg)dén(g!hj)ti(j)um(ij!kvJIG/hfg) sta,(g) (:) et(g) sa(e)pi(f)én(gh)ti(g)æ(g) il(gh)ló(hvGE/ffe)rum(dc) (;) ex(g) cor(hgj)de(j) con(jji~)jún(ghGEf)ge(ed)re,(d) (:) ut(geg) o(hgj)mnem(j) nar(j)ra(jk)ti(j)ó(ji)nem(g) De(hg/h!ijIH/hg)i(g) (;) pos(ggd/gh!ij)sis(hg) (::) au(g)dí(hfg)re.(g) (;) (gi!kvvJIH//jg/he/fvED) (;) (df!gh/jg/hf/gd/gv) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "502.1"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7206",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

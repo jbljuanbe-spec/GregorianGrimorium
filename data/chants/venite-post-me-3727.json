@@ -1,0 +1,31 @@
+{
+  "id": "venite-post-me-3727",
+  "incipit": "Venite post me",
+  "title": "Venite post me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Veníte post me: * fáciam vos piscatóres hóminum: at illi, relíctis rétibus et navi, secúti sunt Dóminum.",
+  "gabc": "(c4) VE(g)NÍ(g)TE(d) post(geg~) me:(g) *(,) fá(gjij)ci(hg)am(g) vos(ggd) (,) pis(d)ca(e)tó(gg)res(gih/ih) hó(g)mi(gh!ivHGh)num:(hg) (:) at(j) il(jhj~)li,(j) re(j)líc(j)tis(jh~) ré(ij)ti(hiHGh)bus(hg) (,) et(ge~) na(g//hi/hig)vi,(g) (;) se(g)cú(g)ti(h) sunt(geed/geg) Dó(g)mi(ghg)num.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "340"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3727",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "quam-pulchri-193",
+  "incipit": "Quam pulchri",
+  "title": "Quam pulchri",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quam pulchri * super montes pedes annuntiántis et praedicántis pacem: annuntiántis bonum, praedicántis salútem!",
+  "gabc": "(c4) QUam(f) pul(feg)chri(g) *() su(g)per(h) mon(jj)tes(hg..) (;) pe(ghg)des(gd) an(d)nun(e)ti(f)án(gh)tis(g.) (,) et(gh~) prae(h)di(hf)cán(g)tis(gff) pa(f.d!ew!fvE'DC'd)cem:(dc..) (:) an(d)nun(fe~)ti(f)án(dg~)tis(g) bo(fv.efd)num,(ed..) (;) prae(fh)di(hg)cán(h)tis(gd) sa(f)lú(egff)tem!(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "59**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "193",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

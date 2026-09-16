@@ -1,0 +1,24 @@
+{
+  "id": "consummatione-7512",
+  "incipit": "Consummatione",
+  "title": "Consummatione",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "solesmes",
+  "text_latin": "Consummatinem * fungens in ara, porréxit manum suam in libatine, et libvit de snguine uv effdit in fundaménto altris odrem divnum excélso Prncipi. T.P. Allelia.",
+  "gabc": "(c3) COn(f)sum(f)ma(e)ti(f)<v>{\\'o}</v>(hi/jihss/ihhf/hhf/hsssijij)nem(hhi.) *(,)\r\nfun(hiH'F)gens(fd) in(f) a(fhG'F)ra,(f_g_f_.) (:)\r\npor(ef)ré(hi)xit(ij) ma(h.i!jwk_j)num(jji) su(ih)am(h!iwji/hss/fgf.) (;)\r\nin(fge) li(h)ba(hif)ti(h)<v>{\\'o}</v>(hsssjvIHhv'1GF)ne,(f_g_f_.) (;)\r\net(f) li(ef)b<v>{\\'a}</v>(f!gwhihhvGF)vit(f.) (,)\r\nde(hf) s<v>{\\'a}</v>n(hi)gui(i_h)ne(h) u(hfivHG'F)v<v>{\\ae}</v>(fhffe.) (:)\r\nef(e)f<v>{\\'u}</v>(fhghsshvF'Ef!gwh)dit(h) in(gh) fun(f)da(e)mén(f)to(d') al(e)t<v>{\\'a}</v>(d!ef)ris(f.) (,)\r\no(f)d<v>{\\'o}</v>(i_hhsshvF'E//f!gwhf)rem(fe) di(f!gwh)v<v>{\\'i}</v>(hg/gfg)num(gf..) (;)\r\nex(f)cél(ef/hhi)so(i) Pr<v>{\\'i}</v>n(jkI'H)ci(h_g)pi.(hssh_f) (,) (h/ihhs'hs hsshf/ih/ghf/ih/hs'hsh_efv.) <i>T.P.</i>(::)\r\nAl(fg)le(e/hssshiHE'//f/hssh_f/hihi)l<v>{\\'u}</v>(f_g_f_)ia.(f.) (::)",
+  "transcriber": "Boris Maire",
+  "commentary": "Si 50, 15b.16-17",
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7512",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

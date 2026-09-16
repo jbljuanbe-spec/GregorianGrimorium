@@ -1,0 +1,31 @@
+{
+  "id": "ad-te-domine-7530",
+  "incipit": "Ad te, Domine",
+  "title": "Ad te, Domine",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": "c",
+  "version": "Vatican",
+  "text_latin": "AdCantor te, Dómine, * leOmnesvávi ánimam meam : veni, et éripe me, Dómine, ad te confúgi.",
+  "gabc": "(c3)Ad<alt>Cantor</alt>(f) te,(h) Dó(hi)mi(i)ne,(i) *(,) \r\nle<alt>Omnes</alt>(i)vá(i)vi(h) á(ij)ni(h)mam(ij) me(i)am :(i) (;) \r\nve(f)ni,(i) et(h) é(g)ri(f)pe(e) me,(fe) (,) \r\nDó(d)mi(e)ne,(f) ad(gxg) te(h) con(gxg)fú(f)gi.(f) (::/i+)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale simplex",
+      "editor": "Vatican",
+      "year": 1975,
+      "page": "53"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7530",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "adducam-eos-5763",
+  "incipit": "Adducam eos",
+  "title": "Adducam eos",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Addúcam eos in montem sanctum meum, et lætificábo eos in domo oratiónis meæ: holocáusta eórum et víctimæ eórum placébunt mihi super altáre meum.",
+  "gabc": "(c4) Ad(d)dú(ff)cam(fhg) e(ghf)os(f) (::) in(d) mon(ffg)tem(f) san(fg)ctum(f) me(f!ghggf)um,(gf) (;) et(fg) læ(f)ti(gf)fi(fe)cá(fg)bo(g/ixiivGF) (;4) e(fgf)os(fggf) (:) in(fd~) do(fgFE)mo(gh) (;) o(hj)ra(g)ti(f)ó(fhg)nis(g) me(f!ghggf)æ:(gf) (:) ho(fh/jhj)lo(g)cáu(fgFD)sta(ff) (;4) e(fg)ó(fgFD)rum(dfddc) (;) et(fg) ví(gh/jhj)cti(gf)mæ(ghGF) (;4) e(f)ó(hfhg)rum(g) (;) pla(ixgih)cé(ij)bunt(gf) mi(fgFD)hi(d) (;) su(ff)per(f) al(gh)tá(hf/gh)re(h) (;3) me(ixf!gh//jjh//giHGF;ffgf//ghghf/ggf)um.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "427"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5763",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

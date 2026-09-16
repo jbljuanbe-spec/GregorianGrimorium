@@ -1,0 +1,37 @@
+{
+  "id": "felices-sensus-1180",
+  "incipit": "Felices sensus",
+  "title": "Felices sensus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Felíces sensus * beátae Maríae Vírginis, qui sine morte meruérunt martýrii palmam sub cruce Dómini.",
+  "gabc": "(c4) FE(d)lí(f)ces(fe) sen(fge'fvED'e)sus(ed..) *(,) be(f)á(deDC'd)tae(d_c) Ma(f)rí(gh)ae(hvGF) Vír(ixghg/hi)gi(h)nis,(h.) (:) qui(f) si(gh)ne(hg) mor(ixhi)te(h.) (;) me(h)ru(hg/hfgvFE)é(d!ewfef)runt(ed..) (,) mar(h)tý(hj)ri(h)i(h) pal(ixh)mam(hg/hih.) (;) sub(dc) cru(f!g'h)ce(f_e) Dó(cd)mi(d_c/d!ewf)ni.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "601"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1637"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1180",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

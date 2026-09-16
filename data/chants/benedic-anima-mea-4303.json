@@ -1,0 +1,31 @@
+{
+  "id": "benedic-anima-mea-4303",
+  "incipit": "Benedic anima mea",
+  "title": "Benedic anima mea",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Bénedic ánima mea Dómino, et noli oblivísci omnes retributiónes ejus: et renovábitur, sicut áquilæ, juvéntus tua.",
+  "gabc": "(c3) Bé(d)ne(f)dic(hhv) (::)\r\n á(hihi)ni(f)ma(fe) me(fh)a(hi) Dó(ijIH)mi(ih)no,(hih) (:)\r\n et(f) no(f!hi)li(ih) ob(hihhg)li(fe)ví(f)sci(hh) (;)\r\n\r\n o(hhf~)mnes(gf) re(d)tri(ef)bu(fe)ti(fh)ó(hg)nes(hihhg) (;4) e(fg/hgh)jus:(gf) (:)\r\n\r\n et(h) re(e)no(f)vá(h)bi(h)tur,(h) (;3)\r\n si(ivHF)cut(hf/ghg) á(hfh)qui(fgFEf)læ,(fe) (;)\r\n ju(h)vén(hf/hhf/d!ef;hhv//ijHFhvGEf;ehhf/gh)tus(hhf) tu(ded)a.(d) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "90"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4303",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

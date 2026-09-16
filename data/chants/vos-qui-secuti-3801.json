@@ -1,0 +1,31 @@
+{
+  "id": "vos-qui-secuti-3801",
+  "incipit": "Vos qui secuti",
+  "title": "Vos qui secuti",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Vos * qui secúti estis me, sedébitis super sedes, judicántes duódecim tribus Israel,",
+  "gabc": "(c4) VOS(df!gh) *(,) qui(g) se(g)cú(g)ti(ge) es(fg)tis(efEDe) me,(ed) (;) se(d)dé(f)bi(fff)tis(dfddc) (,) su(ixfg!hi)per(hg~) se(fe!fwgfg)des,(gf) (:) ju(f)di(ghg)cán(h)tes(g) du(f)ó(g)de(fe)cim(dfddc) (,) tri(fffd//ef!gh)bus(fe) Is(d)ra(de!fvEDe)el,(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "388"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3801",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

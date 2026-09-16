@@ -1,0 +1,31 @@
+{
+  "id": "si-quis-sitit-154",
+  "incipit": "Si quis sitit",
+  "title": "Si quis sitit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Si quis sitit * véniat ad me et bibat, allelúia, allelúia.",
+  "gabc": "(c4) SI(fd) quis(ffg) si(f)tit(ghg.) *(,) vé(f)ni(fe)at(d) ad(f) me(g.) (,) et(ff) bi(dec__)bat,(c.) (;) al(f)le(g)lú(ixi)ia,(h.) (,) al(ixi)le(hv.gih)lú(fgf__)ia.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[116]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "154",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

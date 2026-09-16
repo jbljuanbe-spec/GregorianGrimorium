@@ -1,0 +1,31 @@
+{
+  "id": "joseph-autem-111",
+  "incipit": "Joseph autem",
+  "title": "Joseph autem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Joseph autem * mercátus síndonem, et depónens eum, invólvit síndone.",
+  "gabc": "(c4) JO(fg)seph(gh) au(gf~)tem(f.) *(,) mer(hj)cá(i_j)tus(hk) sín(ij)do(ih)nem,(h.) (;) et(h) de(j)pó(jl)nens(klk) e(ji)um,(jk) (,) in(hg~)vól(geed/geg)vit(g) sín(g)do(ghg__)ne.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "21**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "111",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

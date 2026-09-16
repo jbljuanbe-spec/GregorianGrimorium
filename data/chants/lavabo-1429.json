@@ -1,0 +1,31 @@
+{
+  "id": "lavabo-1429",
+  "incipit": "Lavabo",
+  "title": "Lavabo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Lavábo * inter innocéntes manus meas, et circuíbo altáre tuum, Dómine: ut áudiam vocem laudis tuae, et enárem univérsa mirabília tua.",
+  "gabc": "(c4) LA(d)VÁ(fhg)BO(g) *(,) in(gh)ter(g) in(gh)no(g)cén(fgff)tes(d!ew!fvEC) (,) ma(f!gh)nus(fg) me(g!hwihi)as,(hg) (:) et(ge~) cir(ghg~)cu(hih)í(jvjjjvHGFgwhgh)bo(hg) (;) al(f)tá(ixghg/hi)re(h) tu(gf!gw!hvGF)um,(g) (,) Dó(g)mi(g!hwihi)ne:(hg) (:) ut(ji) áu(jk)di(j)am(ji/jkj) vo(h)cem(fh) lau(h!iwj)dis(gh) tu(hggfg)ae,(gf) (;) et(gj) e(j)ná(jk)rem(ji/jkj) (,) u(ji)ni(ig)vér(hi~)sa(i) mi(i)ra(i)bí(kij)li(hg)a(gf/h!iwj) (,) tu(gffd//fh/jggf!gwhgh)a.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "139"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1429",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

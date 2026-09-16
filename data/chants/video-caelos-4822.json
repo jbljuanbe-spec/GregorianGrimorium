@@ -1,0 +1,31 @@
+{
+  "id": "video-caelos-4822",
+  "incipit": "Video caelos",
+  "title": "Video caelos",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Vídeo cælos apértos, et Jesum stantem a dextris virtútis Dei.",
+  "gabc": "(f3) Al(ef~)le(f)lú(hi~)ia.(i) (::) (hhig/hf) (;3) (h!iji) (;) (ef/hfh//ghe) (;3) (hhf//ghf) <sp>V/</sp>.(::) Ví(fef//hi)de(jiihi)o(i) (;3) (hhv/fgf) (;) cæ(fg)los(f) a(f)pér(fhhv//ijHF;ivHGEf//hf//hhf/ge)tos,(e) (:) et(f) Je(e)sum(f) stan(ffe//ffe/fc;ef//hhvFE//hhv)tem(ivHG/hf) (:) a(f) dex(f!hi//jiihi)tris(i) (;3) (hhv/fgf) (;) vir(f)tú(fhhv//ijHF;ivHGE/f//hf//hhf/ge)tis(e) (::) De(hhih//ijij)i.(jvIHGE) (;4) (fg/hggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "387"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4822",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

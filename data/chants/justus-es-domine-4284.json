@@ -1,0 +1,31 @@
+{
+  "id": "justus-es-domine-4284",
+  "incipit": "Justus es Domine",
+  "title": "Justus es Domine",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Justus es, Dómine, et rectum judícium tuum : fac cum servo tuo secúndum misericórdiam tuam. ℣. Beáti immaculáti in via : qui ámbulant in lege Dómini.",
+  "gabc": "(c4)Ju(ixdh!iv)stus(h) es,(h) (::) Dó(h)mi(gf)ne,(f) (;) et(f) re(gh)ctum(h) ju(h)dí(jjv)ci(gf)um(hfh) tu(hjjh)um :(h) (:) fac(h) cum(j) ser(kjk)vo(k) tu(k)o(kl) (;) se(j)cún(hj)dum(ji/jhhg) (;) mi(f)se(g)ri(fe)cór(fhg)di(f)am(gefe) tu(d!efEDe)am.(ed) (::)\r\n<sp>V/</sp>. Be(f)á(gh)ti(h) im(h)ma(h)cu(h)lá(hj)ti(h) in(h) vi(hg)a :(gh) (::) qui(gf) ám(gh)bu(h)lant(h) in(h) le(hjh)ge(g) Dó(f)mi(fe)ni.(d) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "327"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4284",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

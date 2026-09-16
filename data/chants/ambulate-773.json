@@ -1,0 +1,37 @@
+{
+  "id": "ambulate-773",
+  "incipit": "Ambulate",
+  "title": "Ambulate",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ambuláte * indilectióne, sicut et Christus diléxit nos, et trádidit semetípsum pro nobis oblatiónem et hóstiam Deo in odórem suavitátis. Allelúia.",
+  "gabc": "(c4) AM(c)bu(d)lá(ff)te(f) *() in(g)di(f)lec(gh)ti(gf)ó(fgFD')ne,(d/fff) (;) si(fg)cut(f) et(f) Chri(ixf!gwh'!iv)stus(h.) (,) di(ixh)lé(jjh/i_j)xit(g_fg) nos,(dfddc.) (;) et(ff) trá(fe/f_g)di(dc)dit(ff) se(f)met(f)í(gf/h_g)psum(g.) (,) pro(gh) no(fg!hvGF'g)bis(gf..) (:) ob(f)la(fg)ti(g)ó(gh/jhj)nem(g) et(f) hós(gh)ti(g)am(f) De(hf/gh)o(g.) (;) in(ixgih) o(ixij)dó(gf)rem(fgF'D) (`) su(f)a(f)vi(ixgh)tá(hf/gh!jjh//giH'GF. , fff//fgf/ghg/hf/g_f)tis.(f) (:) Al(gf~)le(fff//hg/h_g)lú(fg!hvGF'g)ia.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "483"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1435"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "773",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

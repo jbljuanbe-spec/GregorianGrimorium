@@ -1,0 +1,31 @@
+{
+  "id": "te-decet-hymnus-6617",
+  "incipit": "Te decet hymnus",
+  "title": "Te decet hymnus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Te decet hymnus Deus in Sion: et tibi redétur votum in Jerúsalem.",
+  "gabc": "(c2) Al(c)le(ce/hg)lú(ef//gvFE/fgf~)ia.(g) (::) (egeg//hiGF//gffc) (;) (dffe//fhg//ffd) (;1) (gfgffc) (;) (ffvDC//deddc) <sp>V/</sp>.(::) Te(cg!hv) de(gh)cet(g) hy(gh)mnus(g) (;) De(gh//ivHG)us(ghf) (;4) (gvFE/fe) (;) in(fg) Si(gffe//fg//iivGF;4iiji//ivHG)on:(g//hhg) (:) et(g) ti(h!iji)bi(ih) re(iivHG)dé(gf)tur(f//gffe) (;) vo(ef//gvFE/fg//iivGF;3iiji//ivHG)tum(g//hhg) (::) in(c) Je(c)rú(cfe)sa(fg)lem.(ggc) (;) (bd//fe//fgffvDC//deddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "298"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6617",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}
