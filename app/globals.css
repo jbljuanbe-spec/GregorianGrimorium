@@ -580,3 +580,67 @@ main {
 .score-panel:fullscreen .pitch-bar {
   color: #5f574a;
 }
+
+/* Impresión: una hoja limpia para el atril o para el coro. Se imprime la
+   partitura, el texto y la cita de la fuente; nada del cromo de la web. */
+
+@media print {
+  :root {
+    --bg: #fff;
+    --surface: #fff;
+    --surface-sunk: #fff;
+    --text: #000;
+    --muted: #333;
+    --accent: #000;
+    --border: #999;
+    --shadow: none;
+  }
+
+  .site-header,
+  .site-footer,
+  .breadcrumb,
+  .score-toolbar,
+  .pitch-control,
+  .notice,
+  .value-props,
+  .search-field,
+  .filters,
+  .result-count {
+    display: none !important;
+  }
+
+  body {
+    font-size: 11pt;
+  }
+
+  main {
+    padding: 0;
+  }
+
+  .score-panel,
+  .score-surface {
+    border: 0;
+    padding: 0;
+    background: #fff;
+  }
+
+  /* Que no se corte un pentagrama entre dos páginas. */
+  .score-surface svg {
+    break-inside: avoid;
+    max-width: 100%;
+  }
+
+  .section {
+    margin-top: 1.2rem;
+    break-inside: avoid;
+  }
+
+  .pitch-range {
+    font-size: 9pt;
+    color: #333;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}

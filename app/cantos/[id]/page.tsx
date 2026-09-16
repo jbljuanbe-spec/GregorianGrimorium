@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ChantScore from "@/components/ChantScore";
-import { getChant, loadCorpus, type Chant } from "@/lib/corpus";
+import { getChant, getOtherVersions, loadCorpus, type Chant } from "@/lib/corpus";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 export function generateStaticParams() {
@@ -38,6 +38,7 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
   if (!chant) notFound();
 
   const reviewed = chant.review_status === "verified";
+  const otherVersions = getOtherVersions(chant);
 
   return (
     <article>
@@ -80,6 +81,28 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
                 {reference.year ? `, ${reference.year}` : ""}
                 {reference.editor ? ` · ${reference.editor}` : ""}
                 {reference.page ? <span className="page"> — p. {reference.page}</span> : null}
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
+
+      {otherVersions.length > 0 ? (
+        <section className="section">
+          <h2>Otras versiones de esta pieza</h2>
+          <ul className="references">
+            {otherVersions.map((other) => (
+              <li key={other.id}>
+                <Link href={`/cantos/${other.id}/`}>
+                  {[
+                    other.version ?? "Sin versión declarada",
+                    other.mode ? `modo ${other.mode}` : null,
+                    other.bibliography[0]?.title,
+                    other.bibliography[0]?.page ? `p. ${other.bibliography[0].page}` : null,
+                  ]
+                    .filter(Boolean)
+                    .join(" · ")}
+                </Link>
               </li>
             ))}
           </ul>

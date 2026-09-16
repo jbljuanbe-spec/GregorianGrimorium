@@ -40,6 +40,12 @@ real encuentra lo que busca.
 - [x] **Tono y tesitura**: el do se asigna a una nota real, se ve el ámbito
       resultante y se puede dar el tono con audio. Ver `PITCH.md`.
 - [x] Modo ensayo a pantalla completa.
+- [x] **Cruce de versiones**: GregoBase recoge varias transcripciones de la
+      misma pieza (Vaticana, Solesmes, dominicana…). Cada ficha enlaza las
+      demás con su edición y su página, que es lo que permite cotejarlas y lo
+      que explica por qué la búsqueda devuelve entradas parecidas.
+- [x] Hoja de estilos de impresión: la ficha sale en limpio para el atril o
+      para repartir al coro, sin cromo de la web.
 - [ ] Prueba con usuarios reales (directores de coro, organistas).
 
 ## Fase 3 — Escalado y calidad

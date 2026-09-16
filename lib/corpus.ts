@@ -55,6 +55,32 @@ export function getChant(id: string): Chant | undefined {
   return loadCorpus().find((chant) => chant.id === id);
 }
 
+/** Clave de pieza: mismo íncipit y mismo género, aunque cambie la edición. */
+function pieceKey(chant: Chant): string {
+  return `${foldAccents(chant.incipit)}|${chant.genre}`;
+}
+
+/**
+ * Otras transcripciones de la misma pieza. GregoBase recoge varias versiones
+ * del mismo canto —Solesmes, Vaticana, dominicana…— y sin cruzarlas la
+ * búsqueda devuelve entradas casi idénticas sin forma de distinguirlas.
+ */
+export function getOtherVersions(chant: Chant): Chant[] {
+  const key = pieceKey(chant);
+  return loadCorpus().filter((other) => other.id !== chant.id && pieceKey(other) === key);
+}
+
+// Búsqueda y agrupación insensibles a acentos: la ortografía varía entre
+// ediciones ("caeli" y "cæli", "advenit" y "advénit").
+export function foldAccents(value: string): string {
+  return value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/æ/gi, "ae")
+    .replace(/œ/gi, "oe")
+    .toLowerCase();
+}
+
 export interface IndexEntry {
   id: string;
   incipit: string;
