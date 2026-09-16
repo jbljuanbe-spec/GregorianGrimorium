@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Vos qui secúti estis me, * sedébitis super sedes, judicántes duódecim tribus Israel, dicit Dóminus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) VOS(ff) qui(e) se(f)cú(g)ti(h) es(ih)tis(fg) me,(f) *(;) se(e)dé(f)bi(h)tis(h) su(h)per(ij) se(i)des,(i) (;) ju(i)di(i)cán(i)tes(g) du(i)ó(h)de(g)cim(e) tri(gh)bus(ih) Is(f)ra(e)el,(gh) di(i)cit(hg) Dó(f)mi(f)nus.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

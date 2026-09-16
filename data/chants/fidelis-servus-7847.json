@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Cistercian",
   "text_latin": "Fidélis servus et prudens, quem constítuit Dóminus super famíliam suam: ut det illis in témpore trítici mensúram.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) FI(e)DÉ(f)LIS(hg) ser(hi~)vus(i) (::) et(hg~) pru(hi)dens,(i) (;) quem(i) con(i)stí(ijij)tu(ih)it(h) Dó(hi)mi(h)nus(hg/hih) (;) su(h)per(hhg) fa(f)mí(hh)li(f!hi)am(hg~) su(e)am:(e) (:) ut(h) det(h) il(hih/hg~)lis(f) in(hg~) tém(hi)po(ijIHGh)re(hg) (;) trí(ij!kvJIih//ig/hvGF//gh!ij)ti(hf)ci(g!hi) men(hg~)sú(efe)ram.(e) (::) <v>\\black{(}</v>Al(ei/ji)le(if/hiHGhe)lú(efe)ia.<v>\\black{)}</v>(e) (::)",
   "transcriber": "Aelredus",
   "commentary": null,

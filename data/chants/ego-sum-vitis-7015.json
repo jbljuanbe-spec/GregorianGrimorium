@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Ego sum vitis vera, et vos pálmites, qui manet in me, et ego in eo, hic fert fructum multum, allelúia. Extra T. P. * fructum multum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) E(hhv)go(fh) sum(he) (::) vi(hhv)tis(g) ve(fihi)ra,(hg) (;) et(gf~) vos(e!fg) pál(fg)mi(e!fg)tes,(f) (:) qui(g) ma(i)net(h) in(ijiiv) me,(g) (;) et(h) e(i)go(h) in(gh) e(f)o,(ed/efe) (;) hic(g) fert(fg/iffe) (;3) fru(hi)ctum(h) mul(ijiih~)tum,(g) (;) al(hg~)le(fv//e!fg)lú(gffef)ia.(fe) <i>Extra T. P.</i>(::) *() fru(hg)ctum(fe/fg) mul(gffef)tum.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

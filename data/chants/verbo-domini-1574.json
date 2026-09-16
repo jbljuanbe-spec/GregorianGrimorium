@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣. Verbo Dómini caeli firmáti sunt, et Spíritu oris ejus omnis virtus * eórum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4)AL(gf~)LE(d!ef/ghg)LÚ(fg~)IA.(g) *(;) (ghg/fgf/deddc) (,) (cd!ef!gv//hihhg) <sp>V/</sp>.(::) Ver(cd!e!fwg)bo(g) Dó(fe)mi(fg)ni(g) (,) cae(ghg/jvIHGE/fg)li(g) fir(gvFD)má(evDC)ti(dc) sunt,(c) (:) et(cd) Spí(ef/ghg)ri(fg)tu(g) (,) o(g)ris(g) e(ghg/fgf/deddc~)jus(c) (;) om(c)nis(d) vir(e!fwg)tus(g) *() e(hg)ó(fg)rum.(ghg/fgf/deddc) (,) (cd!ef!gv//hihhg) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

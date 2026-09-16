@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Flores * apparuérunt in terra nostra, tempus putatiónis advénit, vox túrturis audíta est in terra nostra. ℣. Surge, amíca mea, speciósa mea, et veni: colúmba mea in foramínibus petrae, in cavérna * macériae.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) FLO(ffg)RES(f) *() ap(f)pa(gh)ru(h)é(hg/hf)runt(f) (,) in(gh~) ter(ff)ra(f) nos(fffvDC/dff/hghf)tra,(f) (:) tem(hj~)pus(j) pu(j)ta(jk)ti(j)ó(hgh)nis(h) ad(fh)vé(gv//fhf/gh)nit,(g) (;) vox(hg) túr(gj)tu(j)ris(ij) au(hhg~)dí(h)ta(gf) est(fgff/ded) (;) in(fgf) ter(f!gh)ra(ixhjHG/hw!ivHG) nos(f)tra.(fffvDC) (,) (fg!hvGF/e!gh//fhg/hggf) <sp>V/</sp>.(z0::c3) Sur(hi~)ge,(ihhf/hiHG//hiFD) (,) (f!hhi/hhf/hiHG//hiFD) (;) a(d)mí(gxefef//hiHFg)ca(fe) me(gxhf/gh)a,(gxgf) (:) spe(h)ci(h)ó(hi!jvIH/hf/hhhi)sa(h) (,) me(gxfgFE//fgFD//fvED/ed)a,(d) (;) et(d) ve(fdfED//fd/ef!hh/ig/hf/hi!kkkh)ni:(h) (:) co(f)lúm(h)ba(hg/ij) me(ih)a(hg/ih//jvIHG/hf) (;) in(f) fo(f)ra(f)mí(fi)ni(ih)bus(h/ie!fv) pe(f!hi/hhf//hfh/hefd)trae,(d) (;) in(d) ca(ef)vér(f/hhfg)na(ef) *() ma(gxh)cé(hfge)ri(d)ae.(de/gf/gh) (,) (gxfgED/efeed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

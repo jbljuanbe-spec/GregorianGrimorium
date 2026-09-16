@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Visiónem * quam vidístis, némini dixéritis, donec a mórtuis resúrgat Fílius hóminis.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) VI(d)si(e_f)ó(g')nem(e) *() quam(gh) vi(fe)dí(d)stis,(d_fddc.) (,) né(f')mi(h)ni(g') di(h)xé(gf)ri(g)tis,(f.) (;) do(fd)nec(f') a(g) mór(h')tu(g)is(f') re(e)súr(fg)gat(g.) (,) Fí(e_f)li(g)us(fe) hó(d)mi(cd)nis.(d.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Tu Dómine * servábis nos, et custódies nos a generatióne hac in aetérnum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) TU(g) Dó(ji/jk)mi(h!iw!jvIHGh)ne(hg) *(,) ser(gh~)vá(hf)bis(gh) nos,(e) (;) et(g) cu(g)stó(ih/ij)di(hg)es(g) nos(gh!ivih) (;) a(h) ge(h)ne(hf)ra(gh)ti(hg)ó(ghfg)ne(f) hac(e!fg) (,) in(g) ae(hggf/ghg)tér(egff)num.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

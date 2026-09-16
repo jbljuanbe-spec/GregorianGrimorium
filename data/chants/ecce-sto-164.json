@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Ecce sto * ad óstium et pulso; si quis audíerit vocem meam et aperúerit mihi jánuam, intrábo ad illum, et coenábo cum illo et ipse mecum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) EC(f)ce(fe) sto(d) *() ad(f) ó(gh)sti(g)um(f) et(ef) pul(ced___)so;(d.) (;) si(d) quis(f) au(g)dí(gh)e(h)rit(ixgh/i_h) vo(g)cem(ge~) me(gh)am(g.) (,) et(g) a(gh)pe(g)rú(h)e(g)rit(fe) mi(gh)hi(fe) já(d)nu(de!fvED'e)am,(ed..) (:) in(f)trá(gh)bo(hf) ad(ixhi) il(ghGF'g)lum,(gf..) (,) et(df~) coe(dc)ná(fhgh)bo(gf) cum(df) il(fef)lo(dc..) (,) et(e) ip(gh)se(ef) me(ced___)cum.(d.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

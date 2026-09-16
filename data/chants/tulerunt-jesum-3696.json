@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Tulérunt * Jesum paréntes ejus in Jerúsalem, ut sísterent eum Dómino.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) TU(c!df)LÉ(f)RUNT(e!fg) *() Je(dgFEghGFgvFE)sum(f) (;) pa(f)rén(fgf/gfffd~)tes(dgFE) e(hghf/hggd~)jus(dgFEfgFD) (;) in(df/gef) Je(f)rú(ixff/hih/ih)sa(hg)lem,(gh/igh) (:) ut(ef) sí(gh/hg)ste(gf)rent(fg!hvhg) e(dgFE)um(e) (,) Dó(eg!hvGFghg)mi(e)no.(egf/gffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

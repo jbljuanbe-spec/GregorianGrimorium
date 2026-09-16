@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣. Non derelínquet Dóminus sanctos suos: in aetérnum * conservabúntur.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(cd)LE(ef!ghhg)LÚ(gi/jh/ivHG)IA.(g) *(;) (gh/ijh//jvIHG//fhfg//egFEDC) (,) (cd!ef!ghhvGFD/eddc) <sp>V/</sp>.(::) Non(c) de(d)re(fe)lín(fg~)quet(gvFED/fg!hvhg) (,) Dó(g)mi(gh)nus(hg) sanc(fvED)tos(dgFE) su(cdc)os:(c) (:) in(c) ae(g)tér(g/hg/jv///ijhhvGE/fg~)num(g) *(,) con(cd)ser(fe)va(fg)bún(gh/ijh//jvIHG//fhfg)tur.(egFEDC) (,) (cd!ef!ghhvGFD/eddc) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

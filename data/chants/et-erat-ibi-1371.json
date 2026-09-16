@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Et erat ibi * usque ad óbitum Heródis: ut adimplerétur quod dictum est a Dómino per prophétam dicéntem: Ex Aegýpto vocávi fílium meum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) ET(f) e(ef)rat(dc) i(cd!evede)bi(dc/deed.) *(,) us(d)que(e) ad(f) ó(g)bi(f)tum(gh) He(h)ró(ghf)dis:(f.) (:) ut(dh) ad(ixhi)im(g)ple(e)ré(fg)tur(g.) (,) quod(g) di(g)ctum(e) est(gh) a(f) Dó(g)mi(fe)no(d.) (,) per(g) pro(g)phé(h)tam(f) di(g)cén(fvED)tem:(ff) (:) Ex(d) AE(dg)gýp(gf)to(f) vo(fe)cá(ghghvGF)vi(gvFDCd.) (,) fí(fe/ggh)li(f_e)um(cd) me(d_c/d!ewfef)um.(ed..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

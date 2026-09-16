@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Vidérunt omnes * fines terræ salutáre Dei nostri.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) VI(fg)dé(gff)runt(de~) o(cd~)mnes(d.) *(,) fi(d!f'g)nes(gh) ter(hj/jg)ræ(g_fhvGE.) (;) sa(f)lu(ghg)tá(hv.fh!jvvH'GE'f)re(f.) (,) De(f_dfvEC/fhg___)i(ghF'Ef) no(ded___)stri.(d.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

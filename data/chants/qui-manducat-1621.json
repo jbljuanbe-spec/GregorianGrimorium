@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Qui mandúcat * carnem meam, et bibit sánguinem meum, in me manet, et ego in eo, dicit Dóminus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) QUI(c) man(d)dú(ff)cat(f) *() car(f)nem(f) me(gf/hvGF)am,(f) (;) et(f) bi(f!gh)bit(hg) sán(hj)gui(j)nem(j) me(jh/jvIH)um,(h) (;) in(hg~) me(h!iwj) ma(ghGFg)net,(gf) (:) et(d) e(d!fff)go(dc) in(fdf) e(gfg)o,(g) (;) di(ixiih/ivHG/hg//hff)cit(f) Dó(f)mi(fgf)nus.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

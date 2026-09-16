@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "SPíritus Sanctus * docébit vos, allelúia: quaecúmque díxero vobis, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) SPí(gd)ri(f)tus(g) Sanc(gh)tus(g) *(,) do(h)cé(j)bit(i) vos,(jkj) al(h)le(g)lú(hih)ia:(g.) (;) quae(h)cúm(j)que(i) dí(j)xe(h)ro(ij) vo(hg)bis,(f.) (;) al(g_f~)le(h)lú(j)ia,(i.) (,) al(j)le(hjI'G)lú(ghg___)ia.(g.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

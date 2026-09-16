@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Mihi * autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) MI(e!fg)HI(ixhig/hvFE) *(,) au(ff/h)tem(h/jjj) ni(g/jjh/jvGF)mis(fe/gf/gffe) (;) ho(dg)no(gih)rá(h!iwj!kvJH)ti(hg) sunt(giHGh) (;) a(ef)mí(d/fgf)ci(e) tu(fgFE//ixfg/hihhg)i,(g//fg!hvhg) (,) De(gf/hvGF/gvFE)us:(fff/ded) (:) ni(df)mis(fff//fv//fff) (,) con(df/gef~)for(e)tá(ff/h)tus(h/jjj) est(ixg/jjjvHGhv//fh/ig/ff/ded) (;) prin(df/gef~)ci(e)pá(ff/hg/hvGF)tus(g) (,) e(g/jjjh)ó(hv///giHG)rum.(gvFE/fe//gf/gffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

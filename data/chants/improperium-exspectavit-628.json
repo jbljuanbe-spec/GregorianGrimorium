@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Impropérium * exspectávit Cor meum et misériam, et sustínui qui simul mecum contristarétur et non fuit; consolántem me quaesívi et non invéni.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) IM(fgffe)pro(cd)pé(ff)ri(f!gwhgh)um(hg__) *(,) ex(gh)spec(g)tá(h!iwj)vit(g) Cor(g/jj//jjjhhg~) me(ixgih'/ivGF')um(gffe.) (;) et(g) mi(h!iwj_i)sé(jkjjh)ri(h!iw!jvI'HG'h)am,(hg..) (:) et(f) sus(g)tí(gjji)nu(ikjj)i(j_i) (,) qui(i) si(ij)mul(i) me(ikjj)cum(j_i) con(ij)tri(ij)sta(j)ré(jvIH)tur(iki'/jkhhg.) (;) et(g!i'k~) non(k_ik) fu(ikjj'ji)it;(i.) (:) con(g/jjj)so(j)lán(ikjj)tem(jh~) me(iji) (,) quae(jkj)sí(jjjh)vi(hg/hih.) (;) et(f!h'j~) non(j_h/jjj//lvKJ/jv'IH) in(hg~)vé(giih/ivHG'h)ni.(hg..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

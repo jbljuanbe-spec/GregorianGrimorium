@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Cantábo Dómino qui bona tríbuit mihi: et psallam nómini Dómini altíssimi.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Can(c)tá(dfd)bo(f) (::) Dó(e!fgf)mi(fvED)no(fd/efe) (;) qui(cd) bo(ffg)na(f) trí(fgffc)bu(d)it(df/gvFEf) mi(ded)hi:(d) (:) et(f) psal(ef/gf~)lam(ed) (;) nó(ixf!giiv)mi(i)ni(h!iji) (;3) Dó(gh)mi(gf)ni(fgFE/fvEDC/dc) (;) al(bxege//gh/ffvDCB//cdcd)tís(d)si(ded)mi.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

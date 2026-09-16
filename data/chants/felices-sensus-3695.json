@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Felíces sensus * beátae Maríae Virginis, qui sine morte meruérunt martýrii palmam sub cruce Dómini.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) FE(d)LÍ(f)CES(fe) sen(fgefvEDe)sus(ed) *(,) be(f)á(deDCd)tae(dc) Ma(f)rí(gh)ae(hvGF) Vir(ixghg/hi)gi(h)nis,(h) (:) qui(f) si(gh)ne(hg) mor(ixhi)te(h) (;) me(h)ru(hg/hfgvFE)é(d!ewfef)runt(ed) (,) mar(h)tý(hj)ri(h)i(h) pal(ixh)mam(hg/hih) (;) sub(dc) cru(f!gh)ce(fe) Dó(cd)mi(dc/d!ewf)ni.(ed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

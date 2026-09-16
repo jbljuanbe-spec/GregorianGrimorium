@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Dixit Jesus * discípulo: Ecce mater tua. Et ex illa hora accépit eam discípulus in sua.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DI(f)XIT(h) Je(h/jjh!iwj)sus(gh) *(,) di(gfh)scí(ixhiHG)pu(hg)lo:(g//hg/hg/jjh/ivGFg) (:) Ec(f)ce(h) ma(jjjk)ter(hg~) tu(ghGFg)a.(gf) (:) Et(d) ex(dc) il(fh)la(hg) ho(ixhig/hg)ra(fe) (,) ac(fe)cé(fg)pit(ghg) e(ed!ewf)am(dc/dfED) (;) di(cd)scí(dggf/ghg)pu(fg)lus(gd) in(f) su(ixfhgivHGFfdfv//,fff//fgf/ghg/hf/gf)a.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

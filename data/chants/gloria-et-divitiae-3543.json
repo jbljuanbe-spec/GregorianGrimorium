@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Glória * et divítiae in domo ejus: et justítia ejus manet in saéculum saéculi, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) GLÓ(ffg)RI(f)A(f) *(,) et(f) di(hg)ví(h)ti(gf)ae(fgFD) (,) in(d) do(ffe/gh)mo(fff) e(f!gwhghvGF)jus:(gf) (:) et(fgf) ju(gh)stí(h/jjh!iwj)ti(gh)a(gfg) e(d!ff/gf)jus(f) (;) ma(hv//fhg)net(g) in(ixgih) saé(ixij)cu(g)lum(fgFD) saé(ixf!gwhgh/jjh//giHGF,fff//fgf/ghg/hf)cu(fgf)li,(f) (;) al(gf~)le(fff//hg/hg)lú(fg!hvGFg)ia.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

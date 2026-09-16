@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Surréxit * Dóminus, et appáruit Petro, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c2) SUR(d)RÉ(fdf)XIT(f!gh) *() Dó(hjh/ij)mi(g)nus,(fgFD) (;) et(d) ap(d)pá(dge/gh)ru(ff)it(f) Pet(fgf)ro,(f) (;) al(hiHG//ih/ivHGF)le(gf/d/ef , deDC/fv//deDC/fdf)lú(fgf)ia.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

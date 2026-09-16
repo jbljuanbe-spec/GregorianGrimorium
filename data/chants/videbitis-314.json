@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Allelúia. * ℣. Vidébitis, et gaudébit cor vestrum: cognoscétur manus Dómini servis * ejus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(g)le(g)lú(hg~)ia.(ggh//gihhg.) *(;) (gi!jkkvJ'IG//h!iw!jvH'GFg.) (;) (gk'!lvKJ'/jh//jlKJ'IG/h!iw!jvH'GFg.) <sp>V/</sp>.(::) Vi(fg)dé(g/hjhi//jjj/kvJ'IG/hi)bi(hg)tis,(g.) (;) et(fg) gau(gj)dé(j)bit(jjj) cor(jh) ve(jjk//jlKJ'I)strum:(i.) (:) co(jjj)gno(jk)scé(k_g//hjH'G/hvGF'g)tur(gf..) (,) ma(h!iwj)nus(gh) Dó(jji)mi(g)ni(hvGFg.) (;) ser(jjj/kj/mvKJ'/lj.,hi!jkkvJ'IG/hi)vis(hg..) *(,) e(gh)jus.(ggh//gihhg.) (;) (gi!jkkvJ'IG//h!iw!jvH'GFg.) (;) (gk'!lvKJ'/jh//jlKJ'IG/h!iw!jvH'GFg.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

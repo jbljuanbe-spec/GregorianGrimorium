@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Confortámini, * et jam nolíte timére: ecce enim Deus noster retríbuet judícium: ipse véniet, et salvos nos fáciet.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) CON(cd)FOR(df)TÁ(e/fgFE)MI(fffvED)NI,(fd/efe) *(;) et(f) jam(dfe) no(f)lí(ixgf/fe/fg/hig)te(fh) ti(ghFE)mé(egFE)re:(e) (:) ec(df!gwh)ce(g) e(ixivHG)nim(ghgg/efe) (,) De(e!fg)us(hgg) nos(ef!gvFEfvED)ter(d/fd/efe) (;) re(d)trí(fvfff)bu(fe)et(dfe) ju(fg)dí(g)ci(gf!gwhgh)um:(hg) (:) ip(g)se(h) vé(ixhjh/ij)ni(g)et,(fgFEDewf) (;) et(cd) sal(dgf)vos(fff) nos(fg/hg/gf/ghg) fá(e)ci(egff)et.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

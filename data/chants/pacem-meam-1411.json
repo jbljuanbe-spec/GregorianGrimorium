@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Pacem meam * do vobis, allelúia: pacem relínquo vobis, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) PA(h)CEM(h) me(hg)am(f) *() do(h) vo(hg)bis,(f) (,) al(f)le(e)lú(gxfgf)ia:(d) (;) pa(gxg)cem(ggg) re(gxge)lín(fh)quo(g) vo(gxhg)bis,(e) (;) al(gxgi~)le(i)lú(ihi)ia,(f) (,) al(gxg)le(ev//d!ef)lú(feede)ia.(ed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

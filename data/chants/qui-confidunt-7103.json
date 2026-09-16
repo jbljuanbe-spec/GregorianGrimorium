@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Qui confídunt in Dómino, sicut mons Sion: non commovébitur in ætérnum, qui hábitat in Jerúsalem.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Al(dh>)le(hvGFE)lú(feed~)ia.(d) (::) (dcf//gfgf//ghhv) (;) (ixdh//ivHG//hvGF//gfgf//ghhv) (;) (ixdh//ivHG/ge//ghFED//fvEC) (;) (egFED//ffd) <sp>V/</sp>.(::) Qui(dh!iv) con(hg~)fí(hvGFED//fg)dunt(fvED) (;) in(fe~) Dó(dv//c!df)mi(fg)no,(gf//hvGFED) (;1) (deDCd) (;) si(ce//gvFE)cut(ghGE) mons(fe~) Si(ded)on:(d) (;) (cdc//dffv//ghGE//feed) (:) non(h) com(gh//jvIH)mo(hg)vé(hvGE)bi(fvED)tur(cd//fd//ffe) (;) in(c) æ(ed)tér(f!ghg;4fgFED//feed~)num,(d) (;) qui(dc) há(f)bi(ghg)tat(h) (;3) (f!gh/ixiih) (::) in(h) Je(ghGF)rú(g)sa(giHG)lem.(h) (;) (fegFEC//ffd) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

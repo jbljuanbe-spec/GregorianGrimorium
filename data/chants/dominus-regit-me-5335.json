@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Dominus regit me, et nihil mihi déerit: in loco páscuæ ibi me collocávit: super aquam refectiónis educávit me.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) Do(h)mi(hh)nus(f!ghGE) (::) re(hiHG)git(hi/jij) me,(ji) (;) et(i) ni(j)hil(i) mi(hg)hi(f) dé(hgh)e(fgFEf)rit:(fe/fgf) (:) in(ef) lo(hhi)co(h) pá(hg/hi)scu(f!ghGFEf)æ(fe) (;) i(hg/hi)bi(i) me(hvGF) col(hfh)lo(h)cá(hi)vit:(hg) (:) su(hg)per(h) a(ij)quam(iji) re(h)fe(hg)cti(f)ó(f)nis(ef/ggf) (;) e(hg)du(hi)cá(ig//ivHGFEf)vit(ed//efe/fg) me.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Jubiláte Deo * omnis terra: jubiláte Deo omnis terra, servíte Dómino in laetítia: intráte in conspéctu ejus in exsultatióne, quia Dóminus ipse est Deus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) JU(d)BI(d)LÁ(gxfhFEfge)TE(d) De(ev//ded/de)o(e) *(;) o(gxgf~)mnis(ghggvEDe) (,) ter(gxdf!hvjvIHfhgge,gxgf/ghEDed)ra:(d) (:) ju(d)bi(d)lá(fhhhhf//hihhvFED,fhFEfhEDfhhf//hjIH,f!hhjvIHihhhf,gxgvFEfvEDffe/ff//ef!hhf/hjIHhf,f/hhf/he)te(d) De(ev//dedde)o(e) (;) o(gxfg!hwih)mnis(gxghggvEDe) ter(gxdf!hvjvIHfhgge/ggge,gxgf/ghEDed)ra,(d) (:) ser(d)ví(fhfg)te(ef) Dó(hh/fig/hjIHivHF)mi(fgf)no(f) (;) in(f) lae(ehf//hjIHivHF)tí(f)ti(f!gwhf)a:(f) (:) in(d)trá(f!hhhi)te(h) (,) in(f) con(hhi)spéc(hi)tu(h) e(hjIGhvGFg)jus(gf) (;) in(f) ex(f!gwh)sul(fe~)ta(fe)ti(edf)ó(fhef)ne,(ef) (;) qui(hfivHGE)a(ef) Dó(f!hi)mi(ihhf)nus(fhEDe) (;) ip(d!ef//ef!gwh)se(hg/hg/hf) est(hghFE) De(efED)us.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

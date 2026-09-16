@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Cum invocárem te, exaudísti me, Deus justítiæ meæ: in tribulatióne dilatásti me: miserére mihi, Dómine, et exáudi oratiónem meam.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) Cum(f) in(fh)vo(hf)cá(h)rem(iji~) te,(j) (::) ex(j)au(ijIG)dí(hi)sti(j) me,(h) (;) De(h)us(fhffe) (;4) ju(f)stí(hi)ti(j)æ(hg) me(f!ghGFg)æ:(gf) (:) in(f) tri(h)bu(ij)la(i)ti(i)ó(ihi)ne(fh) (;) di(h!ij)la(j)tá(jij)sti(i) me:(hg/hiih) (:) mi(h)se(iji)ré(j)re(ig) mi(i)hi,(hi) Dó(h)mi(fgFEf)ne,(fe) (:) et(f) ex(fe)áu(fgef)di(efEC) (;) o(c)ra(ef)ti(e)ó(hhv)nem(ighg) me(f!ghGFg)am.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

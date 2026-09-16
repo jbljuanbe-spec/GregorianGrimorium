@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Pater, * si non potest hic calix transíre, nisi bibam illum: fiat volúntas tua.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) PA(hh)ter,(ggf.) *(,) si(eg) non(gf~) po(h)test(f) hic(e) ca(dfe)lix(e.) tran(e)sí(fg)re,(ge) (,) ni(g)si(i) bi(i)bam(h) il(gih)lum:(g.) (;) fi(hih)at(hgh) vo(f)lún(ghf~)tas(g) tu(e.)a.(e.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

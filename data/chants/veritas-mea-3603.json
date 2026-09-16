@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Veritas mea, * et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) VE(ffg)RI(f)TAS(fh) me(hggfg)a,(gf) *(,) et(f) mi(gh)se(hg)ri(h)cór(fg)di(g)a(gh) me(h!iwjj/kh)a(h) (,) cum(gh) i(gf!gw!hvGFgh)pso:(g) (:) et(f) in(fg) nó(gh)mi(gf)ne(f) me(fd!ew!fvEDCd)o(dc) (;) ex(d)al(fffddc)tá(f!gwhghvGF)bi(ixfhg/hi)tur(h) (,) cor(fg/hjh)nu(f) e(fgf)jus.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

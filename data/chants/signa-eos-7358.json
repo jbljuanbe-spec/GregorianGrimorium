@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Signa eos * qui in me credunt, hæc sequéntur: daemónia eícient: super aegros manus impónent, et bene habébunt. Allelúia",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "name: Signa eos;\r\noffice-part: Communio;\r\nmode: 7;\r\nbook: Graduale Romanum, 1974, p. 437, 438;\r\ntranscriber: Fernando Gil;\r\n%%\r\n(c3) SI(i)gna(ig) e(i)os(i_j) *(,) qui(i) in(j) me(iih) cre(j/llij)dunt,(jiigi.) (;) hæc(ij) se(iv.high)quén(f!gw!hv_G~F~)tur:(gf..) (:) dae(f)mó(fi)ni(i)a(i) e(ig)í(ij)ci(ij)ent:(ij) (;) su(ih)per(i) ae(j/llij)gros(j.) (,) ma(j)nus(i) im(ig~)pó(hihh)nent,(hg..) (;) et(hi/ef~) be(f)ne(efE'D) ha(e.f!gw!hvGF'gw!hvGF)bé(ef!gvFE'f)bunt.(fe..) (::) Al(fgwh)le(hih___/gih./fhgh.//fge___)lú(efe___)ia(e.) (::)",
   "transcriber": "Fernando Gil",
   "commentary": null,

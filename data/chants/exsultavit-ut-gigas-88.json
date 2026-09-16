@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Exsultávit * ut gigas ad curréndam viam: a summo caelo egréssio ejus, et occúrsus ejus usque ad summum ejus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) EX(c)sul(d)tá(ff)vit(d.) *(,) ut(dc~) gi(fg)gas(fef.) (;) ad(f) cur(hg)rén(hjij)dam(hjf) vi(fgf___)am:(f.) (:) a(f) sum(fh/jj)mo(fg) cae(h_g/jij)lo(hjg.) (;) eg(f)rés(hgh)si(ge)o(g) e(efE'~D~)jus,(ed..) (:) et(f) oc(f)cúr(f.h!iwjj)sus(i_h) e(fh)jus(ghGF.) (;) us(ffg)que(f) ad(f) sum(fh!jj)mum(hjg) e(fvE'Dgv/ef~)jus.(f.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

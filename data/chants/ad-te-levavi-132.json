@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Ad te levávi * ánimam méam: Déus méus in te confído, non erubéscam: neque irrídeant me inimíci méi: étenim univérsi qui te exspéctant, non confundéntur. Ps. Vias túas, Dómine, demónstra míhi: * et sémitas túas édoce me. Glória Patri. sæculórum. Amen.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) A{D}(gd~) te(f) le(gh)vá(h)vi(g.) *(,)\r\ná(gjj)ni(h)mam(gh) mé(fg)am:(ghg/gf.) (;)\r\nDé(h)us(jj) mé(jj/kj)us(jk..) (,)\r\nin(fg~) te(g) con(f)fí(fh/ji)do,(ih__) (,)\r\nnon(jjj) e(hg)ru(ghfg)bé(ghg___)scam:(g.) (:)\r\nne(j)que(jv.jjj/hih___) ir(h)rí(jkj)de(ih)ant(jjj) me(g.) (,)\r\nin(g)i(g)mí(g.h!iwj)ci(j_h) mé(h_f)i:(f.) (:)\r\nét(fh)e(hg)nim(g.) u(g)ni(g)vér(gihi)si(g.) (,) qui(g) te(g) ex(hji)spé(i/jkj)ctant,(hih./) (;)\r\nnon(gh~) con(h)fun(hfhg)dén(ghg___)tur.(g.) <i>Ps.</i>(::)\r\nVi(g)as(hg) tú(gj)as,(j) Dó(j)mi(j)ne,(j) de(ji)món(jk)stra(k) mí(jk)hi:(j.) *(:)\r\net(jh~) sé(hj)mi(j)tas(j) tú(j)as(jji) é(gh)do(ji)ce(h) me.(g.) (::)\r\nGló(g)ri(hg)a(gj) Pa(j)tri.(j) (::)\r\nsæ(j)cu(jji)ló(gh)rum.(ji) A(h)men.(ghd___/ffg.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

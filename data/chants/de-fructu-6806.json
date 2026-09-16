@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "De fructu óperum tuórum, Dómine, satiábitur terra: ut edúcas panem de terra, et vinum lætíficet cor hóminis: ut exhílaret fáciem in óleo, et panis cor hóminis confírmet.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) De(f) fru(gh)ctu(h) (::) ó(ixhi)pe(h)rum(h) tu(g)ó(h)rum,(gf) Dó(g)mi(f)ne,(fe) (;) sa(f)ti(hg)á(h)bi(g)tur(fe) ter(de/fef)ra:(ed) (:) ut(d) e(f)dú(gh)cas(f) pa(g)nem(f) de(f) ter(fg)ra,(f) (;) et(f) vi(ixfg/hi)num(h) (;) læ(h)tí(jhhgh)fi(f)cet(f!gh) (;4) cor(fe) hó(d)mi(d!efEDe)nis:(ed) (:) ut(f!gh) ex(h)hí(iyjiih)la(ghGFg)ret(gf) (;) fá(f!gh)ci(g)em(g) in(ge) ó(fg)le(efEDe)o,(ed) (:) et(f) pa(ef)nis(ixghg//hih) (;) cor(gf) hó(g)mi(hj)nis(iyijHG) con(hvFEf)fír(ded)met.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

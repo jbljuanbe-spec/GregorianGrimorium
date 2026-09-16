@@ -3,6 +3,8 @@ import { readFileSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import Ajv from "ajv";
+import { detectCorruption } from "./lib/record.mjs";
+import { splitPerformanceMarks } from "../lib/gabc.mjs";
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const schemaPath = join(root, "data/schema/chant.schema.json");
@@ -43,6 +45,33 @@ for (const file of files) {
     continue;
   }
   seenIds.add(record.id);
+
+  // El esquema no puede ver la calidad del texto, solo su forma. Estas son
+  // las comprobaciones que impiden publicar un registro con basura heredada
+  // de la fuente o con marcas de ejecución colándose como texto cantado.
+  const corruption = detectCorruption(record.text_latin);
+  if (corruption) {
+    errors++;
+    console.error(`✗ ${file}: ${corruption}`);
+    continue;
+  }
+
+  const marks = splitPerformanceMarks(record.text_latin);
+  if (marks.text !== record.text_latin) {
+    errors++;
+    console.error(
+      `✗ ${file}: el texto aún contiene marcas de ejecución ` +
+        `(${marks.repeat ? `repetición "${marks.repeat}"` : "fórmula salmódica"})`,
+    );
+    continue;
+  }
+
+  if (!/^\s*\((?:[cf]b?[1-4]|cb?[1-4])\)/.test(record.gabc.replace(/^[\s\S]*?^%%\s*$/m, "").trim())) {
+    // Sin clave al principio, Exsurge dibuja con una por defecto y la pieza
+    // puede sonar en otro ámbito del que le corresponde.
+    console.warn(`· ${file}: el gabc no empieza por una clave explícita`);
+  }
+
   byStatus[record.review_status] = (byStatus[record.review_status] ?? 0) + 1;
 }
 

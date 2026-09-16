@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Laudáte Dóminum, quia benígnus est: psálite nomini ejus, quóniam suávis est: ómnia quæcúmque vóluit, fecit in cælo et in terra.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) Lau(fc~)dá(ef)te(f) (;3) (hhvGF//geec) (::) Dó(ef)mi(fgf)num,(efe) (;) qui(fe)a(f) be(fh)ní(hihh)gnus(f) est:(e!fhGE/gf) (:) psá(f/hih)li(h)te(f) no(fhhv)mi(f)ni(eh) e(ghggf~)jus,(gf) (;) quó(f!ghGF)ni(fe)am(f) su(h)á(hihh)vis(fe) est:(e/fgffe) (:) ó(ef/hhi)mni(ih)a(hih) (;) quæ(f)cúm(hhi)que(h) vó(hih)lu(hf)it,(fiHG) (;) fe(hghf)cit(fe//fgFEf) (;) in(f) cæ(fe)lo(eiHG) (;3) et(hghf) in(fe//fgFEf) ter(fg/hgh)ra.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

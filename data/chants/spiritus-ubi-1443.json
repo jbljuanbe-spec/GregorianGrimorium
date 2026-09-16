@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Spíritus * ubi vult spirat: et vocem ejus audis, allelúia: et nescis unde véniat, aut quo vadat. allelúia, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) SPÍ(de)RI(f)TUS(efED) *(,) u(d)bi(e) vult(efED) spi(efED)rat:(ed) (;) et(f) vo(h)cem(h) e(i)jus(g) au(h)dis,(f) (,) al(f)le(e)lú(fhg)ia:(f) (:) et(f) ne(i)scis(h) un(g)de(i) vé(h)ni(gf)at,(f) (;) aut(h) quo(hf!gw!hvGF) va(ef!gvFEf)dat.(fe) (:) al(gi)le(i)lú(j)ia,(i) (,) al(i)le(hg)lú(h)ia,(f) (,) al(h)le(ghf!gw!hvGF)lú(ef!gvFEf)ia.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

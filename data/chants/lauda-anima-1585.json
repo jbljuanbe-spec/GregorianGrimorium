@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Lauda * ánima mea Dóminum: laudábo Dóminum in vita mea: psallam Deo meo, quámdiu ero, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) LAU(ce/ge/ghGF/fvED)DA(fd/efe) *(,) á(fd)ni(fe)ma(f) me(hgge)a(fhGF/ghg) Dó(e)mi(egff)num:(eef) (:) lau(ed~)dá(ghg)bo(h) Dó(ixhjh/ij)mi(g)num(fgFE) (;) in(f) vi(fe/f!gwh)ta(hhg) me(ge/ghffe)a:(efED/eef) (:) psal(ce/gf)lam(ffffc) De(d!ewf!gvFE)o(f) me(ixfh!ivHG)o,(gh) (;) quám(f)di(ixef!hig)u(gf) e(f)ro,(d!ewf/fvED) (;) al(ce/gf)le(ffffc//fffe//hg/hffe)lú(egFE)ia.(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

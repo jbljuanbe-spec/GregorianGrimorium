@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Meménto verbi tui servo tuo, Dómine, in quo mihi spem dedísti: hæc me consoláta est in humilitáte mea.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Me(f)mén(gh)to(hg) (::) ver(h)bi(hg) tu(h)i(hf) (;) ser(g)vo(gd) tu(f)o,(f) (;4) Dó(f)mi(egffv)ne,(fe) (:) in(f) quo(ghg) mi(h)hi(gf) spem(gh) de(g)dí(egffv)sti:(fe) (:) hæc(g) me(gh/iih) con(h)so(hg)lá(h)ta(ghGFEf) est(fe) (;) in(fe) hu(d)mi(efe)li(d)tá(e!fg)te(f) me(egff)a.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

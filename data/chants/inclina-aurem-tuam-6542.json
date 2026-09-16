@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Inclína aurem tuam: accélera ut érípias nos.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) In(d)clí(fgf)na(fd) (::) au(fe)rem(f) tu(ghGFgh)am:(h) (;) ac(f)cé(h)le(ghGFEf)ra(fe) (;) ut(f) é(f)rí(ghGF)pi(g)as(ghGF//ghggv) nos.(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

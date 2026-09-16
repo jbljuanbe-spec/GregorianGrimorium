@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Laetámini * in Dómino, et exsultáte justi: et gloriámini omnes recti corde, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) LAE(d)TÁ(d!ewf!gvFD)MI(d!ewfc)NI(c) *(,) in(fg) Dó(gj!kvJH)mi(h)no,(h/jjj/hih) (;) et(fh!jvHG) ex(gf)sul(fg)tá(gjIHhg)te(gf/gff/ded) (,) ju(ixdffff/highvFD)sti:(dfddc) (:) et(dffff/gfg) glo(dfdf)ri(cd)á(df)mi(fhg)ni(g) (;) o(f/hjg)mnes(f/hjGFEDewf) (,) re(d!ewf/gf)cti(fff/hg/hf) cor(fg//ffg/ffgvFE)de,(d) (:) al(f)le(d!ewf/gf)lú(fff/hg/hf)ia,(f) (;) al(fg)le(f)lú(ffg/ffgvFE)ia.(d//fffd/fff/ded) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

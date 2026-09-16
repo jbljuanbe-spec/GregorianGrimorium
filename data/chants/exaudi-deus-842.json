@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "EXáudi Deus * oratiónem meam: et ne despéxeris deprecatiónem meam: inténde in me, et exáudi me.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) EX(f)áu(f_e/gff)di(e) De(fv.dfe)us(e_f) *(,) o(ed)ra(e)ti(f!gwh)ó(high)nem(f_ehvvGF'gw!hvGF) me(ef!gvFE'f)am:(fe..) (:) et(ed~) ne(e) de(fhg)spé(high)xe(feh)ris(h.) (,) de(hihh)pre(ge)ca(f)ti(hg)ó(hv.fih)nem(gh/ih/iji) me(gihh)am:(hg..) (:) in(e)tén(eg)de(gig/h_i) in(fe~) me,(gxev.dgFE.) (,) (df'!hv//i'h/ihhe//hhhvF'De.) (;) et(d!e'f) ex(e/fhg)áu(hvvF'Ef_ehvvF'Ef_g)di(efe___) me.(e.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

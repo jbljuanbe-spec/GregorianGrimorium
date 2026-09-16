@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Sacerdótes * Dómini incénsum et panes ófferunt Deo: et ídeo sancti erunt Deo suo, et non pólluent nomen ejus, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) SA(f)CER(d!ewf)DÓ(f)TES(e!fg) *() Dó(ixghf//ih/igh)mi(e)ni(egf/gffe) (;) in(f)cén(fgf)sum(ff) et(df~) pa(fff/ghg/gef)nes(ed) (,) óf(gh)fe(g/jjj)runt(hjh/hg) De(gh)o:(hg) (:) et(ixgih/ivGF) í(g)de(f)o(fe) (,) sanc(e!fg~)ti(g) e(ixhig)runt(ghFE) (;) De(gh)o(gjh) su(ghf/ghg)o,(gvFD//ef/gfgd) (:) et(df/gef) non(f) pól(ixef/hiHG)lu(hg/gfg)ent(gd) (,) no(df/gef)men(f) e(fgf)jus,(f) (;) al(f!gwhg~)le(ixhf/ih/igh)lú(e)ia.(egf/gf/fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

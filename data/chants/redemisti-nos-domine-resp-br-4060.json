@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes 1957",
   "text_latin": "Redemísti nos, Dómine, *In sánguine túo. ℣.Ex ómni tríbu, et língua, et pópulo, et natióne. ℣.Glória Pátri, et Fílio, et Spirítui Sáncto.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) RE(f)de(f')mí(g)sti(f_e) nos,(dc) Dó(f)mi(fgd)ne,(ixf!gw!hih.) *(;)In(h) sán(gh)gui(f)ne(ixf.g!hwiHG'F) tú(ghf)o.(f.) <sp>V/</sp>.(::)Ex(f) óm(f)ni(f) trí(g)bu,(f') et(f) lín(gh)gua,(f'_) (,)et(f) pó(g')pu(f)lo,(f') et(f) na(f_e)ti(dc)ó(fgd)ne.(ixf!gw!hih.) <sp>V/</sp>.(::)Gló(f)ri(f)a(f) Pá(gh)tri,(f'_) (,)et(g) Fí(f_e)li(dc)o,(c.) (;)et(dc~) Spi(f)rí(ixg!hwi)tu(ih)i(gh) Sánc(g_f~)to.(f.) (::)",
   "transcriber": "MarkM",
   "commentary": null,

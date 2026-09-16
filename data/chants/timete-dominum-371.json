@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Timéte * Dóminum omnes sancti ejus: quóniam nihil deest timéntibus eum. ℣. Inquiréntes autem Dóminum non defícient omni * bono.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) TI(d_c)mé(d)te(fef.) *() Dó(g)mi(fe)num(d./fgF'D//fvED'fddc.) (;) o(ixf!gwh'!iv)mnes(h) san(hjhhg~)cti(gfgd) e(fg)jus:(gv.) (,) (fg!hjGF'fvED'fddc.) (:) quó(ixf!gwh'!iv)ni(h)am(h) ni(jj)hil(ixhih) de(gfg)est(ded.___) (;) ti(d)mén(d!g'h~)ti(g)bus(g) e(gf/ghd)um.(ddc/da..) (,) (cd!fvvDC'd!ff/gff/ded.) <sp>V/</sp>.(::) In(d'/fddc~)qui(d)rén(ded/ixhi~)tes(hhg/h_f/eg/hgh/fgFD.cd/fd) (,) (cd!ff/g.h!iw!jvIH.) (;) au(ixhf/gh!jjh/jjvH'GhiG'F,ghfff'dfED'//e!f'g~)tem(gh) Dó(gh)mi(g)num(fgFE.) (;) non(fg) de(g_e)fí(fge)ci(fgF'EfvED'e)ent(ed..) (;) o(d!ffd/fff)mni(fg) *() bo(g_f/hgh)no.(hhf.) (,) (h_ghvFDgff'fvEC//ddc/da..) (,) (cd!fvvDC'd!ff/gff/ded.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

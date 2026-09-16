@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Pater, * cum essem cum eis, ego servábam eos, quos dedísti mihi, allelúia: nunc autem ad te vénio: non rogo ut tollas eos de mundo, sed ut serves eos a malo, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) PA(fgf)ter,(eef.) *(,) cum(d) es(g/h'i)sem(h) cum(hg~) e(hjI'G)is,(hg/hih.) (;) e(h)go(ghg) ser(ge~)vá(fg)bam(g) e(gh)os,(g.) (,) quos(fe) de(d)dí(e)sti(d) mi(ded)hi,(c.) (;) al(de~)le(egF'E/gvFE)lú(egff)ia:(fe..) (:) nunc(eef) au(dgf)tem(eef.) ad(ed~) te(gh) vé(jij)ni(hig)o:(g.) (:) non(h) ro(ghg)go(e) ut(f) tol(ix/h_i)las(g) e(gh)os(g) de(f) mun(fe/fvE~D~)do,(ed..) (;) sed(d) ut(f) ser(ix/h_i)ves(g) e(ghg___)os(f) a(f) ma(fe)lo,(d.) (;) al(f)le(f_d)lú(ed~)ia,(c.) (,) al(de~)le(egF'E/gvFE)lú(egff)ia.(fe..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

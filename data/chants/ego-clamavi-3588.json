@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Ego clamávi, * quóniam exaudísti me Deus: inclína aurem tuam, et exáudi verba mea.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) E(fg)GO(gh) cla(h)má(hfg)vi,(ge/fd) *(;) quó(fg)ni(g)am(gh) ex(g)au(hi~)dí(iij)sti(hk) me(k) De(ij)us:(ih) (:) in(j)clí(jl)na(klk) au(ji~)rem(j) tu(klKJ)am,(jh) (;) et(ji) ex(j)áu(ki/jk~)di(hg) (,) ver(fvED//geg)ba(g) me(ghg)a.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

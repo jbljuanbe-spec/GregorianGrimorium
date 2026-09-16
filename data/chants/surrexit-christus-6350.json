@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Surréxit Christus, et illúxit pópulo suo, quem redémit ipse sánguine suo.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Al(cd~)le(d!efeed)lú(dv//gge//fgFEe)ia.(d) (::) (fg!hvGE//gvFED) (;) (hvGFED) (;1) (fe/fgFED) (;) (ce/ge//fvED//eed) <sp>V/</sp>.(::) Sur(cd)ré(dv//efe//ddce//fggf)xit(ed//fe) Chri(ded)stus,(d) (:) et(d) il(dh)lú(ixivHG//hvGE)xit(fvED) (;) pó(c)pu(e!fg)lo(gvFED//fgFEf) su(d!ef)o,(ed) (:) quem(h) re(h)dé(g)mit(h) i(jk//jkj/hih//gj;3ijh//iih)pse(h) (;3) sán(hjh//jjik;6kvJI)gui(h!ij)ne(ih) (::) su(de!fg)o.(ge//gvFED) (;) (ce/ge//fvED//eed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

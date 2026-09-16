@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Lætábitur justus in Dómino, et sperábit in eo, et laudabúntur omnes recti corde, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Læ(d)tá(efef)bi(e)tur(dc) (::) ju(ded)stus(d) (;1) in(df) Dó(fe//hhe/fe)mi(d!efEDe)no,(ed) (:) et(d) spe(f)rá(hjIH)bit(hihhv/fgf) (;4) in(gxg) e(fge)o,(ed) (:) et(de) lau(d)da(ef)bún(evDC/efeed~)tur(ed) (;) o(df)mnes(ehhi) re(h)cti(gxhf//ghGFE//fgFE) (;1) cor(d!efEDe)de,(ed) (:) al(df)le(hhv)lú(hi)ia,(hi//kvJH//jiih) (;) al(df)le(ehhf//gxghGFE/fgFE)lú(d!efEDe)ia.(ed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

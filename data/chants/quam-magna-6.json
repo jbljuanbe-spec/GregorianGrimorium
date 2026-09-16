@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Quam magna * multitúdo dulcédinis tuae, Dómine, quam abscondísti timéntibus te! T. P. Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) QUam(hjij) ma(h)gna(gvFE'/fhhfh.) *(,) mul(f)ti(fj)tú(ji/jhhf/hji)do(hg..) (;) dul(h)cé(hi)di(h)nis(hg) tu(hvG'FE)ae,(f) Dó(ehg)mi(hg)ne,(g.) (:) quam(g) ab(e)scon(fg~)dí(ge/f!hh/ijIH'/hvG'E/f./ehg/hhg)sti(g.) (;) ti(g)mén(gvFE/f_dd'db//de/fef)ti(e)bus(cedd) te!(dc..) <i>T. P.</i>(::) Al(ddd)le(beD'C//de/fef)lú(cedd)ia.(dc..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

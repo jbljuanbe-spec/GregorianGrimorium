@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Gustáte * et vidéte, quóniam suávis est Dóminus: in aetérnum misericórdia ejus, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) GUS(g)TÁ(hj)TE(j) *(,) et(j) vi(j)dé(jjj)te,(h) (,) quó(h/jjj)ni(ghGFEf)am(fe) su(f)á(e!fh)vis(h) est(hggf/ghg) Dó(e)mi(egff)nus:(fe) (:) in(f) ae(e!fg)tér(ghGFh)num(h) (,) mi(h)se(hv//ghFD)ri(f)cór(fh)di(g)a(hggf/ghg) e(egff)jus,(fe) (;) al(f)le(e!fg)lú(gf/hg/hf/gvFE)ia.(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

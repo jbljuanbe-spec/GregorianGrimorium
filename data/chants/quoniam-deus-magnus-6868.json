@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Quóniam Deus magnus Dóminus: et rex magnus super omnes deos.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Al(ed~)le(e)lú(e!fhhv//iji~)ia.(i) (::) (h!ijh) (;6) (ji//jiih) (;) (ijhhvGE//ffe) (;) (fhhv//ijiig//hffe) (;) (fh/ijh//hvGFE//ffe) <sp>V/</sp>.(::) Quó(ef)ni(e)am(e) De(eh)us(h!ij) (;6) ma(ikkv//kvIHG;3h!ijIH//ih//ji)gnus(i) (;) Dó(ie//fhhe;4fheed;fh//gh//jvIH//hvGF)mi(hf//ghGFEf)nus:(fe) (:) et(eh) rex(h!ij) ma(iv//h!ijIH//ivHG;ijIHi)gnus(i//jh//ivHG/hg) (;) su(h)per(gh/ij) o(ji//jvHF;ivHGE//fhgh)mnes(hv//ivHGh) (;) (fh//ihhvGFE/fe) (::) de(g!hi)os.(i) (;6) (h!ijh//kvJI//jvIG) (;3) (hvFE//fgffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

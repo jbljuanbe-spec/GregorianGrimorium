@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Sedébit Dóminus Rex in ætérnum: Dóminus benedícet pópulo suo in pace.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Se(cd)dé(f)bit(dc) (::)\r\nDó(fg)mi(h)nus(gf) Rex(fgf) in(fe) æ(ixgig!hi)tér(fgf)num:(f) (;)\r\nDó(fg)mi(f)nus(f) be(f)ne(f)dí(ixfg!hi)cet(h) (;3)\r\npó(hj)pu(g)lo(fg) su(gf)o(fgff/ded) (;)\r\nin(fe/ggh) pa(fgf)ce.(f) (::)",
   "transcriber": "Antonio González Fernández",
   "commentary": null,

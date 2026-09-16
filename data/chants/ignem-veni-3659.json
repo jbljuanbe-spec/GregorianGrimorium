@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Ignem * veni mítere in terram: et quid volo, nisi ut accendátur?",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) I(fhg)GNEM(ghFE/fvEDCdc) *(,) ve(ff)ni(ffg) mí(fd)te(f)re(gh) in(h) ter(hj!kvJH)ram:(h) (:) et(h) quid(ghg) vo(ef)lo,(ghg) (;) ni(hv///fhg/hvFED)si(dfddc) (,) ut(f) ac(g)cen(ed/fgFEf)dá(ded)tur?(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

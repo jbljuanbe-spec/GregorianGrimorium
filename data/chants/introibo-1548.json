@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Introíbo * ad altáre Dei, ad Deum qui laetíficat juventútem meam.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) IN(gj)TRO(j)Í(jhjvIG)BO(g) *(,) ad(gh/ji) al(i)tá(i!jk)re(kh) De(hkj)i,(ikjj/ghg) (:) ad(g) De(gh!iwj)um(j) qui(hi) lae(hg)tí(h!iwj)fi(ghGFg)cat(gf) (;) ju(g)ven(hgh)tú(gh/ih!iwj)tem(hih) me(gh!ivHGh)am.(hg) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

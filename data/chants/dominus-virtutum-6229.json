@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Dominus virtútum ipse est rex glóriæ.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Do(g!hj)mi(j)nus(ivHG//hjjhj) (::) vir(j)tú(lkljjh//jlk)tum(ji) (;) i(jk)pse(jvIHGh) est(gji//jji) (;) rex(ig/hjjv//klKI//jvIGh) (;3) (gji//jji) (;) gló(jvIHG/he//fefd;1fg/hhg)ri(egffv)æ.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

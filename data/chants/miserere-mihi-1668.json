@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Miserére mihi * Dómine, secúndum magnam misericórdiam tuam: dele Dómine iniquitátem meam.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) MI(g)SE(h!iwj)RÉ(j)RE(ijHG) mi(hj)hi(ji) *(,) Dó(jjj)mi(hg)ne,(gggjvIHig) (;) se(g)cún(g!jjj)dum(hg~) ma(hv//f!gh)gnam(gh) (,) mi(gf)se(g)ri(hj)cór(jjjh~)di(j)am(ij/kj/klk) tu(ikjj)am:(ji) (:) de(g!jjj)le(g) Dó(gh/ihi)mi(g)ne(egff/ded) (;) i(h)ni(h)qui(h)tá(hg)tem(hih~) me(gh!ivHGh)am.(hg) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

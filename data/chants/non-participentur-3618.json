@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Non participéntur * sancta, donec exsúrgat póntifex in ostensiónem et veritátem.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) NON(ff) par(fhg/hf)ti(dg)ci(gvFE)pén(gh)tur(h) *(,) san(ixhv//gihivGFfg!hiHGih)cta,(h) (;) do(jj)nec(gh) ex(f)súr(e!fg~)gat(g) pón(ixg/jjvHG//hiHGh)ti(f)fex(ff/hg/ihhf) (:) in(f) o(ef!ghg)sten(gh)si(ghGF)ó(gh)nem(h/jjjvIH) (,) et(hg) ve(eef)ri(d!ewf)tá(fff/ghGDfffhvGFgvFE)tem.(e)  (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

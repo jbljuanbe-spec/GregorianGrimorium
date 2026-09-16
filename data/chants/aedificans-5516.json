@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Ædíficans Jerúsalem Dóminus: dispersiónes Israélis congregábit.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Al(dc~)le(f)lú(ixgfi)ia.(h) (::) (iji//hig//f!gh//jhhg) (;) (fhg//dfddc) (;) (ffv//ghGE//feed) <sp>V/</sp>.(::) Æ(d)dí(fddc//fg)fi(ixfv//hg/hi)cans(h) (;) Je(h)rú(hv//jvHGF//eg/hgh)sa(fg)lem(fe) (;1) Dó(d)mi(d!efEDe)nus:(ed) (:) di(d)sper(dc~)si(d)ó(df//efd//c/dfd;hhggf//hjh)nes(h) (;) Is(h)ra(hvGE/fd//fvEC;eg/hvGEf)é(ed)lis(d) (::) con(dc~)gre(dffv//ghf)gá(ixgi)bit.(h//ghFD) (;1) (ffv//gffv/ded) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

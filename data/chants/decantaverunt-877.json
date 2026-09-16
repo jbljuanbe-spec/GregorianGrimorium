@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Decantavérunt, * Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DE(de)can(c)ta(d)vé(fg)runt,(hf/ghhg.) *(,) Dó(fh)mi(g)ne,(fe) no(fh)men(hg) san(h)ctum(fg~) tu(gg)um,(d.) (:) et(d) vic(fe)trí(f!g'h)cem(g) ma(g)num(g) tu(gfg)am(dec.) (,) lau(fg~)da(ghf/gvFE)vé(d!ewfef)runt.(ed..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

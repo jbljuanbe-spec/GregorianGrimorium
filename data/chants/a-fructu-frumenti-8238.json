@@ -9,6 +9,8 @@
   "mode_variant": "f",
   "version": "Vatican",
   "text_latin": "A fructu fruménti, * vini et ólei sui multiplicáti sunt.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) A(d) fruc(dc)tu(f) fru(g)mén(fh)ti,(h) *(,) vi(h)ni(g) et(ef) ó(g)le(f)i(fe) su(de)i(ddc) (,) mul(ef)ti(g)pli(fe)cá(d)ti(d) sunt.(d) (::)",
   "transcriber": "Mateusz Ciesiółka",
   "commentary": null,

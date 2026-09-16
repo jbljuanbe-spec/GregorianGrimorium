@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Bráchia * peccatórum conteréntur, confírmat autem justos Dóminus",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) BRÁ(f!gh)CHI(g)A(g) *(,) pec(g)ca(g)tó(gh/ji)rum(ih/jkj) (,) con(ij)te(hgh)rén(ixhv//giHF)tur,(f) (:) con(fg~)fír(e!fg)mat(g) au(gv//fhg)tem(g) (,) jus(gh/ih!iwj)tos(hih) Dó(g)mi(gh!ivHGh)nus(hg) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

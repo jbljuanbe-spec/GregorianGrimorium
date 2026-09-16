@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Pascha nostrum immolátus est Christus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c2) Al(c)le(c)lú(c!df;1dg//ef)ia.(g) (::) (eg//hghg) (;3) (hg//fgf/ddc) (;) (cg//hghg//hvGE) (;4) (fgfgf/ddc) (;) (gv//cdcdb) (;1) (dfdeddc) <sp>V/</sp>.(::) Pa(f)scha(e) no(ghgh)strum(g//hg//he) (;) (f!ghg//he//fgffe) (:) im(g)mo(g)lá(gj//kvJI//jvIH//iig;jkJI//jvIH//iig;3hvGFE/fd;e!fg//hig//fgf//ddc;ce//ge//geg)tus(e) (;4) (gf/dc//evDC/dc) est(c) (::) Chri(c!df//dgeg)stus.(g) (;3) (cdcdb) (;) (dfd//eddc) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

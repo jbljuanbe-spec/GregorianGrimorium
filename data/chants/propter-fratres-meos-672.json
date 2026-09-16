@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Propter * fratres meos et próximos meos, loquébar pacem de te. ℣. Custódi innocéntiam, et vide aequitátem: quóniam sunt relíquiae hómini * pacífico.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) PRop(ffg)ter(f) *() fra(f)tres(gh~) me(h_f/gvFED.g_d/fg)os(f) (;) et(f) pró(hf/gh!jj/kjk)xi(ij)mos(hg) me(h!iwj)os,(ih..) (;) lo(j)qué(j)bar(ij) pa(hhg)cem(h) de(hggfg) te.(f!gh!jv.klJH.) (,) (jjvH'GixhiGF'gwhg/hjhh/fgf.) <sp>V/</sp>.(z0::c3) Cus(d)tó(fe)di(eh) in(h)no(h)cén(h)ti(h)am,(hih__//i_h/jvHF.) (,) (h_g/ijh'__ jvIH'jvIH'//hvGF.) (:) et(h) vi(ihh'hvGE'/f!hhgxihhvG'FEfg)de(f.) (,) ae(gxeg)qui(g)tá(gg//gg/hvG'FE'fw!gvF'ED'e)tem:(ed..) (:) quó(f)ni(d)am(fh) sunt(h) re(h)lí(i_h//ghG'F//i_h//hhhvFE/fe/f!hh/ivHGh')qui(h)ae(h.) (;) hó(hh)mi(h)ni(h) *() pa(h)cí(ihhf/hh/ij)fi(hg)co.(hhhf/hhhf/hhf.) (,) (de/f!hh/ijghf./gxegFD.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

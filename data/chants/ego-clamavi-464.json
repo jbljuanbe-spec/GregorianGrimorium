@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Ego clamávi, * quóniam exaudísti me Deus: inclína aurem tuam, et exáudi verba mea.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) E(fg)go(gh) cla(h)má(hfg)vi,(ge/fd.) *(;) quó(fg)ni(g)am(gh) ex(g)au(hi~)dí(iij)sti(hk) me(k) De(ij)us:(ih..) (:) in(j)clí(jl)na(klk) au(ji~)rem(j) tu(klK'J)am,(jh__) (;) et(ji) ex(j)áu(k_i/jk~)di(h_g) (,) ver(fvE'D//geg)ba(g) me(ghg___)a.(g.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

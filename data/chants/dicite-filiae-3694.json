@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Dicite * fíliae Sion: Ecce rex tuus venit tibi mansuétus. ℣. Non erit tristis, neque turbuléntus: non clamábit, nec audiétur vox ejus * foris.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DI(ffg)CI(f)TE(f) *(,) fí(ghgh)li(gf)ae(ffhg) Si(f)on:(fffvDC/dff//hg/hggf) (:) Ec(ixhih)ce(hg) rex(gj) tu(ixkjjhi)us(ih) (,) ve(fh)nit(gf!gw!hvGFg) ti(ghg)bi(g) (;) man(hg~)su(ixhi)é(hf/hvGFg)tus.(ixf//hiGF/gwhg/hjhh/fgf) <sp>V/</sp>.(z0::c3) Non(hh) e(h)rit(h) tri(hi)stis,(hgh) (,) ne(h)que(h) tur(h)bu(h)lén(gxhihhhf//gvFE/fvEDf/hhvFEe)tus:(e) (:) non(h) cla(h)má(ih/i!jwkk)bit,(klh) (;) nec(ih) au(h)di(h)é(hj!kvIG/hvFE//f!gwhhi)tur(h) (,) vox(hh) e(hih)jus(h) *(;) fo(fh!ijHG)ris.(hhhf/hhhf/hhf) (,) (de/f!hh/ijghf//gxegFD) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

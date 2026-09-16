@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Qui vult veníre post me, * ábneget semetípsum: et tollat crucem suam, et sequátor me.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) QUI(d) vult(f) ve(fe)ní(gh)re(ixih) post(fg) me,(fvED) *(;) áb(ixf!gwhg/hih)ne(g)get(f) se(fe)me(d)tí(f!gh)psum:(e) (:) et(h) tol(ghg)lat(ef) cru(ghgh)cem(fd) su(gef)am,(f) (;) et(eg/hjh) se(fg)quá(ef)tor(d!ew!fvEC) me.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

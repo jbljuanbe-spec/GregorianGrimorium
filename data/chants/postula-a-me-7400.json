@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Póstula a me, et dabo tibi Gentes hereditátem tuam, et possessiónem tuam términos terræ.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Pó(c)stu(dfe)la(f) (::) a(e/fgFEfvED) me,(fd/efe) (;)\r\net(fd~) da(dfe)bo(fg) ti(g)bi(gefvEDgvFE) Gen(hvGFgvFE)tes(e) (;)\r\nhe(e)re(e)di(e)tá(egf/gfffd)tem(dgFE) (;4) tu(hghfhggd)am,(dgFEfgFD) (:)\r\net(d) pos(d)ses(df/gef)si(f)ó(ffixhih/ihhg)nem(gh/igh) (;4) tu(ef!ghhg)am(gf/ghhg) (;)\r\ntér(gd)mi(dgFE)nos(e) (;1) ter(eg!hvGFghg)ræ.(egf/gffe) (::)",
   "transcriber": "Antonio González Fernández",
   "commentary": null,

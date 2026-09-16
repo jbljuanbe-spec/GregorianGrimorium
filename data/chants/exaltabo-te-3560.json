@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣ Exaltábo te, Deus meus Rex, et benedícam nómini sancto tuo Jesu, in saéculum et in saéculum * saéculi.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "AL(c3d)LE(df!hhghvGF)LÚ(e!hhhvGFg!hi)IA.(hiHGF) *(;) (hgh/fihi//hjijvIHhvGFEhv,fd/fehv//ihhvGFfe,fgf/hhivFDeed) <sp>V/</sp>(::) Ex(f)al(d)tá(f)bo(h) te,(i) (,) De(h)us(i) me(h)us(ig/hiHGhvGFg) Rex,(gf) (;) et(fe) be(h)ne(ij)dí(jvIHhvGFijIH)cam(ih) (,) nó(fihi)mi(jiih/ii/hhhvGE//fe/f!gw!hvGFg)ni(gf) san(fg~)cto(f) tu(fg)o(f) (,) Je(fe/f!hhhf/heed)su,(de) (;) in(efefvEDef) saé(h)cu(h/iih)lum(h) (;) et(d) in(de!hhghvGF) saé(e!hhhvGF)cu(g!hi)lum(hiHGF) *(;) saé(hgh/fihi//hjijvIHhvGFEhv,fd/fehv//ihhvGFfe,fgf/hhivFD)cu(de/ed)li.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

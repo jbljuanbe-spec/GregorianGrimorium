@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Alleluia ℣. Confitémini Dómino, quóniam bonus: quóniam in saéculum misericórdia * ejus. Non repetitur Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(f)LE(g)LU(h!jjj)IA(jki/jvHG) (,) (ih/ikIHG/hihhg) <sp>V/</sp>.(::) Con(g)fi(g)té(j)mi(j)ni(jjjvHG) Dó(ig/hjij)mi(ih)no,(j) (,) quó(j)ni(h!iwj)am(i/jkhhg) bo(hvGF//gh!iw!jvIH)nus:(j) (:) quó(j)ni(h)am(h!iw!jvIH) in(gf~) saé(g/hfg//f!gh!jvvIHiw!jvIH)cu(gh!ivHGh)lum(hg) (;) mi(hf)se(g)ri(h)cór(h!iwj)di(hg)a(g) *(,) e(hf/gh!jjjg//hjij)jus.(jki/jvHG) (,) (ih/ikIHG/hihhg) (::) () <i>Non repetitur</i> Allelúia.()",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

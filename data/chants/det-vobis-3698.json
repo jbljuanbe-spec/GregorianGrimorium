@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Det vobis Deus * idípsum sápere in altérutrum: ut unánimes uno ore honorificétis Deum nostrum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DET(e!gh) vo(hiHG)bis(gv//ggg//hihi) De(ghED,de/ghg//hi/ki/jkh)us(h) *(;) i(jj)dí(ji)psum(jjjh) sá(hjjh)pe(h)re(h) (,) in(h) al(gh)tér(hjjjjh//kjjh)u(hiHG)trum:(hg) (:) ut(h!iwj) u(j)ná(j)ni(jvIH)mes(h) (,) u(g)no(h) o(jij)re(j) (,) ho(j)no(j)ri(kvJH)fi(ji)cé(jv//hig)tis(egeg) (;) De(d!eg)um(e/ghg//ikjkvJIH) no(h)strum.(h!iwjjvIHiih) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

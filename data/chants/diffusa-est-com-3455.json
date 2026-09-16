@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Diffúsa est * grátia in lábiis tuis: proptérea benedíxit te Deus in aetérnum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DIF(d)FÚ(ffg)SA(f) est(f) *() grá(ghgh)ti(g)a(fgFD) (,) in(d) lá(dgf/gh)bi(f)is(f) tu(fg!hvGFg)is:(gf) (:) prop(fg)té(gjj)re(hjggfg)a(gf) (,) be(fg)ne(f)dí(fg)xit(f) te(f) De(d!ew!fvEDCd)us(dc) (;) in(ffe) ae(ixgh!jvHGhw!ivHG)tér(fg!hvGFg)num.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

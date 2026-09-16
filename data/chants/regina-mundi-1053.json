@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Regína mundi * digníssima, María Virgo perpétua, intercéde pro nostra pace et salúte, quae genuísti Christum Dóminum Salvatórem ómnium. T. P. Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) RE(dc)gí(d)na(fe) mun(fgff)di(d_c) *(,) di(d!ewf/ge/f_e)gnís(d)si(de!fvED'e)ma,(ed..) (;) Ma(dc)rí(fh)a(ghg) Vir(h)go(gf) per(gh)pé(f)tu(fgf___)a,(f.) (:) in(f)ter(hg~)cé(hji/jhhg)de(g.) (,) pro(f) no(gh)stra(g) pa(fe)ce(d.) et(fe~) sa(fg)lú(deD'C)te,(c.) (:) quae(dg) ge(fe)nu(dc)í(d)sti(c) Chri(d)stum(dc) Dó(f)mi(gf)num(f.) (,) Sal(gh)va(g)tó(fe)rem(fgff) ó(d)mni(cd)um.(d.) (::) <i>T. P.</i>() Al(de)le(d)lú(d_c!/d!ewf)ia.(ed..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,
