@@ -833,6 +833,111 @@ main {
   color: var(--ink-soft);
 }
 
+/* ---------- Repertorio ---------- */
+
+.repertoire-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.repertoire-picker,
+.repertoire-name {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.repertoire-name {
+  margin-top: 1.5rem;
+  max-width: 30rem;
+}
+
+.repertoire-picker select {
+  font: inherit;
+  font-size: 0.86rem;
+  padding: 0.35rem 0.5rem;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.repertoire-items {
+  list-style: none;
+  margin: 2rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 2.5rem;
+  counter-reset: pieza;
+}
+
+.repertoire-head {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.repertoire-head > div:first-of-type {
+  flex: 1;
+  min-width: 0;
+}
+
+/* El número de orden es información: es el orden en que se canta. */
+.repertoire-order {
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  width: 1.7rem;
+  height: 1.7rem;
+  border: 1px solid var(--line-strong);
+  border-radius: 2px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+}
+
+.repertoire-head .incipit {
+  display: block;
+  font-family: var(--chant);
+  font-size: 1.2rem;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.repertoire-head .detail {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+
+.repertoire-actions {
+  display: flex;
+  gap: 0.25rem;
+  flex-shrink: 0;
+}
+
+.repertoire-note {
+  font: inherit;
+  font-size: 0.86rem;
+  width: 100%;
+  max-width: 34rem;
+  padding: 0.4rem 0.6rem;
+  margin-bottom: 0.6rem;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius);
+}
+
+.repertoire-note::placeholder {
+  color: var(--ink-faint);
+}
+
 /* ---------- Impresión ---------- */
 
 @media print {
@@ -845,8 +950,27 @@ main {
   .downloads,
   .search-field,
   .filters,
-  .result-bar {
+  .result-bar,
+  .repertoire-bar,
+  .repertoire-actions,
+  .repertoire-name {
     display: none !important;
+  }
+
+  /* La anotación del director sí se imprime: es el recado para el coro. */
+  .repertoire-note {
+    border: 0;
+    padding: 0;
+    background: none;
+    font-style: italic;
+  }
+
+  .repertoire-items {
+    gap: 1.5rem;
+  }
+
+  .repertoire-items > li {
+    break-inside: avoid;
   }
 
   body {

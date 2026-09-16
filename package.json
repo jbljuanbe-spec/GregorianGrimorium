@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/build-exsurge.mjs && node scripts/build-search-index.mjs",
+    "prebuild": "node scripts/build-exsurge.mjs && node scripts/build-search-index.mjs && node scripts/build-chant-api.mjs",
     "build": "next build",
     "start": "npx serve out",
     "test": "node --test \"scripts/**/*.test.mjs\" \"lib/**/*.test.mjs\"",

@@ -11,3 +11,4 @@ public/search-index.json
 *.log
 .DS_Store
 .exsurge-entry.mjs
+public/chants/

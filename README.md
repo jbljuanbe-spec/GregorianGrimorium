@@ -33,6 +33,14 @@ completo y partitura dibujada en el cliente.
 Todos los registros están en `needs_review`: la importación nunca marca nada
 como verificado. Ver [`docs/PLAN.md`](docs/PLAN.md).
 
+## Repertorios
+
+Un director puede reunir las piezas de una misa en un repertorio privado,
+ordenarlas, anotarlas, imprimirlas de una vez y pasarlas al coro con un
+enlace. No hay cuentas ni servidor: el repertorio vive en el navegador y el
+enlace lleva el contenido codificado en su fragmento. Ver
+[`lib/repertoire.mjs`](lib/repertoire.mjs).
+
 ## Despliegue
 
 Exportación estática, sin servidor ni base de datos. Ver

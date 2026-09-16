@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import AddToRepertoire from "@/components/AddToRepertoire";
 import ChantScore from "@/components/ChantScore";
 import {
   getChant,
@@ -134,6 +135,8 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
         </div>
 
         <aside>
+          <AddToRepertoire chantId={chant.id} />
+
           {chant.bibliography.length > 0 ? (
             <div className="panel">
               <h2>Ediciones impresas</h2>
