@@ -2,14 +2,31 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import ChantPlayer from "@/components/ChantPlayer";
+import PitchPipe from "@/components/PitchPipe";
 import { gabcForRendering } from "@/lib/gabc.mjs";
 import { readPerformance } from "@/lib/performance.mjs";
-import { absolutePitches, clampDo, DO_RANGE, midiToName, suggestDo } from "@/lib/pitch.mjs";
+import { absolutePitches, midiToName, suggestDo } from "@/lib/pitch.mjs";
 import { loadExsurge, renderScore } from "@/lib/exsurge-render";
 
 const ZOOM_STEPS = [1, 1.25, 1.6, 2];
 
-export default function ChantScore({ gabc, filename }: { gabc: string; filename: string }) {
+/**
+ * La mesa de trabajo de una pieza: la partitura al centro y los controles de
+ * ensayo al lado. Ambas columnas comparten el tono y el modelo de ejecución,
+ * así que viven en el mismo componente; el contenido de lectura llega ya
+ * renderizado del servidor para que siga siendo indexable.
+ */
+export default function ChantWorkspace({
+  gabc,
+  filename,
+  header,
+  children,
+}: {
+  gabc: string;
+  filename: string;
+  header: React.ReactNode;
+  children: React.ReactNode;
+}) {
   const sheet = useRef<HTMLDivElement>(null);
   const surface = useRef<HTMLDivElement>(null);
 
@@ -19,8 +36,7 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
   const [error, setError] = useState<string | null>(null);
 
   // Alturas y duraciones salen de la notación, no del dibujo: Exsurge no
-  // aplica las alteraciones sueltas ni expone duraciones. Ver
-  // lib/performance.mjs y docs/PITCH.md.
+  // aplica las alteraciones sueltas ni expone duraciones. Ver docs/PITCH.md.
   const performance = useMemo(() => readPerformance(gabcForRendering(gabc)), [gabc]);
   const semitones = useMemo(
     () => performance.events.flatMap((event) => (event.kind === "note" ? [event.semitones] : [])),
@@ -28,8 +44,6 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
   );
 
   useEffect(() => {
-    // Cada pieza abre en el tono que la deja centrada en una tesitura coral
-    // cómoda; desde ahí se sube o se baja.
     setDoMidi((current) => current ?? suggestDo(semitones));
   }, [semitones]);
 
@@ -105,7 +119,7 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
     canvas.height = Math.ceil(height * scale);
     const context = canvas.getContext("2d");
     if (!context) return;
-    context.fillStyle = "#fffdf7";
+    context.fillStyle = "#fffdf6";
     context.fillRect(0, 0, canvas.width, canvas.height);
     context.drawImage(image, 0, 0, canvas.width, canvas.height);
 
@@ -131,138 +145,101 @@ export default function ChantScore({ gabc, filename }: { gabc: string; filename:
     }
   }, []);
 
-  const shiftDo = (step: number) => setDoMidi((current) => clampDo((current ?? 0) + step));
   const pitches = doMidi !== null ? absolutePitches(semitones, doMidi) : null;
 
   return (
-    <div className="sheet" ref={sheet}>
-      <div className="sheet-bar">
-        <span className="rubric">Partitura</span>
-        <button type="button" className="button" onClick={() => setZoom(nextZoom(zoom))}>
-          Zoom ×{zoom}
-        </button>
-        <button type="button" className="button" onClick={toggleRehearsal} aria-pressed={rehearsing}>
-          {rehearsing ? "Salir" : "Modo ensayo"}
-        </button>
-      </div>
+    <>
+      <div className="workspace-main">
+        {header}
 
-      <div
-        className="score-surface"
-        ref={surface}
-        role="img"
-        aria-label="Notación cuadrada del canto"
-      />
-
-      {pitches && doMidi !== null ? (
-        <div className="pitch">
-          <div className="pitch-row">
-            <span className="rubric">Tono</span>
-            <button
-              type="button"
-              className="button"
-              onClick={() => shiftDo(-1)}
-              disabled={doMidi <= DO_RANGE.min}
-              aria-label="Bajar un semitono"
-            >
-              −
+        <div className="sheet" ref={sheet}>
+          <div className="sheet-bar">
+            <span className="rubric">Partitura</span>
+            <button type="button" className="button" onClick={() => setZoom(nextZoom(zoom))}>
+              Zoom ×{zoom}
             </button>
-            <output>do = {midiToName(doMidi)}</output>
             <button
               type="button"
               className="button"
-              onClick={() => shiftDo(1)}
-              disabled={doMidi >= DO_RANGE.max}
-              aria-label="Subir un semitono"
+              onClick={toggleRehearsal}
+              aria-pressed={rehearsing}
             >
-              +
+              {rehearsing ? "Salir" : "Modo ensayo"}
             </button>
           </div>
 
-          <Ambitus lowest={pitches.lowest} highest={pitches.highest} first={pitches.first} />
+          <div
+            className="score-surface"
+            ref={surface}
+            role="img"
+            aria-label="Notación cuadrada del canto"
+          />
 
-          <p className="pitch-note">
-            La notación gregoriana no fija la altura: el dibujo no cambia, cambia a qué nota real
-            suena el do. Entra en <strong>{midiToName(pitches.first)}</strong> y abarca{" "}
-            {semitoneLabel(pitches.ambitus)}.
-          </p>
-
-          <ChantPlayer events={performance.events} doMidi={doMidi} />
+          {error ? <p className="notice">{error}</p> : null}
         </div>
-      ) : null}
 
-      <div className="pitch">
-        <div className="pitch-row">
-          <span className="rubric">Descargar</span>
-          <button
-            type="button"
-            className="button"
-            onClick={() => download(gabc, "text/plain;charset=utf-8", "gabc")}
-          >
-            gabc
-          </button>
-          <button
-            type="button"
-            className="button"
-            onClick={() => {
-              const markup = svgMarkup();
-              if (markup) download(markup, "image/svg+xml;charset=utf-8", "svg");
-            }}
-          >
-            SVG
-          </button>
-          <button type="button" className="button" onClick={downloadPng}>
-            PNG
-          </button>
-          <button type="button" className="button" onClick={() => window.print()}>
-            Imprimir
-          </button>
+        {children}
+      </div>
+
+      <aside className="workspace-aside rail-tools">
+        <h2>Controles de ensayo</h2>
+
+        {doMidi !== null ? (
+          <>
+            <div className="rail-group">
+              <h3>Diapasón</h3>
+              <PitchPipe doMidi={doMidi} onChange={setDoMidi} />
+            </div>
+
+            <div className="rail-group">
+              <h3>Reproductor de práctica</h3>
+              <ChantPlayer events={performance.events} doMidi={doMidi} />
+            </div>
+
+            {pitches ? (
+              <div className="rail-group">
+                <h3>Tesitura</h3>
+                <p className="rail-note">
+                  Suena de <strong>{midiToName(pitches.lowest)}</strong> a{" "}
+                  <strong>{midiToName(pitches.highest)}</strong>, y entra en{" "}
+                  <strong>{midiToName(pitches.first)}</strong>.
+                </p>
+              </div>
+            ) : null}
+          </>
+        ) : null}
+
+        <div className="rail-group">
+          <h3>Descargar</h3>
+          <div className="downloads">
+            <button
+              type="button"
+              className="button"
+              onClick={() => download(gabc, "text/plain;charset=utf-8", "gabc")}
+            >
+              Notación <span className="format">GABC</span>
+            </button>
+            <button
+              type="button"
+              className="button"
+              onClick={() => {
+                const markup = svgMarkup();
+                if (markup) download(markup, "image/svg+xml;charset=utf-8", "svg");
+              }}
+            >
+              Partitura <span className="format">SVG</span>
+            </button>
+            <button type="button" className="button" onClick={downloadPng}>
+              Partitura <span className="format">PNG</span>
+            </button>
+            <button type="button" className="button" onClick={() => window.print()}>
+              Imprimir <span className="format">PDF</span>
+            </button>
+          </div>
         </div>
-      </div>
-
-      {error ? <p className="notice">{error}</p> : null}
-    </div>
+      </aside>
+    </>
   );
-}
-
-/** Dónde cae la pieza en el ámbito vocal, de Fa2 a Do6. */
-function Ambitus({ lowest, highest, first }: { lowest: number; highest: number; first: number }) {
-  const floor = 41;
-  const ceiling = 84;
-  const place = (midi: number) => ((midi - floor) / (ceiling - floor)) * 100;
-
-  return (
-    <div className="ambitus">
-      <div
-        className="ambitus-track"
-        role="img"
-        aria-label={`Tesitura de ${midiToName(lowest)} a ${midiToName(highest)}`}
-      >
-        <div
-          className="ambitus-span"
-          style={{ left: `${place(lowest)}%`, width: `${place(highest) - place(lowest)}%` }}
-        />
-        <div className="ambitus-entry" style={{ left: `${place(first)}%` }} />
-      </div>
-      <div className="ambitus-scale">
-        <span>{midiToName(floor)}</span>
-        <span>
-          {midiToName(lowest)} – {midiToName(highest)}
-        </span>
-        <span>{midiToName(ceiling)}</span>
-      </div>
-    </div>
-  );
-}
-
-function semitoneLabel(semitones: number): string {
-  const names: Record<number, string> = {
-    5: "una cuarta",
-    7: "una quinta",
-    9: "una sexta",
-    11: "una séptima",
-    12: "una octava",
-  };
-  return names[semitones] ?? `${semitones} semitonos`;
 }
 
 function nextZoom(current: number): number {

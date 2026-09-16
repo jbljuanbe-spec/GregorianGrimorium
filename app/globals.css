@@ -1,72 +1,73 @@
 /* Gregorian Grimorium — sistema visual.
  *
- * Tesis: esto no es un facsímil de un libro antiguo, es el atril. La notación
- * cuadrada exige tinta oscura sobre superficie clara, así que la partitura es
- * la única superficie cálida de la página —la hoja iluminada— y todo lo demás
- * es panel frío que se retira. Por eso los neutros van hacia el gris azulado,
- * nunca hacia el crema.
+ * Dirección elegida por el usuario: pergamino cálido, serif y rojo de
+ * rúbrica, como un libro de coro. La partitura sigue siendo la superficie
+ * más clara de la pantalla, porque la notación necesita tinta oscura sobre
+ * claro, pero ahora el resto de la interfaz acompaña en vez de contrastar.
  *
- * El rojo solo aparece donde históricamente aparece: la rúbrica, es decir lo
- * que indica cómo cantar, nunca como decoración.
+ * El rojo se reserva para lo que en un libro va en rojo: la rúbrica, es
+ * decir lo que indica cómo cantar. El oro, solo para filetes y remates.
  */
 
 :root {
-  --ground: #e9ecef;
-  --panel: #f7f8fa;
-  --panel-sunk: #dfe3e8;
-  --line: #ccd2d9;
-  --line-strong: #aab3bd;
-  --ink: #141719;
-  --ink-soft: #57616b;
-  --ink-faint: #7c8792;
-  --rubric: #a3231c;
-  --rubric-wash: #f2e3e1;
+  --parchment: #f2e8d5;
+  --panel: #faf3e3;
+  --panel-sunk: #e9dcc3;
+  --line: #d8c9a9;
+  --line-strong: #bda87e;
+  --gold: #b0914f;
+  --ink: #2a1f16;
+  --ink-soft: #6b5943;
+  --ink-faint: #8d7b63;
+  --rubric: #8a1c22;
+  --rubric-wash: #f0e0d9;
 
-  /* La hoja: la única superficie cálida, igual en ambos temas. */
-  --sheet: #fffdf7;
-  --sheet-line: #ded6c4;
+  /* La hoja: la superficie más clara, donde va la notación. */
+  --sheet: #fffdf6;
+  --sheet-line: #e0d2b4;
 
   --display: var(--font-display), "Helvetica Neue", Arial, sans-serif;
   --chant: var(--font-chant), "Iowan Old Style", Georgia, serif;
 
-  --step: 0.25rem;
   --radius: 4px;
   --radius-lg: 8px;
-  --lift: 0 1px 1px rgba(20, 23, 25, 0.04), 0 12px 28px -18px rgba(20, 23, 25, 0.45);
+  --lift: 0 1px 1px rgba(42, 31, 22, 0.05), 0 10px 24px -16px rgba(42, 31, 22, 0.35);
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --ground: #0f1214;
-    --panel: #181c1f;
-    --panel-sunk: #121517;
-    --line: #2a3035;
-    --line-strong: #3d454c;
-    --ink: #e8ecef;
-    --ink-soft: #9aa5af;
-    --ink-faint: #75808a;
-    --rubric: #ef8378;
-    --rubric-wash: #2a1a18;
-    --sheet: #f8f5ed;
-    --sheet-line: #cfc7b5;
-    --lift: 0 0 0 1px rgba(255, 255, 255, 0.03), 0 18px 40px -22px rgba(0, 0, 0, 0.8);
+    --parchment: #191410;
+    --panel: #221b14;
+    --panel-sunk: #15100c;
+    --line: #3a2e22;
+    --line-strong: #52412f;
+    --gold: #8c7239;
+    --ink: #f0e6d4;
+    --ink-soft: #b3a189;
+    --ink-faint: #8d7c66;
+    --rubric: #e08b84;
+    --rubric-wash: #2d1a18;
+    --sheet: #f9f4e7;
+    --sheet-line: #cdbf9f;
+    --lift: 0 0 0 1px rgba(255, 255, 255, 0.03), 0 18px 40px -22px rgba(0, 0, 0, 0.85);
   }
 }
 
 :root[data-theme="dark"] {
-  --ground: #0f1214;
-  --panel: #181c1f;
-  --panel-sunk: #121517;
-  --line: #2a3035;
-  --line-strong: #3d454c;
-  --ink: #e8ecef;
-  --ink-soft: #9aa5af;
-  --ink-faint: #75808a;
-  --rubric: #ef8378;
-  --rubric-wash: #2a1a18;
-  --sheet: #f8f5ed;
-  --sheet-line: #cfc7b5;
-  --lift: 0 0 0 1px rgba(255, 255, 255, 0.03), 0 18px 40px -22px rgba(0, 0, 0, 0.8);
+  --parchment: #191410;
+  --panel: #221b14;
+  --panel-sunk: #15100c;
+  --line: #3a2e22;
+  --line-strong: #52412f;
+  --gold: #8c7239;
+  --ink: #f0e6d4;
+  --ink-soft: #b3a189;
+  --ink-faint: #8d7c66;
+  --rubric: #e08b84;
+  --rubric-wash: #2d1a18;
+  --sheet: #f9f4e7;
+  --sheet-line: #cdbf9f;
+  --lift: 0 0 0 1px rgba(255, 255, 255, 0.03), 0 18px 40px -22px rgba(0, 0, 0, 0.85);
 }
 
 * {
@@ -82,7 +83,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: var(--ground);
+  background: var(--parchment);
   color: var(--ink);
   font-family: var(--display);
   font-size: 16px;
@@ -146,6 +147,7 @@ a {
   z-index: 10;
   background: var(--panel);
   border-bottom: 1px solid var(--line);
+  box-shadow: inset 0 -3px 0 -2px var(--gold);
 }
 
 .site-header .wrap {
@@ -1093,6 +1095,338 @@ main {
 
 @media print {
   .player {
+    display: none !important;
+  }
+}
+
+/* ---------- Mesa de trabajo: biblioteca · partitura · ensayo ----------
+ *
+ * Tres paneles, como un atril con la biblioteca a un lado y los útiles al
+ * otro. Cada canto conserva su propia URL: la estructura es de aplicación,
+ * pero el sitio sigue siendo estático e indexable.
+ */
+
+.workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: start;
+}
+
+/* En una columna manda la partitura. La biblioteca va al final: quien abre
+   un canto viene a leerlo, no a recorrer el catálogo, y son cuarenta filas
+   de por medio. El orden del HTML deja la navegación arriba para lectores
+   de pantalla y rastreadores; aquí solo se recoloca en pantalla. */
+.workspace-main {
+  order: 1;
+  /* Sin esto, una partitura ancha estira su columna y desborda la rejilla. */
+  min-width: 0;
+}
+
+.rail-tools {
+  order: 2;
+}
+
+.rail-library {
+  order: 3;
+}
+
+/* Tableta: caben la partitura y los útiles de ensayo. La biblioteca pasa a
+   ancho completo debajo, en varias columnas, para no robarle sitio al
+   pentagrama —que es lo que se mira desde el atril. */
+@media (min-width: 62rem) {
+  .workspace {
+    grid-template-columns: minmax(0, 1fr) 16.5rem;
+    gap: 1.5rem;
+  }
+
+  .rail-library {
+    grid-column: 1 / -1;
+    position: static;
+    max-height: none;
+  }
+
+  .rail-library .rail-list {
+    grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+    gap: 0.1rem 0.75rem;
+  }
+}
+
+/* Escritorio: los tres paneles del atril, con la biblioteca a la izquierda
+   en el orden en que está escrita. */
+@media (min-width: 82rem) {
+  .workspace {
+    grid-template-columns: 15.5rem minmax(0, 1fr) 16.5rem;
+  }
+
+  .rail-library {
+    order: 0;
+    grid-column: auto;
+  }
+
+  .rail-library .rail-list {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* La mesa pide más ancho que una página de lectura: dos paneles se comen
+   30rem antes de que empiece el pentagrama. Si el navegador no entiende
+   :has(), la página se queda en el ancho normal y sigue siendo usable. */
+.wrap:has(.workspace) {
+  max-width: 92rem;
+}
+
+.workspace-aside {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 0.85rem;
+}
+
+/* Los útiles siguen a la vista mientras se baja por una pieza larga. La
+   biblioteca solo se fija cuando tiene su propia columna: mientras va a lo
+   ancho, debajo, fijarla la dejaría tapando la lectura. */
+@media (min-width: 62rem) {
+  .rail-tools {
+    position: sticky;
+    top: 4.5rem;
+    max-height: calc(100vh - 5.5rem);
+    overflow-y: auto;
+  }
+}
+
+@media (min-width: 82rem) {
+  .rail-library {
+    position: sticky;
+    top: 4.5rem;
+    max-height: calc(100vh - 5.5rem);
+    overflow-y: auto;
+  }
+}
+
+.workspace-aside > h2 {
+  font-family: var(--chant);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--rubric);
+  text-align: center;
+  margin: 0 0 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.rail-group + .rail-group {
+  margin-top: 1rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--line);
+}
+
+.rail-group > h3 {
+  font-size: 0.64rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin: 0 0 0.45rem;
+}
+
+/* Cifras de modo en fila, como se anotan al margen de un libro de coro. */
+.mode-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.mode-chips button {
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  min-width: 2rem;
+  padding: 0.2rem 0.3rem;
+  color: var(--ink-soft);
+  background: var(--panel-sunk);
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.mode-chips button:hover {
+  border-color: var(--line-strong);
+}
+
+.mode-chips button[aria-pressed="true"] {
+  color: var(--sheet);
+  background: var(--rubric);
+  border-color: var(--rubric);
+}
+
+.rail-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.1rem;
+}
+
+.rail-list a {
+  display: block;
+  padding: 0.35rem 0.4rem;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-size: 0.84rem;
+  line-height: 1.3;
+}
+
+.rail-list a:hover {
+  background: var(--panel-sunk);
+}
+
+.rail-list a[aria-current="page"] {
+  background: var(--rubric-wash);
+  box-shadow: inset 2px 0 0 var(--rubric);
+}
+
+.rail-list .incipit {
+  display: block;
+  font-family: var(--chant);
+  font-size: 0.95rem;
+}
+
+.rail-list .detail {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+}
+
+.rail-search {
+  width: 100%;
+  font: inherit;
+  font-family: var(--chant);
+  font-size: 0.92rem;
+  padding: 0.4rem 0.55rem;
+  color: var(--ink);
+  background: var(--sheet);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+}
+
+.rail-note {
+  margin: 0.5rem 0 0;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+}
+
+/* Diapasón: el teclado da el tono de entrada y muestra su frecuencia. */
+.pipe-readout {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.35rem 0.5rem;
+  background: var(--ink);
+  border-radius: var(--radius);
+  color: var(--sheet);
+  font-variant-numeric: tabular-nums;
+}
+
+.pipe-note {
+  font-family: var(--chant);
+  font-size: 1.05rem;
+}
+
+.pipe-hz {
+  font-size: 0.72rem;
+  opacity: 0.75;
+}
+
+.pipe-keys {
+  display: flex;
+  gap: 1px;
+  margin-top: 0.4rem;
+}
+
+.pipe-keys button {
+  flex: 1;
+  height: 2.6rem;
+  padding: 0;
+  border: 1px solid var(--line-strong);
+  border-radius: 0 0 2px 2px;
+  background: var(--sheet);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.6rem;
+  color: var(--ink-faint);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 0.15rem;
+}
+
+.pipe-keys button[data-black="true"] {
+  background: var(--ink);
+  color: var(--parchment);
+  height: 1.7rem;
+  flex: 0.62;
+}
+
+.pipe-keys button[aria-pressed="true"] {
+  background: var(--rubric);
+  border-color: var(--rubric);
+  color: var(--sheet);
+}
+
+/* Fila de datos de la pieza, sobre la partitura. */
+/* Fichas de referencia bajo la partitura: procedencia, ediciones, uso
+   litúrgico. Antes vivían en una barra lateral que ahora ocupan los
+   controles de ensayo. */
+.chant-refs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  align-items: start;
+  gap: 0.8rem;
+  margin-top: 2rem;
+}
+
+.chant-refs .panel + .panel {
+  margin-top: 0;
+}
+
+.chant-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  margin-bottom: 0.9rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.chant-chips > * {
+  padding: 0.18rem 0.45rem;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  background: var(--panel);
+  color: var(--ink-soft);
+  text-decoration: none;
+}
+
+.chant-chips .is-rubric {
+  background: var(--rubric);
+  border-color: var(--rubric);
+  color: var(--sheet);
+}
+
+@media print {
+  .workspace {
+    display: block;
+  }
+
+  .workspace-aside,
+  .chant-chips {
     display: none !important;
   }
 }
