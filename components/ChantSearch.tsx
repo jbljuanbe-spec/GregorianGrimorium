@@ -47,8 +47,12 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
 
   const deferredQuery = useDeferredValue(query);
 
+  // Sin criterio no se lista el corpus entero: 3.054 íncipits seguidos, muchos
+  // casi idénticos, no ayudan a nadie y tapan lo que la web ofrece.
+  const hasCriteria = Boolean(deferredQuery.trim() || genre || mode || source);
+
   const results = useMemo(() => {
-    if (!index) return [];
+    if (!index || !hasCriteria) return [];
     const terms = fold(deferredQuery).split(/\s+/).filter(Boolean);
     return index.filter((entry) => {
       if (genre && entry.genre !== genre) return false;
@@ -56,7 +60,7 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
       if (source && !entry.sources.includes(source)) return false;
       return terms.every((term) => entry.haystack.includes(term));
     });
-  }, [index, deferredQuery, genre, mode, source]);
+  }, [index, hasCriteria, deferredQuery, genre, mode, source]);
 
   useEffect(() => {
     setLimit(PAGE_SIZE);
@@ -64,15 +68,17 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
 
   return (
     <>
-      <input
-        className="search-box"
-        type="search"
-        value={query}
-        onChange={(event) => setQuery(event.target.value)}
-        placeholder="Busca por íncipit o por cualquier palabra del texto latino…"
-        aria-label="Buscar cantos"
-        autoFocus
-      />
+      <div className="search-field">
+        <input
+          className="search-box"
+          type="search"
+          value={query}
+          onChange={(event) => setQuery(event.target.value)}
+          placeholder="Busca por íncipit o por cualquier palabra del texto latino…"
+          aria-label="Buscar cantos"
+          autoFocus
+        />
+      </div>
 
       <div className="filters">
         <label>
@@ -110,11 +116,13 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
         </label>
       </div>
 
-      <p className="result-count">
-        {index === null
-          ? `Cargando el índice de ${total} cantos…`
-          : `${results.length} de ${total} cantos`}
-      </p>
+      {hasCriteria ? (
+        <p className="result-count">
+          {index === null
+            ? `Cargando el índice de ${total} cantos…`
+            : `${results.length} de ${total} cantos`}
+        </p>
+      ) : null}
 
       <ul className="results">
         {results.slice(0, limit).map((entry) => (
@@ -135,6 +143,13 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
           </li>
         ))}
       </ul>
+
+      {hasCriteria && index !== null && results.length === 0 ? (
+        <p className="empty">
+          Sin resultados. Prueba con menos palabras, o quita algún filtro: el texto latino usa la
+          ortografía de la edición, así que «coeli» y «cæli» pueden no coincidir.
+        </p>
+      ) : null}
 
       {results.length > limit ? (
         <p className="result-count">

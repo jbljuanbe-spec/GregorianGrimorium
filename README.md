@@ -20,7 +20,9 @@ riesgos críticos del proyecto:
   empieza cada pieza; el corpus ya viene por canto.
 
 Además, una partitura dibujada desde su código fuente se puede reajustar al
-ancho de la pantalla y ampliar sin pixelarse, algo imposible con un escaneo.
+ancho de la pantalla, ampliar sin pixelarse y —lo más útil para un director—
+traducir sus intervalos a notas reales: se elige a qué nota suena el do, se ve
+la tesitura que resulta y se puede dar el tono. Ver [`docs/PITCH.md`](docs/PITCH.md).
 
 ## Estado
 
@@ -30,6 +32,11 @@ completo y partitura dibujada en el cliente.
 
 Todos los registros están en `needs_review`: la importación nunca marca nada
 como verificado. Ver [`docs/PLAN.md`](docs/PLAN.md).
+
+## Despliegue
+
+Exportación estática, sin servidor ni base de datos. Ver
+[`docs/DEPLOY.md`](docs/DEPLOY.md).
 
 ```sh
 pnpm install

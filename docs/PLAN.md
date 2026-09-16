@@ -32,6 +32,14 @@ real encuentra lo que busca.
       ancho de pantalla; verificada en escritorio y en móvil.
 - [x] Sitemap y metadatos por canto.
 - [x] Estado de revisión visible en cada ficha.
+- [x] Identidad visual propia: tipografía Crimson Text (la misma que lleva la
+      letra bajo los neumas) y color según la convención del libro litúrgico,
+      tinta negra para lo que se canta y rojo de rúbrica para lo que indica
+      cómo cantarlo.
+- [x] Datos estructurados (`MusicComposition`), Open Graph, robots y canónicas.
+- [x] **Tono y tesitura**: el do se asigna a una nota real, se ve el ámbito
+      resultante y se puede dar el tono con audio. Ver `PITCH.md`.
+- [x] Modo ensayo a pantalla completa.
 - [ ] Prueba con usuarios reales (directores de coro, organistas).
 
 ## Fase 3 — Escalado y calidad

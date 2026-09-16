@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import ChantScore from "@/components/ChantScore";
-import { getChant, loadCorpus } from "@/lib/corpus";
+import { getChant, loadCorpus, type Chant } from "@/lib/corpus";
+import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 export function generateStaticParams() {
   return loadCorpus().map((chant) => ({ id: chant.id }));
@@ -13,9 +15,20 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   if (!chant) return {};
 
   const descriptors = [chant.genre, chant.mode ? `modo ${chant.mode}` : null].filter(Boolean).join(", ");
+  const description = `${chant.incipit} — ${descriptors}. Texto latino y partitura en notación cuadrada. ${truncate(chant.text_latin, 100)}`;
+  const path = `/cantos/${chant.id}/`;
+
   return {
     title: chant.incipit,
-    description: `${chant.incipit} (${descriptors}). Texto latino y partitura en notación cuadrada. ${truncate(chant.text_latin, 110)}`,
+    description,
+    alternates: { canonical: path },
+    openGraph: {
+      type: "article",
+      url: path,
+      title: `${chant.incipit} — ${descriptors}`,
+      description,
+      siteName: SITE_NAME,
+    },
   };
 }
 
@@ -28,14 +41,25 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
 
   return (
     <article>
+      <script
+        type="application/ld+json"
+        // Datos estructurados: permiten que un buscador entienda que la página
+        // es una obra musical con su texto, su modo y su fuente impresa.
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData(chant)) }}
+      />
+
+      <nav className="breadcrumb">
+        <Link href="/">← Todos los cantos</Link>
+      </nav>
+
       <header className="chant-header">
         <h1>{chant.incipit}</h1>
         <div className="chant-meta">
-          <span>{chant.genre}</span>
+          <span className="rubric">{chant.genre}</span>
           {chant.mode ? <span>Modo {chant.mode}</span> : null}
           {chant.mode_variant ? <span>{chant.mode_variant}</span> : null}
           {chant.version ? <span>Versión {chant.version}</span> : null}
-          <span className="badge">{reviewed ? "Verificado" : "Sin verificar"}</span>
+          <span className="badge">{reviewed ? "Revisado" : "Sin revisar"}</span>
         </div>
       </header>
 
@@ -54,8 +78,8 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
               <li key={`${reference.title}-${reference.page}-${position}`}>
                 {reference.title}
                 {reference.year ? `, ${reference.year}` : ""}
-                {reference.page ? ` — p. ${reference.page}` : ""}
-                {reference.editor ? ` (${reference.editor})` : ""}
+                {reference.editor ? ` · ${reference.editor}` : ""}
+                {reference.page ? <span className="page"> — p. {reference.page}</span> : null}
               </li>
             ))}
           </ul>
@@ -102,6 +126,26 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
       </section>
     </article>
   );
+}
+
+function structuredData(chant: Chant) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "MusicComposition",
+    name: chant.incipit,
+    url: `${SITE_URL}/cantos/${chant.id}/`,
+    inLanguage: "la",
+    musicalKey: chant.mode ? `Modo ${chant.mode}` : undefined,
+    genre: chant.genre,
+    lyrics: { "@type": "CreativeWork", text: chant.text_latin },
+    license: "https://creativecommons.org/publicdomain/zero/1.0/",
+    isPartOf: { "@type": "Collection", name: SITE_NAME, url: `${SITE_URL}/` },
+    citation: chant.bibliography.map((reference) =>
+      [reference.title, reference.year, reference.page ? `p. ${reference.page}` : null]
+        .filter(Boolean)
+        .join(", "),
+    ),
+  };
 }
 
 function truncate(value: string, length: number): string {
