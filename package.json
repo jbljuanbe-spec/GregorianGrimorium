@@ -5,7 +5,10 @@
   "description": "Biblioteca digital de canto gregoriano: buscador de íncipits con partituras verificadas.",
   "type": "module",
   "scripts": {
-    "validate": "node scripts/validate-data.mjs"
+    "test": "node --test \"scripts/**/*.test.mjs\"",
+    "validate": "node scripts/validate-data.mjs",
+    "import": "node scripts/import-gabc.mjs",
+    "check": "pnpm run test && pnpm run validate"
   },
   "dependencies": {
     "ajv": "^8.17.1"

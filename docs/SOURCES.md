@@ -21,10 +21,11 @@ proyecto.
   fiesta). Permite regenerar la partitura como imagen/PDF a partir del
   código fuente, en vez de escanear un libro protegido.
   **Pendiente de verificar manualmente**: los términos de licencia exactos
-  de los datos y de las partituras generadas (el acceso a
-  `gregobase.selapa.net` está bloqueado por la política de red de este
-  entorno de ejecución; hay que revisarlo desde un entorno con salida a
-  internet antes de importar datos en volumen).
+  de los datos y de las partituras generadas. El entorno de ejecución de
+  este repo no puede comprobarlo: el proxy de red devuelve 403 al intentar
+  conectar con `gregobase.selapa.net` (y con `ccwatershed.org`), y solo
+  permite salida a GitHub, npm y PyPI. Hay que revisarlo desde una máquina
+  con internet abierto **antes** de importar datos en volumen.
 - **Corpus Christi Watershed** (ccwatershed.org): escaneos de ediciones de
   dominio público (Graduale Romanum 1908/1961, Liber Usualis 1961),
   legalmente libres de derechos de edición vigentes.

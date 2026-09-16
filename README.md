@@ -21,14 +21,21 @@ El prototipo se construye sobre fuentes de dominio público / licencia abierta
 
 ## Estado
 
-Fase 0 — validación. Aún no hay pipeline de datos ni frontend funcional; este
-commit establece la estructura del proyecto, el esquema de datos y el plan.
+Fase 1 — prototipo editorial. El pipeline de importación desde gabc está
+construido y probado; el corpus está vacío a la espera del gate de licencia
+de Fase 0 (ver [`docs/PLAN.md`](docs/PLAN.md)). Todavía no hay frontend.
+
+```sh
+pnpm install
+pnpm run check   # tests + validación del corpus
+```
 
 ## Estructura
 
 ```
-data/       Datos maestros de cantos (JSON), fuente de verdad versionada en git
-docs/       Auditoría, plan de fases, esquema de datos, fuentes
-scripts/    Herramientas de importación/validación (a construir en Fase 1)
-app/        Frontend Next.js (a construir en Fase 2)
+data/chants/   Datos maestros de cantos (JSON), fuente de verdad en git
+data/schema/   Esquema JSON del registro de canto
+docs/          Auditoría, plan de fases, fuentes, guía de importación
+scripts/       Importación desde gabc y validación del corpus
+app/           Frontend Next.js (Fase 2)
 ```

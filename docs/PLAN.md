@@ -4,23 +4,31 @@ El criterio para avanzar de fase no es el número de cantos procesados, sino
 haber demostrado que el proceso produce fichas correctas y que un usuario
 real encuentra lo que busca.
 
-## Fase 0 — Validación (actual)
+## Fase 0 — Validación
 
 - [x] Estructura del repo, esquema de datos, documentación de fuentes.
-- [ ] Verificar manualmente términos de licencia de GregoBase (bloqueado
-      por red en este entorno, ver `SOURCES.md`).
+- [x] Confirmar que el esquema soporta el ciclo de revisión
+      (`needs_review` → `verified`) sin fricción: el importador y sus tests
+      lo ejercitan.
+- [ ] **Bloqueado (acción humana)**: verificar los términos de licencia de
+      GregoBase. El entorno de ejecución de este repo no tiene salida a
+      `gregobase.selapa.net` ni a `ccwatershed.org` (403 del proxy de red),
+      así que hay que hacerlo desde una máquina con internet abierto.
 - [ ] Seleccionar 20-30 cantos representativos para el prototipo.
-- [ ] Confirmar que un registro puede pasar de `draft` a `verified` con el
-      esquema actual sin fricción.
 
 ## Fase 1 — Prototipo editorial
 
-- [ ] Script de importación desde GregoBase (o fuente equivalente) a
-      `data/chants/*.json` conforme al esquema.
-- [ ] `scripts/validate-data.mjs` como gate obligatorio (ya presente,
-      ejecutar en CI).
-- [ ] Flujo de revisión manual (aunque sea una hoja de cálculo o checklist)
-      y medición de tiempo de revisión por canto.
+- [x] Pipeline de importación desde **gabc**, el formato de intercambio de
+      los corpus abiertos (GregoBase, Gregorio). Ver `IMPORT.md`.
+      26 tests en verde, incluida la conformidad con el esquema.
+- [x] `scripts/validate-data.mjs` como gate, ejecutado en CI
+      (`.github/workflows/ci.yml`).
+- [ ] Ejecutar el importador sobre un lote real (depende del gate de
+      licencia de Fase 0).
+- [ ] Flujo de revisión manual (checklist u hoja de cálculo) y medición del
+      tiempo de revisión por canto.
+- [ ] Generación de imágenes de partitura con Gregorio a partir del gabc
+      (`score_images`), que no deriva de la importación.
 
 ## Fase 2 — MVP web
 
