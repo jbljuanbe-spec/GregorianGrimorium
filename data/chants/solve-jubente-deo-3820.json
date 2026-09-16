@@ -1,0 +1,31 @@
+{
+  "id": "solve-jubente-deo-3820",
+  "incipit": "Solve, jubente Deo",
+  "title": "Solve, jubente Deo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Solve, jubénte Deo, terrárum, Petre, caténas: qui facis ut páteant coeléstia regna * beátis",
+  "gabc": "(c4) AL(de~)LE(efED)LÚ(ed/fgeed~)IA.(d) *(;) <i>ij.</i>(ixdhhg/hiHGge/gh//egFEevDCd) (,) (hf/ghhddggvFDC/de) (,) (fhGEDefeed) <sp>V/</sp>.(::) Sol(de!fggvFD/ew!fvEDCd)ve,(d) (,) ju(hf)bén(ggf~)te(f) De(ghhd/gvvFDC/de , fhGEDewfeed)o,(d) (;) ter(c)rá(d)rum,(e) Pe(ef!gvFEe)tre,(c) ca(d)té(cfEC/eed/fg)nas:(ed) (:) qui(c!de) fa(gggvFDee//ghGED/ew!fvED)cis(de) (;) ut(egFEe) pá(d)te(e)ant(eevDC/de) (,) coe(de)lé(e)sti(efED)a(d) re(ed/fgeed~)gna(d) *(;) be(dh)á(ixhg/hiHG/ge/gh//egFE/evDCd,hf/ghhddggvFDCde,fhGEDefeed)tis(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "498"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3820",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

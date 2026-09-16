@@ -1,0 +1,31 @@
+{
+  "id": "ego-sum-pastor-1549",
+  "incipit": "Ego sum pastor",
+  "title": "Ego sum pastor",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ego sum * pastor bonus, et cognósco oves meas, et cognóscunt me meae.",
+  "gabc": "(f3) E(ggh)go(f!gwh) sum(he~) *() pa(ggh)stor(hf~) bo(gihi)nus,(ggh) (;) et(e) co(fg~)gnó(g)sco(f/giffe) o(gi)ves(h) me(ijIG)as,(g) (;) et(e) co(fg~)gnó(g)scunt(f) me(e!fggf) me(efECef)ae.(f/ggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "41"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1549",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

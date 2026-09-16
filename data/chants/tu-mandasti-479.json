@@ -1,0 +1,31 @@
+{
+  "id": "tu-mandasti-479",
+  "incipit": "Tu mandasti",
+  "title": "Tu mandasti",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tu mandásti * mandáta tua custodíri nimis: útinam dirigántur viae meae, ad custodiéndas justificatiónes tuas.",
+  "gabc": "(c3) TU(h) man(hf~)dá(hi)sti(h.) *(,) man(fe~)dá(gxfgf)ta(e) tu(f/hhh)a(h.) (,) cus(d)to(ef)dí(gxfgF'E)ri(hh) ni(i_h)mis:(hiHF.) (:) ú(gxfg)ti(f)nam(f) di(f)ri(gxgh)gán(h)tur(f) vi(ih)ae(gxgh) me(gxh)ae,(hihh/fgf.) (;) ad(d) cus(ef)to(gxfgf')di(e)én(fgF~'E~)das(f_e) (,) jus(d)ti(gxfgf')fi(e)ca(fgf')ti(e)ó(fg!hvG'FE)nes(fe/f_e) tu(de!fvED'e)as.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "377"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "479",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dominabitur-7397",
+  "incipit": "Dominabitur",
+  "title": "Dominabitur",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dominábitur a mari usque ad mare, et a flúmine usque ad términos orbis terrárum. ℣. Et adorábunt eum omnes reges terræ: omnes Gentes sérvient ei.",
+  "gabc": "(c3) Do(d)mi(d)ná(efefhighvFEe)bi(de)tur(e) (::)\r\na(d) ma(efe)ri(f) (;3) us(f!hhh/ijhhvFEgihh)que(f) ad(f) ma(fgf)re,(f) (:)\r\net(ijIHih) a(fh) flú(h)mi(feh)ne(hig/hf) (;)\r\nus(fh)que(h) ad(g) tér(h)mi(f)nos(d) (;)\r\nor(dfe/hgh)bis(f) ter(e)rá(de)rum.(de/fef/highf;1dfe/feed)\r\n<sp>V/</sp>.(::)\r\nEt(d) ad(d)o(fe)rá(eh)bunt(h)\r\ne(hi)um(ihhf/hiHG;3hiFD;f!hhi/hhf/hiHG;3hiFD;fdfED;1fd/ef/hhig/hf/hi/kkkh) (;)\r\no(f)mnes(hg) re(hih)ges(hf) ter(ffe)ræ:(gxefd;1fe/fgFEDdfvEDed) (:)\r\no(fdfED)mnes(d) Gen(fd/ef!hh/i!jkIH)tes(hiHF) (;)\r\nsér(gxgg//gg)vi(d)ent(efe/ffe) (::)\r\ne(gyfhGFhhh)i.(hhf;3gxgf/gvEDfgED;fehvhhhff/dfe/feed) (::)",
+  "transcriber": "Antonio González Fernández",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7397",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "foderunt-3598",
+  "incipit": "Foderunt",
+  "title": "Foderunt",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Fodérunt * manus meas, et pedes meos: dinumeravérunt ómnia ossa mea: et sicut aqua effúsus sum. Ps. Factum est cor meum tanquam cera liquéscens, * in médio ventris mei. Glória Patri E u o u a e",
+  "gabc": "(c4) FO(fgffd!ewf)DÉ(cdc)RUNT(c) *(,) ma(dffg)nus(f) me(ixf!gwhg/hi)as,(h) (;) et(hg~) pe(hj)des(gf!gwhg) me(fgf)os:(f) (:) di(f)nu(hj)me(jh)ra(ixij)vé(ghf)runt(hj) (,) ó(jh/jlk)mni(ji)a(jjj) os(f!gh)sa(jh/jg) me(ghf)a:(f) (:) et(d) si(fe)cut(fg) a(ge/fd)qua(dc) (,) ef(ff)fú(fhg/hvGF)sus(fgf) sum.(f) <i>Ps.</i>(::) Fa(fg)ctum(gf) est(gh) cor(h) me(h)um(h) tan(h)quam(h) ce(g)ra(ixi) li(h)qué(g)scens,(f) *(:) in(h) mé(hj)di(g)o(f) ven(fd~)tris(f) me(g)i.(f) (::) Gló(fg)ri(gf)a(gh) Pa(h)tri(h) (::) E(f) u(g) o(fd) u(f) a(g) e(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[147]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3598",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

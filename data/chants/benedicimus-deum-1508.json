@@ -1,0 +1,31 @@
+{
+  "id": "benedicimus-deum-1508",
+  "incipit": "Benedicimus Deum",
+  "title": "Benedicimus Deum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Benedícimus * Deum caeli, et coram ómnibus vivéntibus confitébimur ei: quia fecit nobíscum misericórdiam suam.",
+  "gabc": "(c4) BE(h)NE(gf)DÍ(gh)CI(g)MUS(e) *(,) De(gef)um(ed/fg!hvGF/ghg) cae(egff)li,(fe) (:) et(h) co(g)ram(h) óm(gf)ni(gh)bus(h) vi(h)vén(gh)ti(gh)bus(ge) (,) con(e)fi(gef)té(dgf)bi(df)mur(fgFD) e(f!gw!hgh)i:(hg) (:) qui(gef)a(ed) fe(fgef)cit(ed) no(ixh)bís(jh/hgi)cum(hg/hih) (;) mi(h)se(ghfg)ri(fe)cór(e!fg)di(g)am(hg/gf/ghg) su(egff)am.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "265"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1508",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "deus-in-loco-sancto-1026",
+  "incipit": "Deus in loco sancto",
+  "title": "Deus in loco sancto",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Deus * in loco sancto suo: Deus, qui inhabitáre facit unánimes in domo: ipse dabit virtútem et fortitúdinem plebi suae. Ps. Exsúrgat Deus, et dissipéntur inimíci ejus: * et fúgiant, qui odérunt eum, a fácie ejus. Glória Patri E u o u a e",
+  "gabc": "(c3) DE(hhi)us(h) *() in(h) lo(hihh)co(f_e) sanc(f!gwh)to(f_d) su(ded___)o:(d.) (;) De(fd)us,(d) qui(d) in(f)ha(fef)bi(fef)tá(hf/hhhi)re(h) fa(hjI'H)cit(h_f) (,) u(f!h'i)ná(ij)ni(i)mes(h) in(hi) do(hihh)mo:(gf..) (:) ip(f)se(hh) da(h_i)bit(f) vir(hh)tú(hv./gih/ghf)tem(f.) (,) et(f) for(gxfg~)ti(f_e)tú(fgF'D)di(dfE'D/ed)nem(d.) (;) ple(gxde/gf/g_h)bi(hgge!fwg) su(ded___)ae.(d.) <i>Ps.</i>(::) Ex(d)súr(f)gat(h) De(h)us,(h.) et(h) dis(h)si(h)pén(h)tur(h) i(h)ni(h)mí(h)ci(i) e(i)jus:(h.) *(:) et(f) fú(h)gi(h)ant,(h) qui(h) o(h)dé(h)runt(h) e(h)um,(h.) a(h) fá(i)ci(g)e(g) e(h)jus.(f.) (::) Gló(d)ri(f)a(h) Pa(h)tri(h) (::) E(h) u(h) o(i) u(g) a(h) e(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "347"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1026",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

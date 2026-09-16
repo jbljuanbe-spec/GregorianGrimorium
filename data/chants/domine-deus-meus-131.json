@@ -1,0 +1,31 @@
+{
+  "id": "domine-deus-meus-131",
+  "incipit": "Domine Deus meus",
+  "title": "Domine Deus meus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine * Deus meus, in te sperávi: líbera me ab ómnibus persequéntibus me, et éripe me.",
+  "gabc": "(f3) DO(h)mi(hhh)ne(f) *() De(h)us(ge~) me(f)us,(f!gwh.) (,) in(ef) te(h) spe(hg)rá(hi)vi:(ivHGhf..) (:) lí(hj)be(j)ra(i) me(hg) (,) ab(i) ó(hi)mni(fgFE'f)bus(fe..) per(f)se(h)quén(hi~)ti(h)bus(h) me,(hfgEC.) (;) et(c) é(ef)ri(hih)pe(g_e/f!gw!hvGF'g) me.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "111"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "131",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "reges-tharsis-6426",
+  "incipit": "Reges Tharsis",
+  "title": "Reges Tharsis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Reges Tharsis, et ínsulæ múnera ófferent: reges Arabum, et Saba dona addúcent: et adorábunt eum omnes reges terræ: omnes gentes sérvient ei.",
+  "gabc": "(c3) Re(h)ges(fh) Thar(h)sis,(hvv) (::) et(fh) ín(hhv//jvIH)su(hvGF)læ(fhGFh) (;) mú(ef!hiHG)ne(hvGFg)ra(gf) (;1) óf(gxdf/gvFE)fe(feede)rent:(ed) (:) re(f)ges(e) A(gyef/ggf)ra(ef//ghFE)bum,(feed) (;) et(df) Sa(h)ba(hig/hvFE) (;4) (hig/hf//eed) (;) do(fhhi)na(i) ad(h)dú(h!ijIHG//hvGFg)cent:(gf) (:) et(hf) a(hg)do(hi)rá(i;3hihhe)bunt(fhg) (;4) e(hg)um(hig//hvFDe) (;) o(df)mnes(fe) re(fhhv)ges(fe) ter(gxegFE/fe)ræ:(e) (:) o(fh/ihh)mnes(gye!fgf) gen(fh/ihhv)tes(e!fgf) (;) sér(fh/ihhg~)vi(fv//hhf//he)ent(de/fhf) (;4) e(gxegFE/fd)i.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "45"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6426",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

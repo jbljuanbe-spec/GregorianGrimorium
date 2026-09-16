@@ -1,0 +1,31 @@
+{
+  "id": "lux-aeterna-6519",
+  "incipit": "Lux aeterna",
+  "title": "Lux aeterna",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Lux ætérna lúceat eis, Dómine, cum sanctis tuis in ætérnum: quia pius es.",
+  "gabc": "(c4) Lux(h) æ(gf)tér(gh)na(g) (::) lú(h)ce(j)at(i) e(j)is,(h) Dó(g)mi(fg)ne,(g) (:) cum(h) san(j)ctis(i) tu(j)is(h) in(j) æ(i)tér(h)num:(ghg) (;) qui(e)a(f) pi(gh)us(h) es.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "125*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6519",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

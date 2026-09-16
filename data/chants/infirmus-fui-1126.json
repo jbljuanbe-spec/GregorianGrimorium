@@ -1,0 +1,37 @@
+{
+  "id": "infirmus-fui-1126",
+  "incipit": "Infirmus fui",
+  "title": "Infirmus fui",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Infírmus fui, * et visitástis me. Amen, amen dico vobis: Quámdiu fecístis uni ex his frátribus meis mínimis, mihi fecístis.",
+  "gabc": "(c4) IN(d)fír(cd)mus(d) fu(d!ew!fvED)i,(d!ewf.) *(,) et(d) vi(dc)si(f)tá(fh)stis(g) me.(ixgh/ih..) (:) A(h)men,(h) a(j)men(hg) di(h)co(gf) vo(ff/g_f)bis:(f.) (:) Quám(dg~)di(g)u(g) fe(h)cí(gf)stis(f.) (,) u(ixf!gwh'!iv)ni(h) ex(h) his(hg) frá(h)tri(g)bus(f) me(g)is(fe) mí(d)ni(c)mis,(dff) (,) mi(gh)hi(fe) fe(ded)cí(cd!fvED'e)stis.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "553"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1560"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1126",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

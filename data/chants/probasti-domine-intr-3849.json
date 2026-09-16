@@ -1,0 +1,31 @@
+{
+  "id": "probasti-domine-intr-3849",
+  "incipit": "Probasti Domine (Intr.)",
+  "title": "Probasti Domine (Intr.)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Probasti, Dómine, * cor meum, et visitásti nocte: igne me examinásti, et non est invénta in me iníquitas. Ps. Exáudi, Dómine justítiam meam: * inténde deprecatiónem meam. Glória Patri E u o u a e",
+  "gabc": "(c3) PRO(e)BA(ef)STI,(f) Dó(fdfe)mi(efe)ne,(e) *(,) cor(fh) me(hhh)um,(h) (;) et(h) vi(hji)si(hg)tá(hi)sti(ihhf!gwh) no(efe)cte:(e) (:) i(ef/hgh)gne(fh) me(hg/hiffe) (,) e(ef/hg)xa(g!hi)mi(ijHF/gwh)ná(hi)sti,(h) (:) et(fhg) non(h) est(hji) in(h)vén(hhhffd~)ta(d) in(ef) me(ef!gwh!iv) (,) i(ihhf!gwh)ní(e)qui(efe)tas.(e) <i>Ps.</i>(::) Ex(ehg)áu(hi)di,(i) Dó(i)mi(i)ne(i) ju(i)stí(ik)ti(j)am(j) me(ji)am:(ij) *(:) in(ig~)tén(hi)de(i) de(i)pre(i)ca(i)ti(i!jwk)ó(i)nem(h) me(hhh)am.(fe) (::) Gló(ehg)ri(hi)a(i) Pa(i)tri(i) (::) E(i) u(i!jwk) o(i) u(h) a(hhh) e(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "521"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3849",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "recordare-535",
+  "incipit": "Recordare",
+  "title": "Recordare",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Recordáre, * Dómine, testaménti tui, et dic Angelo percutiénti: Cesset jam manus tua, ut non desolétur terra, et ne perdas omnem ánimam vivéntem. Ps. Qui regis Israel, inténde: * qui dedúcis velut ovem Joseph. Glória Patri E u o u a e",
+  "gabc": "(c4) RE(d)cor(fd)dá(ef)re,(f) *(,) Dó(f)mi(fff)ne,(ed__) (,) te(f)sta(edf)mén(ef!ghF'E)ti(e) tu(egF'E)i,(f.) (:) et(d) dic(g) An(ixhg/hi)ge(h)lo(h) per(h)cu(hg)ti(g)én(gh!jj)ti:(g.) (;) Ces(h)set(ghg) jam(fe) ma(dg)nus(g) tu(gfhg)a,(g.) (;) ut(d) non(g) de(g)so(g)lé(ghG'F)tur(fgff) ter(df!gvFE'f)ra,(fe..) (:) et(f) ne(ef/gfg) per(d)das(d!ff/gddc.) (,) o(df~)mnem(ec) á(df)ni(f)mam(e!f'g) vi(g)vén(fhG'FgvFE)tem.(e.) <i>Ps.</i>(::) Qui(hg) re(gh)gis(h) Is(h)ra(hg)el,(gi) in(i)tén(hi)de:(h.) *(:) qui(hg) de(gh)dú(h)cis(h) ve(h)lut(h) o(gf)vem(gh) Jo(g)seph.(e.) (::) Gló(hg)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(h) o(gf) u(gh) a(g) e(egff) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[139]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "535",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

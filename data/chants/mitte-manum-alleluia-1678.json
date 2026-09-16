@@ -1,0 +1,31 @@
+{
+  "id": "mitte-manum-alleluia-1678",
+  "incipit": "Mitte manum... alleluia",
+  "title": "Mitte manum... alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Mitte * manum tuam, et cognósce loca clavórum, allelúia: et noli esse incrédulus, sed fidélis, allelúia, allelúia.",
+  "gabc": "(c4) MIT(ffg)TE(f) *() ma(gh)num(g) tu(f)am,(ghg) (,) et(fvED) co(f)gnó(g)sce(f) lo(f)ca(f) cla(f)vó(f)rum,(g) (,) al(fd~)le(f)lú(ixg!hw!ivHG)ia:(hg) (:) et(fd~) no(f)li(g) es(h)se(g) in(f)cré(g)du(fe)lus,(d) (,) sed(f) fi(f)dé(dec)lis,(c) (;) al(f)le(g)lú(ixi)ia,(h) (,) al(ixi)le(hv//gih)lú(fgf)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "222"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1678",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

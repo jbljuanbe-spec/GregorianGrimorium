@@ -1,0 +1,31 @@
+{
+  "id": "tu-es-petrus-alleluia-509",
+  "incipit": "Tu es Petrus... alleluia",
+  "title": "Tu es Petrus... alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tu es Petrus, * et super hanc petram aedificábo Ecclésiam meam. T.P. Allelúia.",
+  "gabc": "(c4) TU(f) es(df) Pe(fgff)trus,(cdc.) *(;) et(d) su(ffg)per(f) hanc(f) pe(fgf___)tram(f.) (;) ae(f)di(f!g'h)fi(h_g)cá(g)bo(fgFD.) (,) Ec(d)clé(ffg)si(f)am(fg/hg/h_g) me(fg!hvGF'g)am.(gf..) <i>T.P.</i>(::) Al(fg~)le(ixgiHG')lú(hggfg)ia.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[2D]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "509",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

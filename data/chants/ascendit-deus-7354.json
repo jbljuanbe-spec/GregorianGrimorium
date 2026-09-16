@@ -1,0 +1,31 @@
+{
+  "id": "ascendit-deus-7354",
+  "incipit": "Ascendit Deus",
+  "title": "Ascendit Deus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. ℣. Ascéndit Deus in jubilatióne, et Dóminus in voce * tubæ.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh)ia.(ixhiHG'gf.) (,) (ixhiHG'/ge./ghGF'E/f_gffe.) <sp>V/</sp>.(::) A(h)scén(h)dit(g) De(ghG'E)us(fgfg.) (,) in(gh~) ju(h)bi(g)la(ghg'/hf)ti(ed)ó(egF'D)ne,(d.) (:) et(dc~) Dó(f)mi(ghg)nus(ixhiG'E/g./hiF'D//fffd/gvFE.) (,) (df/h_f/g_e/fv./df!gvFE/fe..) (:) in(fd~) vo(e!f'g)ce(gd/gvFE) *() tu(fd/ef!g'h)bæ.(ixhiHG'/gf.) (,) (ixhiHG'/ge./ghGF'E/f_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "236"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7354",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

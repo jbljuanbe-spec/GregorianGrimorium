@@ -1,0 +1,31 @@
+{
+  "id": "in-medio-ecclesiae-3430",
+  "incipit": "In medio Ecclesiae",
+  "title": "In medio Ecclesiae",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "In médio * Ecclésiae apéruit os ejus: et implévit eum Dóminus spíritu sapiéntiae, et intelléctus: stolam glóriae índuit eum. T. P. Allelúia, allelúia. Ps. Bonum est confitéri Dómino: * et psállere nómini tuo, Altíssime. Glória Patri E u o u a e",
+  "gabc": "(c4) IN(df~) mé(fff)di(f)o(f) *() Ec(f)clé(gfg)si(f)ae(fff) (,) a(cd)pé(fff)ru(f)it(f) os(gf) e(fgf)jus:(f) (:) et(f) im(f)plé(ixf!gwh!iv)vit(h) e(hjjh)um(h) Dó(gh)mi(gf)nus(f) (,) spí(fh)ri(g)tu(f) sa(fgf)pi(f!gh)én(gh~)ti(f)ae,(fgf) (,) et(f) in(e!fg)tel(hghf)lé(f)ctus:(fffc) (:) sto(fdf)lam(f) gló(ghf)ri(fd)ae(dc) (,) ín(ff)du(f)it(ff) e(fgf)um.(f) <i>T. P.</i>(::) Al(d)le(fe)lú(fgf)ia,(fffddc) (,) al(d)le(ff)lú(fhGF)ia.(f) <i>Ps.</i>(::) Bo(fg)num(gf) est(gh) con(h)fi(g)té(ixi)ri(h) Dó(g)mi(f)no:(f.) *(:) et(h) psál(hj)le(g)re(f) nó(f)mi(f)ni(f) tu(g)o,(fd) Al(f)tís(g)si(f)me.(f) (::) Gló(fg)ri(gf)a(gh) Pa(h)tri(h) (::) E(f) u(g) o(fd) u(f) a(g) e(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[34]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3430",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

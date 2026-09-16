@@ -1,0 +1,31 @@
+{
+  "id": "confitemini-quoniam-in-lit-1535",
+  "incipit": "Confitemini... quoniam (In Lit.)",
+  "title": "Confitemini... quoniam (In Lit.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Alleluia ℣. Confitémini Dómino, quóniam bonus: quóniam in saéculum misericórdia * ejus. Non repetitur Allelúia.",
+  "gabc": "(c4) AL(f)LE(g)LU(h!jjj)IA(jki/jvHG) (,) (ih/ikIHG/hihhg) <sp>V/</sp>.(::) Con(g)fi(g)té(j)mi(j)ni(jjjvHG) Dó(ig/hjij)mi(ih)no,(j) (,) quó(j)ni(h!iwj)am(i/jkhhg) bo(hvGF//gh!iw!jvIH)nus:(j) (:) quó(j)ni(h)am(h!iw!jvIH) in(gf~) saé(g/hfg//f!gh!jvvIHiw!jvIH)cu(gh!ivHGh)lum(hg) (;) mi(hf)se(g)ri(h)cór(h!iwj)di(hg)a(g) *(,) e(hf/gh!jjjg//hjij)jus.(jki/jvHG) (,) (ih/ikIHG/hihhg) (::) () <i>Non repetitur</i> Allelúia.()",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "240"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1535",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "servite-domino-1656",
+  "incipit": "Servite Domino",
+  "title": "Servite Domino",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Servíte * Dómino in timóre, et exsultáte ei cum tremóre: apprehéndite disciplínam, ne pereátis de via justa.",
+  "gabc": "(c3) SER(fh~)VÍ(h)TE(hg) *() Dó(h)mi(f)no(fd) in(f) ti(f)mó(feede)re,(de) (,) et(d) ex(e)sul(f)tá(f!gwh)te(e) e(fhffde)i(ed) (;) cum(df!gwhh) tre(ihhvGE)mó(fe/fg)re:(f) (:) ap(f)pre(h)hén(i)di(i)te(i) di(h)sci(h)plí(h)nam,(fge) (;) ne(f) pe(hg)re(hg)á(f)tis(ee) (,) de(d) vi(efef)a(efe) jus(de!fvEDe)ta.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "76"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1656",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

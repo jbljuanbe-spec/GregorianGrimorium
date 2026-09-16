@@ -1,0 +1,31 @@
+{
+  "id": "protector-noster-1712",
+  "incipit": "Protector noster",
+  "title": "Protector noster",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Protéctor noster * áspice, Deus, et réspice in fáciem Christi tui: quia mélior est dies una in átriis tuis super míllia. Ps. Quam dilécta tabernácula tua, Dómine virtútum! * concupíscit, et déficit ánima mea in átria Dómini. Glória Patri E u o u a e",
+  "gabc": "(c4) PRO(f)TÉC(fffd)TOR(ef) nos(ghhg)ter(g) *(,) á(gjj)spi(h)ce,(g) De(hf/hg/hffef)us,(fe) (;) et(ef) ré(gh)spi(g)ce(g) (,) in(gh~) fá(hhg)ci(f)em(f!gh) Chris(jj)ti(kjjh) tu(hg!hwihi)i:(ih) (:) qui(ixhg!hwih)a(h) mé(ixhg!hwi)li(hg)or(ghGF) est(f) (,) di(f)es(h) u(h!iw!jvIHGh)na(hg) (,) in(h) á(h)tri(ge)is(fg) tu(efEDe)is(ed) (;) su(de!fg)per(gh) míl(h/jjvGF/fd//fhg/hfg)li(egff)a.(fe) <i>Ps.</i>(::) Quam(hg~) di(gh)léc(h)ta(h) ta(h)ber(h)ná(h)cu(h)la(h) tu(h)a,(h) Dó(h)mi(hg)ne(gi) vir(i)tú(hi)tum!(h) *(:) con(hg~)cu(gh)pís(h)cit,(h) et(h) dé(h)fi(h)cit(h) á(h)ni(h)ma(h) me(h)a(h) (,) in(h) á(h)tri(h)a(gf) Dó(gh)mi(g)ni.(e) (::) Gló(hg)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(h) o(gf) u(gh) a(g) e(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "306"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1712",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

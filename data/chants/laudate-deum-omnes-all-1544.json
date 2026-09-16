@@ -1,0 +1,31 @@
+{
+  "id": "laudate-deum-omnes-all-1544",
+  "incipit": "Laudate Deum omnes (All)",
+  "title": "Laudate Deum omnes (All)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ij. ℣. Laudáte Deum omnes Angeli ejus: laudáte eum omnes virtútes * ejus.",
+  "gabc": "(c4) AL(fd~)LE(e!fg)LÚ(hgh)IA(ixhiHGgf) *(,) <i>ij.</i>(ixhiHGge//ghGFEfgffe) <sp>V/</sp>.(::) Lau(h)dá(h)te(g) De(ghGE)um(fgfg) (;) o(g)mnes(gh) An(hg~)ge(ghg/hf)li(ed) e(egFD)jus:(d) (:) lau(dc~)dá(f)te(ghg) e(ixhiGEg//hiFD//fffdgvFE,df/hf/gefv//df!gvFEf)um(fe) (;) o(fd~)mnes(f) vir(f)tú(ef/gefv//df!gvFEf)tes(fe) * e(fd/ef!gh)jus.(ixhiHGgf,ixhiHGge/ghGFEfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "53"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1544",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

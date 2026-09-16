@@ -1,0 +1,37 @@
+{
+  "id": "angelus-domini-raphael-grad-581",
+  "incipit": "Angelus Domini Raphael (Grad.)",
+  "title": "Angelus Domini Raphael (Grad.)",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Angelus * Dómini Ráphael apprehéndit et ligávit daémonem. ℣. Magnus Dóminus noster, et magna virtus * ejus.",
+  "gabc": "(c4) AN(ffg)ge(f)lus(f.) *() Dó(ghgh)mi(gf)ni(f/ghg.) (,) Rá(h)pha(fg)el(ixg_d//f_eg./higgf.) (;) ap(h)pre(jj)hén(ji)dit(hgj./klkkj.) (;) et(h!j'k) li(ji)gá(h!jjgh)vit(fg) (`) daé(ff/hhg/hh,ixgh!ivGFhh//f!h'j)mo(j)nem.(iyjkijh.) (,) (fg/h!jj/klijh./ixgiHF.) <sp>V/</sp>.(z0::c3) Ma(hv.hihhfh./df!hvv//hihhfh./gh/ihi)gnus(hh) (;) Dó(f!h'i)mi(i)nus(ih/jki/hhf.) no(hf/hhh)ster,(h.f!gwh!iv.hi/jhh/iih.) (:) et(hh) ma(f_e)gna(gxegf'/gvE'D) vir(fe~)tus(h.) *(,) e(hiH'F)jus.(f.//de/f!hh/ijghf./gxegFD.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "634"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1699"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "581",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

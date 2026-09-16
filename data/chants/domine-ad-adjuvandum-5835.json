@@ -1,0 +1,31 @@
+{
+  "id": "domine-ad-adjuvandum-5835",
+  "incipit": "Domine, ad adjuvandum",
+  "title": "Domine, ad adjuvandum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Domine, ad adjuvándum me festína: confundántur omnes, qui cógitant servis tuis mala.",
+  "gabc": "(c4) Do(ixfh/ivHG//hvGF//hjjv//kvJH)mi(iyh!ijh)ne,(h) (::) ad(fg) ad(f)ju(ghg)ván(h;6f!hjjk)dum(hjg//fvEDf) me(df) (;) fe(fge/fe)stí(d!efEDe)na:(ed) (:) con(fgf)fun(gh)dán(h//jjvHG//ixhiGF;ghgh//gh/jjv//kvJH)tur(h) (;) o(fh/jh//ghg//fgFD//ffg)mnes,(f) (:) qui(f) có(f)gi(f)tant(fgf) (;4) ser(fd~)vis(f!ghg) tu(hvGF)is(ghg) (;) ma(hv//fh/jvHG/hvGF/gvFD//dffv/gf)la.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "130"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5835",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

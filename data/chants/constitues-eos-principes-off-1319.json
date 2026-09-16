@@ -1,0 +1,37 @@
+{
+  "id": "constitues-eos-principes-off-1319",
+  "incipit": "Constitues eos principes (Off.)",
+  "title": "Constitues eos principes (Off.)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Constítues * eos príncipes super omnem terram: mémores erunt nóminis tui, in omni progénie et generatióne.",
+  "gabc": "(c4) COn(dg)stí(g./hji)tu(jkj)es(jvIH.) *() e(hj!kvJH)os(hjhhg.) (,) prín(ikj)ci(jvIH)pes(h_g//ih/igh.) (;) su(ef)per(g) o(h_g/jki'/jvH'G)mnem(g_fh) ter(ghfg)ram:(f.) (:) mé(ffff_d/gih)mo(g)res(g./hjh) e(f_d/fhg)runt(e!f'g) (,) nó(gh/jij)mi(gjj'jj)nis(gj) tu(ixjjjvH'GF'/gwh!ivHG'h )i,(hg..) (:) in(hji__) o(jkj/ijh)mni(h.) pro(dg)gé(gj)ni(jjjvH'G)e(g.) (;) et(f) ge(e!f'g)ne(fh/jgh)ra(ef)ti(g)ó(g./h!iw!jvIH)ne.(hjH'GF.) (,) (fff//hvG'FEf_e//g_f/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "534"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1520"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1319",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

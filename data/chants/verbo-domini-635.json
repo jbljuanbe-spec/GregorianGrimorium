@@ -1,0 +1,31 @@
+{
+  "id": "verbo-domini-635",
+  "incipit": "Verbo Domini",
+  "title": "Verbo Domini",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Verbo Dómini caeli firmáti sunt, et Spíritu oris ejus omnis virtus * eórum.",
+  "gabc": "(c4)AL(gf~)le(d!ef/ghg___)lú(fg~)ia.(g.) *(;)  <i>(Non repetitur.)</i>(ghg/fgf/deddc.) (,) (cd!ef!gv'//hihhg.) <sp>V/</sp>.(::) Ver(cd!e!fwg)bo(g.) Dó(fe)mi(fg)ni(g.) (,) cae(ghg___/jvIHG'E/fg)li(g.) fir(gvFD)má(evDC)ti(dc) sunt,(c.) (:) et(cd) Spí(ef/ghg___)ri(fg)tu(g.) (,) o(g)ris(g) e(ghg/fgf/deddc~)jus(c.) (;) om(c)nis(d) vir(e!fwg)tus(g.) *() e(hg)ó(fg)rum.(ghg/fgf/deddc.) (,) (cd!ef!gv'//hihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "300"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "635",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

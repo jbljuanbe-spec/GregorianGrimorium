@@ -1,0 +1,31 @@
+{
+  "id": "domine-dilexi-decorem-9164",
+  "incipit": "Domine dilexi decorem",
+  "title": "Domine dilexi decorem",
+  "cantus_id": "0",
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes 1974",
+  "text_latin": "Allelúia. ℣. Dómine, diléxi decórem domus tuæ et locum tabernáculi glóriæ tuæ.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) (,) (hv.iji./ef/h_fhv.ghe/hhh.f!gwhf.)\r\n\r\n<sp>V/</sp>.(::) Dó(f_e/f!gwh!iv)mi(jiihi)ne,(iv.hh/fgf.) (,) di(f)lé(f/hh/ijHF'ivH'GEf.hfhhf/ge)xi(e.) (;) de(f)có(ffe/ffe/fc..,efhvhvFEhhhi)rem(h') do(h)mus(ivHGh) tu(fgf___)æ(f.) (:) et(f) lo(f/hi/jiihi)cum(iv.hh/fgf.) (,) ta(fg)ber(f)ná(f/hh/ijHF'ivH'GEf./hfhhf/ge)cu(fe)li(e.) (;) gló(hh)ri(h)æ(hi) tu(i_h/jij)æ.(jvjvIHGE/f!gwhf.) (::)",
+  "transcriber": "Dominique CROCHU",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "400"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "9164",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

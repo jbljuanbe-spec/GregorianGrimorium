@@ -1,0 +1,37 @@
+{
+  "id": "tota-pulchra-es-maria-all-1057",
+  "incipit": "Tota pulchra es Maria (All)",
+  "title": "Tota pulchra es Maria (All)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Tota pulchra es, María: et mácula originális * non est in te.",
+  "gabc": "(c4) AL(d/ff/gf)le(ed)lú(ixf!gh!ivHG'gf/gh~)ia.(h.) *(,) <i>ij.</i>(d!ef!gvFE'ed.;de!fg!hv'//jg/gf/ghh//d!ef!gvFE'ed.,hvGF'ghh//d!ef!gvFE'ed.) <sp>V/</sp>.(::) To(d!ew!fv_ED'Cde)ta(d.) pul(f!gh)chra(ixhiGF'gwhg/hi) es,(h.) (:) Ma(ffvEDfg/hfgvFE)rí(d!ewfef)a:(ed..) (:) et(hg~) má(gj)cu(i)la(jkJH.) (,) o(hg)ri(hjIG.egff'ffvD'C)gi(dfd)ná(egE'DfvDCde)lis(e./ghdfvED.) *(;) non(d/ff/gf) est(ed) in(ixf!gh!ivHG'gf/gh~) te.(h./d!ef!gvFE'ed.;de!fg!hv'//jg/gf/ghh//d!ef!gvFE'ed.,hvGF'ghh//d!ef!gvFE'ed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "402"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1318"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1057",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

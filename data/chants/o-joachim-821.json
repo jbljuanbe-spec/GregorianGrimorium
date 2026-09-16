@@ -1,0 +1,37 @@
+{
+  "id": "o-joachim-821",
+  "incipit": "O Joachim",
+  "title": "O Joachim",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. O Jóachim sancte, conjux Annae, pater almae Vírginis, hic fámulis confer salútis * opem.",
+  "gabc": "(c4) AL(cd~)le(d!ew!fvEC.ef!gvF'ED'C)lú(ee)ia.(d.) *(;) <i>ij.</i>(ixhg/hvGF//gighhvGF'ED.) (,) (cf!ghhvF'ED'C//efd.) <sp>V/</sp>.(::) O(d!ew!fvEC.efd) Jó(dc)a(f)chim(gh~) sanc(ixhg/hvGF//gig/hi)te,(h.) (;) con(hjIG.ijh)jux(h.) An(ghGF'ED.ghF'ED)nae,(d.) (;) pa(hgh)ter(jk) al(jvIH'Gijh)mae(h.) Vír(ghG'FE)gi(gh)nis,(h.) (:) hic(f) fá(egF'ED'evDC'//d!ff/ghg)mu(fe)lis(dfe) con(d.)fer(d.) (,) sa(cd)lú(d!ew!fvEC.ef!gvF'ED'Cee)tis(d.) *(;) o(ixhg/hvGF//gighhvGF'ED.,cf!ghhvF'ED'C//efd)pem.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "585"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1609"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "821",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

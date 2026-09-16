@@ -1,0 +1,31 @@
+{
+  "id": "justus-dominus-268",
+  "incipit": "Justus Dominus",
+  "title": "Justus Dominus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Justus Dóminus, * et justítias diléxit: aequitátem vidit vultus ejus.",
+  "gabc": "(c3) JUs(h)tus(f) Dó(h)mi(gh)nus,(fihh) *(,) et(fi) ju(i)stí(ij)ti(ih)as(h) di(h)lé(fh)xit:(hg/hiffe./fhghhvGFgf..) (:) ae(f)qui(h)tá(h)tem(hg/hih) vi(fhGE'f)dit(ed..) (,) vul(fvED'e/hgh)tus(f!gw!hvGE'gxfw!gvFE) e(de!fvED'e)jus.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "120"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "268",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

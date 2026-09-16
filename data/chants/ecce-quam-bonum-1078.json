@@ -1,0 +1,31 @@
+{
+  "id": "ecce-quam-bonum-1078",
+  "incipit": "Ecce quam bonum",
+  "title": "Ecce quam bonum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Ecce quam bonum et quam jucúndum habitáre fratres in unum: sicut unguéntum in cápite, quod descéndit in barbam, barbam * Aaron.",
+  "gabc": "(c4) AL(g)le(e!fg./hiH'G)lú(fg!hvhg~)ia.(g.) *(;) <i>ij.</i>(gvFDe!fg./hiH'Gfgg) (,) (kvJIH'G//fg!hvhg.) <sp>V/</sp>.(::) Ec(g)ce(g) quam(h) bo(e!fg)num(g.) (,) et(g) quam(hi~) ju(i)cún(ijh/jiivHG'Fhg)dum(g.) (;) ha(g)bi(g)tá(g)re(gvFD) fra(e!fg)tres(g./hiH'G) in(g) u(fg!hvhg)num:(g.) (:) si(g)cut(g) un(gk~)guén(kvJIH'h)tum(g) in(g) cá(fg!hvhg)pi(fg)te,(g.) (;) quod(g) de(hi)scén(ijh/jiivHG'Fhg~)dit(g.) (,) in(g) bar(g)bam,(gvFD) bar(e!fg)bam(g./hiH'G) *() A(fg)a(hvhg)ron.(g.) (;) (gvFDe!fg./hiH'Gfgg) (,) (kvJIH'G//fg!hvhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "568"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1078",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

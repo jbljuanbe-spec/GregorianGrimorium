@@ -1,0 +1,31 @@
+{
+  "id": "ecce-sic-benedicetur-5537",
+  "incipit": "Ecce sic benedicetur",
+  "title": "Ecce sic benedicetur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ecce sic benedicétur homo, qui timet Dóminum: et vídeas fílios filiórum tuórum, pacem super Israël.",
+  "gabc": "(c3) Ec(i)ce(ig) (::) sic(ijij) be(i)ne(h)di(fh)cé(h)tur(hgh) (;4) ho(fe)mo,(ef/he//feed) (;) qui(df/hhv) ti(ikJI)met(ig//hiHGF//ghGF) (;1) Dó(e)mi(e!fgFEf)num:(fe) (:) et(h) ví(ik)de(jk)as(i) (;) fí(j)li(ijh)os(i) fi(jk)li(j)ó(iji)rum(i) tu(h)ó(ghg)rum,(g) (;) pa(f!ghg)cem(f!ij) (;6) su(i)per(ig//hiHGF//ghGF) Is(e)ra(e!fgFEf)ël.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "113*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5537",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

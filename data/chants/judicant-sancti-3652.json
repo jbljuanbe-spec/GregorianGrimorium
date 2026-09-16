@@ -1,0 +1,31 @@
+{
+  "id": "judicant-sancti-3652",
+  "incipit": "Judicant sancti",
+  "title": "Judicant sancti",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Judicant * sancti gentes, et dominántur pópulis: regnábit Dóminus Deus illírum in perpétuum. Ps. Exsultáte justi in Dómino: * rectos decet collaudátio. Glória Patri E u o u a e",
+  "gabc": "(c2) JU(cf)DI(ffg)CANT(g) *() sanc(ghg)ti(fff) gen(gf/hg)tes,(g) (;) et(g) do(g)mi(gj)nán(ji)tur(i) pó(hjIH)pu(ihhgh)lis:(hg) (:) re(g)gná(e!fwg!hv)bit(g) Dó(gh)mi(gf)nus(f) (,) De(fg)us(gffe) il(d)lí(d!ewf!gvFEfwgfg)rum(gf) (;) in(fg!ivHG) per(gffd!ewf)pé(c)tu(cdc)um.(c) <i>Ps.</i>(::) Ex(cfe)sul(fg)tá(g)te(g) ju(gi)sti(h) in(h) Dó(h)mi(hg)no:(gh) *(:) re(ge)ctos(fg) de(g)cet(g) col(g!hwi)lau(h)dá(f)ti(fff)o.(dc) (::) Gló(cfe)ri(fg)a(g) Pa(g)tri(g) (::) E(g) u(g!hwi) o(g) u(f) a(fff) e(dc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "549"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3652",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

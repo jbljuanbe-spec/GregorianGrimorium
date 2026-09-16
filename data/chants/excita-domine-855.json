@@ -1,0 +1,43 @@
+{
+  "id": "excita-domine-855",
+  "incipit": "Excita Domine",
+  "title": "Excita Domine",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Excita, Dómine, poténtiam tuam, et veni, ut salvos * fácias nos.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh)ia.(ixhiHG'gf.) *(,) <i>ij.</i>{}(ixhiHG'ge./ghGF'Ef_gf/fe.) <sp>V/</sp>.(::) Ex(h)ci(h)ta,(ixg'ivHG'hf/fe.) Dó(fd/ef!gh/hg)mi(fg)ne,(g.) (;) po(g)tén(gh)ti(ghg'/hf)am(ed~) tu(egF'D)am,(d.) (:) et(f!gwhg) ve(ixhiG'Eg./hiF'D/ff/fdgvFE.,df/h_f/g_efv.df!gvFE'f)ni,(fe..) (:) ut(d) sal(fd~)vos(f) *() fá(e!f'g)ci(gdgvFE)as(fd/ef!g'h) nos.(ixhiHG'gf.,ixhiHG'ge./ghGF'Ef_gf/fe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "8"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "336"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "23"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "855",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

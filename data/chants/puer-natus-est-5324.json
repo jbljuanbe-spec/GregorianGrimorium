@@ -1,0 +1,31 @@
+{
+  "id": "puer-natus-est-5324",
+  "incipit": "Puer natus est",
+  "title": "Puer natus est",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Puer natus est nobis, et fílius datus est nobis: cujus impérium super húmerum ejus: et vocábitur nomen ejus, magni consílii Angelus. ℣. Cantáte Dómino cánticum novum: quia mirabília fecit. Glória E u o u a e",
+  "gabc": "(c3) Pu(ei)er(i) (::) na(iji)tus(h) est(hhv) no(ihji)bis,(i) (:) et(ei) fí(iji)li(hg)us(f) (;3) da(hhi)tus(h) est(h) no(hihhv)bis:(efe) (:) cu(e)jus(f) im(h)pé(hi/jk)ri(ih)um(h) (;) su(h)per(h) hú(ihji)me(h)rum(hhv) e(hf!ghggf~)jus:(gf) (:) et(hf~) vo(h)cá(hji)bi(h)tur(hhv) no(h)men(h) e(hig/hggf~)jus,(gf) (:) ma(hj)gni(i) con(ef)sí(h)li(hhf)i(f) An(fhGFh)ge(efe)lus.(e) <sp>V/</sp>.(::) Can(ehg)tá(hi)te(i) Dó(i)mi(i)no(i) cán(ik)ti(j)cum(j) no(ji)vum:(ij) (::) qui(ig)a(hi) mi(i)ra(i)bí(i!jkj)li(i)a(h) fe(hg)cit.(fe) (::) Gló(ehg)ri(hi)a(i) (::) E(i) u(i!jkj) o(i) u(h) a(hg) e(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "31"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5324",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

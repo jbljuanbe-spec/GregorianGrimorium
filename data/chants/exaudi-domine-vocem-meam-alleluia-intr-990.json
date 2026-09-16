@@ -1,0 +1,37 @@
+{
+  "id": "exaudi-domine-vocem-meam-alleluia-intr-990",
+  "incipit": "Exaudi Domine vocem meam... alleluia (Intr)",
+  "title": "Exaudi Domine vocem meam... alleluia (Intr)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "EXáudi, * Dómine, vocem meam, qua clamávi ad te, allelúia: tibi dixit cor meum, quaesívi vultum tuum, vultum tuum Dómine requíram: ne avértas fáciem tuam a me, allelúia, allelúia. Ps. Dóminus illuminátio mea, * et salus mea: quem timébo? Glória Patri. E u o u a e.",
+  "gabc": "(c2) EX(exdde//)áu(cf)di,(f) *() Dó(ghg/hi)mi(h)ne,(h.) (,) vo(h)cem(f) me(ghg)am,(g.) (,) qua(f) cla(fd)má(fh)vi(g/) ad(fg~) te,(f.) (,) al(f)le(feg)lú(fgff)ia:(d.) (:) ti(dg)bi(g) di(h)xit(g) cor(f) me(fvED)um,(d!ewf.) (;) quae(fd)sí(fh)vi(ghG'F) vul(hig~)tum(hg) tu(fg!hvGF'g)um,(gf..) (;) vul(g)tum(g) tu(g)um(g) Dó(h)mi(g)ne(f) re(e)quí(cd)ram:(d.) (:) ne(dfED'/ewf) a(fd)vér(fh)tas(g) fá(gh)ci(f/)em(ed~) tu(fg)am(f_e) a(de) me,(d.) (;) al(hi)le(h)lú(hgh)ia,(f_d) (,) al(fg)le(e!fg/hf/gvFE)lú(d!ewfef)ia.(ed..) <i>Ps.</i>(::) Dó(f)mi(gh)nus(h) il(h)lu(h)mi(h)ná(hj)ti(h)o(h) me(hg)a,(gh..) *(:) et(gf~) sa(gh)lus(h) me(h)a:(hjh) quem(g') ti(f)mé(fff)bo?(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "288"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "854"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "990",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

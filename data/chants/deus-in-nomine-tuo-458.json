@@ -1,0 +1,31 @@
+{
+  "id": "deus-in-nomine-tuo-458",
+  "incipit": "Deus in nomine tuo",
+  "title": "Deus in nomine tuo",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Deus, * in nómine tuo salvum me fac, et in virtúte tua júdica me: Deus exáudi oratiónem meam. Ps. Quóniam aliéni insurrexérunt advérsum me: * et fortes quaesiérunt ánimam meam. Glória Patri. E u o u a e",
+  "gabc": "(c4) DE(egf)us,(ff) *(,) in(dg~) nó(g)mi(g)ne(g) tu(ixhg/hig)o(ggf.) (,) sal(e.f!gwh)vum(g) me(egf) fac,(eef.) (;) et(dgf) in(ef) vir(fg~)tú(g)te(g) tu(ixhg/hig)a(fgf.) (,) jú(gh/jij)di(h)ca(h.f!gwhgh) me:(hg..) (:) De(g.h!iwj)us(hj) ex(gh)áu(e.f!gwhg~)di(hg/ff/ded.) (;) o(dc)ra(f)ti(ghg)ó(ixh'/ifg)nem(gh/ig/h_g) me(egff)am.(fe..) <i>Ps.</i>(::) Quó(hg)ni(gh)am(h) a(h)li(h)é(h)ni(h) in(h)sur(h)rex(h)é(hg)runt(gi) ad(i)vér(hi)sum(h) me:(h.) *(:) et(hg~) for(gh)tes(h) quae(h)si(h)é(h)runt(h) á(h)ni(gf)mam(gh) me(g)am.(e.) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "141"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "458",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

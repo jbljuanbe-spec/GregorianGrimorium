@@ -1,0 +1,31 @@
+{
+  "id": "sciant-gentes-1784",
+  "incipit": "Sciant gentes",
+  "title": "Sciant gentes",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Sciant gentes * quóniam nomen tibi Deus: tu solus Altíssimus super omnem terram. ℣. Deus meus, pone illos ut rotam, et sicut stípulam ante fáciem * venti.",
+  "gabc": "(c4) SCI(dfd)ANT(d/ffd/fffhvGF) gen(gfff)tes(d/ffdev//fgddc) *(;) quó(d)ni(fdf)am(gfg) no(ixgf/g/igh)men(h) ti(ixhg!hwi)bi(h) (;) De(ixgf/g/igh)us:(hgi//hihiggf) (:) tu(f) so(hf/gh!jjh)lus(hghvGFg) (,) Al(hjij)tís(hf)si(gf~)mus(fg//d!fg//fh!jvGFfd/ff/ge/fgd/eddc) (:) su(c)per(d) o(fg/hg)mnem(h!jj/hjg) ter(fv//dge//f!gwh)ram.(ghffgFE) (,) (hjHGhvFD//ff/gffd) <sp>V/</sp>.(::) De(hg)us(g) me(gh/jh/jggf)us,(f) (;) po(hj)ne(ji) il(jjj)los(hg) (,) ut(gf~) ro(ixgv//fhg/hiGF//hf/gh!jj/k!mmmvKJjvHG , jkjjh)tam,(hjh/jjjh) (:) et(f) si(f)cut(ghg~) stí(hf/ghGF , hg!hfg//d!ewf//e!gwhg/h!jj)pu(hfg)lam(ghg/ff/ded) (:) an(d/fffd~)te(ef) fá(ixghghhghv//fh!ivGFE//f!gwh!ivHG)ci(hg)em(g) *(,) ven(ixhiGFh!jjvHG)ti.(hghFEfg) (,) (d!ewf!gv//fhGFEDewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "62"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1784",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "angelus-domini-4302",
+  "incipit": "Angelus Domini",
+  "title": "Angelus Domini",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Angelus Dómini descéndit de cælo, et dixit muliéribus : Quem quǽritis, surréxit, sicut dixit, allelúia.",
+  "gabc": "(c4)An(fg~)ge(g//hjh//g/gf/ghg)lus(g) (::) \r\n\r\nDó(hgh//jjv//kvJH)mi(gfh)ni(h) (;) de(h)scén(jh/hf/ghGE/fdfc)(;)(cd//ffv//gh/jh//gg/fg~)dit(g) (;) \r\nde(g!hj) cæ(jijg;3hjij//klj/jv)lo,(kj/jhjg) (:) \r\n\r\net(g) di(ggvED/eg/hvGFg)xit(g) (;) \r\nmu(g)li(hj)é(ig/hjjv//klKI/jkj)ri(ij)bus :(hjg) (:) \r\nQuem(gh~) qu{<sp>'ae</sp>}(hvGF/gvFE/f;4ghf/fdg)ri(fg)tis,(g) (;) sur(h)ré(gjIG/hhv;4fh/jg//ffd//ef//ghg)xit,(g) (;)\r\n\r\nsi(g)cut(hj) di(jji/jh//gh)xit,(h) (:) \r\n\r\nal(gih~)le(jkIH;3gi//hjIHG;jjh//jg)lú(ghggf~)ia.(fg) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "202"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4302",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

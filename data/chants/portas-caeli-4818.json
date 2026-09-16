@@ -1,0 +1,31 @@
+{
+  "id": "portas-caeli-4818",
+  "incipit": "Portas caeli",
+  "title": "Portas caeli",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Portas cæli apéruit Dóminus: et pluit illis manna, ut éderent: panem cæli dedit eis: panem Angelórum manducávit homo, allelúia.",
+  "gabc": "(c3) Por(d)tas(e) cæ(fhhf)li(gxegFEf) (::) a(de)pé(gye/fhg)ru(hg)it(h) (;3) Dó(gi/jhhf)mi(fhf)nus:(efe) (:) et(f) plu(h)it(f) il(h)lis(hvFEh) man(hhv)na,(efeed) (;) ut(df/hg) é(hhvGF)de(gf)rent:(f) (:) pa(df)nem(hjIH) cæ(hhihihhv)li(ef) (;) de(fhhf)dit(fe) e(ede)is:(ef!hvGF) (:) pa(h)nem(hhv) An(h)ge(f)ló(fhhv)rum(efe) (;) man(f)du(ed)cá(efe)vit(fgf) (;3) ho(hih//ihhe//hvGF/gvFEf)mo,(fe) (;) al(f)le(fefd)lú(fe//fgffe~)ia.(ef/he) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "209"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4818",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

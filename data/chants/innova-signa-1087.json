@@ -1,0 +1,31 @@
+{
+  "id": "innova-signa-1087",
+  "incipit": "Innova signa",
+  "title": "Innova signa",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Innova signa, * et immúta mirabília. Glorífica manum tuam et bráchium déxterum. Festína tempus, et meménto finis, ut enárrent mirabília tua.",
+  "gabc": "(c4) IN(f/g'h)no(g)va(g) si(ggfg)gna,(d.) *(,) et(d) im(dgfg)mú(ge/fd)ta(d) mi(d)ra(fdf)bí(gf/gh)li(gf)a.(ixf.hv.giHF.) (:) Glo(g)rí(g.h!iwjjk)fi(j)ca(j) ma(h)num(g') tu(f/gfg)am(d.) (;) et(f) brá(df)chi(f)um(f) déx(e!f'g)te(ge/fd)rum.(d.) (:) Fe(d)stí(dg)na(g) tem(gfg)pus,(ghggf.) (;) et(f) me(f)mén(hj~)to(j) fi(jk)nis,(ji/jkj.) (;) ut(ji) e(ig)nár(hi)rent(i) mi(i)ra(i)bí(kij)li(h_g)a(g_f/h!iwj.) (,) tu(gffd//fh/jggf!gwhgh)a.(hg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "113**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1087",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

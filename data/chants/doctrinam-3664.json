@@ -1,0 +1,31 @@
+{
+  "id": "doctrinam-3664",
+  "incipit": "Doctrinam",
+  "title": "Doctrinam",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Doctrínam * quasi antelucánum illúmino ómnibus, et enarrábo illam usque ad longínquum.",
+  "gabc": "(c4) DO(dfd)CTRÍ(eef//dgffffvDC//dfDC//dfd/ef)NAM(f) *(;) qua(ef!gwh)si(hg) an(g)te(d!ewf)lu(gf)cá(f!gwhgh)num(eef) (;) il(d)lú(dg)mi(hg)no(g) ó(hjh!iwj)mni(g)bus,(fgffd) (:) et(f) e(fe/f!gwh)nar(hg)rá(g/jjjvIH)bo(gh) il(egFE)lam(fff) (;) us(dec)que(fv//fff) ad(eef) lon(d!ewf)gín(fff/ghGD//fffhvGFgvFE)quum.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[179]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3664",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

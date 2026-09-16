@@ -1,0 +1,31 @@
+{
+  "id": "regina-mundi-3476",
+  "incipit": "Regina mundi",
+  "title": "Regina mundi",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Regína mundi * digníssima, María Virgo perpétua, intercéde pro nostra pace et salúte, quae genuísti Christum Dóminum Salvatórem ómnium.",
+  "gabc": "(c4) RE(ed)GÍ(e)NA(fe) mun(fgff)di(dc) *(,) di(d!ewf/ge/fe)gnís(d)si(de!fvEDe)ma,(ed) (;) Ma(dc)rí(fh)a(ghg) Vir(h)go(gf) per(gh)pé(f)tu(fgf)a,(f) (:) in(f)ter(hg~)cé(hji/jhhg)de(g) (,) pro(f) no(gh)stra(g) pa(fe)ce(d) et(fe~) sa(fg)lú(deDC)te,(c) (:) quae(dg) ge(fe)nu(dc)í(d)sti(c) Chri(d)stum(dc) Dó(f)mi(gf)num(f) (,) Sal(gh)va(g)tó(fe)rem(fgff) ó(d)mni(cd)um.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "488"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3476",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

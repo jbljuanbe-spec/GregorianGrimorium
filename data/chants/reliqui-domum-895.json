@@ -1,0 +1,31 @@
+{
+  "id": "reliqui-domum-895",
+  "incipit": "Reliqui domum",
+  "title": "Reliqui domum",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Relíqui * domum meam: dimísi hereditátem meam: inops et pauper ego sum: Dóminus autem assúmpsit me. T.P. Allelúia, allelúia. Ps. Quemádmodum desíderat cervus ad fontes aquárum: * ita desíderat ánima mea ad te Deus. Glória Patri E u o u a e",
+  "gabc": "(c4) RE(d)lí(d!ffde)qui(c) *() do(f)mum(gh) me(ixhvGF'gwhg/hi)am:(h.) (;) di(f)mí(fhg)si(ge) he(fg)re(g)di(ge)tá(fg)tem(ghF'Ef) me(ded__)am:(d.) (:) i(d!f'g)nops(ghg) et(gh~) pau(ge/fd~)per(dc) e(dfe)go(f) sum:(dfddc.) (;) Dó(fe)mi(fg)nus(gh) au(gfg)tem(g_d) (,) as(dcd)súm(fdf)psit(ffgvF'Ef) me.(d.) <i>T.P.</i>(::) Al(ixhi)le(h)lú(hgh)ia,(f_d) (,) al(fg)le(e!fg/hfgvFE)lú(d!ewfef)ia.(ed..) <i>Ps.</i>(::) Que(f)mád(gh)mo(h)dum(h) de(h)sí(h)de(h)rat(h) cer(h)vus(h) ad(h) fon(hj)tes(h) a(h)quá(hg)rum:(gh..) *(:) i(gf)ta(gh) de(h)sí(h)de(h)rat(h) á(h)ni(h)ma(h) me(h)a(hjh) ad(g') te(f) De(fff)us.(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "21**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "895",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

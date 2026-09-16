@@ -1,0 +1,31 @@
+{
+  "id": "ecce-quam-bonum-3513",
+  "incipit": "Ecce quam bonum",
+  "title": "Ecce quam bonum",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ecce * quam bonum, et quam jucúndum habitáre fratres in unum! ℣. Sicut unguéntum in cápite, quod descéndit in barbam, barbam * Aaron.",
+  "gabc": "(c4) EC(ixdh!ivHG/fhg/hi)CE(h) *(,) quam(fh~) bo(h)num,(ghGE) (,) et(f) quam(ghg/hf~) ju(gh)cún(ge/fgfg)dum(d) (;) ha(h)bi(jj)tá(jkj)re(ji/jvIH/iij) fra(g!hwi!jv)tres(ih) (;) in(fh) u(ixhg!jjvHG//hig)num!(efd/fh//ghGE/fg//fgFD) <sp>V/</sp>.(::) Si(d)cut(d) un(dh~)guén(h)tum(hjHGF//eg/hgh//fgFD) (,) (cd/fd//cd!ff/gh!iw!jvIH) (;) in(h) cá(h)pi(h)te,(hjHG/h!jjjh//jjjvIH/jggf) (:) quod(hk) de(kj)scén(jlKJ/kjjjh~)dit(ih) (,) in(f) bar(ixhv//fhg/hiGF//gf/ghfffd!ewfef)bam,(ed) (:) bar(d/fff)bam(gf) *() A(f)a(hgh)ron.(hhf) (,) (hg/hvFD/gfffvEC//ddc/da) (,) (cd!fvvDC/d!ff/gff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "331"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3513",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

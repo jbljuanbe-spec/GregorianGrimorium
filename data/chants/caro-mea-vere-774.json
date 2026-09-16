@@ -1,0 +1,37 @@
+{
+  "id": "caro-mea-vere-774",
+  "incipit": "Caro mea vere",
+  "title": "Caro mea vere",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Caro mea vere est cibus, et sanguis meus vere est potus: qui mandúcat meam carnem, et bibit meum sánguinem, in me manet, et ego * in eo.",
+  "gabc": "(c3) AL(d)le(efde/ffe)lú(df!hvGF/hh)ia.(e.) *(;) <i>ij.</i>(hv/ijj/h/ii//efE'D/ffe.) (,) (h'/ig'/hvF'ED'CB./e.f!gwhhvG'FE/ffe.) <sp>V/</sp>.(::) Ca(eh)ro(h_g/fge) me(fe)a(e.) (,) ve(d)re(efef) est(f) ci(hvGF'/ge)bus,(e.) (;) et(ei) san(iv.jkjjvIH/jh/ij)guis(i) me(ij)us(i.) (,) ve(ij)re(i) est(i) po(j!kwlj/kvJI/jvIH/i)tus:(i.) (:) qui(ij) man(i)dú(ij/klj/kvJI/jvIH/i)cat(i.) (;) me(ei/jvIH'/hvGF'E)am(fe) car(de)nem,(e/ffe.) (;) et(e) bi(ehg)bit(hi) me(i./jkjjvIH'G/hih)um(i.) (,) sán(hv.fhG'FE'D//fg)gui(fe)nem,(e.) (;) in(d) me(efde/ffe) ma(df!hvGF/hh)net,(e.) (;) et(h) e(ijj)go(h) *() in(i) e(i)o.(efE'D/ffe.) (,) (h'/ig'/hvF'ED'CB./e.f!gwhhvG'FE/ffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[96]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "314"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "774",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

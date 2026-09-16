@@ -1,0 +1,31 @@
+{
+  "id": "dicit-andreas-6487",
+  "incipit": "Dicit Andreas",
+  "title": "Dicit Andreas",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dicit Andréas Simóni fratri suo: Invénimus Messíam, qui dícitur Christus: et addúxit eum ad Jesum.",
+  "gabc": "(c3) Di(hhv)cit(h) (::) An(hi)dré(i)as(hgh) (;3) Si(h)mó(hg)ni(hf) fra(hg)tri(hih) su(hf/ghGFEf)o:(fe) (:) In(h)vé(ij)ni(j)mus(iji) Mes(h)sí(ihi)am,(if) (;) qui(f) dí(hg)ci(h!ij)tur(ij) Chri(hih)stus:(h) (:) et(hg) ad(h)dú(ij)xit(h) e(hf)um(fe) (;4) ad(ef) Je(e)sum.(dvCB//ede) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "370"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6487",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

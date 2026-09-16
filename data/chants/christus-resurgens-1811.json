@@ -1,0 +1,31 @@
+{
+  "id": "christus-resurgens-1811",
+  "incipit": "Christus resurgens",
+  "title": "Christus resurgens",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ℣. Christus resúrgens ex mórtuis, jam non móritur: mors illi ultra * non dominábitur",
+  "gabc": "(c4) AL(dc~)LE(d/fgFED//fvEDdc)LÚ(ixf!gwh!iv)IA(hfg) *(,) (ixhvGF/gi//hi!jvIHG//hvGF/ghhvGFg//dfddc) (,) (cf/ghGED/ffd) <sp>V/</sp>.(::) Chris(dc)tus(d/fgFED//fvEDdc) (,) re(f)súr(ixghhvGF/gfg/hg/hi)gens(hgg) (,) ex(f) mór(ixgfg/hvGF/gi//hi!jvIG/gfg/hg/hi)tu(h)is,(h) (;) jam(hvGFg//dfddc) non(cf/ghGF) mó(ed)ri(cd)tur:(d) (:) mors(ixcf/giiivHF/gfg/hjh) (,) (ixcf/giiivHF/gfg/hjh) (,) (ixjvIH/ivHG/hvGF/gh) (,) il(hvGF)li(gh) ul(gf~)tra(fgffvED) *(;) non(dc~) do(d/fgFED//fvED)mi(dc)ná(ixf!gwh!iv)bi(h)tur(hfg) (,) (ixhvGF/gi//hi!jvIHG//hvGF/ghhvGFg//dfddc) (,) (cf/ghGED/ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "228"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1811",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

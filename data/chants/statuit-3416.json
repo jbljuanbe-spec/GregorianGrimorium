@@ -1,0 +1,31 @@
+{
+  "id": "statuit-3416",
+  "incipit": "Statuit",
+  "title": "Statuit",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Státuit * ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in aetérnum. Ps. Meménto Dómine David: * et omnis mansuetúdinis ejus Glória Patri E u o u a e",
+  "gabc": "(c4) STÁ(ixdh!iv)TU(h)IT(h) *() e(h)i(h) Dó(hjjh)mi(ixihig)nus(hg) (;) te(ixhig)sta(f)mén(fg)tum(ghFEf) pa(ded)cis,(d) (:) et(d) prín(df!gh~)ci(g)pem(g) fe(ixhig)cit(f) e(f!gh)um:(h) (;) ut(h) sit(jj) il(jk)li(h) (,) sa(jj)cer(j)dó(j)ti(j)i(kvJIj) dí(h)gni(hih)tas(h) (;) in(de!fg//e!fh) ae(hghf/gvFE)tér(d!ewfef)num.(ed) <i>Ps.</i>(::) Me(f)mén(gh~)to(h) Dó(hj)mi(h)ne(h) Da(hg)vid:(gh) *(:) et(gf) o(gh)mnis(h) man(h)su(h)e(h)tú(hjh)di(g)nis(f) e(fff)jus(d) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g) u(f) a(fff) e(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[2]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3416",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

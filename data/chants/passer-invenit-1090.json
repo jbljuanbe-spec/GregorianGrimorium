@@ -1,0 +1,31 @@
+{
+  "id": "passer-invenit-1090",
+  "incipit": "Passer invenit",
+  "title": "Passer invenit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Passer * invénit sibi domum, et turtur nidum, ubi repónat pullos suos: altária tua Dómine virtútum, Rex meus, et Deus meus: beáti qui hábitant in domo tua, in saéculum saéculi laudábunt te.",
+  "gabc": "(c2) PAs(fi)ser(i) *() in(i)vé(i)nit(ig~) si(hj)bi(j) do(hi)mum,(hi) (,) et(gh~) tur(fg~)tur(gh~) ni(fg)dum,(g.) (;) u(g)bi(g) re(g)pó(iv.iii)nat(g_f) pul(f)los(exegf) su(fgd___ )os:(d.) (:) al(f)tá(gih)ri(h)a(h) tu(j)a(jh) Dó(jk)mi(j)ne(iih) vir(fi~)tú(iv.iii)tum,(hg..) (;) Rex(h_fh) me(ghF'D)us,(d.) (,) et(d!f'g) De(ghf)us(fef) me(deD'C)us:(c.) (:) be(fgd)á(f)ti(fg) qui(gd) há(fh)bi(gh)tant(fg/h_g) (,) in(ig~) do(ij)mo(kjk) tu(ig/jvIH)a,(h.) (;) in(f) saé(hih)cu(g)lum(ge~) saé(ghgh)cu(g)li(fge.) (,) lau(ef/gf/gh~)dá(d)bunt(d!ewf_d) te.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "126"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1090",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

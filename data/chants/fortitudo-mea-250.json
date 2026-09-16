@@ -1,0 +1,31 @@
+{
+  "id": "fortitudo-mea-250",
+  "incipit": "Fortitudo mea",
+  "title": "Fortitudo mea",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Fortitúdo mea, * et laus mea Dóminus, et factus est mihi in salútem: iste Deus meus, et glorificábo eum. ℣. Dóminus quasi vir pugnátor, Omnípotens nomen ejus. ℣. Dóminus cónterens bella: Dóminus * nomen est illi.",
+  "gabc": "(c4) FOr(d)ti(f)tú(fg)do(ge/fgD'Cd) me(fg)a,(ixf!iiivHG/hg..) *(;) et(gjj) laus(jk) me(hg/hfg)a(g.) (,) Dó(i_j)mi(hg)nus,(ggiH'G/hg/hg/hg/jjh/jggf.) (:) et(f) fac(hj)tus(igh) est(gfg) mi(gh)hi(g.) (,) in(g) sa(gh/jij)lú(j.h!iwj)tem:(jjjvIH/ivHG/hg..) (:) i(hfg)ste(gh/ji) De(j)us(h!iwj) me(jjj)us,(jh/jj/lvKJ'/jvI'HG/hg..) (;) et(gh) glo(g)ri(gh)fi(g)cá(hg/jjg/hvG'F)bo(f!h'j) e(j)um.(jijHG./ixjjvH'G/hiGF.) (,) (iyh./jh/ig/hhg.)\r\n\r\n<sp>V/</sp>.(::) Dó(g!hwi'!jv)mi(j)nus(j) qua(j)si(j) vir(jji) pu(g)gná(h_g/h!iw!jvIH/ijh)tor,(hg..) (:) Om(g)ní(h_g/h!iwj)po(gh)tens(g_f) (,) no(f!h'j)men(j) e(j)jus.(jijHG./ixjjvH'G/hiGF.) (,) (iyh./jh/ig/hhg.)\r\n\r\n<sp>V/</sp>.(::) Dó(g!hwi'!jv)mi(j)nus(j) cón(j)te(j)rens(j) bel(j_kJ'G/h_g/h!iw!jvIH/ijh)la:(hg..) (:) Dó(h_g/h!iwj)mi(gh)nus(g_f) *(,) no(f.h!iwj'!kv)men(j) est(j) il(j)li.(jijHG/g'g/hggfg.) (,) (jjj/kvJ'IH'/hg/hjI'HG'/ghf.) (,) (h!iw!jvIH'/ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "468"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "250",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

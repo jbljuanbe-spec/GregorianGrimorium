@@ -1,0 +1,31 @@
+{
+  "id": "sperent-in-te-841",
+  "incipit": "Sperent in te",
+  "title": "Sperent in te",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Sperent in te qui novérunt nomen tuum: quóniam non dereliquísti quaeréntes te, * Dómine.",
+  "gabc": "(c4) AL(f)le(f_d//ghf__fe)lú(f_d/g_0!hiHGh_j)ia.(jji.) *(;) <i>ij.</i>(ghG'Eg/hh//g/jj//jj//jjjh/ggf) (,) (ghg/hgge.) <sp>V/</sp>.(::) Spe(e_f)rent(dg) in(hj) te(ikj__j'jjh//jhhg/h.g/hwih.) (;) qui(h) no(hj)vé(j)runt(jj) no(j)men(i_h) tu(jkjk)um:(ji..) (;) quó(g/jj)ni(jj)am(i_h) non(i) de(g)re(h)li(g/jjh/jjg//hhf/ggff'fd,fhG'Fghg)quí(egff)sti(eef.) (;) quae(df)rén(ef/hhg/hgh)tes(gef) te,(g.) *(,) Dó(h_g/h!iwjij)mi(j)ne.(ij/k_j/ijh'ivH'Gh/jjkvH'F//hiG'Eggfg.) (,) (jjvH'G//ivHG'F//hvGF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "120**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "841",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

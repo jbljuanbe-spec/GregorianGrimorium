@@ -1,0 +1,31 @@
+{
+  "id": "requiem-7978",
+  "incipit": "Requiem",
+  "title": "Requiem",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Requiem * aetérnam dona eis Dómine: et lux perpétua lúceat eis. Ps. Te decet hymnus Deus in Sion, et tibi reddétur votum in Ierúsalem. Ant. Réquiem. Qui audis oratiónem, ad te omnis caro véniet propter iniquitátem Ant. Réquiem. Etsi prævaluérunt super nos impietátes nostræ, tu propitiáberis eis Ant. Réquiem. Beátus quem elegistí et assumpsísti, inhabitábit in átriis tuis. Ant. Réquiem. Replébimur bonis domus tuæ, sanctitáte templi tui. Ant. Réquiem.",
+  "gabc": "(c4) RE(ffg)qui(f)em(f) *() ae(f!g'h)tér(hggfg)nam(gf..) (;)\r\ndo(f!g'h)na(hg) e(h)is(ixhjHG'hw!ivHG') Dó(f)mi(fg!hvGF'g)ne:(gf..) (:)\r\net(hg~) lux(hvGF') per(h)pé(gh)tu(gf)a(f.) (;)\r\nlú(hg)ce(h)at(ixhjHG'hw!ivHG) e(fg!hvGF'g)is.(gf..) <i>Ps.</i>(::)\r\nTe(fg) de(gf)cet(gh) hym(h)nus(g) De(ixi)us(h) in(h) Si(g)on,(f.) (;)\r\net(h) ti(hj)bi(g) red(f)dé(f)tur(f) vo(f)tum(g) in(fd) Ie(f)rú(g)sa(f)lem.(f.) (::) <i>Ant.</i> Réquiem. ()(z+)\r\nQui(fg) au(gf)dis(gh) o(g)ra(ixi)ti(h)ó(g)nem,(f.) (:)\r\nad(f) te(gh) om(h)nis(h) ca(h)ro(h) vé(hj)ni(g)et(f_') prop(f)ter(f) i(g)ni(fd)qui(f)tá(g)tem(f.) (::) <i>Ant.</i> Réquiem. ()(z+)\r\nEt(fg)si(gf) præ(gh)va(h)lu(h)é(h)runt(h) su(h)per(h) nos(h_') (,) im(h)pi(h)e(g)tá(ixi)tes(h) no(g)stræ,(f.) (:)\r\ntu(hj) pro(g)pi(f)ti(f)á(g)be(fd)ris(f) e(g)is(f.) (::)  <i>Ant.</i> Réquiem. ()(z+)\r\nBe(fg)á(gf)tus(gh) quem(g) e(g)le(g)gi(g)stí(g) et(f) as(ixi)sum(h)psí(g)sti,(f.) (:) \r\nin(f)ha(gh)bi(h)tá(hj)bit(g_') in(f) á(g)tri(fd)is(f) tu(g)is.(f.) (::)  <i>Ant.</i> Réquiem. ()(z+)\r\nRe(fg)plé(gf)bi(gh)mur(h)  bo(h)nis(g) do(ixi)mus(h) tu(g)æ,(f.) (:) \r\nsan(f)cti(f)tá(f)te(g) tem(fd)pli(f) tu(g)i.(f.)  <i>Ant.</i> Réquiem. (::) (f+)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "669"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7978",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

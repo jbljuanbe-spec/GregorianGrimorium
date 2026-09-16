@@ -1,0 +1,31 @@
+{
+  "id": "converte-nos-5479",
+  "incipit": "Converte nos",
+  "title": "Converte nos",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Convérte nos Deus salutáris noster: et avérte iram tuam a nobis.",
+  "gabc": "(c4) Al(fd~)le(e!fg)lú(hgh)ia.(h/ixih/ggf) (::) (hih/gge) (;4) (ghGFE//fgffe) <sp>V/</sp>.(::) Con(h)vér(h)te(g) nos(ixgiHG/hffe) (;) De(fd//ef//ghhg)us(fg) (;4) sa(g)lu(gh)tá(gv//hg/hf)ris(ed) no(egFD)ster:(d) (:) et(dc) a(f!ghg)vér(h/ixivGE//g;hiGF//ffd//gvFE;df/hf//gffv//df/gvFEf)te(fe) (;) i(fd)ram(f) tu(e!fg)am(gd//gvFE) (::) a(d) no(fd//f!gh)bis.(ixhih/ggf) (;4) (hih/gge) (;4) (ghGFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "102*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5479",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

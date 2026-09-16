@@ -1,0 +1,37 @@
+{
+  "id": "video-caelos-920",
+  "incipit": "Video caelos",
+  "title": "Video caelos",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Video * caelos apértos, et Jesum stantem a dextris virtútis Dei: Dómine Jesu, áccipe spíritum meum, et ne státuas illis hoc peccátum, quia nésciunt quid fáciunt.",
+  "gabc": "(c4) VI(f!g'h)de(g)o(g) *() cae(h)los(ghg) a(f)pér(ixhi~)tos,(g.) (;) et(gjIH) Je(jk)sum(k) stan(kj~)tem(kj__) (,) a(j) dex(k)tris(jji) vir(h)tú(i!j'k)tis(j) De(jjh/ig)i:(g.) (:) Dó(gk)mi(klk)ne(jkJ'I) Je(h)su,(jj) (,) ác(k)ci(j)pe(ji) spí(j)ri(jh)tum(i) me(ihhgh)um,(hg..) (:) et(g) ne(ge) stá(gh)tu(g)as(f) il(g)lis(e.) hoc(eg) pec(f)cá(efED'e)tum,(ed..) (;) qui(fe)a(f) né(gh)sci(fe)unt(d') quid(e!f'g~) fá(g)ci(ghg___)unt.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "38"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "418"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "920",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cantate-domino-1559",
+  "incipit": "Cantate Domino",
+  "title": "Cantate Domino",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Cantáte Dómino, * allelúia: cantáte Dómino, benedícite nomen ejus: bene nuntiáte de die in diem salutáre ejus, allelúia, allelúia.",
+  "gabc": "(c3) CAN(f)TÁ(h)TE(hg) Dó(hi)mi(ivHG/hvGFg)no,(gf) *(,) al(f!gwh)le(egf)lú(fgf)ia:(f) (:) can(f)tá(h)te(hg) Dó(hj)mi(ji)no,(hih) (,) be(h)ne(hg)dí(i)ci(hg)te(f) no(f!gwhgh)men(gf) e(fgf)jus:(f) (:) be(jh/ig//hihi)ne(f) nun(f!gwh)ti(hf)á(hi!jvIHG/hwihi)te(ih) (,) de(h) di(i)e(f) in(fe~) di(f!gw!hvGFEf)em(fe) (,) sa(fgf)lu(ed)tá(fgf)re(ef) e(fgf)jus,(f) (;) al(jk)le(j)lú(jij)ia,(hf) (,) al(hi)le(g!hi/jh/ivHG)lú(f!gwhgh)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "231"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1559",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

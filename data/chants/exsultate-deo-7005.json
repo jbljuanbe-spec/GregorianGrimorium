@@ -1,0 +1,31 @@
+{
+  "id": "exsultate-deo-7005",
+  "incipit": "Exsultate Deo",
+  "title": "Exsultate Deo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Exsultáte Deo adjutóri nostro: jubiláte Deo Jacob: súmite psalmum jucúndum cum cíthara.",
+  "gabc": "(c3) Al(e)le(ehg)lú(hi~)ia.(i) (::) (hhi//g!ij) (;6) (hjijIHF) (;3) (fh/ihhe) (;) (hhf//hgih) (;6) (hhvFE//fgf/fe) <sp>V/</sp>.(::) Ex(ef)sul(e)tá(ehg)te(hi) De(ijHG//hi)o(i) (;) ad(i)ju(i)tó(i)ri(ki//jkJI) (;6) no(ijHG/hi)stro:(i//jh//ivHG/hg) (:) ju(h)bi(h)lá(gh/ij)te(ji//jvHFi) (;) De(ihhvGFEf)o(fe) (;1) Ja(df/hi)cob:(iv//jvHG/hi) (:) sú(e)mi(ehg)te(hi) psal(ik//lkki;6jkj//kjji~)mum(ji) (;) ju(i)cún(i)dum(ki//jkj//kvJI/ji) (::) cum(i) cí(fhg)tha(hi)ra.(i) (;6) (hhi//hhvFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "307"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7005",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

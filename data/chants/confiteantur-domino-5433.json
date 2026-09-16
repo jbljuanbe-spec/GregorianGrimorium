@@ -1,0 +1,31 @@
+{
+  "id": "confiteantur-domino-5433",
+  "incipit": "Confiteantur Domino",
+  "title": "Confiteantur Domino",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Confiteántur Dómino misericórdiæ ejus: et mirabília ejus fíliis hóminum.",
+  "gabc": "(c2) Al(c)le(ce/gf)lú(ef//gvFE/fg~)ia.(g) (::) (egeg//hiGF//gffc) (;) (dffe//fhg/ffd) (;4) (gfgffc) (;) (ffvDC/deddc) <sp>V/</sp>.(::) Con(c)fi(cg!hv)te(g)án(gh)tur(g) (;) Dó(gh!ivHG)mi(ghf)no(f//gvFE/fe) (;) mi(f)se(fg)ri(g)cór(gffe~)di(fg)æ(gv//iivGF) (;3) e(iiji//ivHG)jus:(gv//hhg) (:) et(g) mi(h!iji)ra(ih)bí(iivHG)li(gf)a(f//gffe) (;) e(ef!gvFE/fg//iivGF;3iiji//ivHG)jus(gv//hhg) (::) fí(c)li(c)is(c) hó(cfe)mi(fg)num.(ggc) (;) (bd/fe//fgffvDC//deddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "105*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5433",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

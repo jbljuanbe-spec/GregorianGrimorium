@@ -1,0 +1,31 @@
+{
+  "id": "confitemini-et-invocate-5157",
+  "incipit": "Confitemini... et invocate",
+  "title": "Confitemini... et invocate",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Confitémini Dómino, et invocáte nomen ejus: annuntiáte inter Gentes ópera ejus.",
+  "gabc": "(f3) Al(ef~)le(f)lú(hf//hhi//hhih~)ia.(ij) (::) (hhe//hhv/kxjkIHGF//hhf) <sp>V/</sp>.(::) Con(f)fi(hh)té(i)mi(h)ni(h//ji//hhv/fgf) (;) Dó(hf//hhig//hi)mi(f)no,(efe) (:) et(f) in(e)vo(f)cá(fih//ig/hf)te(fe) (;) no(f)men(fgef) e(fg/hgh)jus:(gf) (:) an(h)nun(e)ti(f)á(h//jvIHh;4fiHGE//fhf//hhf)te(f) (;) in(f)ter(fe~) Gen(fhFE//fhhf;3ijhhv)tes(gf//gvFE/fe) (::) ó(fc)pe(e)ra(f) e(hf//hhi//hhih~)jus.(ij) (;) (hhe//hhv/kxjkIHGF//hhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "326"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5157",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

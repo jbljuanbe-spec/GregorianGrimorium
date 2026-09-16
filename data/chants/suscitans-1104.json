@@ -1,0 +1,31 @@
+{
+  "id": "suscitans-1104",
+  "incipit": "Suscitans",
+  "title": "Suscitans",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Súscitans a terra ínopem, et de stércore érigens páuperem: ut cóllocet eum cum princípibus, cum princípibus * pópuli sui.",
+  "gabc": "(c4) Al(d!ff)le(ef)lú(ghG'Fg_h)ia.(hjH'G) *(,) (h_d/ev.fg/h_g h_dev.fg!hvGF'hgge.) <sp>V/</sp>.(::) Sú(ixdh'!iv)sci(h)tans(h) a(h) ter(hg/hvGE'f)ra(ixg'/hihhg.) í(ixgh!ij)no(g)pem,(giHG.) (;) et(h) de(hg) stér(h)co(g)re(g) é(gh)ri(g)gens(gvFD'f) páu(e)pe(egff)rem:(eef.) (:) ut(d) cól(dc)lo(f)cet(ghg) e(ixhiG'Eg./hiF'D//fffd/gvFE. , df/h_f/g_e/fv.df/gef)um(e.) (;) cum(f) prin(f)cí(ef!gh)pi(g)bus,(ghgh'f) (;) cum(ed~) prin(e)cí(gef/hvGFhvGF'g)pi(fe)bus(e.) *(,) pó(fd)pu(f)li(e!f'g) su(fhgh)i.(hjH'G) (,) (h_d/ev./fg/h_g h_dev./fg!hvGF'hgge.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "23**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1104",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

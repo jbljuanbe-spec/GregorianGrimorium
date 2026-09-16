@@ -1,0 +1,37 @@
+{
+  "id": "tu-es-sacerdos-477",
+  "incipit": "Tu es Sacerdos",
+  "title": "Tu es Sacerdos",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Tu es sacérdos in aetérnum, secúndum órdinem * Melchísedech.",
+  "gabc": "(c4) AL(d)le(dgfg//hjh)lú(fg~)ia.(g.) *(;) <i>ij.</i>(hjhj./klJG.hjI'HG.) (,) (hjhj./klJG./hjI'HG.) (;) (hjij//ikJH'hg//ig/hhg.) <sp>V/</sp>.(::) Tu(fg) es(g) sa(h)cér(ijhhg~)dos(g.) in(ih) ae(jkj__)tér(jjjvIG'h)num,(h.) (;) se(hi!j'k)cún(kj~)dum(kj/ikJH'hg.) ór(ih/ij)di(hg)nem(gh/jkj//ikJH'hg.) *(;) Mel(d)chí(dgfg//hjh)se(fg)dech.(g.) (;) (hjhj./klJG.hjI'HG.) (,) (hjhj./klJG.hjI'HG.) (;) (hjij//ikJH'hg//ig/hhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[33]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[4]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "477",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

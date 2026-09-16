@@ -1,0 +1,31 @@
+{
+  "id": "repleta-est-519",
+  "incipit": "Repleta est",
+  "title": "Repleta est",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Repléta est malis * ánima mea, et vita mea inférno appropinquávit. ℣. Aestimátus sum cum descendéntibus in lacum, factus sum sicut homo * sine adjutório.",
+  "gabc": "(f3) RE(c)plé(e!f'g)ta(f) est(ce/fg/hgg) ma(fg!hvGF'g)lis(gf..) *(;) á(fe)ni(f)ma(h.f!gwh) me(hiH'F)a,(feh/ghfgvFEfe..) (:) et(e) vi(fhg)ta(g!h'i) me(hggfg)a(fv.ef!hhf/hhvF'Ehihhh'f/eece.) (;) in(c)fér(ef~)no(f) ap(f)pro(f)pin(ef)quá(hffeg)vit.(gih'__//ivHF'gvF'Ef!hh) (,) (ijI'Ghihh/fgf.) <sp>V/</sp>.(z0::c4) Ae(c)sti(d)má(fg!hvGFgvFEfgfg)tus(g) sum(ixgig__!hwiivHGhg..) (;) cum(f) de(f)scen(f)dén(fg~)ti(f)bus(f) in(gh~) la(hvGF.ef/g_e/g_ff'ffvDCecd)cum,(d.) (:) fa(d)ctus(f) sum(gfh) si(h)cut(h) ho(ixjhhg/hiGF' , gh!jjvHF'/hvGF'fvED)mo(d/ffd) (,) (fge'/fgd'/eddc.) *(;) si(ixf!gwh'!iv)ne(h) ad(h)ju(hg)tó(ixgh/jhiGF'h!jjvH'Gh')ri(d)o.(dc/d/ff/ghG'Efgff/ded.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "12**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "519",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

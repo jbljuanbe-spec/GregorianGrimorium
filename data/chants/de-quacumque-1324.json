@@ -1,0 +1,37 @@
+{
+  "id": "de-quacumque-1324",
+  "incipit": "De quacumque",
+  "title": "De quacumque",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. De quacúmque tribulatióne clamáverint ad me, exáudiam eos, et ero protéctor eórum * semper.",
+  "gabc": "(c4) AL(c)le(e)lú(g!hi)ia.(hv.ghg.) *(,) <i>ij.</i>(jvIGhvvGE/fvEDe.) (;) (ce!gh//gih/gih/gvvFD./efED.//ce/feed.) <sp>V/</sp>.(::)  De(h) qua(hvGE)cúm(gh~)que(h.) tri(hg)bu(e)la(fe)ti(de)ó(ce!gvgef//ghGE'f)ne(ed..) (,) cla(h)má(hvGE)ve(gh)rint(h_d) ad(e!fg) me,(fe..) (;) ex(g)áu(fh)di(g)am(ed) e(evDC/d!ewf)os,(ed..) (:) et(e) e(dd)ro(c) pro(e)té(gv./fhg)ctor(e) e(f)ó(ed)rum(c_e) *() sem(g!hi)per.(hv.ghg.) (,) (jvIGhvvGE/fvEDe.) (;) (ce!gh//gih/gih/gvvFD./efED.//ce/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "486"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1441"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1324",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

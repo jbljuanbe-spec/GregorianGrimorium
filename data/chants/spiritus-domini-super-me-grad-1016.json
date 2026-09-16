@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-domini-super-me-grad-1016",
+  "incipit": "Spiritus Domini super me (Grad)",
+  "title": "Spiritus Domini super me (Grad)",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes 1961",
+  "text_latin": "SPíritus Dómini * super me, propter quod unxit me. ℣. Evangelizáre paupéribus misit me, sanáre contrítos * corde.",
+  "gabc": "(c4) SPí(ffg)ri(f)tus(f) Dó(ghgh)mi(g)ni(fgFD.) *(,) su(dgf/gh)per(g) me,(ixg./hiGF'fd/fgf.__) (;) pro(fhg')pter(gjjh) quod(ixhv.fhg__/hiH'GF'fhvGFgf..) (,) un(fg)xit(gff) me.(dec.) (,) (fhg__/jkijh.//fhg/hggf.) <sp>V/</sp>.(z0::c3) E(d)van(d)ge(d)li(fe)zá(eh)re(h'_) pau(h)pé(h)ri(h)bus(ihh'hfhv.ijh.) (,) (hv.ijIH.ijHF.ghFD.) (,) (fdfED//fd/ef!hh/ig/hf/hi!kkkh..) (;) mi(hhihhf)sit(hfhhe/fd) me,(d.) (:) sa(d)ná(d)re(d) con(d)trí(dfE'D)tos(ef) *() cor(fhG'Fhhh)de.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[100]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1016",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

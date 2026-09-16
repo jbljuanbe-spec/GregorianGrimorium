@@ -1,0 +1,31 @@
+{
+  "id": "tulerunt-jesum-93",
+  "incipit": "Tulerunt Jesum",
+  "title": "Tulerunt Jesum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tulérunt * Jesum paréntes ejus in Jerúsalem, ut sísterent eum Dómino.",
+  "gabc": "(c4) TU(c!d'f)lé(f)runt(e!f'g) *() Je(dgF'EghG'FgvFE)sum(f.) (;) pa(f)rén(fgf/gff'fd~)tes(dgF'E) e(hgh_f/hggd~)jus(dgF'EfgFD.) (;) in(df/gef) Je(f)rú(ixff/hih/ih)sa(hg)lem,(gh/igh.) (:) ut(ef) sí(gh/hg)ste(gf)rent(fg!hvhg) e(dgF'E)um(e.) (,) Dó(eg!hvGFghg)mi(e)no.(egf/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "63"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "93",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

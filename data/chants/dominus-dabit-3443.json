@@ -1,0 +1,31 @@
+{
+  "id": "dominus-dabit-3443",
+  "incipit": "Dominus dabit",
+  "title": "Dominus dabit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Dóminus dabit verbum evangelizántibus virtúte * multa.",
+  "gabc": "(c4) AL(ffg)LE(gf)LÚ(ixf!gi//higg)IA.(gf) *(,) <i>ij.</i>(ixhf/gf/gi//hiGF//hf/ghggf) <sp>V/</sp>.(::) Dó(ff)mi(fgf)nus(fd) da(ff)bit(ixf!gi) ver(ixhig~)bum(gf/hf/ggf) (;) e(f)van(gf~)ge(ixf!hj)li(jvIHivHGh)zán(fh!ivHGhfg)ti(fg!hvGFg)bus(gf) (;) vir(df~)tú(fg)te(gf) *() mul(ixf!gi//higg)ta.(gf) (,) (ixhf/gf/gi//hiGF//hf/ghggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[173]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3443",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

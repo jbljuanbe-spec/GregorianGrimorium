@@ -1,0 +1,31 @@
+{
+  "id": "ego-autem-in-gaudebo-52",
+  "incipit": "Ego autem in... gaudebo",
+  "title": "Ego autem in... gaudebo",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ego autem * in Dómino gaudébo: et exsultábo in Deo Jesu meo: Deus Dóminus fortitúdo mea. Ps. Exsultáte Deo adjutóri nostro: * jubiláte Deo Jacob. Glória Patri E u o u a e",
+  "gabc": "(c4) E(f)go(gh) au(h)tem(h.) *(,) in(h) Dó(h/jjj)mi(hg)no(ixgih'/ivG'F) gau(hg~)dé(h/jjj)bo:(ih..) (;) et(j) ex(jjj)sul(h)tá(j)bo(jj//jjj) (,) in(h') De(ixfh'!ivHF'g)o(f) Je(h)su(hg) me(hvG'FE'/fwgfg)o:(fg/hg..) (:) De(h)us(hg) Dó(hj)mi(h)nus(ghg.) (;) for(fd~)ti(f)tú(fhg)do(ghf/gvFE) me(d!ewfef)a.(ed..) <i>Ps.</i>(::) Ex(f)sul(gh)tá(h)te(h) De(h)o(h) ad(h)ju(h)tó(hj)ri(h) no(hg)stro:(gh..) *(:) ju(gf)bi(gh)lá(h)te(hjh) De(g')o(f) Ja(fg)cob.(h.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fg) e(h.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "467"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "52",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

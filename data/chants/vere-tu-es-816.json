@@ -1,0 +1,31 @@
+{
+  "id": "vere-tu-es-816",
+  "incipit": "Vere tu es",
+  "title": "Vere tu es",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Vere tu es Rex abscónditus, Deus Israel * Salvátor.",
+  "gabc": "(c4) AL(gh)le(fvEDef/gf/hg)lú(fg~)ia.(g.) *(;) <i>ij.</i>(hgjvvIH'kvJH'hg.,hvGF'EDgv.fg!hvhgjvIH'hg.) <sp>V/</sp>.(::) Ve(gh)re(fvED) tu(ef/gfhvGF'g) es(g.) (;) Rex(hji) ab(j)scón(h!iwj'!kvJH'hg//hjg/hvGFhv.g.h!iwji)di(hg)tus,(g.) (:) De(gj)us(jvIH) Is(hkkj)ra(hg)el(g.) *(,) Sal(gh)vá(fvEDef/gfhvGF'g)tor.(g.) (;) (hgjvvIH'kvJH'hg.) (,) (hvGF'EDgv.fg!hvhgjvIH'hg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "61"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "816",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

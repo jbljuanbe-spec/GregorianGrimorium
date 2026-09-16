@@ -1,0 +1,37 @@
+{
+  "id": "defecit-caro-594",
+  "incipit": "Defecit caro",
+  "title": "Defecit caro",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Defécit caro mea, et cor meum: Deus cordis mei, et pars mea Deus * in aetérnum.",
+  "gabc": "(c4) AL(g)le(g)lú(hiH'G/h!iwj)ia.(i.) *(,) <i>ij.</i>(jkJ'I/jkJ'I/hihhg) (;) (g.h!iwjji//jkJ'I/jkJ'I/hihhg) (,) (g.h!iw!jvIHG'/gf//ghg/hgge.) <sp>V/</sp>.(::) De(g)fé(hiH'G/h!iwj)cit(i.) ca(hj)ro(jji) me(hg)a,(h) et(h) cor(hi) me(hg)um:(g.) (:) De(i!jk)us(j_i) cor(hjji)dis(hg) me(hjh)i,(iji.) (;) et(g) pars(i!jk) me(jji)a(hih) De(ghg)us(g.) *(;) in(g) ae(g)tér(hiH'G/h!iwj)num.(i.) (,) (jkJ'I/jkJ'I/hihhg) (;) (g.h!iwjji//jkJ'I/jkJ'I/hihhg) (,) (g.h!iw!jvIHG'/gf//ghg/hgge.)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "506"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1479"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "594",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

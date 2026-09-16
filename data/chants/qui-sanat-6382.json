@@ -1,0 +1,31 @@
+{
+  "id": "qui-sanat-6382",
+  "incipit": "Qui sanat",
+  "title": "Qui sanat",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Qui sanat contrítos corde: et álligat contritiónes eórum.",
+  "gabc": "(c4) Al(f)le(fd//ghffe)lú(fd;4gh/jvHG//hj~)ia.(j) (::) (jvIG//hvGE//ghhv) (;) (gjjh//ggf//ghg//hg//ffe) <sp>V/</sp>.(::) Qui(ef) sa(dg//hj)nat(ik//jjh) (;6) (jhhghg//hjh) (;) con(j)trí(j)tos(ih) cor(jkjk)de:(ji) (:) et(gh) ál(gjjh//jg//hhf;3ggf/efd;3fhGF//ghg)li(egffv)gat(fe) (;4) con(f)tri(fgf)ti(f)ó(e!fg//hhgh)nes(gef) (::) e(g)ó(hjHGhj)rum.(jjh//ggf//ghg//hg/ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "348"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6382",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "hodie-maria-5733",
+  "incipit": "Hodie Maria",
+  "title": "Hodie Maria",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Hódie María virgo cælos ascéndit: gaudéte, quia cum Christo regnat in ætérnum.",
+  "gabc": "(c4) Al(ef!gh)le(g)lú(e//gf/eed~)ia.(d) (::) (gh/ihhf//ghhg) (;) (gh!ijHGF) (;3) (ghEDC) (;) (ggf//ghhg) (;) (jvjhi//gih) (;3) (ege//gffvEDC) (;) (ggf//ghhg) <sp>V/</sp>.(::) Hó(gvFE//fg)di(hg)e(g//hjg) (;4) (egFEDg) (;) Ma(g)rí(gf)a(ed) vir(ef>)go(d) (;4) (ggvFED//efeed) (;) cæ(evDCd)los(ef//ggf) a(fhe)scén(fgf~)dit:(g) (:) gau(gigh//hggf//ghhg;hj//jvIHG)dé(hi)te,(hg) (;) qui(fg)a(g) cum(gvFD) Chri(evDC)sto(dc) (;) re(ce/fggv//he/fggv//hiHGg;fgFD//fe/ddc;ce/fggv//he/fggv//hiHG//fggv;hj//jvIHG//ef)gnat(g) (::) in(ef!gh) æ(g)tér(egf//eed~)num.(d) (;) (gh/ihhf//ghhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "548"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5733",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

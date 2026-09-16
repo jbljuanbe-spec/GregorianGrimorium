@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-ubi-vult-6930",
+  "incipit": "Spiritus ubi vult",
+  "title": "Spiritus ubi vult",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Spíritus ubi vult spirat: et vocem ejus audis, allelúia, sed nescis unde véniat, aut quo vadat, allelúia, allelúia, allelúia.",
+  "gabc": "(c4) Spí(fg)ri(h)tus(ghGF) (::) u(h)bi(j) vult(ijHG) spi(fg)rat:(g) (:) et(h) vo(j)cem(j) e(k)jus(i) au(j)dis,(h) (;) al(h)le(g)lú(hihhg~)ia,(g) (:) sed(i) ne(k)scis(j) un(i)de(k) vé(j)ni(i)at,(g) (;) aut(h) quo(jh/ijIH) va(g!hiHGh)dat,(hg) (:) al(gk)le(k)lú(l)ia,(k) (;6) al(j)le(i)lú(j)ia,(h) (;) al(j)le(ijh//ijIH)lú(g!hiHGh)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "261"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6930",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

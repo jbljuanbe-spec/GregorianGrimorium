@@ -1,0 +1,31 @@
+{
+  "id": "exspecta-dominum-6466",
+  "incipit": "Exspecta Dominum",
+  "title": "Exspecta Dominum",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exspécta Dóminum, viríliter age: et confortétur cor tuum, et sústine Dóminum. ℣. Dóminus illuminátio mea, et salus mea, quem timébo? Exspecta.",
+  "gabc": "(c3) Ex(e)spé(hg)cta(h) (::) Dó(hji)mi(i)num,(i) (;) vi(i)rí(j)li(i)ter(h) a(i)ge:(hih) (:) et(fd~) con(f)for(f)té(fi)tur(h) cor(gh) tu(fiHG)um,(h) (:) et(fde) sú(ef/hgh)sti(h)ne(hiHGF//ghGF) (;4) Dó(e)mi(e!fgFEf)num.(fe) <sp>V/</sp>.(::) Dó(ehg)mi(hi)nus(i) il(i)lu(i)mi(i)ná(i)ti(i)o(i) me(i)a,(i) (;6) et(i) sa(ik)lus(j) me(ji)a,(ij) (::) quem(i!jkj) ti(i)mé(hg)bo?(fe) (::) Ex(e)spe(hg)cta.(h) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "141"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6466",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

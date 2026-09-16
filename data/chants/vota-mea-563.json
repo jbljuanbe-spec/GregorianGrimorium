@@ -1,0 +1,31 @@
+{
+  "id": "vota-mea-563",
+  "incipit": "Vota mea",
+  "title": "Vota mea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Vota mea Dómino reddam in conspéctu omnis pópuli ejus: in átriis domus Dómini, in médio tui * Jerúsalem.",
+  "gabc": "(c3) AL(e)le(ef/hhhi)lú(ji~)ia.(i.) *(,) <i>ij.</i>(ij!kllvK'JI//jkJIihii) (;) (ij!kllvK'JI//jkJIihii//ijIH'hvGFE'ed//fhf/gffe.) <sp>V/</sp>.(::) Vo(ef/hhhi)ta(i) me(iji__)a(i.) (,) Dó(ij!kllvK'JI//jkJI'i)mi(hi)no(i) red(ijIH'hf/hjhi~)dam(i.) (,) in(iji) con(hvGF)spé(h!iwji)ctu(i.) (,) o(f_e/h!iwji)mnis(hg/hih) pó(f)pu(e)li(de) e(efe__)jus:(e.) (:) in(e) á(g_0!hi)tri(i)is(i) do(ji)mus(hi) Dó(i)mi(iji__)ni,(i.) (;) in(i) mé(ij!kllvK'JI//jkJI'i)di(hi)o(i) tu(ijIH'hf/hjhi)i(i.) *(;) Je(ef/hhhi)rú(ji)sa(hi)lem.(i.) (,) (ij!kllvK'JI//jkJI'ihii) (;) (ij!kllvK'JI//jkJI'ihii//ijIH'hvG'FE'ed//fhf/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "41**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "563",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

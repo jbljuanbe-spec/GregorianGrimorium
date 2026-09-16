@@ -1,0 +1,31 @@
+{
+  "id": "in-die-solemnitatis-5745",
+  "incipit": "In die solemnitatis",
+  "title": "In die solemnitatis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "In die solemnitátis vestræ, dicit Dóminus, indúcam vos in terram fluéntem lac et mel, allelúia.",
+  "gabc": "(c4) In(c) di(dfe//ffe//gf/gvFEf)e(fe) (::) so(d)le(e)mni(f)tá(ghgh)tis(df) ve(ffgef)stræ,(ed) (;) di(f)cit(gh) Dó(hghf//gge;hggf//ghg)mi(egffv)nus,(fe) (:) in(fe~)dú(fg//f!gh/jjv)cam(gh) (;3) (ghf//ghhg) (;) vos(gef//dgFE) (;) in(fge) ter(ghgh;4fhghf;4fgfg//dgFE)ram(fe) (;) flu(f)én(fg//f!ghf//gffvDC//dffg)tem(f) (;) lac(gfgff) et(f!ghg) mel,(h) (:) al(gh)le(hgge//ghFEDCd;cfe//ffe//dgfg;ef/hvGF//ghg)lú(egffv)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "212"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5745",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

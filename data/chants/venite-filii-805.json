@@ -1,0 +1,49 @@
+{
+  "id": "venite-filii-805",
+  "incipit": "Venite filii",
+  "title": "Venite filii",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Veníte * fílii, audíte me: timórem Dómini docébo vos.",
+  "gabc": "(c4) VE(c!d'f)ní(f)te(e!f'g) *() fí(egF'E/ghG'F)li(gvFE)i,(f.) (;) au(f)dí(fgf/gff'fd)te(dgF'E) (,) (hgh_f/hggd) me:(dgF'EfgFD.) (:) ti(df/gef)mó(ff/ixhih/ihhg)rem(gh/igh.) Dó(e.f!gwhhg)mi(gf)ni(fg!hvhg.) (;) do(g_d)cé(dgF'E)bo(eg!hvGF/ghg) vos.(egf/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "425"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "592E"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1353V"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1623E"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "805",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

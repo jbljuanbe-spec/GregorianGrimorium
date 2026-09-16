@@ -1,0 +1,31 @@
+{
+  "id": "bonum-est-confiteri-7242",
+  "incipit": "Bonum est confiteri",
+  "title": "Bonum est confiteri",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Bonum est confitéri Dómino: et psálere nómini tuo Altíssime.",
+  "gabc": "(c4) Bo(ffv)num(fhg) est(gd) (::) con(fg)fi(gh)té(hv//jjvHG)ri(g//f!ghGFg) (;) Dó(g)mi(gh/jhi)no:(hg) (:) et(fg) psá(gjjv//kl)le(ji)re(jjhhg) (;) nó(gjjv)mi(jkJH)ni(h) tu(gh/jvIHi)o(ih) (;) Al(f!hj)tís(j)si(j)me.(jijHG//fg/hgh) (;) (jkjjh//jjvHG//hihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "59"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7242",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

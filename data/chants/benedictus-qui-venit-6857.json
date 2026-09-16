@@ -1,0 +1,31 @@
+{
+  "id": "benedictus-qui-venit-6857",
+  "incipit": "Benedictus qui venit",
+  "title": "Benedictus qui venit",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Benedíctus qui venit in nómine Dómini: benedíximus vobis de domo Dómini: Deus Dóminus, et illúxit nobis, allelúia, allelúia.",
+  "gabc": "(c4) Be(fgffe)ne(cd)dí(ffv//ghgh)ctus(hg) (::) qui(fg) ve(gjjkj)nit(j) (;) in(j) nó(j!klk)mi(kjjv)ne(ghg//jkj) (;) Dó(jkijh)mi(gf)ni:(gh//jhiHG/hg) (:) be(f)ne(g)dí(hj)xi(j)mus(jjvHGh) (;3) vo(fg)bis(hjHGh) (;) de(fg) do(gh)mo(hj) (;6) Dó(jjk;6jlk)mi(kljjh//iji)ni:(j) (:) De(gjjk;6jlk)us(kljjh//iji) (;) Dó(gjjv)mi(j//kj//ki/jh//gih)nus,(hggfg) (;) et(fg) il(gh)lú(hk!lv)xit(ji) no(jjh)bis,(hg//jhj) (:) al(f)le(g)lú(hjji~)ia,(jkJI/jjg) (;) al(hj)le(jjkj;6kij)lú(hg~)ia.(g//jh//ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "218"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6857",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

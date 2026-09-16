@@ -1,0 +1,31 @@
+{
+  "id": "descendit-jesus-626",
+  "incipit": "Descendit Jesus",
+  "title": "Descendit Jesus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis.",
+  "gabc": "(c4) DE(fg)scén(gff)dit(de) Je(cd)sus(d.) *(,) cum(f) e(ghgh)is,(gv.fgFD.) (;) et(d) ve(f_eg)nit(gh) Ná(hj)za(hg)reth,(gv.fhGE.) (:) et(ghg) e(hv.fh!jvvH'GE'f)rat(f.) (,) súb(f_dfvECfhg___)di(h)tus(ghF'Ef) il(ded___)lis.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "63"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "626",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

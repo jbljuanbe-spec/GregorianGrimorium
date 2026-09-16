@@ -1,0 +1,31 @@
+{
+  "id": "ego-autem-cantabo-3426",
+  "incipit": "Ego autem cantabo",
+  "title": "Ego autem cantabo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Ego autem cantábo fortitúdinem tuam: et exsultábo mane misericórdiam * tuam.",
+  "gabc": "(c3) AL(ef)LE(f)LÚ(hf/hh/ihhi)IA.(ijhhe) *(,) <i>ij.</i>(hhhj!lvIHGF/gwhf) <sp>V/</sp>.(::) E(ef)go(f/hgh) au(fiHGh)tem(hg) can(fi~)tá(ijIH/h/gh!ivHG/hi)bo(i) (;) for(ji//jki)ti(h)tú(hji/hhf)di(f)nem(fgef) tu(f!gwhgh)am:(gf) (:) et(g) ex(e)sul(f)tá(hjIH/h//fiHGE/f//hf/hf/he)bo(e) (,) ma(egFE/f!hhhf//ijhh)ne(gf/gvFE/fe) (;) mi(fd)se(e)ri(f)cór(fih/ihhe~)di(ef)am(f) *(,) tu(hf/hh/ihhi)am.(ijhhe) (,) (hhhj!lvIHGF/gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "400"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3426",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

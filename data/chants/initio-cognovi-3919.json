@@ -1,0 +1,31 @@
+{
+  "id": "initio-cognovi-3919",
+  "incipit": "Initio cognovi",
+  "title": "Initio cognovi",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Inítio cognóvi de testimóniis tuis, quia in aetérnum * fundásti ea.",
+  "gabc": "(f3) AL(fg)LE(fe)LÚ(fg)IA.(f) *(;) <i>ij.</i>(fg!hiivHGF//ghfgvFE/ffc//fgFEf) (;) (fg!hi!jvIHGF/gvFE/ffc//bc!dwe/fe) (,) (f!gwh/ihhvGF//ef/ggf) <sp>V/</sp>.(::) In(fe)í(fg)ti(fe)o(f//gh!ivHGF) co(ghf/gf)gnó(ef)vi(fc) (,) de(c) te(bc!dwe)sti(evDC)mó(ef)ni(f)is(fgf) tu(ef)is,(f) (:) qui(c)a(ef) in(e) ae(fg)tér(ghGF/gvFEf,fg!hiivHGF/gffe~)num(ef) *(,) fun(fe~)dá(fg)sti(fe) e(ef)a.(f) (;) (fg!hiivHGF//ghfgvFE/ffc//fgFEf) (;) (fg!hi!jvIHGF/gvFE/ffc//bc!dwe/fe) (,) (f!gwh/ihhvGF//ef/ggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[199]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3919",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

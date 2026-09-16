@@ -1,0 +1,31 @@
+{
+  "id": "regina-postquam-3615",
+  "incipit": "Regina postquam",
+  "title": "Regina postquam",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Regina * postquam vidit domum Dei, et víctimas quas immolábant in domo Dómini, non erat prae stupóre ultra in ea spíritus, dixítque: Sit Dóminus Deus benedíctus, quia díligit pópulum suum, et vult serváre eum in aetérnum.",
+  "gabc": "(c3) RE(e)GI(ef!hvFD/ewfef)NA(fe) *(,) post(e)quam(ef~) vi(fe/fvED)dit(d) do(fhf)mum(h) De(gh/ih)i,(hhvGEf) (;) et(bd) ví(de)cti(e)mas(ef) quas(d) im(fh)mo(h)lá(ghFE/ed!ewfef)bant(fe) (,) in(h) do(g!hi)mo(ih) Dó(hj)mi(ih)ni,(hiffe) (:) non(h) e(h)rat(eef) prae(f) stu(e)pó(f)re(e) (,) ul(fg)tra(e) in(e) e(ef!gwh)a(gf) spí(fiHG/hi)ri(e)tus,(fe) (;) di(de)xít(ef/hfg)que:(fe) (:) Sit(ei) Dó(ij)mi(ih)nus(h) De(hh/jkIH/hf/hih)us(h) (,) be(f)ne(fi)dí(ijIG//h!iwjij)ctus,(ji) (:) qui(i)a(ivhhhi) dí(ef)li(f)git(f) pó(fi)pu(h)lum(h) su(hg)um,(f) (;) et(fe~) vult(fhGE) ser(f)vá(ef)re(f) e(f)um(fe/fgf) (,) in(f) ae(ed)tér(df/hg/hiffe/fgFEf)num.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[126]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3615",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

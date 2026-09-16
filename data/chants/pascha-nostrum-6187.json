@@ -1,0 +1,31 @@
+{
+  "id": "pascha-nostrum-6187",
+  "incipit": "Pascha nostrum",
+  "title": "Pascha nostrum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Pascha nostrum immolátus est Christus, allelúia: ítaque epulémur in ázymis sinceritátis, et veritátis, allelúia, allelúia, allelúia.",
+  "gabc": "(c4) Pa(f)scha(fhgh) (::) no(f)strum(ed/ffd) (;) im(fe)mo(f)lá(gh)tus(gvFE//fgfg) est(gf) (;) Chri(f)stus,(fe/fdf) (;3) al(f)le(f)lú(fhggf~)ia:(f) (:) í(d)ta(ffvDC//dff//hghf)que(f) (;) e(f)pu(fef)lé(fdfc)mur(c) (;) in(f) á(ghgh)zy(hgh)mis(gfg) (;) sin(fd~)ce(fe)ri(f)tá(g)tis,(f) (;3) et(e) ve(gh)ri(gh)tá(fgf)tis,(f) (:) al(f)le(fd//fefd)lú(d!efc~)ia,(c) (;) al(dc~)le(f!ghg//hvGF)lú(gh~)ia,(h) (;) al(fg~)le(ixgiHG)lú(hggfg)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "200"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6187",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

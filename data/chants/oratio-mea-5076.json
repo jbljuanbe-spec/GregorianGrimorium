@@ -1,0 +1,31 @@
+{
+  "id": "oratio-mea-5076",
+  "incipit": "Oratio mea",
+  "title": "Oratio mea",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Orátio mea munda est, et ídeo peto, ut detur locus voci meæ in cælo: quia ibi est judex meus, et cónscius meus in excélsis: ascéndat ad Dóminum deprecátio mea.",
+  "gabc": "(c3) O(bd)rá(de)ti(e)o(e) (::) me(e!fhFE//hg)a(hih) (;3) mun(hf/gffd~)da(fe) est,(e) (:) et(de) í(fg/hgh)de(hg)o(h) pe(hih//ihhv)to,(ef) (;) ut(d!ef) de(ehhv)tur(f) lo(fhhv)cus(f!ghGFE/fe) (;) vo(f)ci(h) me(hhg)æ(h) in(ij) cæ(ijIH//ivHG)lo:(g) (:) qui(hi)a(i) i(kkv)bi(kj) est(kij) ju(i)dex(i) (;3) me(hjIH)us,(ihhg) (;) et(i) cón(hi)sci(i)us(i) me(ijIH)us(iv//hhi) (;) in(f) ex(fe)cél(gihih//hggf~)sis:(gf) (:) a(hhv)scén(h!iji/jh;3jijh//hggf~)dat(gf) (;) ad(fhf/hhv) Dó(fhf/hhv)mi(ef)num(ed) (;) de(d)pre(f)cá(hhv)ti(ih)o(h) me(hf//hhiffe)a.(efEd) (;) (fh/ihhf//hhvFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "542"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5076",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

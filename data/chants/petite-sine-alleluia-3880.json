@@ -1,0 +1,31 @@
+{
+  "id": "petite-sine-alleluia-3880",
+  "incipit": "Petite sine alleluia",
+  "title": "Petite sine alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Petite, * et accipiétis: quaérite, et inveniétis: pulsáte, et aperiétur vobis: omnis enim qui petit, áccipit: et qui quaerit, ínvenit: pulsánti aperiétur.",
+  "gabc": "(c4) PE(fg)TI(h)TE,(g) *(,) et(g) ac(ge)ci(fg)pi(fe)é(ded)tis:(d) (;) quaé(f)ri(ef)te,(d) (,) et(d) in(dc~)ve(dfe)ni(f)é(fdevDCd)tis:(dc) (;) pul(cd)sá(d!ewf!gvFEfwgfg)te,(gf) (,) et(fg) a(f)pe(ffe)ri(dc)é(df)tur(ef~) vo(ded)bis:(d) (:) o(f!gh)mnis(g) e(gh)nim(g) qui(g) pe(g)tit,(ge) ác(fg)ci(efEDe)pit:(ed) (;) et(gh) qui(g) quae(g)rit,(ge) ín(fg)ve(efEDCd)nit:(cd/ed) (:) pul(cd)sán(fe!fwgfg)ti(gf) (,) a(ffe)pe(f!gh)ri(fe)é(de!fvEDe)tur.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[100]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3880",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pater-noster-7509",
+  "incipit": "Pater noster",
+  "title": "Pater noster",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Pater noster, zelndo zelum Dei accépit testamén tum sacerdtii térni.",
+  "gabc": "(c4) AL(d)le(ff)lú(g.fgwhgh)ia.(hhf.) *(,) <i>ij.</i>(hjvHGhvGFhv.defhvGE'fd.) (;)\r\n(dhjvHGhvGFhv.) (,) (h!j'kJH'iw!jvIG'.f/ghF'EC.) (,) (egF'EDewfd.) <sp>V/</sp>.(::)\r\nPa(hfhhvGE'fd)ter(cd) nos(ded)ter,(d.) ze(d_f_d_dcd)l<v>{\\'a}</v>n(d_e_d_hvhggfixgigh)do(h.) (;)\r\nze(d)lum(efg~) De(gfhvFEgvFD)i(d.) (:)\r\nac(d)cé(fg)pit(f) te(ghg)sta(h)mén(h/jhhghvGFgvFDfvECd.!ffdfvECd.) (,) (fgh/jhhghvGFhv.defhvGE'fd~)tum(d.) (;)\r\nsa(d)cer(fvEC)d<v>{\\'o}</v>(egf)ti(ed/ffd)i(d.) (;)\r\n<v>{\\ae}</v>(d/ff)tér(gV.fgwhgh)ni.(hhf.) (,) (hjvHGhvGFhv.defhvGE'fd.) (;)\r\n(dhjvHGhvGFhv.) (,) (h!j'kJH'iw!jvIG'.f/ghF'EC.) (,) (egF'EDewfd.) (::)",
+  "transcriber": "Boris Maire",
+  "commentary": "1 Ma 2, 54",
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7509",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

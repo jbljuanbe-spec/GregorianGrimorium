@@ -1,0 +1,31 @@
+{
+  "id": "deus-virtutum-539",
+  "incipit": "Deus virtutum",
+  "title": "Deus virtutum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Deus virtútum, convértere, réspice de caelo, et vide, et vísita víneam istam: et pérfice eam, quam plantávit déxtera * tua.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh)ia.(ixhiHG'gf.) *(,) (ixhiHG'ge./ghGF'Ef_gffe.) <sp>V/</sp>.(::) De(ixdh'!iv)us(h) vir(h)tú(hghvGE'f)tum,(ixg'//hihhg.) (;) con(hg~)vér(h)te(g)re,(g.) (,) ré(ixhi)spi(h)ce(g) de(h) cae(fg)lo,(g.) (,) et(g) vi(ixgiH'G)de,(g.) (;) et(g) ví(g)si(g)ta(gf) ví(gh)ne(g)am(gvFD'f) i(egff)stam:(eef.) (:) et(d) pér(dc)fi(f)ce(ghg) e(ixhiG'Eg.ixhiF'D//fffdgvFE.,df/h_f/g_efv.df!gvFE'f)am,(fe..) (:) quam(d) plan(d)tá(ff)vit(f) déx(ef/ghg)te(f)ra(f) *() tu(fd/ef!g'h)a.(ixhiHG'gf.) (,) (ixhiHG'ge./ghGF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[132]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "539",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "benedicite-omnes-angeli-5241",
+  "incipit": "Benedicite, omnes Angeli",
+  "title": "Benedicite, omnes Angeli",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Benedícite omnes Angeli Dómini Dóminum: hymnum dícite, et superexaltáte eum in sǽcula. T. P. Allelúia.",
+  "gabc": "(c4) Be(ef)ne(de)dí(gh)ci(gf)te(ffv/ded) (::) o(g)mnes(g) An(jjv)ge(h)li(g) (;3) Dó(h)mi(g)ni(f) Dó(ixhiHG)mi(ghg)num:(g) (:) hy(g)mnum(g) dí(jjv)ci(hg)te,(iygh//ijiih) (;) et(h) su(h!iji)pe(g)rex(h)al(g)tá(f!gh)te(g) e(gefEDe)um(ed) (;) in(ffd//f!gh) s<sp>'ae</sp>(gv//fg!hvhg)cu(egffv)la.(fe) <i>T. P.</i>(::) Al(f)le(fd//f!ghGF//ghg)lú(egffv)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "440"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5241",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

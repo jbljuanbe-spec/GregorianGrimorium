@@ -1,0 +1,36 @@
+{
+  "id": "alleluia-ad-evangelium-8100",
+  "incipit": "Alleluia (ad Evangelium)",
+  "title": "Alleluia (ad Evangelium)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "AL-le-lú-ia.",
+  "gabc": "(c4)AL-(e)le-(gg higg'g h_g)lú-(gg hig)ia.(ggh gjh ihhg.) (::)",
+  "transcriber": "Wim Veth",
+  "commentary": null,
+  "liturgical_occurrences": [
+    {
+      "calendar": "Roman",
+      "celebration": "Sabbato sancto, in vigilia paschæ"
+    }
+  ],
+  "bibliography": [
+    {
+      "title": "Gregorian Missal",
+      "editor": "Solesmes",
+      "year": 1990,
+      "page": "339"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8100",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

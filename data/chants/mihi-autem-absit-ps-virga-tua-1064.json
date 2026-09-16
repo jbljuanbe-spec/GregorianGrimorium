@@ -1,0 +1,31 @@
+{
+  "id": "mihi-autem-absit-ps-virga-tua-1064",
+  "incipit": "Mihi autem absit. Ps. Virga tua",
+  "title": "Mihi autem absit. Ps. Virga tua",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Mihi autem * absit gloriári, nisi in cruce Dómini nostri Jesu Christi, per quem mihi mundus crucifíxus est, et ego mundo. Ps. Virga tua et báculus tuus: * ipsa me consoláta sunt. Glória Patri E u o u a e",
+  "gabc": "(f3) MI(e)hi(f) au(f)tem(hh) *(,) ab(ihi)sit(ihi_f) glo(hj)ri(ih)á(hg)ri,(e_f) (;) ni(fi)si(i) in(i) cru(kxi!jwkj)ce(ji__) (,) Dó(ij)mi(ih)ni(hv.gih) no(fge)stri(f.) (,) Je(f)su(hhi) Chri(fgF'E)sti,(e.) (:) per(h) quem(hhh) mi(f)hi(fi) mun(i)dus(h') cru(h)ci(hi)fí(i)xus(h) est,(hji.) (;) et(hihh) e(ef!hhi)go(h) mun(hjI'H)do.(hhh/fgf.__) <i>Ps.</i>(::) Vir(e)ga(fe) tu(eh)a(h) et(h) bá(hg)cu(hi)lus(i) tu(hi)us:(h.) *(:) i(hf)psa(fh) me(h') con(i)so(hf)lá(h)ta(ge) sunt.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "82**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1064",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

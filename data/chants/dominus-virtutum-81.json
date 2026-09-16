@@ -1,0 +1,31 @@
+{
+  "id": "dominus-virtutum-81",
+  "incipit": "Dominus virtutum",
+  "title": "Dominus virtutum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Dominus * virtútum ipse est Rex glóriae.",
+  "gabc": "(c3) DO(hjij)mi(h)nus(gvFE'fhhfh.) *(,) vir(fj~)tú(ji/jhhf/hji)tum(hg..) (;) ip(hi)se(hvG'FE'f) est(ehg/hhg.) (,) Rex(ge/f!hh/ijIH'hvG'Ef.) (,) (ehg/hhg.) gló(gvFEf_dd'db//de!fvfe)ri(cedd)ae.(dc..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "157"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "81",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

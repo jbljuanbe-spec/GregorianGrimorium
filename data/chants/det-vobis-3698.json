@@ -1,0 +1,31 @@
+{
+  "id": "det-vobis-3698",
+  "incipit": "Det vobis",
+  "title": "Det vobis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Det vobis Deus * idípsum sápere in altérutrum: ut unánimes uno ore honorificétis Deum nostrum.",
+  "gabc": "(c4) DET(e!gh) vo(hiHG)bis(gv//ggg//hihi) De(ghED,de/ghg//hi/ki/jkh)us(h) *(;) i(jj)dí(ji)psum(jjjh) sá(hjjh)pe(h)re(h) (,) in(h) al(gh)tér(hjjjjh//kjjh)u(hiHG)trum:(hg) (:) ut(h!iwj) u(j)ná(j)ni(jvIH)mes(h) (,) u(g)no(h) o(jij)re(j) (,) ho(j)no(j)ri(kvJH)fi(ji)cé(jv//hig)tis(egeg) (;) De(d!eg)um(e/ghg//ikjkvJIH) no(h)strum.(h!iwjjvIHiih) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[97]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3698",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

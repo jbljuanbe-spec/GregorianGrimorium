@@ -1,0 +1,31 @@
+{
+  "id": "salvum-me-fac-3514",
+  "incipit": "Salvum me fac",
+  "title": "Salvum me fac",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Salvum me fac, Deus, quóniam intravérunt aquae usque ad ánimam * meam.",
+  "gabc": "(c4) AL(ed)LE(g!hj)LÚ(ih/jjj)IA.(hg) *(,) <i>ij.</i>(h!jj//ij!klKI//jki/jh) (;) (g!jjjg//hghvFD//ff/ghGE/fgffe) <sp>V/</sp>.(::) Sal(fff)vum(ed) me(e!fg) fac,(g!jjj) De(ihj)us,(jkJHhg) (:) quó(hj)ni(g)am(hg/hff) (,) in(d)tra(dg)vé(g!hjj)runt(ij/kj/klk) a(ji)quae(i) (;) us(gih)que(hjj) ad(hg) á(ge)ni(ed)mam(g!hj) *() me(ih/jjj)am.(hg) (,) (h!jj//ij!klKIjki/jh) (;) (g!jjjg//hghvFDff//ghGEfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[105]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3514",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

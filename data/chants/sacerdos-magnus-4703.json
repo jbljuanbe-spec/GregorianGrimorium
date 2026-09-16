@@ -1,0 +1,31 @@
+{
+  "id": "sacerdos-magnus-4703",
+  "incipit": "Sacerdos magnus",
+  "title": "Sacerdos magnus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Sacérdos magnus, qui in vita sua suffúlsit domum, et in diébus suis corroborávit templum: quasi ignis effúlgens, et thus ardens in igne.",
+  "gabc": "(f3) Sa(f)cér(fh)dos(hf) (::) ma(h!iji~)gnus,(j) (;) qui(j) in(ijIG) vi(h!ij)ta(h) su(h)a(fhffe) (;) suf(f)fúl(h!ij)sit(hg) do(f!ghGFg)mum,(gf) (:) et(f) in(h) di(i)é(ij)bus(i) su(ihi)is(fh) (;) cor(h)ro(ij)bo(j)rá(jij)vit(i) tem(hi)plum:(hg/hiih) (:) qua(h)si(iji) i(j)gnis(ig) ef(hi)fúl(fgFEf)gens,(fe) (;) et(fgef) thus(efEC) (;4) ar(c!ef//ehhv)dens(ighg) in(f) i(f!ghGFg)gne.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "532"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4703",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

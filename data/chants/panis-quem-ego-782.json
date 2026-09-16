@@ -1,0 +1,37 @@
+{
+  "id": "panis-quem-ego-782",
+  "incipit": "Panis quem ego",
+  "title": "Panis quem ego",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Panis, * quem ego dédero, caro mea est pro saéculi vita.",
+  "gabc": "(c4) PA(ixdg!hih)nis,(h.) *(,) quem(h) e(hhg/hggf/ixg'/igh)go(h) dé(h_fg)de(h)ro,(g.) (;) ca(h)ro(g) me(ghg'/hd//fg!hvGD')a(d) est(d.) (:) pro(g) saé(ggf/g_d//ef/h_g/hfg)cu(f.e!fwgfg)li(g_f) (,) vi(hjh'/jvG'FE. , gh/jh/jvGF'/fvED'/ew!fvED'e)ta.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "362"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1043"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "782",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

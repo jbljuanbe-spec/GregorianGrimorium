@@ -1,0 +1,37 @@
+{
+  "id": "tu-es-vas-884",
+  "incipit": "Tu es vas",
+  "title": "Tu es vas",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tu es vas * electiónis, sancte Paule Apóstole: vere digne es glorificándus. ℣. Praedicátor veritátis, et Doctor géntium in fide et veritáte. ℣. Per te omnes gentes cognovérunt grátiam Dei. ℣. Inter céde pro nobis ad Deum, qui te * elégit.",
+  "gabc": "(f3) TU(c) es(ef) vas(fd/ef/C'Bc) *() e(ef)lec(e)ti(fh)ó(hhhvGF)nis,(gf..) (;) sanc(g!h'i)te(ihhg) Pau(fe~)le(ef/gf/ggf/gh/iffe.) (;) A(gh)pós(f_e/f!gwh'!iv)to(hi)le:(hg/hiih.) (:) ve(h)re(ij) di(jij)gne(h_f) es(f_e) (,) glo(g)ri(f)fi(hi)cán(hg/hiffe//hhhvGF')dus.(f/ggf.) <sp>V/</sp>.(::) Prae(hg)di(hi)cá(ijIG./hihi)tor(f_e) ve(h)ri(h!i'j)tá(jvIH'G/hvGF'g)tis,(gf..) (;) et(f) Doc(fi)tor(hiHF'/fe//hiHF'/fe//hvGF'/ihhvGF'/hffe.) (,) gén(f_e/f!gwh'!iv)ti(hi)um(hg/hiih.) (:) in(hi) fi(hiH'F//hhf/gvFE'f)de(fe..) (;) et(fc~) ve(e)ri(fh)tá(hiffe//hhhvGF')te.(f/ggf.) <sp>V/</sp>.(::) Per(fe~) te(fhg/hf/gvFE.) (,) om(h!i'j)nes(jh) gen(jvIH'/ihhvGE//fhg/hiH'GF/gvFE)tes(fe..) (:) co(fg)gno(f)vé(f_e/f!gwh'!iv)runt(hg/hiih.) (,) grá(hg)ti(fe)am(fh) De(hv./g.h!iwjhhg/ihhggf!gwhgh)i.(gf..) <sp>V/</sp>.(::) In(hi)ter(jvIH) cé(kxiji___/jkI'Hj_i/jkI'H,jji/jvIH//jji/jvIH//j_i/jiif)de(f.) (,) pro(h!i'j) no(jvIH'G/hvGF'g)bis(gf..) (:) ad(fg) De(f_e/f!gwh'!iv)um,(kxhgi./jkiih.) (;) qui(hihhe) te(fgf) *() e(g)lé(i_h/ivHFg. , h'/jijH'GF)git.(fe/f!hh/ijI'Gh.) (,) (gh!jvIH'hvGF/ggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "420"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1346"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "884",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sedebit-dominus-1229",
+  "incipit": "Sedebit Dominus",
+  "title": "Sedebit Dominus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Sedébit * Dóminus Rex in ætérnum: Dóminus benedícet pópulo suo in pace.",
+  "gabc": "(c4) SE(cd)dé(f)bit(dc) *() Dó(fg)mi(h)nus(gf) Rex(fgf) in(f_e) æ(ixgig___!hwi)tér(fgf___)num:(f.) (;) Dó(fg)mi(f)nus(f) be(f)ne(f)dí(ixf!gwh'!iv)cet(h.) (,) pó(hj)pu(g)lo(fg) su(gf)o(fgff/ded.) (,) in(f_e/ggh) pa(fgf___)ce.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": "Ps 28, 10b. 11b",
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "642"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1714"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "391"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1229",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

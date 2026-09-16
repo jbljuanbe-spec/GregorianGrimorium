@@ -1,0 +1,31 @@
+{
+  "id": "venite-audite-6161",
+  "incipit": "Venite audite",
+  "title": "Venite audite",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Veníte, audíte, et narrábo, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ. ℣. Jubiláte Deo omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. Glória E u o u a e.",
+  "gabc": "(c3) Ve(fde)ní(fe//hvGFg)te,(f) (::) au(hhv)dí(ivHF)te,(f) (;) et(f) nar(hg)rá(hi)bo,(hg) (;) o(fh~)mnes(h) qui(h) ti(h)mé(ihi)tis(hg) De(fg)um,(fe) (;) quan(fg)ta(fe) fe(f)cit(h) Dó(hg)mi(hi)nus(gf) (;) á(hg)ni(hi)mæ(ihhv//egf) me(fgf)æ.(f) <sp>V/</sp>.(::) Ju(e)bi(f)lá(eh)te(h) De(h)o(h) o(h)mnis(h) ter(h)ra,(h) (;) psal(h)mum(h) dí(h)ci(h)te(hg) nó(hi)mi(i)ni(i) e(hi)jus:(h) (::) da(h)te(fh) gló(h)ri(h)am(i) lau(hf~)di(h) e(ge)jus.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "375"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6161",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

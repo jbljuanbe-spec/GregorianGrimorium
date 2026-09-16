@@ -1,0 +1,31 @@
+{
+  "id": "eripe-me-domine-411",
+  "incipit": "Eripe me... Domine",
+  "title": "Eripe me... Domine",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Eripe me * de inimícis meis, Dómine: ad te confúgi, doce me fácere voluntátem tuam: quia Deus meus es tu.",
+  "gabc": "(c4) E(e!f'g)ri(hgh)pe(gfg) me(efd.) *(,) de(gj) i(jjj)ni(jh)mí(ik)cis(jkJ'H) me(j_h)is,(jhjvIG.) (,) Dó(giHG'hffe)mi(egF'E)ne:(e.) (:) ad(ff//ff) te(ff//ff) con(fd~)fú(fh)gi,(ixgih'/iggf.) (;) do(g)ce(hj) me(jv.jjjh) fá(h!iwj!kvJI)ce(ji)re(i.) (,) vo(ij)lun(j)tá(j)tem(jjjhk) tu(k_j/lvKJkvJI)am:(i.) (:) qui(ij)a(j) De(j_i)us(jv.ijhi) me(hv.gh!jlk)us(k.) (,) es(k_j/lvKJkvJI) tu.(i.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "186"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "411",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

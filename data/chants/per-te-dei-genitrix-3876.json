@@ -1,0 +1,31 @@
+{
+  "id": "per-te-dei-genitrix-3876",
+  "incipit": "Per te Dei Genitrix",
+  "title": "Per te Dei Genitrix",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Per te, Dei Génitrix, nobis est vita pérdita data: quae de coelo suscepísti prolem, et mundo genuísti * Salvatórem.",
+  "gabc": "(c4) AL(d)LE(e!fg)LÚ(ge/fgeed~)IA.(d) *(,) <i>ij.</i>(c/dd/cd/ed//ef!gvvFDecd) (;) (dhhf/ghddc/dfde) (,) (fhg/hvFED//fe/gvFECeed) <sp>V/</sp>.(::) Per(d!hg~) te,(hggdfv) De(eg/heed)i(d) Gé(c)ni(cd)trix,(d) (;) no(ixdh/ih)bis(gh) est(he) vi(fe)ta(c) pér(e!fg~)di(gf)ta(ed/fe) da(cd)ta:(d) (:) quae(hjjvIG) de(gh) coe(h)lo(g) su(j)sce(jvIH)pí(igh)sti(h) pro(hk)lem,(ji) (;) et(gj~) mun(jvIGjhhg~)do(gh) ge(gef)nu(ge/fd)í(cd)sti(d) *(,) Sal(d)va(e!fg)tó(ge/fgeed)rem.(d) (,) (c/dd/cd/ed//ef!gvvFDecd) (;) (dhhf/ghddc/dfde) (,) (fhg/hvFED//fe/gvFECeed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "487"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3876",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

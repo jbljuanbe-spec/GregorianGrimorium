@@ -1,0 +1,37 @@
+{
+  "id": "levita-laurentius-1122",
+  "incipit": "Levita Laurentius",
+  "title": "Levita Laurentius",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Levíta Lauréntius bonum opus operátus est: qui per signum crucis caecos * illuminávit.",
+  "gabc": "(c3) AL(d)le(efde/ffe)lú(df!hvGF/hh)ia.(e.) *(;) <i>ij.</i>(hv/ijj/h/ii//efE'D/ffe.) (,) (h/ig'/hvF'ED'CB.//e.f!gwhhvG'FE/ffe.) <sp>V/</sp>.(::) Le(eh)ví(h_g/fge)ta(f_e) Lau(d)rén(efef/hvGF'/ge)ti(fe)us(e.) (;) bo(ei)num(i) o(iv./jkjjvIH/jh/ij)pus(i.) (,) o(ij)per(i)á(j!kwlj/kvJI/jvIHii , ij/klj/kvJI/jvIHii , ei/jvIH'hvGF'Efe)tus(de) est:(e/ffe.) (:) qui(e) per(e) si(ehg)gnum(hi) cru(i./jkjjvIH'G/hih)cis(i.) (;) cae(hv.fhG'FE'D//fgff)cos(e.) *(,) il(d)lu(efde/ffe)mi(d)ná(df!hvGF/hh)vit.(e.) (;) (hv/ijj/h/ii//efE'D/ffe.) (,) (h'/ig'/hvF'ED'CB.//e.f!gwhhvG'FE/ffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "579"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1595"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1122",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

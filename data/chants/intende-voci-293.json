@@ -1,0 +1,31 @@
+{
+  "id": "intende-voci-293",
+  "incipit": "Intende voci",
+  "title": "Intende voci",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Inténde * voci oratiónis meae, Rex meus, et Deus meus: quóniam ad te orábo, Dómine.",
+  "gabc": "(c3) IN(f)tén(gxf_e/gffd~)de(e_d) *() vo(dedd'd/e_d)ci(d.) (,) o(d)ra(e)ti(f!gwh)ó(hihh)nis(f_e/hhf!gwh) me(ded___)ae,(d.) (:) Rex(de) me(e.f!gw!hvGF)us,(fg) (,) et(ef) De(fg!hvGF)us(ef) me(f!hhh/ih'/ihhe.,hhh/ih'/ig'/hvF'Ef!gwh_f)us:(f.) (:) quó(df'!hvh'h!iwj_i/jvIH)ni(hi!jvIH'i)am(ih..) (,) ad(hi) te(hi!jvIH'hvGF) o(fh)rá(df'!hv/ihi)bo,(gh/if..) (;) Dó(d!ewfef/hhh//ih'/ihhe. ehG'Fh)mi(ded___)ne.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "135"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "293",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

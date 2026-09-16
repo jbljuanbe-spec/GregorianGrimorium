@@ -1,0 +1,31 @@
+{
+  "id": "confitebor-domino-1562",
+  "incipit": "Confitebor Domino",
+  "title": "Confitebor Domino",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "CONFITÉbor * Dómino nimis in ore meo: et in médio multórum laudábo eum, qui ástitit ad déxteram páuperis, ut salvam fáceret a persequéntibus ánimam meam, allelúia",
+  "gabc": "(c4) CON(c)FI(d)TÉ(ixdh!iv)bor(h) *() Dó(ixhi)mi(h)no(h) ni(ixh//jjh/ij)mis(gh) (,) in(fh) o(h)re(g) me(gh!jvHGh)o:(h/jjh//jjvHG/hg) (;) et(g) in(h) mé(g)di(hg)o(g) mul(g)tó(gh/jhj)rum(gh) (,) lau(fh~)dá(h)bo(g) e(g!jjj/kj/kjji)um,(i) (;) qui(ji) ás(i)ti(ikjji)tit(i) (,) ad(i) déx(iki/jk)te(hg)ram(gfh) páu(hiHG)pe(hg)ris,(ghg//hg/jjh/jvGFg) (:) ut(f) sal(h/jjjk)vam(h) fá(gh/jjj)ce(g)ret(ixhg/hih) (,) a(f) per(hg~)se(h!iwj/ki/ji)quén(h)ti(hi!jvIHi)bus(ih) (;) á(hg/hkj)ni(jjj)mam(hg~) me(ghGFg)am,(gf) (:) al(fh)le(g!jjj/kj/ki/jvHFg , fh/hgh/jki/jh)lú(fgf)ia(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "240"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1562",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

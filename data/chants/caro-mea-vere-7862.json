@@ -1,0 +1,24 @@
+{
+  "id": "caro-mea-vere-7862",
+  "incipit": "Caro mea vere",
+  "title": "Caro mea vere",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Chants Abreges",
+  "text_latin": "Allelúia. ij. ℣. Cáro méa vere est cíbus, et sánguis méus vere est pótus: qui mandúcat méam cárnem, et bíbit méum sánguinem, in me mánet et égo in éo.",
+  "gabc": "(c3)AL(ef)le(e)lú(ef'hihi)ia.(i.e.) <i>ij.</i> <sp>V/</sp>.(::)  Cá(ehg)ro(hi) mé(i)a(i) ve(i)re(i) est(i) cí(i)bus,(i.) (,) et(i) sán(i)guis(i) mé(i)us(i) ve(ik)re(j) est(j) pó(ji)tus:(i.j.) (:) qui(ig) man(hi)dú(i)cat(i) mé(i)am(i) cár(i)nem,(i.) (,) et(i) bí(i)bit(i) mé(ik)um(j) sán(j)gui(ji)nem,(i.j.) (:) in(ig) me(hi) má(i)net(i) et(i) é(ijwk)go(i') in(h) é(hhh)o.(f.e.) (::)",
+  "transcriber": "Christopher Wrinn",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7862",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

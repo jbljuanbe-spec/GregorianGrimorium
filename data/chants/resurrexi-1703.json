@@ -1,0 +1,31 @@
+{
+  "id": "resurrexi-1703",
+  "incipit": "Resurrexi",
+  "title": "Resurrexi",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Resurrexi, * et adhuc tecum sum, allelúia: posuísti super me manum tuam, allelúia: mirábilis facta est sciéntia tua, allelúia, allelúia, Ps. Dómine probásti me, et cognovísti me: * tu cognovísti sessiónem meam, et resurrectiónem meam. Glória Patri. E u o u a e.",
+  "gabc": "(c4) RE(d)SUR(dfd)RE(f)XI,(fff/ded) *(;) et(fe) ad(fg)huc(g) te(g)cum(f) sum,(ef/gfg) (,) al(gvfff)le(dfe)lú(egff)ia:(fe) (:) po(fgf)su(ff)í(f!gwh)sti(ghg) su(gvfff)per(d!ewf/gf) me(f) (,) ma(fff)num(d!ewf) tu(fgFE)am,(f) (;) al(fff)le(dfe)lú(fgff)ia:(d//ffdf) (:) mi(c)rá(cd/fef)bi(f)lis(f) fac(fffg)ta(deDCd) est(dc) (,) sci(e!fwg)én(ghg)ti(f)a(fff) tu(gfhg)a,(g) (;) al(gf~)le(e/fg)lú(gf~)ia,(e/fgfg) (,) al(gvfff)le(dfe)lú(egff)ia,(fe) <i>Ps.</i>(::) Dó(hg)mi(gh)ne(h) pro(h)bá(h)sti(h) me,(h) et(hg) co(gi)gno(i)ví(hi)sti(h) me:(h) *(:) tu(hg) co(gh)gno(h)ví(h)sti(h) ses(h)si(h)ó(h)nem(h) me(h)am,(h) (,) et(h) re(h)sur(h)rec(h)ti(h)ó(gf)nem(gh) me(g)am.(e) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e.(egff) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "202"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1703",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

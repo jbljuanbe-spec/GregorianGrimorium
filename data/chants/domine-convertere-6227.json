@@ -1,0 +1,31 @@
+{
+  "id": "domine-convertere-6227",
+  "incipit": "Domine, convertere",
+  "title": "Domine, convertere",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Domine, convértere, et éripe ánimam meam: salvum me fac propter misericórdiam tuam.",
+  "gabc": "(c4) Do(f)mi(f)ne,(fgf) (::) con(fd~)vér(fg)te(f)re,(f) (;) et(fg) é(ghf)ri(fgf)pe(f) (;4) á(fh)ni(g)mam(fg/hg) me(fgf)am:(f) (:) sal(fg)vum(f) me(f) fac(f) (;) prop(fd/efe)ter(dc/ded) (;4) mi(d)se(ffg)ri(f)cór(fg)di(f)am(fg/hghg) tu(f!ghGFg)am.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "278"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6227",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

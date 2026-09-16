@@ -1,0 +1,31 @@
+{
+  "id": "vultum-tuum-124",
+  "incipit": "Vultum tuum",
+  "title": "Vultum tuum",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Vultum tuum * deprecabúntur omnes dívites plebis: adducéntur regi vírgines post eam: próximae ejus adducéntur tibi in laetítia et exsultatióne. T. P. Allelúia, allelúia. Ps. Eructávit cor meum verbum bonum: * dico ego ópera mea regi. Glória Patri E u o u a e",
+  "gabc": "(f3) VUl(f)tum(efE'C) tu(efe)um(f.) *() de(ge)pre(f)ca(hh)bún(h)tur(f.) (;) o(f!hhh)mnes(f) dí(hh)vi(hih)tes(egf) ple(fgf__)bis:(f.) (:) ad(f)du(hh)cén(ih~)tur(h) re(hi)gi(ihhf) vír(f)gi(f!gwh_f)nes(f') post(f) e(hg)am:(f.) (:) pró(hhh)xi(f)mae(egef) e(fgf__)jus(f.) (,) ad(f)du(hh)cén(h_)tur(eg~) ti(fe)bi(e.) (;) in(f) lae(hh)tí(i)ti(h)a(hjIH'Ghf..) (,) et(f) ex(f)sul(gh~)ta(f)ti(egef)ó(fgf__)ne.(f.) <i>T. P.</i>(::) Al(e!f'h~)le(h_g)lú(hih)ia,(hhhffe.) (,) al(fh~)le(hghf)lú(fgf__)ia.(f.) <i>Ps.</i>(::) E(e)ru(fe)ctá(eh)vit(h) cor(h) me(h)um(hg) ver(hi)bum(i) bo(hi)num:(h.) *(:) di(hf)co(fh) e(h)go(h) ó(h)pe(h)ra(i) me(hf)a(h) re(ge)gi.(fgf.) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h') u(i) o(hf) u(h) a(ge) e(fgf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[64]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "124",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

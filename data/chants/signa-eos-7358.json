@@ -1,0 +1,31 @@
+{
+  "id": "signa-eos-7358",
+  "incipit": "Signa eos",
+  "title": "Signa eos",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Signa eos * qui in me credunt, hæc sequéntur: daemónia eícient: super aegros manus impónent, et bene habébunt. Allelúia",
+  "gabc": "name: Signa eos;\r\noffice-part: Communio;\r\nmode: 7;\r\nbook: Graduale Romanum, 1974, p. 437, 438;\r\ntranscriber: Fernando Gil;\r\n%%\r\n(c3) SI(i)gna(ig) e(i)os(i_j) *(,) qui(i) in(j) me(iih) cre(j/llij)dunt,(jiigi.) (;) hæc(ij) se(iv.high)quén(f!gw!hv_G~F~)tur:(gf..) (:) dae(f)mó(fi)ni(i)a(i) e(ig)í(ij)ci(ij)ent:(ij) (;) su(ih)per(i) ae(j/llij)gros(j.) (,) ma(j)nus(i) im(ig~)pó(hihh)nent,(hg..) (;) et(hi/ef~) be(f)ne(efE'D) ha(e.f!gw!hvGF'gw!hvGF)bé(ef!gvFE'f)bunt.(fe..) (::) Al(fgwh)le(hih___/gih./fhgh.//fge___)lú(efe___)ia(e.) (::)",
+  "transcriber": "Fernando Gil",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "437"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7358",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

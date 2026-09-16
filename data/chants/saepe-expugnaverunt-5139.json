@@ -1,0 +1,31 @@
+{
+  "id": "saepe-expugnaverunt-5139",
+  "incipit": "Saepe expugnaverunt",
+  "title": "Saepe expugnaverunt",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Sæpe expugnavérunt me a juventúte mea. ℣. Dicat nunc Israël: Sæpe expugnavérunt me a juventúte mea. ℣. Etenim non potuérunt mihi: supra dorsum meum fabricavérunt peccatóres. ℣. Prolongavérunt iniquitátes suas: Dóminus justus concídet cervíces peccatórum.",
+  "gabc": "(c4) Sæ(g)pe(g//ffd/fc) (;1) (cd/ffg//hjhhg) (::) ex(gh)pu(f)gna(ixgi)vé(i)runt(ih) me(g) (;) a(g) ju(hg/hj)ven(ghf)tú(f!hj)te(j) me(jijHG;jjvHG/ixhiGF;iyhjh//ig)a.(ghhg) <sp>V/</sp>.(::) Di(dffd//fhfg)cat(f) nunc(fg/hhg) (;) Is(hgg)ra(fg)ël:(gh/ji//jkhhghg//jjh/jggf) (:) Sæ(ixfg/hi)pe(hgh) ex(gf/gh)pu(gh)gna(iygh/jij)vé(j)runt(hj) (;6) me(jjvIH//ivHG/hg) (;) a(g) ju(hg/hj)ven(ghf)tú(f!hj)te(j) me(jijHG;jjvHG/ixhiGF;iyhjh//ig)a.(ghhg) <sp>V/</sp>.(::) E(g)te(hjhj//i!jkJIG/hg;3h!ijIH//ijh)nim(ghg) (;) non(g) po(ghg)tu(fh)é(jjv)runt(hih) (;6) mi(j)hi:(jjkhhghg//jjh/jggf) (:) su(f)pra(f) dor(hj)sum(gh/jij) me(jhj)um(jjvIH//ivHG/hg) (;) fa(g)bri(g)ca(g)vé(hg/hj)runt(ghf) pec(f!hj)ca(j)tó(ji/jvHG;jjvHG/ixhiGF;iyhjh//ig)res.(ghhg) <sp>V/</sp>.(::) Pro(gd)lon(g)ga(hjh)vé(jv//i!jkJIG/hg;3h!ijIH//ijh)runt(ghg) (;) i(g)ni(ghg)qui(fh)tá(jjv)tes(hih) (;6) su(j)as:(jjkhhghg//jjh/jggf) (:) Dó(f)mi(g)nus(h) ju(j)stus(igh) (;3) con(gfg//hjij)cí(jhj)det(jjvIH//ivHG/hg) (::) cer(g)ví(hg/hj)ces(ghf) (;4) pec(f!hj)ca(j)tó(jijHG//ggv/hggfg;gjjkJIH/hg)rum.(ghGF) (;) (hjIH//ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "136"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5139",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

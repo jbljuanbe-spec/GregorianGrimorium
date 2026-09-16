@@ -1,0 +1,31 @@
+{
+  "id": "descendit-jesus-3454",
+  "incipit": "Descendit Jesus",
+  "title": "Descendit Jesus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis.",
+  "gabc": "(c4) DE(fg)SCÉN(gff)DIT(de) Je(cd)sus(d) *(,) cum(f) e(ghgh)is,(gv//fgFD) (;) et(d) ve(feg)nit(gh) Ná(hj)za(hg)reth,(gv//fhGD) (:) et(ghg) e(hv//fh!jvvHGDf)rat(f) (,) súb(fdfvECfhg)di(h)tus(ghFEf) il(ded)lis.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[123]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3454",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "anima-sicut-passer-3483",
+  "incipit": "Anima...sicut passer",
+  "title": "Anima...sicut passer",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Anima nostra, * sicut passer, erépta est de láqueo venántium. ℣. Láqueus contrítus est, et nos libérati sumus: adjutórium nostrum in nómine Dómini, qui fecit coelum * et terram.",
+  "gabc": "(c3) A(dd)NI(d)MA(d) no(ded//dd)stra,(db//dec/deb/cbba) *(;) si(d)cut(f) pas(hf/hhh)ser,(h) (,) e(hg/i!jwk)rép(ih)ta(h) est(hihh/fgf) (;) de(hf) lá(h)que(hi)o(i) ve(ihhf)nán(gxhfgED)ti(d!fh)um.(gyhighf) (,) (de/f!hh/ijghf//gxegFD) <sp>V/</sp>.(::) Lá(d)que(gxf)us(fh/ih/ih//ivFD//fh/ivFD/fhfg) (,) (fh/ih/ih//ivFD/ed//ddd!fh/ijh) (,) con(h!ij)trí(ih)tus(h) est,(hg/ihjvIHG/hf) (:) et(hh) nos(h) li(h)bé(h)ra(ih/ijh ih/ijij//hi/jij)ti(jh/jki/hhf) (,) su(hf/hhh)mus:(hf!gwh!iv//hi/jhh/iih) (:) ad(hhi)ju(h)tó(hi)ri(h)um(hf~) nos(hi)trum(h) (,) in(hf~) nó(hi)mi(h)ne(hh) Dó(hih/ih/jvIG/hvFE/f!hhivHG)mi(hg)ni,(h) (;) qui(hh) fe(h)cit(h) coe(ivHF)lum(f) *(,) et(f!hi) ter(hgiHF)ram.(f de/f!hh/ijghf//gxegFD) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[24]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3483",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

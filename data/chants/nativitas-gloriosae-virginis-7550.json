@@ -1,0 +1,31 @@
+{
+  "id": "nativitas-gloriosae-virginis-7550",
+  "incipit": "Nativitas gloriosae Virginis",
+  "title": "Nativitas gloriosae Virginis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia ℣. Natívitas gloriósæ Vírginis Maríæ ex s‎émine Abrah‎æ ort‎æ de tribu Juda clara ex stirpe David.",
+  "gabc": "(c3) Al(d)le(efd//ef/fe)lú(df/hvGFh>)ia(e::hi/jvjv//hi/iv//efED//f/fe;hig//hvFEDCB;ef//h/hvGFE//f/fe)\r\n<sp>V/</sp>.(::) Na(fh)tí(hvGF//he)vi(fe)tas(e) (,3) glo(d)ri(efef)ó(hvGF//he)sæ(e) (;) Vír(ei)gi(i//jkj//kvJH//jh/ij)nis(i) (;) Ma(ij)rí(i)æ(jv/klj//kvJI//jvIHi/iv) (:) ex(i) s‎é(ij)mi(i)ne(jv/klj//kvJI//jvIHi/iv;ei//jvIH//hvGFE) Ab(de)ra(ef/fe)h‎æ(e) (:)\r\nor(e)t‎æ(ehg) de(hi) tri(i!jkj//jvIHG//hih//ij)bu(i) (;) Ju(hf//hvGFE//df/gf/fv)da(e) (:)\r\ncla(d)ra(efd//ef/fe) ex(d) stir(df/hvGF/h>)pe(e) (::) Da(h!ij/jv//hi/iv//efED//f/fe)vid.(e) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "567"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7550",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

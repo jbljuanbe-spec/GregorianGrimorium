@@ -1,0 +1,31 @@
+{
+  "id": "terra-tremuit-5651",
+  "incipit": "Terra tremuit",
+  "title": "Terra tremuit",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Terra trémuit et quiévit, dum resúrgeret in judício Deus, allelúia.",
+  "gabc": "(c4) Ter(dfe)ra(ffdf) (::) tré(e!fg)mu(gfh)it(h) (;) et(hjjvHGg) qui(f!ghg)é(g//fhg)vit,(d) (;3) (gvFE/fgFD) (;) dum(dffd~) re(ef)súr(gh)ge(gf)ret(fh/jjh) (;) in(dh) ju(h)dí(hjjh)ci(g)o(ixgiHGh) (;) De(ef//hvGE/fd)us,(d) (:) al(dffef/ixhiHGF/fe~)le(g//hvGF/ge/fd;df/hg;4df/hvGF//ge/fd;hvGFg)lú(f)ia.(e//gfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "199"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5651",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

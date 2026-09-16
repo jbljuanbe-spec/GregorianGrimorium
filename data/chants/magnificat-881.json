@@ -1,0 +1,37 @@
+{
+  "id": "magnificat-881",
+  "incipit": "Magnificat",
+  "title": "Magnificat",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo * salutári meo.",
+  "gabc": "(c4) AL(d)le(ff)lú(ixfgf/ivHG'h)ia.(hv.fgf//ivGF/hhf.) *(,) <i>ij.</i>(dfe__/gvFD'dc//ffc.) (,) (fhgj.__jjj'//kjjh./fhg/hggf.) <sp>V/</sp>.(::) Ma(ff)gní(f)fi(ixfgfivHG'h)cat(hv.fgf//ivGFhhf.) (;) á(f!h'j)ni(j)ma(ixjjvIG') me(ixg/jjj'//kjjhi)a(i_h) (;) Dó(f!gh/jhhgh//fgFD.cd/fd//cd!ff , ixg.h!iw!jvIH)mi(ghf)num:(f!gwh!ivHGhih.__) (:) et(f) ex(fg)sul(f)tá(ixf!gwhgh/jjjvIH'G//jjjvIG'Fhv. , ixf!gwhgh/jjjvIH'G//jjjvIG'Fhv.fgf/ih)vit(ghf.) (;) spí(df)ri(f)tus(fgf) me(fv.efd)us(cf) (;) in(ff) De(ixfgf/ivHG'h)o(hv.fgf//ivGFhhf.) *(,) sa(dfe)lu(gf)tá(ddc)ri(ffc.) me(ixfhgj.__jjj'//kjjhi)o.(hv.fhg/hggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "587C"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1612.2"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "881",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "adorabo-242",
+  "incipit": "Adorabo",
+  "title": "Adorabo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Adorábo ad templum sanctum tuum: et confitébor * nómini tuo.",
+  "gabc": "(c3) AL(e)le(fde)lú(hf/hhi)ia.(ijhh'he.) *(,) <i>ij.</i>(hig'hvFD.//fhg/ihh'hhvF'Ef_gffe.) <sp>V/</sp>.(::) A(e)do(hh)rá(iv.hif./efd./f!gwhhvG'FEf_e)bo(e.)(;) ad(ef~) tem(ef~)plum(e) san(df!hh/jij)ctum(i_h) tu(fhff/d/ef_d)um:(d.) (:) et(d) con(e)fi(f)té(h_i!kkh/ii//hhhf/hhe/ffdev. , d!ef!/h_i!kkh/ii/hhhf/hhe/ffdev. , de/ffdev.f!gwhhvG'FEf_e)bor(e.) *(;) nó(ef)mi(e)ni(e.f!gwh) tu(h_f/g!hwihi)o.(i_g/h!iwjij//ijIG.) (,) (hig'hvF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[73]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "242",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

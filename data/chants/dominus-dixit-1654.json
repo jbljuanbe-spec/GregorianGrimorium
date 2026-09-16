@@ -1,0 +1,31 @@
+{
+  "id": "dominus-dixit-1654",
+  "incipit": "Dominus dixit",
+  "title": "Dominus dixit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Dóminus dixit ad me: Fílius meus es tu, ego hódie * génui te.",
+  "gabc": "(c3) AL(d!ef)le(fe/f!gwhg)lú(fhhh)ia.(hiHFfe) *(;) <i>ij.</i>(gh//efED//f!gwh/hg ehf/gffe) <sp>V/</sp>.(::) Dó(hv//gih)mi(h)nus(h) di(hg)xit(g) ad(gh!ivivHFhf/gh) me:(g) (;) Fí(g)li(gf)us(hji) me(h)us(gh) es(fehvhvGE//gxfgFD//egFEfe) tu,(e) (:) e(efeh)go(h) (,) hó(hfhGE//fhFD//gxgvFEf!hhh/ijHF,gigivHGhe//gxfe/ge//gvFEfd)di(ed)e(d) *(;) gé(fde)nu(ef)i(hg/hfh) te.(ghFE) (,) (df!hvFE//df!gwhg/hvGFg egfgvEDefe) (;) (gxhhvFEfgED//gyhhvFEfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "26"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1654",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

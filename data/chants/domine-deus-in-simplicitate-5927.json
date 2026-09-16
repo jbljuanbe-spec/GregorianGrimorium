@@ -1,0 +1,31 @@
+{
+  "id": "domine-deus-in-simplicitate-5927",
+  "incipit": "Domine Deus, in simplicitate",
+  "title": "Domine Deus, in simplicitate",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Domine Deus, in simplicitáte cordis mei lætus óbtuli univérsa: et pópulum tuum, qui repértus est, vidi cum ingénti gáudio: Deus Israël, custódi hanc voluntátem. T. P. Allelúia.",
+  "gabc": "(c4) Do(ffg)mi(f)ne(f) (::) De(f!ghGFg)us,(gf) (;) in(fd~) sim(f)pli(fgf)ci(gh)tá(hjh/ij)te(g) (;) cor(f)dis(df) me(fgffvED)i(d//fddc) (;) læ(f)tus(ffv) ób(fe/fg)tu(dc)li(ffv) (;4) u(gf/ghg)ni(f)vér(f!ghggf~)sa:(gf) (:) et(f) pó(ixfg/hi)pu(h)lum(h) tu(hjhhg)um,(fg) (;) qui(d!fg) re(g)pér(ghggf~)tus(fgFE) est,(f) (;) vi(ffv)di(fd) cum(fgf) in(fd~)gén(fgf)ti(g) (;3) gáu(iyg/hjIH)di(hih)o:(h) (:) De(h)us(hg) Is(ghg)ra(f)ël,(fg/hvhg) (;) cu(f)stó(fg/hgh)di(g) hanc(ghg//ffv/ded) (;4) vo(ffe)lun(fg/hghg)tá(fh//jvGF/gf//ddc;ffgf//ghghf//ggf)tem.(f) <i>T. P.</i>(::) Al(df)le(f!ghf//gf)lú(fvDC//dffv;3hghf//ggf)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "356"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5927",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

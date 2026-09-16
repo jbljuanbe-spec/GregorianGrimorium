@@ -1,0 +1,31 @@
+{
+  "id": "pascha-nostrum-952",
+  "incipit": "Pascha nostrum",
+  "title": "Pascha nostrum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Pascha nostrum * immolátus est Christus, allelúia: ítaque epulémur in ázymis sinceritátis et veritátis, allelúia, allelúia, allelúia.",
+  "gabc": "(c4) PA(f)scha(fhgh) nos(f)trum(e.d!ewfd.) *(;) im(fe~)mo(f)lá(gh)tus(gvFE'/fwgfg) est(gf..) Chris(f)tus,(fe/fdf.) (,) al(f)le(f)lú(fhG~'F~)ia:(f.) (:) í(d)ta(fffvDC'/dff/hg/hf)que(f.) e(f)pu(fef)lé(fdec)mur(c.) (;) in(f) á(ghgh)zy(hgh)mis(gfg) sin(fd~)ce(fe)ri(f)tá(g)tis(f) et(e) ve(g_h)ri(gh)tá(fgf___)tis,(f.) (:) al(f)le(f_d/fef_d)lú(d!ewf)ia,(c.) (,) al(dc~)le(f!gwh_g/hvGF)lú(gh~)ia,(h.) (,) al(fg~)le(ix/giHG'//)lú(hggfg)ia.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "243"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "952",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

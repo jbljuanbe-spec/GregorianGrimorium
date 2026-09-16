@@ -1,0 +1,37 @@
+{
+  "id": "sancte-paule-120",
+  "incipit": "Sancte Paule",
+  "title": "Sancte Paule",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Sancte Paule Apóstole, praedicátor veritátis, et doctor géntium, intercéde * pro nobis.",
+  "gabc": "(c4) AL(d)le(ggf)lú(hg~)ia.(gv/efd.) *(;) <i>ij.</i>(df!ghhg/jvIHG.) (,) (giih/kvJIH'GivHG'Fgh//fefd.) (,) (df!ghhg/jvIH'hg.) <sp>V/</sp>.(::) San(dg~)cte(gh) Pau(gvFD'e)le(ev.dec.) (,) A(g!hi)pó(ih)sto(h/jkJH'GF'g)le,(g.) (;) prae(g)di(e)cá(fe)tor(d) ve(d)ri(ef)tá(g)tis,(g/iih/kvJIH'hg.) (:) et(gk) do(k_g)ctor(hf) gén(g!hi~)ti(i.h!iw!jvI'HG)um,(g'/hfg.) (;) in(d)ter(ggf~)cé(hg)de(g.) *() pro(f) no(de)bis.(ev.dec.) (;) (df!ghhg/jvIHG.) (,) (giih/kvJIH'GivHG'Fgh//fefd.) (,) (df!ghhg/jvIH'hg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "535"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1526"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "120",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

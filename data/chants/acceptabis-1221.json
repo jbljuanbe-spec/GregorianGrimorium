@@ -1,0 +1,31 @@
+{
+  "id": "acceptabis-1221",
+  "incipit": "Acceptabis",
+  "title": "Acceptabis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Acceptábis * sacrifícium justítiae, oblatiónes et holocáusta, super altáre tuum, Dómine.",
+  "gabc": "(c4) AC(d)cep(dh)tá(ixhv./f!g'h/igh)bis(eef.) *(,) sac(dg)ri(g)fí(ixhig/hi)ci(h)um(h) jus(ixhv.f!gh/ig/h_g)tí(e)ti(egff)ae,(eef.) (:) ob(fd)la(fe)ti(fg)ó(g)nes(d!ewf.) et(fd) ho(ef)lo(g)cáu(ixgh/ihhg~)sta,(hg..) (;) su(ge/ghGE'f)per(d!ewf) al(c!d'f~)tá(fv.fffdg)re(g) tu(ghf)um,(d!ewf) Dó(e)mi(egff)ne.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "347"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1221",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "justus-ut-palma-off-777",
+  "incipit": "Justus ut palma (Off.)",
+  "title": "Justus ut palma (Off.)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Justus * ut palma florébit: sicut cedrus, quæ in Líbano est, multiplicábitur. T. P. Allelúia.",
+  "gabc": "(c4) JUs(e.f!gwhg/fffdgvFE)tus(fff) *(,) ut(dge) pal(gh)ma(g!jjjvH'GF.//ff//{ix}f!gwhg/hih.) (,) flo(ghf)ré(dgF'E)bit:(fff/ded.___) (:)\r\nsic(dg)ut(gh) ce(h!iwj!kvJH//gih)drus,(hjHG'hffe.) (,) quæ(ghf) in(fe~) Lí(ghF'E//fh)ba(h_g!jjjvH'G)no(g_f//hvGFgvFE) est,(fff/ded.___) (;) mul(ff)ti(dgf)pli(f)cá(ixff/hihhg/hvGFg_e//hggf/ghg')bi(e)tur.(egf/gffe.) <i>T. P.</i>(::)\r\nAl(ce/gf)le(ffff_c//fff_e/hg/hffe)lú(egF'E)ia.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[41]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "777",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "inveni-david-3394",
+  "incipit": "Inveni David",
+  "title": "Inveni David",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Invéni * David servum meum, óleo sancto unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum.",
+  "gabc": "(c3) IN(c)VÉ(e!fg)NI(f) *() Da(f)vid(fhffe) (,) ser(f)vum(fiHGh) me(fgf)um,(f) (:) ó(hhi)le(h)o(h) sanc(h)to(hiHG/hvGFEfe) (,) un(hhf~)xi(hh) e(giHG)um:(g) (:) ma(hhi)nus(h) e(hi/ji)nim(ihh) me(f!hhhf/ivHGh)a(h) (,) au(h)xi(h)li(h)á(hhi)bi(f)tur(ed) e(fhFEfvEDe)i,(ed) (:) et(ef~) brá(e)chi(ef!gwhg)um(h) me(hg)um(hig/hvFEf) (,) con(e)for(f)tá(f!hhhf/ivHGh)bit(gf) e(efe)um.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": " [31]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[8]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3394",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

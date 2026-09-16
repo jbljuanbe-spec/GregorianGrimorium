@@ -1,0 +1,31 @@
+{
+  "id": "in-deo-salutare-663",
+  "incipit": "In Deo salutare",
+  "title": "In Deo salutare",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. In Deo salutáre meum, et glória mea: Deus auxílii mei, et spes mea * in Deo est.",
+  "gabc": "(c4) AL(dcd)le(d./fg/hghvGF'E)lú(ded)ia.(cd..) *(,) (d!ef/gf/ghhd.) (;) (ixhiHG'Fgh f_e/gd//efD'Cd.) (;) (de!fggfhvGE'ed!ewfd.) <sp>V/</sp>.(::) In(d) De(cd)o(dfe/fgE'Dfd..) (,) sa(fgF'E)lu(gh)tá(hjh)re(hg) me(hggfg)um,(gf..) (;) et(hj) gló(jk)ri(jvIH)a(h) me(hv.fgeedfvEC'd)a:(dfddc.) (:) De(fg)us(ghG'F) au(gh)xí(hj)li(hg)i(h) me(g.h!iwj)i,(ih..) (;) et(hf) spes(gh) me(hg/hf//gvFD'Cd)a(d.) *(;) in(dc) De(fg/hgh/jjk)o(jvIH) est.(hjH'Gh.) (,) (d!ef/gf/ghhd.) (;) (ixhiHG'Fgh f_e/gd//efD'Cd.) (;) (de!fggfhvGE'ed!ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "622D"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "663",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

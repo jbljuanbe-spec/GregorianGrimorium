@@ -1,0 +1,31 @@
+{
+  "id": "benedicamus-patrem-3536",
+  "incipit": "Benedicamus Patrem",
+  "title": "Benedicamus Patrem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Benedicámus Patrem, et Fílium, cum Sancto * Spíritu",
+  "gabc": "(c4) AL(d!ewfe)LE(ddc)LÚ(fg!hvGFgh)IA.(h) *(,) (ixgiHGF//eg!hvGEfd) (,) (ce!gvgef//ef!hvGE/fd//fvEC/eed) <sp>V/</sp>.(::) Be(h)ne(h)di(h)cá(gf)mus(e//ce!gvFED//cd!evDCd) (;) Pa(dfe/ghGFED//cd!evDCd dfe/fg)trem,(ed) (:) et(d) Fí(fddc/fg!hvGF)li(gh)um,(ixhv//giHGF//eg!hvGEfd) (,) (ce!gvgef//ef!hvGEfd) (:) cum(d) San(fddc/fg!hvGFgh)cto(h) *(,) Spí(ixhv//giHGF//eg!hvGEfd,ce!gvgef//ef!hvGEf)ri(ed)tu(dfvEC/eed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[68]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3536",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

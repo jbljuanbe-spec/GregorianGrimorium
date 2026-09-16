@@ -1,0 +1,31 @@
+{
+  "id": "quam-dulcia-4714",
+  "incipit": "Quam dulcia",
+  "title": "Quam dulcia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Quam dúlcia fáucibus meis elóquia tua, super mel ori meo!",
+  "gabc": "(c4) Quam(ed~) dúl(g)ci(hj)a(j) (::) fáu(jjv)ci(j)bus(hjjv) me(ghGFEf)is(fe) (;) e(f)ló(e!fg)qui(g)a(hggf//ghg) tu(egffv)a,(fe) (:) su(e!fg)per(ghGFh) mel(h) (;) o(hghFD//fh)ri(g//hggf//ghg) me(egffv)o!(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "432"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4714",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

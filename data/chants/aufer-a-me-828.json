@@ -1,0 +1,31 @@
+{
+  "id": "aufer-a-me-828",
+  "incipit": "Aufer a me",
+  "title": "Aufer a me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Aufer a me * oppróbrium et contémptum. quia mandáta tua exquisívi, Dómine: nam et testimónia tua meditátio mea est.",
+  "gabc": "(f3) AU(hi)fer(ij) a(i) me(hi!jvji.) *(,) op(i)pró(j)bri(i)um(hg) et(hj) con(ih~)témp(i)tum.(f.) (;) qui(f)a(fe) man(fhg)dá(h)ta(f) tu(hji)a(i.) (,) ex(gh)qui(gf)sí(gi)vi,(i) Dó(gh)mi(g)ne:(f.) (:) nam(ghg') et(f) tes(ghg')ti(f)mó(g')ni(f)a(fe) tu(f)a(fc) (;) me(e)di(f)tá(fhG'F)ti(ef)o(f) me(fhG'F)a(g) est.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "370"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "828",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

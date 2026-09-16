@@ -1,0 +1,37 @@
+{
+  "id": "oravi-deum-652",
+  "incipit": "Oravi Deum",
+  "title": "Oravi Deum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Orávi * Deum meum ego Dániel, dicens: Exáudi, Dómine, preces servi tui: illúmina fáciem tuam super sanctuárium tuum: et propítius inténde pópulum istum, super quem invocátum est nomen tuum, Deus.",
+  "gabc": "(c4) O(dfd)rá(eef//dgff'ffvD'C//dfD'C//dfd/ef)vi(e.) *(,) De(e.f!gwh)um(hg~) me(g)um(ddf) (;) e(eef)go(d!ewffvED'd) Dá(c)ni(dfd)el,(e./fhgh) di(egff)cens:(fe..) (:) Ex(g)áu(iij)di,(g) Dó(h)mi(gh_G'_FE'f)ne,(fe..) (;) pre(e!fwg'!hv)ces(g) ser(ghgg)vi(f_e) tu(egF'E)i:(eef.) (:) il(d)lú(dg)mi(hg)na(g) fá(hji)ci(i)em(jkjj) tu(h.g!hwihi)am(ih..) (;) su(h!jj//jjj)per(gh) sanc(ef)tu(g)á(hg/h!jj)ri(hg)um(gh) tu(gihhg)um:(g.) (:) et(g) pro(g)pí(gj)ti(kj)us(j) in(h)tén(ixf!g'h/igh)de(e.) (;) pó(e!fwg'!hv)pu(g)lum(hg/hf) is(d)tum,(fd/ff//fffg~) (,) su(cd)per(cd~) quem(c) in(c)vo(d!ewf)cá(fgF'E)tum(f!g'h) est(h_g) (,) no(ghg)men(gh) tu(gv./fg/hgh)um,(hg..) (;) De(e/fhg'/hvF'D//ff//ffvE'C/ege. , g'/hg'/hvF'D//ff//dffc , effd/ef'!gvF'E)us.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "367"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1050"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "652",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

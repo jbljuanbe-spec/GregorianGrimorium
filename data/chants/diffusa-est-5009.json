@@ -1,0 +1,31 @@
+{
+  "id": "diffusa-est-5009",
+  "incipit": "Diffusa est",
+  "title": "Diffusa est",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum, et in sǽculum sǽculi. T. P. Allelúia.",
+  "gabc": "(c4) Dif(df)fú(fg!hvhg//hhgh)sa(fhg) est(g) (::) grá(hj/kj//kvJI)ti(jh)a(hg) (;) in(hg) lá(hg//jjh;3jkJI)bi(jjvHG)is(h) (;3) tu(gji/hhg)is:(ghggf) (:) prop(hj)té(jkj)re(jkj)a(jkjjgh) (;) be(gihhg)ne(g)dí(hj/kj)xit(j) te(jkj) De(ji)us(j) (;) in(jjg//hj/kj) æ(jjg;3hj/klj)tér(jjg;3ji/hhg)num,(ghggf) (:) et(fh) in(hjIH) s<sp>'ae</sp>(gj)cu(jkj)lum(j) (;) s<sp>'ae</sp>(jkjjg;3hj/kj//kjjh;jjh//jjkJH//ivHG)cu(fg)li.(g) (;) (jjvHG//hihhg) <i>T. P.</i>(::) Al(h)le(gjg//hggfg;f!hj//kjjvIH;3ijIH//ivHG)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "57*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5009",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

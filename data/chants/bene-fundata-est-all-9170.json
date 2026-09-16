@@ -1,0 +1,31 @@
+{
+  "id": "bene-fundata-est-all-9170",
+  "incipit": "Bene fundata est (All.)",
+  "title": "Bene fundata est (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes 1974",
+  "text_latin": "Allelúia. * ℣. Bene fundáta est domus Dómini supra fírmam petram.",
+  "gabc": "(c4) AL(cd)le(ef!ghhg)lú(gi/jh/ivH~G~)ia.(g.) *(;) (gh/ijh.___jvIHG./fhfg./egFE'DC.) (,) (cd!ef!ghhvGF'D/eddc.) \r\n\r\n<sp>V/</sp>.(::) Be(cd)ne(fe) fun(fg~)dá(gvFEDfg!hvhg)ta(fg) est(g.) (,) do(ghhg)mus(fvED) Dó(dgF'E)mi(cdc___)ni(c.) (:) su(g/hgjvijhhvGEfg)pra(g.) fír(cd!ef!ghhvgi/jhivHG)mam(g.) (;) pe(gh/ijh.___jvIHG.fhfg)tram.(egFE'DC.,cd!ef!ghhvGF'Deddc.) (::)",
+  "transcriber": "Dominique CROCHU",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "399"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "9170",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

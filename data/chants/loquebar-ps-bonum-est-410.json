@@ -1,0 +1,37 @@
+{
+  "id": "loquebar-ps-bonum-est-410",
+  "incipit": "Loquebar... Ps. Bonum est",
+  "title": "Loquebar... Ps. Bonum est",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Loquébar * de testimóniis tuis in conspéctu regum, et non confundébar: et meditábar in mandátis tuis, quae diléxi nimis. Ps. Bonum est confitéri Dómino: * et psállere nómini tuo Altíssime. Glória Patri E u o u a e",
+  "gabc": "(c3) LO(df)qué(hhi)bar(h.) *(,) de(h) te(h)sti(h)mó(i)ni(h.f!gwh)is(h) tu(hi!jvIH'i)is(ih..) (;) in(h) con(iji~)spé(j)ctu(h) re(hjIH'i)gum,(h.) (,) et(fdf) non(hh) con(ijh)fun(hh)dé(hih__)bar:(h.) (:) et(h_) me(e)di(f)tá(hhi)bar(h.) (,) in(hihh) man(ef)dá(hhi)tis(h) tu(hh/ijh)is,(f/hhfh.) (;) quae(d) di(ef)lé(f!hhf)xi(e) ni(ef/hfh)mis.(d.) <i>Ps.</i>(::) Bo(d)num(f) est(h) con(h)fi(h)té(h)ri(i) Dó(i)mi(h)no:(h.) *(:) et(f) psál(h)le(h)re(h) nó(h)mi(h)ni(h) tu(i)o(g) Al(g)tís(h)si(f)me.(f.) (::) Gló(d)ri(f)a(h) Pa(h)tri(h) (::) E(h) u(h) o(i) u(g) a(h) e(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "591"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1618"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "410",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

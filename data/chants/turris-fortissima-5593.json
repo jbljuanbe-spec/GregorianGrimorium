@@ -1,0 +1,31 @@
+{
+  "id": "turris-fortissima-5593",
+  "incipit": "Turris fortissima",
+  "title": "Turris fortissima",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Turris fortíssima, nomen Dómini: ad ipsum currit justus, et exaltábitur.",
+  "gabc": "(c3) Al(d!fh)le(hf)lú(f//hih~)ia.(ih) (::) (ih/ffd) (;4) (gxfgFE) (;) (hihhf) (;4) (dfefeed) <sp>V/</sp>.(::) Tur(d!fh)ris(h//ivHE) (;4) (gxgfgED) (;) for(d)tís(fh)si(hf)ma,(fv//hih//jiih) (;) no(hf/gvFE//hihhf)men(egFEf) Dó(d)mi(ded)ni:(d) (:) ad(d) i(efef)psum(f) cur(ffef;hihih//ffef;hiHF)rit(gxgvFE) ju(fhggfg)stus,(gf) (::) et(d) ex(d!ef)al(f)tá(gxfgFE)bi(i)tur.(hhffv) (;4) (dfefeed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "41"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5593",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "volavit-ad-me-3665",
+  "incipit": "Volavit ad me",
+  "title": "Volavit ad me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Volávit ad me * unus de Séraphim: et in manu ejus cálculus, quem túlerat de altári, et tétigit os meum. T.P. Allelúia",
+  "gabc": "(c4) VO(d)LÁ(f)VIT(fe) ad(fhg) me(fv//efd) *(,) u(d!fg)nus(gf) de(f) Sé(ghgh)ra(g)phim:(fgFD) (:) et(d) in(f) ma(feg)nu(f) e(deDC)jus(dc) (,) cál(ixf!gwhg/hih)cu(g)lus,(f) (;) quem(fd~) tú(f!gh)le(g)rat(g) de(h) al(g)tá(ff/gf)ri,(f) (:) et(hg~) té(ghgh)ti(f)git(d!ewf) os(ge/fe) me(de!fvEDe)um.(ed) <i>T.P.</i>(::) Al(de)le(d)lú(dc/ffvEDewf)ia(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[164]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3665",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

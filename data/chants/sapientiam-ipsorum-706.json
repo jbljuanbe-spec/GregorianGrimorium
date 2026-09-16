@@ -1,0 +1,37 @@
+{
+  "id": "sapientiam-ipsorum-706",
+  "incipit": "Sapientiam ipsorum",
+  "title": "Sapientiam ipsorum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet * Ecclésia.",
+  "gabc": "(c4) AL(c)le(d)lú(ed/ixhi)ia.(h.) *(,) <i>ij.</i>(ghG'F/hv./fgF'E/gvF'ED.) (;) (ce!gvgef//deDC.) (,) (c!ff//eg'!hvF'EC'/ewfd.) <sp>V/</sp>.(::) Sa(c)pi(d)én(dh)ti(h)am(h'/jvH'G/hvGE/f_g) (,) (ixeg!ivHG/hvFDe.) (,) (ghF'E/ghfff'dfED) ip(ixf!gwh'!iv)só(hvGF'/gw!hvGF/gh)rum(g.) (;) nar(fhhg/hvGF/gvFE)rent(d.) pó(df_ef//ef!hvGE'/fd)pu(cd)li,(d.) (:) et(cd) lau(dffd/fvED de!fg)dem(ghhg.) (`) e(g)ó(gf)rum(fhhg/hvGF/gvFE) (,) nún(df_ef//ef!hvGE'/fd)ti(cd)et(d.) *(;) Ec(cd)clé(fe/ixhi)si(h)a.(h.) (,) (ghG'F/hv./fgF'E/gvF'ED.) (;) (ce!gvgef//deDC.) (,) (c!ff//eg'!hvF'EC'/ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "445"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1386"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "706",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

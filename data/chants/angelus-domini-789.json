@@ -1,0 +1,37 @@
+{
+  "id": "angelus-domini-789",
+  "incipit": "Angelus Domini",
+  "title": "Angelus Domini",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Angelus * Dómini descéndit de caelo, et dixit muliéribus: Quem quaéritis, surréxit, sicut dixit, allelúia.",
+  "gabc": "(c4) AN(fg~)ge(g.!hjHG'gf/ghg___)lus(g.) *(,) Dó(hg/h!jjkvJH)mi(gfh)ni(h.) (;) de(h)scén(jhhf/ghGF'/fde'c,cd!ff/gh!jvHG'/gfg)dit(g.) (;) de(g.h!iwj) cae(jji/j_g//hjij/kljj)lo,(ki/jhhg.) (;) et(g) di(gggvED'/eg'hvGF'g)xit(g.) (,) mu(g)li(hj)é(ig/h!jj/klK'I/jkj)ri(ij)bus:(hig.) (:) Quem(gh~) quaé(hvGF/gvFEf./ghffdg)ri(fg)tis,(g.) (;) sur(h)ré(gjI'G/hh//fh!jvGF'/fd/ef!ghg)xit,(g.) (;) sic(g)ut(gj) di(jji/jhhg)xit,(h.) (;) al(h!iwji~)le(jkJH'//gi.//hjIH'/g!jj/hig___)lú(ghg___)ia.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "246"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "787"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "789",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

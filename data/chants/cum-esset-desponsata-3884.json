@@ -1,0 +1,31 @@
+{
+  "id": "cum-esset-desponsata-3884",
+  "incipit": "Cum esset desponsata",
+  "title": "Cum esset desponsata",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Cum esset * desponsáta mater ejus María Joseph, invénta est in útero habens de Spíritu Sancto.",
+  "gabc": "(c4) CUM(gh) es(h)set(hjhhg) *() de(g)spon(ikj)sá(jh!iwj)ta(ji) (,) ma(ji)ter(gh) e(hiHG)jus(hg) (;) Ma(gh)rí(h!jjjh/kvJIj)a(ih) (,) Jo(gh!jj/kljjjh!iwji)seph,(jjjvIH/jhh/fgf) (:) in(ef)vén(g!hi)ta(hgh) est(h!jj/khhg) (;) in(g) ú(hjh!iwj)te(g)ro(fhg) ha(jv//ij/kjk)bens(iij) (;) de(gh) Spí(g!jjj)ri(j)tu(kij) Sanc(ixhg/hiGF/ghFE/fgFE)to.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[188]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3884",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

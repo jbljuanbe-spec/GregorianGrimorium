@@ -1,0 +1,31 @@
+{
+  "id": "exaudi-deus-842",
+  "incipit": "Exaudi Deus",
+  "title": "Exaudi Deus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "EXáudi Deus * oratiónem meam: et ne despéxeris deprecatiónem meam: inténde in me, et exáudi me.",
+  "gabc": "(c3) EX(f)áu(f_e/gff)di(e) De(fv.dfe)us(e_f) *(,) o(ed)ra(e)ti(f!gwh)ó(high)nem(f_ehvvGF'gw!hvGF) me(ef!gvFE'f)am:(fe..) (:) et(ed~) ne(e) de(fhg)spé(high)xe(feh)ris(h.) (,) de(hihh)pre(ge)ca(f)ti(hg)ó(hv.fih)nem(gh/ih/iji) me(gihh)am:(hg..) (:) in(e)tén(eg)de(gig/h_i) in(fe~) me,(gxev.dgFE.) (,) (df'!hv//i'h/ihhe//hhhvF'De.) (;) et(d!e'f) ex(e/fhg)áu(hvvF'Ef_ehvvF'Ef_g)di(efe___) me.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "129"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "842",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

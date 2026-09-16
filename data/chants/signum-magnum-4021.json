@@ -1,0 +1,24 @@
+{
+  "id": "signum-magnum-4021",
+  "incipit": "Signum Magnum",
+  "title": "Signum Magnum",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Cistercian",
+  "text_latin": "SI[Um grande sinal]GNUM magnum * ap[apareceu no céu:]páruit in caelo: mú[uma mulher vestida de sol,]lier amícta sole, et[tendo a lua] luna sub[debaixo de seus pés,] pédibus ejus, et[e na sua cabeça] in cápite ejus co[uma coroa]róna stel[de doze estrelas.]lárum duódecim. Ps. Can[Cantai ao Senhor]táte Dómino cán[um canto novo,]ticum novum: * qui[porque ele fez prodígios!]a mirabília fecit. Gló[Glória ao Pai...]ria Patri. E u o u a e",
+  "gabc": "(c3) SI[Um grande sinal](ef)GNUM(f) ma(fd/fe)gnum(e.) *(,) ap[apareceu no céu:](fh)pá(hhh)ru(h)it(hji) in(ihhfh) cae(efe)lo:(e.) (:) mú[uma mulher vestida de sol,](ef/hgh)li(h)er(h) a(h)mí(h)cta(fh) so(h)le,(hg/hiffe.) (;) et[tendo a lua](e) lu(ef/hg)na(h) sub[debaixo de seus pés,](g) pé(g!hi)di(i)bus(ijh/fh) e(hi)jus,(h.) (:) et[e na sua cabeça](hg) in(h) cá(i/jkj)pi(ih)te(hhh) e(e/fhffe~)jus(d.) (;) co[uma coroa](e)ró(ef)na(e) stel[de doze estrelas.](e)lá(e)rum(ef!hi!kvJI) du(ihhfh)ó(e)de(efe)cim.(e.) <i>Ps.</i>(::) Can[Cantai ao Senhor](hg~)tá(hi)te(i) Dó(i)mi(i)no(i) cán[um canto novo,](ik)ti(j)cum(jh) no(ij)vum:(i.) *(:) qui[porque ele fez prodígios!](ig)a(hi) mi(i)ra(i)bí(i/jkj)li(i)a(h) fe(hhhg)cit.(fe..) (::) \r\nGló[Glória ao Pai...](hg)ri(hi)a(i) Pa(i)tri.(i) (::) E(i) u(i/jkj) o(i) u(h) a(hhhg) e(fe..) (::)",
+  "transcriber": "Hardehausen Abbey (Brazil)",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4021",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

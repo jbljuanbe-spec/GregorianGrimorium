@@ -1,0 +1,37 @@
+{
+  "id": "laudate-omnes-gentes-1778",
+  "incipit": "Laudate... omnes gentes",
+  "title": "Laudate... omnes gentes",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Laudáte * Dóminum omnes gentes: et collaudáte eum omnes pópuli. ℣. Quóniam confirmáta est super nos misericórdia ejus: et véritas Dómini manet * in aeternum.",
+  "gabc": "(c4) LAu(g)dá(g/hih)te(g/hhg) *(,) Dó(gjjk)mi(h)num(gf/ghhg) (;) o(ij)mnes(hji) gen(j)tes:(jjjkhhg/hg/jjh/jggf) (:) et(f) col(hj)lau(igh)dá(gfg)te(gh/jij) e(jh!iwj)um(jjjvIHivHGhg) (;) o(ixfh/ih/ig~)mnes(j) pó(jv//ijgixjjvHGhiGF , iyh/jh/ig)pu(fg)li.(g/hhg) <sp>V/</sp>.(::) Quó(g)ni(g)am(gd~) con(gh~)fir(g)má(gh/jij)ta(j) est(j) (,) su(jji)per(g) nos(hg/h!iw!jvIHijhhg) (;) mi(g)se(ghg)ri(fg)cór(g/hj~)di(ji)a(i) e(ik/ljjh)jus:(jhhg/hg/jjh/jggf) (:) et(f) vé(hj)ri(igh)tas(gfg/hji) Dó(j)mi(h!iwj)ni(ijhhg) (;) ma(hg/h!iwj)net(ghGF) *() in(f!hj) ae(j)ter(jijHGgg/hggfg , jjjkvJIHhg)num.(ghGF) (,) (h!iwjijjh/ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "199"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "91"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1778",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

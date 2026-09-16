@@ -1,0 +1,31 @@
+{
+  "id": "ecce-concipiet-482",
+  "incipit": "Ecce concipiet",
+  "title": "Ecce concipiet",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Ecce concípiet, et páriet fílium * Jesum Christum.",
+  "gabc": "(c4) AL(c!df)le(f'gvE'Dfv.efd)lú(dc/eed~)ia.(d.) *(;) <i>ij.</i>(fg!hvGF'gff/e!fwg//efd!ew!fvEC'ewfd.) <sp>V/</sp>.(::) Ec(hfh)ce(hf/hg) con(f)cí(fg)pi(fvED'e)et,(ed..) (;) et(dg) pá(gvFED'ewfe)ri(de)et(dc__) fí(c.d!ewf'!gv)li(f)um(efE'Ded..) *(,) Je(c!df)sum(f'gvE'Dfv.efd) Chri(dc/eed)stum.(d.) (;) (fg!hvGF'gff//e!fwg/efd!ew!fvEC'ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "6**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "482",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

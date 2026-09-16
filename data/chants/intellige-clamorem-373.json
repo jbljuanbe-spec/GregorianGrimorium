@@ -1,0 +1,31 @@
+{
+  "id": "intellige-clamorem-373",
+  "incipit": "Intellige clamorem",
+  "title": "Intellige clamorem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Intéllige * clamórem meum: inténde voci oratiónis meae, Rex meus, et Deus meus: quóniam ad te orábo, Dómine.",
+  "gabc": "(c4) IN(f)tél(h!iwj)li(k)ge(jk) *() cla(j)mó(jk)rem(j) me(jiihi)um:(ih..) (;) in(h)tén(gi)de(g) vo(jij)ci(h) o(h)ra(f)ti(gh)ó(h!iw!jvIG)nis(hgh) me(f!g'h)ae,(h.) (;) Rex(j) me(jvIH)us,(h.) (,) et(gi~) De(iji)us(g) me(hjH'GhvGF'g)us:(gf..) (:) quó(f)ni(f)am(d!ewf) ad(fd~) te(f) o(gh)rá(h)bo,(g./h!iwji/jkj.) (;) Dó(h!iw!jvIG'/ixhw!ivHG)mi(fg!hvGF'g)ne.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "114"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "373",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

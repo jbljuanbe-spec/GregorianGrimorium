@@ -1,0 +1,31 @@
+{
+  "id": "a-summo-coelo-3564",
+  "incipit": "A summo coelo",
+  "title": "A summo coelo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. A summo coelo egréssio ejus, nec est qui se abscóndat a calóre * ejus",
+  "gabc": "(c3) AL(ef)LE(ed/effe//hvvGE//fvEDC)LÚ(de~)IA.(e) *(,) <i>ij.</i>(iv//ef//ef/gf/ge) (;) (eh/ijIHFE//fd/effe) (,) (ii/jhi//ee/fde) (;) (fhghvFD//fhg/hffe) <sp>V/</sp>.(::) A(de) sum(efehvGFE//ijHGFhi~)mo(i) coe(ighvFEfde)lo(e) (;) e(d)grés(fh)si(hg)o(efEDf!hh/ie//i!jw!kvJHhf/hhi) (,) (efEDfh//ghffefvEDCde) e(ef/hfg)jus,(fe) (:) nec(hi) est(i!jw!kvJHhf/hhi) (,) qui(i) se(ikJIlvKJH) ab(ie)scón(fvEDCde,df!hhhg)dat(fe//ijhi//efED) (;) a(d) ca(fh)ló(hiHGFfe)re(e/fde) *() e(efe)jus(e) (,) (iv//ef//ef/gf/ge) (;) (eh/ijIHFE//fd/effe) (,) (ii/jhi//ee/fde) (;) (fhghvFD//fhg/hffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[201]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3564",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

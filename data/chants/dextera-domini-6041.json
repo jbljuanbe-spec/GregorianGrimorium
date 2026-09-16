@@ -1,0 +1,31 @@
+{
+  "id": "dextera-domini-6041",
+  "incipit": "Dextera Domini",
+  "title": "Dextera Domini",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Déxtera Dómini fecit virtútem: déxtera Dómini exaltávit me.",
+  "gabc": "(c4) Al(dfddc~)le(f)lú(ixgi)ia.(h) (::) (ijIH//ivHG//hvGF//gvFD) (;) (d!fh) (;3) (gh!jvHGh) (;) (de/fg) (;3) (fh//ghffvEC//ffd) <sp>V/</sp>.(::) Déx(h)te(ghGE)ra(g) Dó(f!ghFD)mi(efef)ni(ed) (;) fe(cd/fg/hgh)cit(fe) vir(cd)tú(de/fef)tem:(ed) (:) déx(c)te(d)ra(fe) Dó(fg)mi(gvFE/fvEDe)ni(ed) (::) ex(dfd)al(dc~)tá(f)vit(ixgi) me.(h) (;4) (ghffvEC//ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "339"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6041",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

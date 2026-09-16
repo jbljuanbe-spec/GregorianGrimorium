@@ -1,0 +1,31 @@
+{
+  "id": "de-profundis-3829",
+  "incipit": "De profundis",
+  "title": "De profundis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. De profúndis clamávi ad te, Dómine: Dómine exáudi * vocem meam.",
+  "gabc": "(c2) AL(cd)LE(c)LÚ(cfe/gh)IA.(g) *(;) <i>ij.</i>(fg/ih/ivHG/hhg//hih/ig) (;) (fg/ih/ivHG/hhg//hih/ig) (;) (fg/ih/ivHG/hffd/fv) (,) (ef!hvGF//efDC) (,) (ef!gw!hvGF//efDC/deddc) <sp>V/</sp>.(::) De(cd) pro(c)fún(cfe/gh)dis(g) (,) cla(g)má(g!hwi/jiivHG)vi(ghf/gvFE/fe) (;) ad(dg) te,(ghGF/gffvED/ew!fvEDe) Dó(c)mi(c!de)ne:(dc) (:) Dó(cfe/gh)mi(g)ne(g) (,) ex(gh!ij)áu(jk)di(gig!hwih/ivHG/hg) *(;) vo(dfe)cem(fg) me(g)am.(g) (,) (fg/ih/ivHG/hhg//hih/ig) (;) (fg/ih/ivHG/hhg//hih/ig) (;) (fg/ih/ivHG/hffd/fv) (,) (ef!hvGF//efDC) (,) (ef!gw!hvGF//efDC/deddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "334"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3829",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

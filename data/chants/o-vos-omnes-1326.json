@@ -1,0 +1,37 @@
+{
+  "id": "o-vos-omnes-1326",
+  "incipit": "O vos omnes",
+  "title": "O vos omnes",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. O vos omnes, qui transítis per viam, atténdite, et vidéte, si est dolor sicut dolor * meus.",
+  "gabc": "(f3) AL(hjij)le(hvGF)lú(hiH'Gh)ia.(f.) *(;) (hg/hfgvFEf.) (,) (hg/hfgvFEf./hi!jvIHi_fhvGF'Ef.) (,) (hvGFivHG'gf.) <sp>V/</sp>.(::) O(hjij) vos(hvGF) o(hiH'Gh)mnes,(f.) (,) qui(g) tran(hf)sí(gvFE)tis(f) per(h) vi(ij)am,(j.) (;) at(j)tén(kxkiih)di(i)te,(i_j) (,) et(j) vi(j)dé(jvIH'GF)te,(e_f) (;) si(f) est(fe) do(ghf)lor(f.) si(h)cut(hg) do(hvGFgvFEf.,e!hhhvGFgvFEf.,hi!jvIHi_f//hvGF'fe)lor(f.) *() me(fe/ghf)us.(f.) (;) (hg/hfgvFEf.) (,) (hg/hfgvFEf./hi!jvIHi_f//hvGF'Ef.) (,) (hvGFivHG'gf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "597"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1634V"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1326",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

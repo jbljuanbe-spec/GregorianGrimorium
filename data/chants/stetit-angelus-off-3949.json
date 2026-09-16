@@ -1,0 +1,31 @@
+{
+  "id": "stetit-angelus-off-3949",
+  "incipit": "Stetit Angelus (Off)",
+  "title": "Stetit Angelus (Off)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Stetit * Angelus juxta aram templi, habens thuríbulum áureum in manu sua: et data sunt ei incénsa multa: et ascéndit fumus arómatum in conspéctu Dei, allelúia.",
+  "gabc": "(c4) STE(fffvDCdff/hgh)TIT(fgf) *(,) An(f!gh)ge(h)lus(ixhf/hig/ff/ded) (;) jux(d)ta(dgfg) a(dgf/efd/ed)ram(dcd~) tem(dv//c!df/ef!hvGEfd)pli,(d) (:) ha(ixdf!hv//jhivGEfg)bens(f) (,) thu(de)rí(gh)bu(hggvEDCd)lum(d) (,) áu(c!df/ef!gvEDfv//efd/ed)re(cd)um(dfddc) (,) in(da~) ma(cd)nu(d) su(dfd)a:(d) (:) et(cd~) da(d)ta(fde) sunt(dec) e(c!df/efd)i(d) (,) in(da~)cén(cd~)sa(d) mul(dfd)ta:(d) (:) et(c) a(d)scén(ixdh//jjh//gih/ig//f!gh/jjg,fhgh//fh!jvGFfdf eg/hjh/jhhgh~)dit(f) (;) fu(ef!gvEDfv//efd)mus(dfddc) a(c!df/e!fg)ró(ed/fe)ma(ded)tum(d) (,) in(da~) con(cd~)spé(d)ctu(d) De(ded)i,(d) (:) al(cd)le(fgfhv//ghFD cd/fef/ge,hg/efd//fvEDed)lú(cd~)ia.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "538"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3949",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

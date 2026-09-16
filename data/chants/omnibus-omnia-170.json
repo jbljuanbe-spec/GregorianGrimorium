@@ -1,0 +1,31 @@
+{
+  "id": "omnibus-omnia-170",
+  "incipit": "Omnibus omnia",
+  "title": "Omnibus omnia",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Omnibus ómnia factus sum, ut omnes * fácerem salvos.",
+  "gabc": "(c3) AL(e)le(ehg)lú(hi~)ia.(i.) *(,) (hhi/g!i'j//hji__!jwk_i./g.f!gwh/ihhe) (,) (hhhf//hg/ihhvF'Ef_gffe.) <sp>V/</sp>.(::) O(e!fh)mni(hfg)bus(gvFE) ó(hi!jk)mni(jhi)a(ji..) (,) fa(hjijvIH.i!jw!kvJI)ctus(ji) sum,(i.) (:) ut(i) o(gh!ivvHFE.gh!ivvHF'Efgffe~)mnes(e.) *(;) fá(ef)ce(e)rem(ehg) sal(hi~)vos.(i.) (,) (hhi/g!i'j//h_j_i!jwk_i./g.f!gwh/ihhe) (,) (hhhf//hg/ihhvF'Efgffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "75**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "170",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

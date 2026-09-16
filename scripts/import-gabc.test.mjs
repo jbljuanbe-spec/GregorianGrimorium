@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 import Ajv from "ajv";
 import { importGabcFiles } from "./import-gabc.mjs";
 
-const PROVENANCE = { origin: "public-domain-scan", edition: "Graduale Romanum, 1961" };
+const PROVENANCE = { origin: "gabc-file", license: "CC0-1.0" };
 
 function fixture(files) {
   const inputDir = mkdtempSync(join(tmpdir(), "gabc-in-"));
@@ -120,7 +120,7 @@ book: Graduale Romanum, 1961, pp. 47-48;
 test("rechaza una procedencia no declarada en el esquema", () => {
   const { inputDir, outputDir } = fixture({ "kyrie.gabc": KYRIE });
   assert.throws(
-    () => importGabcFiles({ inputDir, outputDir, origin: "internet", edition: "x" }),
+    () => importGabcFiles({ inputDir, outputDir, origin: "internet", license: "CC0-1.0" }),
     /--origin debe ser uno de/,
   );
 });

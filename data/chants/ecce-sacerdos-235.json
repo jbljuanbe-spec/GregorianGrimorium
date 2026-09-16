@@ -1,0 +1,37 @@
+{
+  "id": "ecce-sacerdos-235",
+  "incipit": "Ecce sacerdos",
+  "title": "Ecce sacerdos",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ecce * sacérdos magnus, qui in diébus suis plácuit Deo. ℣. Non est invéntus símilis illi, qui conserváret * legem Excélsi.",
+  "gabc": "(c4) EC(ffg)ce(f.) *() sa(f)cér(f)dos(gh~) ma(h_fgvFED.g_e/fg)gnus,(f.) (;) qui(f) in(f) di(f)é(hf/gh!jj/kjk)bus(jij) su(ixh_g/h!jjvHF.ivHGhf)is(f.) (:) plá(ixf/hhi)cu(gjj)it(j.h!iw!jvIG'hw!ivHG) De(fv.ff)o.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.) <sp>V/</sp>.(z0::c3) Non(d) est(d) in(fe~)vén(eh)tus(h.) (,) sí(h)mi(h)lis(h) il(h)li,(ihhe./hih__/ihhe.) (,) (hi!kv//lvKI'jvHF.) (,) (h_g/ijh'__ jvIH'jvIH'//hvGF.) (:) qui(hh) con(h)ser(h)vá(ih/ij_h ih/ij_ij//hi/jij)ret(jh/jki/hh/fgf.) *(;) le(f)gem(d) Ex(ef)cél(fhG'Fhhh)si.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[32]"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1183"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "235",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

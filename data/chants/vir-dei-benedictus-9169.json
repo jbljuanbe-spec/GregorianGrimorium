@@ -1,0 +1,31 @@
+{
+  "id": "vir-dei-benedictus-9169",
+  "incipit": "Vir Dei Benedictus",
+  "title": "Vir Dei Benedictus",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes 1974",
+  "text_latin": "Vir Dei * Benedíctus mundi glóriam despéxit et relíquit: quó-niam Dei spíritus erat in eo. Ps. Magnus Dóminus et laudábilis nimis, in civitáte Dei nostri. Vir Dei Benedíctus mundi glóriam despéxit et relíquit: quó-niam Dei spíritus erat in eo. Ps. Secúndum nomen tuum Deus, sic et laus tua in fines terræ: justítia plena est déxtera tua. Vir Dei Benedíctus mundi glóriam despéxit et relíquit: quó-niam Dei spíritus erat in eo.",
+  "gabc": "(c4)VIR(gh) De(hvGFgh)i(g.) *(,) Be(gh)ne(g)díc(g.h!iw!jvIH'i)tus(hg..) (;) mun(i.h!iwj)di(i) gló(hi)ri(hg)am(g.) (,) de(g)spé(gh)xit(gf) et(h) re(j.h!iwj)lí(ghg___)quit:(g.) (:) quó-(gd/gh/i.h!iwj)ni(hg)am(g.) De(h)i(hgk) spí(kjji)ri(hg)tus(g.) (;) e(h)rat(gfg) in(gh/i.h!iwj) e(ghg___)o.(g.) (::)\r\n\r\n<i>Ps.</i> Ma(g)gnus(hg) Dó(gj)mi(j)nus(j) et(j) lau(j)dá(ji)bi(jk)lis(k) ni(jk)mis,(j.) (:) in(jh) ci(hj)vi(j)tá(j)te(jji) De(hj)i(ji) nos(h)tri.(g.) (::)\r\n\r\nVir(gh) De(hvGFgh)i(g.) (,) Be(gh)ne(g)díc(g.h!iw!jvIH'i)tus(hg..) (;) mun(i.h!iwj)di(i) gló(hi)ri(hg)am(g.) (,) de(g)spé(gh)xit(gf) et(h) re(j.h!iwj)lí(ghg___)quit:(g.) (:) quó-(gd/gh/i.h!iwj)ni(hg)am(g.) De(h)i(hgk) spí(kjji)ri(hg)tus(g.) (;) e(h)rat(gfg) in(gh/i.h!iwj) e(ghg___)o.(g.) (::)\r\n\r\n<i>Ps.</i> Se(g)cún(hg~)dum(gj) no(j)men(j) tu(j)um(j) De(j)us,(j'_) (,) sic(j) et(j) laus(j) tu(j)a(j) in(ji) fi(jk)nes(k) ter(jk)ræ:(j.) (:)  jus(jh)tí(hj)ti(j)a(j) ple(j)na(j) est(j) déx(jji)te(hj)ra(ji) tu(h)a.(g.) (::)\r\n\r\nVir(gh) De(hvGFgh)i(g.) (,) Be(gh)ne(g)díc(g.h!iw!jvIH'i)tus(hg..) (;) mun(i.h!iwj)di(i) gló(hi)ri(hg)am(g.) (,) de(g)spé(gh)xit(gf) et(h) re(j.h!iwj)lí(ghg___)quit:(g.) (:) quó-(gd/gh/i.h!iwj)ni(hg)am(g.) De(h)i(hgk) spí(kjji)ri(hg)tus(g.) (;) e(h)rat(gfg) in(gh/i.h!iwj) e(ghg___)o.(g.) (::)",
+  "transcriber": "Dominique CROCHU",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "861"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "9169",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

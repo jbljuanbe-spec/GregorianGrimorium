@@ -1,0 +1,31 @@
+{
+  "id": "videte-quoniam-6938",
+  "incipit": "Videte quoniam",
+  "title": "Videte quoniam",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Vidéte quóniam non soli mihi laborávi, sed ómnibus exquiréntibus veritátem.",
+  "gabc": "(c4) Vi(d)dé(fhg)te(gh) (:) quó(gh)ni(g)am(g) non(g) so(gh)li(g) mi(fgff)hi(d!efEC) (;) la(f!gh)bo(fg)rá(g!hihi)vi,(hg) (:) sed(ji) ó(jk)mni(j)bus(ji/jkj) (;6) ex(j)qui(j)rén(kij)ti(hg)bus(gf/h!ij) (;) ve(ij)ri(hg)tá(gffd//fh/jggf!ghgh)tem.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "502.2"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6938",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

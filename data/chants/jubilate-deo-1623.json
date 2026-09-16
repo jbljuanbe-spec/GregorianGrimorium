@@ -1,0 +1,31 @@
+{
+  "id": "jubilate-deo-1623",
+  "incipit": "Jubilate Deo",
+  "title": "Jubilate Deo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Jubiláte Deo omnis terra: servíte Dómino * in laetítia.",
+  "gabc": "(c4) AL(eef)LE(dg)LÚ(gih!iwj)IA.(ijh/igge) *(,) <i>ij.</i>(gvgfgjvIGFEfgffe) <sp>V/</sp>.(::) Ju(g)bi(g)lá(gi)te(i) De(ih!iwji)o(iv//hihhg) (;) o(jvjjj/gh~)mnis(h) ter(i/jkHGikjk)ra:(ji) (:) ser(g)ví(g!jj)te(h!jj) Dó(ghf/gfffd/,/fhGFghg)mi(egff)no(fe) *(;) in(eef) lae(dg)tí(gj)ti(i/jkHGj)a.(i) (,) (gh!iwjij//iji/hih/ghGE) (,) (gvgfgjvIGFEfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "50"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1623",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

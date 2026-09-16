@@ -1,0 +1,31 @@
+{
+  "id": "tanto-tempore-6774",
+  "incipit": "Tanto tempore",
+  "title": "Tanto tempore",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tanto témpore vóbiscum sum, et non cognovístis me? Philíppe, qui videt me videt et Patrem meum, allelúia: non credis, quia ego in Patre, et Pater in me est? allelúia, allelúia.",
+  "gabc": "(c4) Tan(d)to(fd) tém(f)po(f)re(e!fgffv/ded) (::) vó(d)bi(ef)scum(d) sum,(cdc) (;) et(df) non(f) co(f)gno(fd)ví(f)stis(fg) me?(f) (:) Phi(f)líp(f)pe,(e!fgffv/ded) (;) qui(f) vi(gh)det(h) me(ixhg/hih) (;) vi(h)det(g) et(f) Pa(f)trem(f) me(df)um,(f) (;4) al(f)le(f)lú(egffv)ia:(fe) (:) non(ffv) cre(dgFE)dis,(ef) (;) qui(d)a(e) e(g!hi)go(h) in(hg) Pa(hj)tre,(jvIH//ivHGh) (;) et(f) Pa(gh)ter(g) in(f) me(evDCd) est?(df) (:) al(c)le(d)lú(f)ia,(fd) (;) al(fg)le(g;3fg/ixhighg)lú(egffv)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "465"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6774",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "honora-dominum-5833",
+  "incipit": "Honora Dominum",
+  "title": "Honora Dominum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Honóra Dóminum de tua substántia, et de primítiis ómnium frugum tuárum da ei: noli prohibére benefácere eum, qui potést: si vales, et ipse bénefac.",
+  "gabc": "(c3) Ho(d)nó(f)ra(hh) (::) Dó(hihi)mi(f)num(fe) (;3) de(fh) tu(hi)a(i) sub(ijIH)stán(h)ti(ih)a,(hih) (:) et(f) de(f!hi) pri(ih)mí(hihhg)ti(fe)is(fhhv) (;) ó(hhv)mni(f)um(gf) fru(d)gum(ef) tu(fe)á(fh)rum(hg) (;) da(hihhg) e(fg/hgh)i:(gf) (:) no(h)li(e) pro(f)hi(h)bé(hi)re(h) (;3) be(h)ne(h)fá(ih)ce(f)re(hf/ghg) (;3) e(h)um,(fh) qui(fg) po(gvFEf)tést:(fe) (:) si(h) va(hf//hhf)les,(d!ef) (;) et(hhv//ijHF//hvGEf) (;3) i(ehhf//gh)pse(hhf) bé(d)ne(ded)fac.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "531"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5833",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

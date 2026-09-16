@@ -1,0 +1,31 @@
+{
+  "id": "ego-vos-elegi-3592",
+  "incipit": "Ego vos elegi",
+  "title": "Ego vos elegi",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Ego vos elégi de mundo, ut eátis, et fructum afferátis: et fructus vester * máneat.",
+  "gabc": "(c4) AL(d/ff)LE(ef!gvEDffd)LÚ(ixf!gh/ig/he/fg~)IA.(g) *(,) <i>ij.</i>(d!ef!gvEDffd) (,) (d!ef!gvEDhv//ghFED) (,) (eg//fgf/deddc) (,) (fff/ghGEfeed) <sp>V/</sp>.(::) E(dffeggvFEfd)go(d) (,) vos(d) e(dh)lé(ixhv//fh!ivGFhv//d!ef!hvGEfd)gi(d) (,) de(d) mun(d!fff)do,(edevDCddc) (;) ut(cd!ewf) e(f!gh)á(hvGFfvED)tis,(dv//cd!evDCd) (;) et(d) fru(d!fff)ctum(edevDCdc) (,) af(f!gh)fe(fvED//cd!evDCd)rá(d!ewfef)tis:(ed) (:) et(dh~) fru(h/jhhg/he/fg//dfED//,dh/jhhg/he/fg/ixeg!ivHGhvFDfvED,hhggf/hjhhg)ctus(h) ve(d!ff)ster(ef!gvEDffd) *(;) má(ix!f!gh/ig/he)ne(fg)at.(g) (,) (d!ef!gvEDffd) (,) (d!ef!gvEDhv//ghFED) (,) (eg//fgf/deddc) (,) (fff/ghGEfeed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "452"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3592",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "surrexit-dominus-de-sepulcro-1522",
+  "incipit": "Surrexit Dominus de sepulcro",
+  "title": "Surrexit Dominus de sepulcro",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Surréxit Dóminus de sepúlcro, qui pro nobis pepéndit * in ligno.",
+  "gabc": "(c4) AL(c)LE(d)LÚ(edixhi)IA.(h) *(,) <i>ij.</i>(ghGF/hv//fgFE/gvFED) (;) (ce!gvgef//deDC) (,) (c!ff//eg!hvFEC/ewfd) <sp>V/</sp>.(::) Sur(dh)ré(h)xit(h/jvHGhvGEfg) (,) (ixeg!ivHG/hvFDe) (,) (ghFE/ghfffdfED/f!gh) Dó(gf!gw!hvGFg)mi(hg)nus(g) (;) de(f) se(fhhg/hvGF/gvFE)púl(dfef//ef!hvGE/fd)cro,(d) (:) qui(c) pro(d) no(dffd/fvED de!fg)bis(ghhg) (;) pe(fhhg/hvGF/gvFE)pén(dfef//ef!hvGE/fd)dit(d) *(;) in(cd) li({ed}ix/hi)gno.(h) (,) (ghGF/hv//fgFE/gvFED) (;) (ce!gvgef//deDC) (,) (c!ff//eg!hvFEC/ewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "209"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1522",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

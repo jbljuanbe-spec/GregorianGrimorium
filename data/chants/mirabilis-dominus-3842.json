@@ -1,0 +1,31 @@
+{
+  "id": "mirabilis-dominus-3842",
+  "incipit": "Mirabilis Dominus",
+  "title": "Mirabilis Dominus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ij. ℣. Mirábilis Dóminus noster in sanctis * suis.",
+  "gabc": "(c4) AL(d!ewfe)LE(ddc)LÚ(fg!hvGF/gh)IA(h) *(,) <i>ij.</i>(ixgiHGF/eg!hvGE/fd) (,) (ce!gvgef//ef!hvGE/fd//fvEC/eed) <sp>V/</sp>.(::) Mi(h)rá(h)bi(gf)lis(ev///ce!gvFED//cd!evDCd) (;) Dó(dfe/ghg)mi(fvED)nus(d//cd!evDCd) nos(dfe/fg)ter(ed) (:) in(d) sanc(fddc/fg!hvGF/gh)tis(h) *(,) su(ixhv///giHGF//eg!hvGE/fd,ce!gvgef//ef!hvGE/fd)is.(d//fvEC/eed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "364"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3842",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

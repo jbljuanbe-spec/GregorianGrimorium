@@ -1,0 +1,37 @@
+{
+  "id": "in-te-speravi-1682",
+  "incipit": "In te speravi",
+  "title": "In te speravi",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "In te sperávi * Dómine: dixi: Tu es Deus meus, in mánibus tuis témpora mea.",
+  "gabc": "(f3) IN(c) te(e!fg) spe(f)rá(hf!gwh/ih)vi(hhhvGE/f!gw!hvGF) *(,) Dó(f)mi(f!gwhgh)ne:(gf) (:) di(fh)xi:(hhh/ij) (,) Tu(hiHF) es(f) De(f!gw!hvGF)us(ef) me(f!gwh/ihhgh)us,(hg) (:) in(hh) má(hi/jij)ni(h)bus(hhvGF) tu(hh/ih)is(h) (;) tém(hf/hhvFE//f!hhh)po(fe)ra(egf) me(fgf)a.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[114]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "305"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1682",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

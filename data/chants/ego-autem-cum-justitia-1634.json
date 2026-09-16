@@ -1,0 +1,31 @@
+{
+  "id": "ego-autem-cum-justitia-1634",
+  "incipit": "Ego autem cum justitia",
+  "title": "Ego autem cum justitia",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ego autem * cum justítia apparébo in conspéctu tuo: satiábor, dum manifestábitur glória tua. Ps. Exáudi Dómine justítiam meam: * inténde deprecatiónem meam. Glória Patri. E u o u a e.",
+  "gabc": "(c4) E(f)GO(gh) au(h)tem(h) *(,) cum(h) ju(h)stí(h/jjj)ti(hg)a(g) ap(ixih/ig)pa(f)ré(f!gh)bo(h) (;) in(f) con(f)spéc(ixhf/hig)tu(f) tu(fe)o:(fff/ded) (:) sa(f)ti(h)á(ixgh!ivGFEfwgfg)bor,(gf) (;) dum(f) ma(f)ni(f)fe(f)stá(g)bi(f)tur(gh) gló(h)ri(gf)a(f) tu(fe)a.(fff/ded) <i>Ps.</i>(::) Ex(f)áu(gh)di(h) Dó(h)mi(h)ne(h) ju(h)stí(hj)ti(h)am(h) me(hg)am:(gh) *(:) in(gf~)tén(gh)de(h) de(h)pre(h)ca(h)ti(hjh)ó(g)nem(f) me(fff)am.(d) (::) Gló(f)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(hjh) o(g) u(f) a(fff) e.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "102"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1634",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

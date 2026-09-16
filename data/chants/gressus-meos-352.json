@@ -1,0 +1,31 @@
+{
+  "id": "gressus-meos-352",
+  "incipit": "Gressus meos",
+  "title": "Gressus meos",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Gressus meos dírige secúndum elóquium tuum: ut non dominétur mei * omnis injustítia.",
+  "gabc": "(c3) AL(ef)le(f)lú(hf/hh/ihhi)ia.(ijhhe.) *(,) <i>ij.</i>(hhh'j!lvI'HGF'gwhf.) <sp>V/</sp>.(::) Gres(hhi)sus(h) me(h)os(hji/hh/fgf.) (,) dí(hf/hh/ihhi)ri(f)ge(efe.) (;) se(fd)cún(ef)dum(f) e(f)ló(fih'/ig'/hf)qui(ef)um(fgef) tu(f!gwhgh)um:(gf..) (:) ut(f) non(g) do(e)mi(f)né(hjIH'h//fiH'GEf./hf/hf/he)tur(e.) (,) me(egFE'f!hhhf/ijhh)i(g_fgvFEfe..) *(;) o(f)mnis(fd) in(e)ju(f)stí(hf/hh/ih)ti(hi)a.(ijhhe.) (,) (hhh'j!lvI'HGF'gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[143]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "352",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

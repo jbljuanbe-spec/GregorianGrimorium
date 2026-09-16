@@ -1,0 +1,37 @@
+{
+  "id": "ipse-habet-1368",
+  "incipit": "Ipse habet",
+  "title": "Ipse habet",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ipse habet * in vestiménto et in fémore suo scriptum: Rex regum et Dóminus dominántium. ℣. Regína adstat ad déxteram ejus, ornáta auro * ex Ophir.",
+  "gabc": "(c4) I(c)pse(d) ha(ixdh'!iv)bet(h.) *(,) in(h) ve(h)sti(h)mén(ixhih/ghGF./hiHG'hw!ivHG/hi)to(h.) (;) et(h) in(h) fé(hjh___!iwjj)mo(kvJH)re(h.) su(hg/h!jjjhhg)o(hggf) scri(hf/gh/jh/jvGE'/fvDC',d!ff/ghF'E/ghffe)ptum:(ge/ghg/ff/ded.) (:) Rex(d!ff/g_f) re(fhgh)gum(hjh___!iwjjvIH/ih..) (;) et(h) Dó(gh)mi(h)nus(h') do(h/jjh)mi(f)nán(ghF'D/fffvDC.,fhg___/jjh)ti(h)um.(ixhv./gh!ivF'D/ff/g_f/g_f/gff/ded.) <sp>V/</sp>.(::) Re(cd)gí(ixdh'!iv)na(h) ad(h)stat(hg/hhg/hh) (,) (gh!jjjh//jvvIH'/jggf.) (;) ad(dh) déx(h/jjh)te(h/jjh)ram(h.) (,) e(hg/h/jjjg//ivHG'gf/gh/j.h!iwj_h)jus,(h.) (:) or(f)ná(ghgh/k_j/kvJH/jjh,ixgih/ig./f!g'h!jjhhgh)ta(ixhf/hig/ff/ded.) (;) au(dfED'/fvED.//de!fg/hjIH'/hgh.,ixfh!ivGF'E//f!gwh'!iv)ro(hg..) *(,) ex(gh) O(ixjhi/GF'/h!jjvH'G)phir.(hghF'E/fg..) (,) (d!ewf!gv./fhGF'ED'ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "504B"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1476D"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1368",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

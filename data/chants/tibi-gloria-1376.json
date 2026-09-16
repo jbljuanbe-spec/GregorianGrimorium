@@ -1,0 +1,31 @@
+{
+  "id": "tibi-gloria-1376",
+  "incipit": "Tibi gloria",
+  "title": "Tibi gloria",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Tibi glória, hosánna: tibi triúmphus et victória: tibi summae laudis et honóris * coróna.",
+  "gabc": "(c3) AL(ef/gf)le(fe)lú(gh!ijIH'hf/hi~)ia.(i.) *(;) (hi!kvvJIH'h//gh!ijIHi.) (;) (gighvvGF'Ef_gffe.) <sp>V/</sp>.(::) Ti(eh)bi(hi) gló(jvIH'ivHF'fe//gh!iji)ri(hi)a,(i.) (,) ho(ei)sán(ivHF'fef)na:(fe..) (:) ti(ei)bi(ij) tri(h)úm(jkj)phus(i.) (,) et(j_f) vi(hvGE'f)ctó(fh//gh!iji)ri(hi)a:(i.) (:) ti(ikj)bi(i) sum(ijHF'Ef)mae(fh) lau(ghffef)dis(f.) (;) et(e) ho(g!hi)nó(ivHF'Ef)ris(f_g) *(,) co(ef/gf)ró(fe//gh!ijIH'hf/hi)na.(i.) (;) (hi!kvvJIH'h//gh!ijIHi.) (;) (gighvvGF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[109]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1376",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

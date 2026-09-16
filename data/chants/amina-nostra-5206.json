@@ -1,0 +1,31 @@
+{
+  "id": "amina-nostra-5206",
+  "incipit": "Amina nostra",
+  "title": "Amina nostra",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Anima nostra, sicut passer erépta est de láqueo venántium: láqueus contrítus est, et nos liberáti sumus.",
+  "gabc": "(f3) A(ce)ni(ef)ma(f) (::) no(fhhf//hjIH//ihhvFE//fhf)stra,(f) (;) si(fhfg)cut(ef) pas(fh/ih)ser(fhfh) (;) e(ef)rép(hi)ta(ij) est(kxhj/kjji) (;) de(hi/jkj) lá(ji)que(ih)o(h//iji//hhv/fgf) (;) ve(hhi)nán(jki)ti(hf)um:(f//hvFEf) (:) lá(fh)que(h)us(hfh) con(hig)trí(hi)tus(kxij/ki) est,(j) (;) et(ihhi>) nos(iji/hhv/fgf) (;) li(hhv)be(fih)rá(i;6hjIH/hf/hih)ti(hhv) (;4) su(fe)mus.(fv//hhf//hhv/fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "24*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5206",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

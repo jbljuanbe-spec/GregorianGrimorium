@@ -1,0 +1,31 @@
+{
+  "id": "dedisti-mihi-310",
+  "incipit": "Dedisti mihi",
+  "title": "Dedisti mihi",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Dedísti mihi protectiónem salútis tuae: et déxtera tua * suscépit me.",
+  "gabc": "(c4) AL(cd/fg)le(edf./efd/ed)lú(cd~)ia.(d.) *(;) <i>ij.</i>(ixfg!hvhf//hv./giHF.) (,) (ixhv./giH'GF./deddc) (,) (cf/g/hh//fhg'/hvF'ED/ffd.) <sp>V/</sp>.(::) De(cd/fgE'D/fv./efd/ed)dí(cd)sti(d.) (,) mi(ixfg!hvhf//hv./giHF.,ixhv.giH'GF./deddc,cd!fgE'D/fvfd)hi(d.) (:) pro(f)tec(h)ti(g)ó(h)nem(g) sa(f)lú(ixh_g/hh//fh!ivGF/hh//fhf/gf)tis(dcd) tu(d!ewfd)ae:(d.) (:) et(dcf) déx(ixhfh/ivGFhv.,ixf!gwhgh/ivGFh)te(hg)ra(e!f'g) tu(edf./efd/ed)a(dcd.) *(;) su(cd!fg)scé(edf./efd/ed)pit(cd~) me.(d.) (;) (ixfg!hvhf//hv./giHF.) (,) (ixhv./giH'GF./deddc) (,) (cf/g/hh//fhg'/hvF'ED/ffd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "465"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "310",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

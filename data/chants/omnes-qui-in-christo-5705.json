@@ -1,0 +1,31 @@
+{
+  "id": "omnes-qui-in-christo-5705",
+  "incipit": "Omnes qui in Christo",
+  "title": "Omnes qui in Christo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Omnes, qui in Christo baptizáti estis, Christum induístis, allelúia.",
+  "gabc": "(f3) O(fc/ef)mnes,(f) (::) qui(e) in(f) Chri(f!ghf)sto(fef) (;) bap(e)ti(h)zá(h)ti(f) es(fh!ivHG//hihi)tis,(ih) (:) Chri(fe/fh)stum(hiHF) in(hhf~)du(hh)í(fgFE)stis,(e) (;) al(c)le(efef//hhvGEf)lú(fg/hgh)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "218"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5705",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

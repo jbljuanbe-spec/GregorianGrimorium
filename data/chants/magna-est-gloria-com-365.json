@@ -1,0 +1,31 @@
+{
+  "id": "magna-est-gloria-com-365",
+  "incipit": "Magna est gloria (Com.)",
+  "title": "Magna est gloria (Com.)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Magna est * glória ejus in salutári tuo: glóriam et magnum decórem impónes super eum, Dómine.",
+  "gabc": "(c4) MA(g)gna(gh) est(h) *(,) gló(jj)ri(hg)a(g) e(gh~)jus(g.) (,) in(gh~) sa(h)lu(hf)tá(g)ri(gff) tu(f.d!ew!fvE'DC'd)o:(dc..) (:) gló(cd/fef)ri(f)am(fff) (,) et(fd~) ma(fg~)gnum(g) de(gh)có(fv.efd)rem(fe..) (:) im(fh~)pó(h)nes(fgf) su(g_f)per(f) e(fd/fvEC)um,(d!ewf!g'h) Dó(e)mi(egff)ne.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[2]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "365",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

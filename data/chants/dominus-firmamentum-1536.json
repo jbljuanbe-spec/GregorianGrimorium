@@ -1,0 +1,31 @@
+{
+  "id": "dominus-firmamentum-1536",
+  "incipit": "Dominus firmamentum",
+  "title": "Dominus firmamentum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dominus * firmaméntum meum, et refúgium meum, et liberátor meus: Deus meus adjútor meus.",
+  "gabc": "(f3) DO(h)MI(gh)NUS(fhe) *(,) fir(hg~)ma(hi)mén(iih)tum(f/hhe/gf) me(fgf)um,(f) (;) et(e) re(f)fú(f!gwh)gi(e)um(ec~) me(ef!hvGF)um,(f!gwh) (;) et(hf~) li(hih)be(iji)rá(jji)tor(hi) me(hiih)us:(h) (:) De(j)us(ij) me(hvGF)us(fhffe) (;) ad(g!hi~)jú(iih)tor(f/hhe/gf) me(fgf)us.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "282"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1536",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

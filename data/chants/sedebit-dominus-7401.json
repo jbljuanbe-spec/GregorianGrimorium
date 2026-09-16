@@ -1,0 +1,31 @@
+{
+  "id": "sedebit-dominus-7401",
+  "incipit": "Sedebit Dominus",
+  "title": "Sedebit Dominus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Sedébit Dóminus Rex in ætérnum: Dóminus benedícet pópulo suo in pace.",
+  "gabc": "(c4) Se(cd)dé(f)bit(dc) (::)\r\nDó(fg)mi(h)nus(gf) Rex(fgf) in(fe) æ(ixgig!hi)tér(fgf)num:(f) (;)\r\nDó(fg)mi(f)nus(f) be(f)ne(f)dí(ixfg!hi)cet(h) (;3)\r\npó(hj)pu(g)lo(fg) su(gf)o(fgff/ded) (;)\r\nin(fe/ggh) pa(fgf)ce.(f) (::)",
+  "transcriber": "Antonio González Fernández",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "610"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7401",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "nemo-te-condemnavit-1010",
+  "incipit": "Nemo te condemnavit",
+  "title": "Nemo te condemnavit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Nemo * te condemnávit, múlier? Nemo, Dómine. Nec ego te condemnábo: jam ámplius noli peccáre.",
+  "gabc": "(c3) Ne(e)mo(ehg) *() te(h) con(i)dem(h)ná(hg)vit,(fg~) mú(e)li(de)er?(e.) (;) Ne(h)mo,(h) Dó(h)mi(fh!ivHG'h)ne.(hg..) (:) Nec(h) e(ij)go(i) te(g) con(h)dem(f)ná(e)bo:(fhg.) (;) jam(gh) ám(i)pli(hg)us(e) no(ef)li(g) pec(fg)cá(e.)re.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "138"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1010",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

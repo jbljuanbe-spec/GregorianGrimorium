@@ -1,0 +1,31 @@
+{
+  "id": "tolle-puerum-1788",
+  "incipit": "Tolle puerum",
+  "title": "Tolle puerum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Tolle * púerum et matrem ejus, et vade in terram Israel: defúncti sunt enim, qui quaerébant ánimam púeri.",
+  "gabc": "(c3) TOl(ef)le(e) *() pú(fh)e(hg)rum(hi) (,) et(i) ma(ivivHG)trem(f) e(gh)jus,(g) (;) et(i) va(hhg)de(e) in(f!gwh) ter(h)ram(fh!ivGFg) Is(e)ra(efe)el:(e) (:) de(e)fú(fh)ncti(g) sunt(h) e(ijij)nim,(hi/ji) (;) qui(h) quae(h)ré(hj!kvJI)bant(ji) (,) á(i)ni(h)mam(gfhvGFg) pú(e)e(efe)ri.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "43"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1788",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

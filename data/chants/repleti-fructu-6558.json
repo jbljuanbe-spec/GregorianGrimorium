@@ -1,0 +1,31 @@
+{
+  "id": "repleti-fructu-6558",
+  "incipit": "Repleti fructu",
+  "title": "Repleti fructu",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Repléti fructu justítiæ per Jesum Christum, in glóriam et laudem Dei.",
+  "gabc": "(f3) Al(ef~)le(fhfg;3hig//hffe)lú(fhf~)ia.(g) (::) (ef/hfg) (;3) (hig//hffeg) (;) (ig/ijIHFgg) (;3) (hiHG//fgffe) (;) (hh//ijIH//ivHG) <sp>V/</sp>.(::) Re(e)plé(fhf//gh)ti(h) (;) fru(hg)ctu(fe) ju(fgFE)stí(fh)ti(fg)æ(g) (;) per(e!gi) Je(iih//ig//hvFE)sum(fg) Chri(ghhg)stum,(g) (;) in(eg) gló(kxi!jkJI//hjIG;3ivHG//fgFE)ri(fg)am(g) (::) et(e) lau(fhf/gh)dem(h) De(g!hig//hffe//fhfg)i.(g) (;) (hh/ijIH//ivHG) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "513"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6558",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

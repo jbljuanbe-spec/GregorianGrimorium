@@ -1,0 +1,31 @@
+{
+  "id": "domine-quis-habitabit-5993",
+  "incipit": "Domine, quis habitabit",
+  "title": "Domine, quis habitabit",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dómine, quis habitábit in tabernáculo tuo? Aut quis requiéscet in monte sancto tuo? Qui ingréditur sine mácula, et operátur justítiam. T. P. Allelúia.",
+  "gabc": "(c4) Dó(df)mi(f!ghg)ne,(gv//ffg) (::) quis(df/hg) ha(h)bi(g)tá(fg/hg)bit(hggf) (;) in(g) ta(h)ber(jij)ná(hg)cu(ghf)lo(g) (;3) (jjvIH//ijIH) (;3) tu(gh/jhi)o?(hg) (:) Aut(fg) quis(gj/kl) (;6) re(jh)qui(jkj)é(jjvHGF/ixg!hiHG)scet(hg) (;) in(g) mon(hjg/hg)te(fg) san(gj)cto(iyji) (;3) tu(jkj//ki/jh//ggf//ghgh)o?(hjhhf) (:) Qui(d) in(fg)gré(ixg!hiHGh)di(hg)tur(g) (;) si(gxhihig)ne(gf) má(fg/hgh)cu(h)la,(hjjvHG) (;) et(ge) o(g)pe(g)rá(fgfg)tur(d!fg) (;4) (fgDCd) (;) ju(cd)stí(f!ghg//hvGFg;3jjvIH//ijIH)ti(g!hiHGh)am.(hg) <i>T. P.</i>(::) Al(g)le(ghfg)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "471"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5993",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

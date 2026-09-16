@@ -1,0 +1,24 @@
+{
+  "id": "requiem-simple-9145",
+  "incipit": "Requiem (simple)",
+  "title": "Requiem (simple)",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": null,
+  "text_latin": "Requiem * aetérnam dona eis Dómine: * et lux perpétua lúceat eis.",
+  "gabc": "(f3)R<i>e</i>(e)<i>qui</i>(f)em(h) *() ae(h)tér(h)nam(h) do(h)na(h) e(h)is(h) <b>Dó</b>(i)mi(hr)ne:(h.) *(:)\r\net(h) lux(h) per(h)pé(h)tu(h)a(h) lú(h)ce(h)<i>at</i>(g) <b>e</b>(e)is.(f.) (::)",
+  "transcriber": "Sebastian Malton",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "9145",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

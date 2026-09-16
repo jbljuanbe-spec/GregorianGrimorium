@@ -1,0 +1,37 @@
+{
+  "id": "felix-namque-es-280",
+  "incipit": "Felix namque es",
+  "title": "Felix namque es",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Felix * namque es, sacra Virgo María, et omni laude digníssima: quia ex te ortus est sol justítiae, Christus Deus noster.",
+  "gabc": "(c4) FE(d!fffgvFD)lix(d.) *(,) nam(dcf./ghG'Fhh)que(gf) es,(g.) (;) sa(d)cra(dgfg//dgf/efd/ed) Vir(ccd~)go(d.) (,) Ma(dv.c!d'f/ef!gvE'Dfv.efd/ed)rí(cd)a,(d.) (;) et(cd) o(dfE~D~)mni(dc) lau(ccd~)de(d.) (,) di(d!ewf!gv.dfED')gnís(d)si(cecd)ma:(ed..) (:) qui(cd)a(d) ex(cd) te(dfED.) or(dd/cg)tus(fe) est(dc..) (;) sol(cd/efe/f_d) ju(d!ewf!gv.dfED')stí(d)ti(cecd)ae,(ed..) (;) Chri(cd!fvED)stus(d.) De(d!ewf!gv.dfED)us(cd) no(dcd/efe/f_d/ed)ster.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[82]"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1271"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "280",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

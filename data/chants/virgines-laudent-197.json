@@ -1,0 +1,31 @@
+{
+  "id": "virgines-laudent-197",
+  "incipit": "Virgines laudent",
+  "title": "Virgines laudent",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Virgines * laudent nomen Dómini, quia exaltátum est nomen ejus solíus: conféssio ejus super caelum et terram. T. P. Allelúia, allelúia. Ps. Laudáte Dóminum de caelis: * laudáte eum in excélsis. Glória Patri E u o u a e",
+  "gabc": "(c3) VIr(d)gi(f)nes(h) *(,) lau(hi)dent(h) no(hihhg)men(e_f) Dó(f!gwh)mi(efED'e)ni,(ed..) (;) qui(de)a(e) ex(e)al(d)tá(efef)tum(f) est(gxfe/fgeed.) (,) no(d)men(df) e(f!gw!hvGF)jus(h) so(h)lí(hi!jvIH'i)us:(ih..) (:) con(f)fés(h)si(h)o(hi) e(ihh)jus(f.) (,) su(f)per(d) cae(ef)lum(f) et(gxfhFE'fw!gvFE) ter(de!fvED'e)ram.(ed..) <i>T. P.</i>(::) Al(df~)le(fef)lú(hf/hhh)ia,(hiHF.) (,) al(ef)le(gxfhe__!fw!gvFE)lú(de!fvED'e)ia.(ed..) <i>Ps.</i>(::) Lau(d)dá(f)te(h) Dó(h)mi(h)num(h) de(i) cae(i)lis:(h.) *(:) lau(f)dá(h)te(h) e(h)um(h) in(i) ex(g)cél(h)sis.(f.) (::) Gló(d)ri(f)a(h) Pa(h)tri(h) (::) E(h) u(h) o(i) u(g) a(h) e(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "128**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "197",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

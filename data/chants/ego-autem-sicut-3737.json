@@ -1,0 +1,31 @@
+{
+  "id": "ego-autem-sicut-3737",
+  "incipit": "Ego autem sicut",
+  "title": "Ego autem sicut",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ego autem * sicut olíva fructificávi in domo Dómini, sperávi in misericórdia Dei mei: et exspectábo nomen tuum, quóniam bonum est ante conspéctum sanctórum tuórum. Ps. Quid gloriáris in malítia: * qui potens es in iniquitáte? Glória Patri E u o u a e",
+  "gabc": "(c4) E(eef)GO(dg) au(gjHGhw!ij)tem(j) *(,) si(j)cut(jjj) o(h)lí(hjij)va(ih) fru(g)cti(g)fi(hvGF)cá(f!gwhgh)vi(hg) (,) in(g) do(g)mo(hggf/ghg) Dó(e)mi(egff)ni,(fe) (:) spe(ef)rá(gh)vi(g) in(g) mi(gh)se(hhg)ri(fg)cór(gj)di(j)a(j) De(h)i(j) me(ixhvGF/gwh!ivHGh)i:(hg) (:) et(g) ex(g/jjj)spe(h)ctá(hjij)bo(ih) no(gh)men(g) tu(f!gwhg!hwihi)um,(ih) (:) quó(h)ni(h!iw!jvIG)am(gh) bo(g)num(gff) est(dffff) (;) an(d)te(dfe) con(fg~)spé(gf!gwhgh)ctum(hg) (,) sanc(g)tó(g/jjh/jvIGh)rum(g) tu(g)ó(f/hvGF/gvFE)rum.(e) <i>Ps.</i>(::) Quid(g) glo(hj)ri(j)á(j)ris(j) in(k) ma(j)lí(j)ti(ih)a:(jjj) *(:) qui(ig) po(hj)tens(j) es(j) in(j) in(jji)i(hg)qui(h)tá(i)te?(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[1]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3737",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

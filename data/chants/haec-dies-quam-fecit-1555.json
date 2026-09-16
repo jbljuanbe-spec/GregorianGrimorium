@@ -1,0 +1,31 @@
+{
+  "id": "haec-dies-quam-fecit-1555",
+  "incipit": "Haec dies quam fecit",
+  "title": "Haec dies quam fecit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Haec dies, quam fecit Dóminus: exsultémus, et laetémur * in ea.",
+  "gabc": "(c3) AL(d!ef)LE(fe/f!gwhg)LÚ(fhhh)IA.(hiHFfe) *(;) <i>ij.</i>(gh//efED//f!gwhhg ehf/gffe) <sp>V/</sp>.(::) Haec(hv//gihhg) di(gh!ivvHF/hf/gh)es,(g) (;) quam(gf~) fe(hji)cit(h) Dó(gh)mi(fe)nus:(e/hvvGE//gxfgFD//egFE/fe) (:) ex(e)sul(feh)té(hfhGE//fhFD//gxgvFE/f/hhh/ijHF , gig/ivHG/he gxfe/ge//gvFE/fd)mus,(d) (;) et(fd~) lae(e)té(ef)mur(f) *() in(f) e(hg/hfh)a.(ghFE) (,) (df!hvFE//df!gwhg/hvGFg egf/gvED/efe) (,) (gxhhvFE/fgED//gyhhvFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "219"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1555",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

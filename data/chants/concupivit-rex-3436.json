@@ -1,0 +1,31 @@
+{
+  "id": "concupivit-rex-3436",
+  "incipit": "Concupivit rex",
+  "title": "Concupivit rex",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Concupívit * rex de córem tuum, quóniam ipse est Dóminus tuus. ℣. Audi fília, et vide, et inclína * aurem tuam.",
+  "gabc": "(c4) CON(dh~)CU(h)PÍ(ixhih/ghGF//hiHGhw!ivHGhi)VIT(h) *() rex(h!jjkvJH/ixgiHGh) (,) de(f!gwhg) có(h)rem(ghGE/fgf/gh) tu(d!ewfd)um,(d) (:) quó(h)ni(hg)am(gj) i(jkj)pse(jijvIH) est(iij) (,) Dó(g)mi(gh!iw!jvIH)nus(h) tu(fhhg!jjvHG//ixhig)us.(efd/fh//ghGE/fg//fgFD) <sp>V/</sp>.(::) Au(d)di(dh) fí(h)li(h)a,(hjHGF//eg/hgh//fgFD) (,) (cd/fd cd!ff/gh!iw!jvIH) (;) et(h) vi(h)de,(hjHGh!jjjh//jjjvIH/jggf) (:) et(f) in(f)clí(ghgh//ixfh!ivGFE//f!gwh!ivHG)na(hg) *(,) au(g)rem(gh~) tu(ixjhiGF/h!jjvHG)am.(hghFEfg) (,) (d!ewf!gv//fh/GFEDewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[58]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3436",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

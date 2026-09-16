@@ -1,0 +1,31 @@
+{
+  "id": "venite-filii-3821",
+  "incipit": "Venite filii",
+  "title": "Venite filii",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Veníte, * fílii, audíte me: timórem Dómini docébo vos. Ps. Benedícam Dóminum in omni témpore: * semper laus ejus in ore meo. Glória Patri E u o u a e",
+  "gabc": "(c4) VE(hfg)NÍ(hg/jvIH)TE,(h) *(,) fí(hj)li(h)i,(ixhg/hih) (;) au(f)dí(ixhf/hi)te(gf) me:(fgff/ded) (:) ti(f)mó(h)rem(g) Dó(gh)mi(f)ni(d!ewf) (,) do(f)cé(eg/hf)bo(fgFE) vos.(fff/ded) <i>Ps.</i>(::) Be(f)ne(gh)dí(h)cam(h) Dó(h)mi(h)num(h) in(h) o(hj)mni(h) tém(h)po(hg)re:(gh) *(:) sem(gf~)per(gh) laus(h) e(h)jus(h) in(hjh) o(g)re(f) me(fg)o.(h) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g) u(f) a(fg) e(h) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "524"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3821",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

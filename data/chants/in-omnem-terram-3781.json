@@ -1,0 +1,31 @@
+{
+  "id": "in-omnem-terram-3781",
+  "incipit": "In omnem terram",
+  "title": "In omnem terram",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "In omnem terram * exívit sonus eórum: et in fines orbis terrae verba eórum, allelúia, allelúia.",
+  "gabc": "(c4) IN(g) o(hj~)mnem(j) ter(jhjvIG)ram(g) *(;) ex(g)í(gh/ji)vit(j) so(i!jk)nus(kh) e(h)ó(hkj)rum:(ikjj/ghg) (:) et(g) in(h) fi(gh!iwj)nes(j) or(hi)bis(hg) ter(hjghvGFg)rae(gf) (;) ver(gh~)ba(hgh) e(fg)ó(gh/jhi)rum,(hg) (;) al(gi~)le(i)lú(jkj)ia,(h) (,) al(gi~)le(iv//hji)lú(ghg)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[115]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3781",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

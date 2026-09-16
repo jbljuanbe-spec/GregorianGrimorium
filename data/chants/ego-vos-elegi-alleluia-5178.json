@@ -1,0 +1,31 @@
+{
+  "id": "ego-vos-elegi-alleluia-5178",
+  "incipit": "Ego vos elegi... alleluia",
+  "title": "Ego vos elegi... alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ego vos elégi de mundo, ut eátis et fructum afferátis: et fructus vester máneat. T. P. Allelúia.",
+  "gabc": "(c4) E(h)go(jhhg) (::) vos(ihj) e(hf)lé(gh)gi(g) (;3) de(fg) mun(fgefd~)do,(d) (;) ut(fe) e(fg)á(ghfg)tis(d) (;) et(d) fru(fef)ctum(dc) af(fh)fe(gh)rá(fgf)tis:(f) (;) et(h) fru(ghffe)ctus(d) ve(fe)ster(cd) má(d)ne(d!efEDe)at.(ed) <i>T. P.</i>(::) Al(fg>)le(ef//ghfgFE)lú(de/fef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "427"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5178",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

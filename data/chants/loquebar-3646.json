@@ -1,0 +1,31 @@
+{
+  "id": "loquebar-3646",
+  "incipit": "Loquebar",
+  "title": "Loquebar",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Loquébar, Dómine, de testimóniis tuis in conspéctu regum, * et non confundébar.",
+  "gabc": "(f3) AL(fe)LE(c)LÚ(ef//e!hhhvGF/gwhf~)IA.(f) *(;) <i>ij.</i>(fg!hi/h!ijjh//jijIHGF)  (,) (e!hhhvGF/gwhf) <sp>V/</sp>.(::) Lo(f)qué(fvEC)bar,(ef) Dó(ef!gwh)mi(hhhvGF)ne,(f) (;) de(f) tes(g)ti(h)mó(i)ni(h!ij)is(jh//jijIHGF) tu(ef!gwhf)is(f) (;) in(f) con(g)spéc(h)tu(i) re(iv//hihh//fhGFEf , f!gh!iv///hihh//fhGFEf , e!hhhvGF/gwhf)gum,(f) *(,) et(f) non(f) con(fe)fun(c)dé(ef//e!hhhvGF/gwhf)bar.(f) (;) (fg!hi/h!ijjh//jijIHGF) (,) (e!hhhvGF/gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "381"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3646",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

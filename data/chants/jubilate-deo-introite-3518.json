@@ -1,0 +1,31 @@
+{
+  "id": "jubilate-deo-introite-3518",
+  "incipit": "Jubilate Deo... introite",
+  "title": "Jubilate Deo... introite",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Jubiláte Deo omnis terra: servíte Dómino in laetítia: introíte in conspéctu ejus, * in exsultatióne.",
+  "gabc": "(c2) AL(c)LE(cfe)LÚ(fg~)IA.(g) *(,) <i>ij.</i>(dfe/fggv//hg/ji//gih/fhg) (,) (ghg/ih//gih/fhg/gvFD/fvED) (,) (ce!gvFDdc) <sp>V/</sp>.(::) Ju(c)bi(c)lá(fe)te(fg) De(ghf/e!fg)o(g) (;) o(g)mnis(h!ij) ter(jv//iji/ghg)ra:(f) (:) ser(h)ví(ih)te(g) Dó(gh)mi(g)no(g) (,) in(g) lae(g)tí(f!gwh!iv)ti(hg)a:(g) (:) in(g)tro(g)í(gfg)te(dfEDec) (,) in(f) con(f!gh)spé(hiHGge/f!gh)ctu(h) e(h!ij/kg!hwihi)jus,(hg) *(;) in(cd) ex(c)sul(c)ta(fe)ti(fg)ó(g)ne.(g) (,) (dfe/fggv//hg/ji//gih/fhg) (,) (ghg/ji//gih/fhggvFDfvED) (,) (ce!gvFDdc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[205]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3518",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

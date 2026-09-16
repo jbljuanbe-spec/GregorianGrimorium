@@ -1,0 +1,31 @@
+{
+  "id": "corpora-sanctorum-1250",
+  "incipit": "Corpora Sanctorum",
+  "title": "Corpora Sanctorum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Córpora sanctórum in páce sepúlta sunt, et nómina eórum vívent in generatióne * et generatiónem.",
+  "gabc": "(f3) AL(ef!gh)le(f!gw!hvGFgvFE)lú(h!iwj)ia.(j_i) *(,) <i>ij.</i>(jvIHfgFE.gh!ijjvIHfgFE.gf/hf.) (,) (giH'GFgvFEf.) <sp>V/</sp>.(::) Cór(ef!gh)po(f/ghg)ra(hvGFgvFE) sanc(e!fg)tó(gf/ghGF'g)rum(gf..) (;) in(f) pá(e)ce(f!gwh) se(h!ij)púl(ih)ta(fg) sunt,(g'ivH'GFgvFE.) (,) (gh!ijjvIHfgFE.gf/hf.) (,) (giH'GFgvFEf.) (:) et(c) nó(ef)mi(fe)na(e!fh) e(h!ij)ó(ih)rum(i.) (,) ví(h!ij)vent(j) in(i) ge(hvGF)ne(e)ra(f)ti(ghg)ó(f.)ne(f.) *(;) et(c) ge(ef)ne(fe)ra(e!fh)ti(h!ij)ó(ihj)nem.(j_i) (,) (jvIHfgFE.gh!ijjvIHfgFE.gf/hf.) (,) (giH'GFgvFEf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[23]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1250",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

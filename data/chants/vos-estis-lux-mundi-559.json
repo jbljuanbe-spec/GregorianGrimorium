@@ -1,0 +1,37 @@
+{
+  "id": "vos-estis-lux-mundi-559",
+  "incipit": "Vos estis lux mundi",
+  "title": "Vos estis lux mundi",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Vos estis lux mundi * sic lúceat lux vestra coram homínibus, ut vídeant ópera vestra bona et gloríficent Patrem vestrum qui in caelis est. T. P. Allelúia.",
+  "gabc": "(c4) VOS(d) es(e)tis(f) lux(gh) mun(fv_ED)di(d.) *(,) sic(d) lú(c)ce(d)at(f) lux(fd) ve(fh)stra(g) co(h)ram(gh) ho(h)mí(gf)ni(g)bus,(f.) (:) ut(f) ví(ixh_i)de(g)ant(f) ó(h)pe(gf)ra(g) ves(h)tra(fe) bo(d!ewf)na(c.) (;) et(c) glo(d)rí(f_g)fi(f)cent(f) Pa(h)trem(gf~) ve(gg)strum(d.) (,) qui(e) in(f) cae(gh)lis(fv_ED) est.(d.) <i>T. P.</i>(::) Al(fg)le(e!fg/hf/gvFE)lú(d!ewfef)ia.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "499"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1468"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "559",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

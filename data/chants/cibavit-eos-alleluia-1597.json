@@ -1,0 +1,37 @@
+{
+  "id": "cibavit-eos-alleluia-1597",
+  "incipit": "Cibavit eos... alleluia",
+  "title": "Cibavit eos... alleluia",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Cibávit eos * ex ádipe fruménti, allelúia: et de petra, melle saturávit eos, allelúia, allelúia, allelúia. Ps. Exsultáte Deo adjutóri nostro: * jubiláte Deo Jacob. Glória Patri E u u o a e",
+  "gabc": "(f3) CI(c)BÁ(efe)VIT(f) e(fhf)os(efe) *(,) ex(f) á(h)di(hhh)pe(f) fru(e)mén(egf/ge)ti,(c) (,) al(eh~)le(hghf)lú(fgf)ia:(f) (:) et(e) de(f) pe(hh)tra,(hi~) mel(ih~)le(hihh/fgf) (,) sa(f)tu(fi)rá(ih)vit(h!ij) e(ih)os,(h) (;) al(hi~)le(i)lú(ihi)ia,(f) (,) al(g!hwi)le(ih)lú(hf/gvFE)ia,(fe) (,) al(f!gwh)le(hvGF/gwh/ig/hg)lú(fg!hvGFg)ia.(gf) (::) <i>Ps.</i>() Ex(e)sul(fe)tá(eh)te(h) De(h)o(h) ad(h)ju(hg)tó(hi)ri(i) nos(hi)tro:(h) *(:) ju(hf)bi(fh)lá(h)te(i) De(hf)o(h) Ja(ge)cob.(fgf) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h) u(i) u(hf) o(h) a(ge) e(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "252"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "268"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1597",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

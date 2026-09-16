@@ -1,0 +1,31 @@
+{
+  "id": "meditabor-sine-alleluia-810",
+  "incipit": "Meditabor sine Alleluia",
+  "title": "Meditabor sine Alleluia",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Meditábor * in mandátis tuis, quae diléxi valde: et levábo manus meas ad mandáta tua, quae diléxi.",
+  "gabc": "(c3) ME(c)di(ef)tá(f/hhe/gf)bor(f.) *(,) in(e) man(f)dá(hih)tis(hh/ih) tu(hh/ihhvGF)is,(gf..) (;) quae(hg) di(h)lé(hji)xi(hji) val(hg__f~)de:(f.) (:) et(e) le(f)vá(hhi)bo(h.hhh) (,) ma(fhh'hh)nus(ef) me(fh)as(hhh/ih/ih//h'hhvF'Ef.) (,) ad(e) man(f)dá(hih)ta(high) tu(fgffe)a,(e.) (;) quae(hg) di(h)lé(hjIH'hf/ih/ih//h'hhvFE'D , efE'Defef)xi.(f!gwhhvGF'gwhhvGF.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "114"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "810",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "deriventur-3786",
+  "incipit": "Deriventur",
+  "title": "Deriventur",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Derivéntur * fontes tui foras, et in platéis aquas tuas dívide. ℣. Jucúndus homo, qui miserétur, et cómmodat: dispónet sermónes suos in judício, quia in aetérnum * non commovébitur.",
+  "gabc": "(c3) DE(d)RI(ef)VÉN(fd)TUR(ef) *(,) fon(hf/h!ij)tes(hvGF) tu(f)i(gxfegvFE) (,) fo(ed/fef)ras,(fd/ef!hvvFE//f!gwh/ihh/fgf) (:) et(hh) in(h) pla(h)té(hji)is(ihhf) (,) a(f)quas(fi) tu(if/ij)as(hf/hv//ghFEf) (;) dí(d!ef/hvGFgef)vi(hf/hi)de.(ih/ijIH) (,) (jh/jkIG/hvFE//f!gwh!iv//h!ij) (,) (ijijHFgwhf) <sp>V/</sp>.(::) Ju(f)cún(hi~)dus(i) ho(ih/ij!kvJH//ijij)mo,(j/kvJH//jh/ji//kvJI/kvJI) (:) qui(i!jw!kvJIjw!kvJI) mi(i)se(i)ré(i)tur,(i) (,) et(ij~) cóm(jh/jvIHhf//hhf/hv//hhhf,hi!jvIH/jvIHif)mo(f!gwhf)dat:(f) (:) di(hh)spó(hji)net(ihhf) (,) ser(f)mó(f)nes(fi) su(if/ij)os(hfhv//ghFE) (,) in(f) ju(fef)dí(hfh)ci(hhh)o,(hf!gwh!iv//hi/jhh/iih) (:) qui(hh)a(h) in(h) ae(h)tér(hg/hi!jvHGhhg,ih/ivHF)num(fhFEfhhf//hvvGFheed) *(:) non(d!ef/hvGFg) com(e)mo(f)vé(hf)bi(hi)tur.(ijHGhi) (,) (e!fhhjIHGFgwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "490"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3786",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

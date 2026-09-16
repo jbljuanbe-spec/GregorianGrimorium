@@ -1,0 +1,37 @@
+{
+  "id": "honora-dominum-1145",
+  "incipit": "Honora Dominum",
+  "title": "Honora Dominum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Honóra * Dóminum de tua substántia, et de primítiis frugum tuárum: ut impleántur hórrea tua saturitáte, et vino torculária redundábunt.",
+  "gabc": "(c4) HO(d)nó(ffg)ra(f) *() Dó(ghgh)mi(gf)num(f.) (,) de(f) tu(fv.egF'D)a(d_c) sub(ixfv./eg!hv/i.g!hw!ivHG')stán(f)ti(fg!hvGF'g)a,(gf..) (:) et(f) de(f) pri(hj)mí(j)ti(ixkjjhi)is(i_h) (,) fru(ixh.g!hwi)gum(h) tu(ghg)á(fg!hvGF'g)rum:(gf..) (:) ut(f) im(f)ple(h!iwj)án(jij)tur(h_gh.) hór(k)re(j)a(ij) tu(hjggfg)a(gf__) (,) sa(fge)tu(e!g'h)ri(gh)tá(fgf___)te,(f.) (:) et(fh~) vi(hgh)no(hg/hffg.) (,) tor(c)cu(d!ewf)lá(f)ri(ef)a(d_cd.) (,) red(fge)un(ixeg!hv/i.g!hw!ivHG)dá(fg!hvGF'g)bunt.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "349"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1026"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1145",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "illumina-faciem-4792",
+  "incipit": "Illumina faciem",
+  "title": "Illumina faciem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Illúmina fáciem tuam super servum tuum, et salvum me fac in tua misericórdia: Dómine, non confúndar, quóniam invocávi te.",
+  "gabc": "(c3) Il(fh)lú(hgh)mi(fe)na(e) (::) fá(hi)ci(h)em(fh) tu(hih)am(hgh) (;) su(f)per(f) ser(fe~)vum(d) tu(fhGE)um,(e) (:) et(f) sal(hg)vum(hi) me(ghf) fac(f) (;) in(fj) tu(ji//llj)a(j) (;3) mi(jkj)se(i)ri(hg)cór(iji~)di(h!ijIHi)a:(ih) (:) Dó(jkj)mi(i)ne,(ig) non(i) con(i)fún(hgh)dar,(fhGE) (;) quó(hhi)ni(h)am(h) in(hi)vo(ghGE)cá(ghGF)vi(fgf) te.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "59"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4792",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

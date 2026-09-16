@@ -1,0 +1,31 @@
+{
+  "id": "calix-benedictionis-3580",
+  "incipit": "Calix benedictionis",
+  "title": "Calix benedictionis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Calix * benedictiónis, cui benedícimus, nonne communicátio sánguinis Christi est? Et panis quem frángimus, nonne participátio córporis Dómini est?",
+  "gabc": "(c4) CA(d!fffgvFD)LIX(dc) *(,) be(d)ne(dc)di(fg)cti(fe)ó(ge//ghffvED)nis,(ff) (;) cu(fgf)i(fd) be(dg)ne(ghg)dí(ef!gh)ci(gf)mus,(ixff//hg/ihhf) (;) non(h!jj/kj)ne(jjjgh) com(g)mu(ge)ni(g)cá(gh)ti(g)o(gihh) (,) sán(gh!iwj)gui(hg)nis(g) Chri(hg/hf)sti(d) est?(fd/fffg) (:) Et(cd) pa(dgFE//f!gwhgh)nis(hg) (,) quem(gf~) frán(fg~)gi(g)mus,(ghff//dgFEfgd) (;) non(d!ff/gf)ne(fffc/d) par(d)ti(e)ci(f)pá(g)ti(f)o(egff) (,) cór(dfef)po(d)ris(cff) Dó(e!fwg!hv)mi(g)ni(fgee//dfe) est?(dc/dde) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "476"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3580",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

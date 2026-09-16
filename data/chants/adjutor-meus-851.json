@@ -1,0 +1,31 @@
+{
+  "id": "adjutor-meus-851",
+  "incipit": "Adjutor meus",
+  "title": "Adjutor meus",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Adjútor meus, * et liberátor meus esto: Dómine, ne tardáveris. ℣. Confundántur, et revereántur inimíci mei, qui quaerunt ánimam * meam.",
+  "gabc": "(f3) AD(c)jú(e/f'g)tor(ce/fg/hgg) me(fg!hvGF'g)us,(gf..) *(;) et(fe~) li(f)be(hg)rá(hiH'F)tor(h.f!gwh) me(hiH'F)us(feh/ghf//gvFEf_e) (,) e(h_g)sto:(giH'GhvGFgf..) (:) Dó(fhg/h_i)mi(hggfg)ne,(fv.ef/hhf/hhvF'Ehihhh'f/eece.) (;) ne(c) tar(c)dá(ef)ve(hffeg)ris.(gih'__//ivHF'/gvF'E/f!hh) (,) (ijI'G/hihh/fgf.) <sp>V/</sp>.(z0::c4) Con(c)fun(d)dán(fg!hvGF/gvFE/fgfg)tur,(ixgig__!hwiivHGhg..) (;) et(f) re(f)ve(f)re(gh)án(hvGF.ef/g_e/g_ff'ffvDCecd)tur(d.) (;) i(c)ni(d)mí(e_dh)ci(h) me(ixjhhg/hiGF',gh!jjvHF'//hvGF'fvED')i,(d/ffd/fgff'f/ded.) (:) qui(d) quae(ffg)runt(f) á(ghf)ni(gh)mam(h) *() me(ixjhhg/hiGF',gh!jjvHF'//hvGF'fvED')am.(d/ffd/fgff'f/ded.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "115"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "851",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

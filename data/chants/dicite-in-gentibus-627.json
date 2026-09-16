@@ -1,0 +1,43 @@
+{
+  "id": "dicite-in-gentibus-627",
+  "incipit": "Dicite in gentibus",
+  "title": "Dicite in gentibus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Dícite in géntibus: quia Dóminus regnávit * a ligno.",
+  "gabc": "(c4) AL(g)le(g)lú(gh!jvIH)ia.(jkJG'//hvG'Fg.) *(;) <i>ij.</i>(dg/hggf//h'/jh'/i_g.) (,) (dg/hggf//h'/ijg.) <sp>V/</sp>.(::) Dí(ggg)ci(gi)te(ijI'G//hihhg.) (,) in(gh) gén(gh)ti(gh!ivHG'h)bus:(hg..) (:) qui(g)a(g_e) Dó(fgF'E/fvED'/g!h'i)mi(hgh)nus(hjg.___) (,) re(gfh~)gná(hv./gjh/ih./gjhi)vit(hg..) *(;) a(g) li(gh!jvIH)gno.(jkJG'//hvG'Fg.) (;) (dg/hggf//h'/jh'/i_g.) (,) (dg/hggf//h'/ijg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "256"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "489"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1455"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "627",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

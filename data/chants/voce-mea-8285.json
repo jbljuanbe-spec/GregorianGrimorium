@@ -1,0 +1,31 @@
+{
+  "id": "voce-mea-8285",
+  "incipit": "Voce mea",
+  "title": "Voce mea",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Voce mea ad Dóminum clamávi, et exaudívit me de monte sancto suo : non timébo mília pópuli circumdántis me.",
+  "gabc": "(c4) Vo(fh)ce(h) me(hggfg)a(gf__) (,) ad(f) Dó(g)mi(hf)num(ixgi) cla(h)má(ixhjii)vi,(ih..) (:) et(f) ex(g)au(gf~)dí(f)vit(f.dewfvEDCd) me(dc..) (;) de(f) mon(gh)te(hg) san(hiwj)cto(hghg__) su(f!ghGFg)o :(gf..) (:) non(f) ti(h)mé(ghf)bo(fgf) mí(g)li(f)a(fe/fgf) () pó(dewf/gf)pu(dewfvEDCd)li(dc..) (;) cir(fgwhgh)cum(ixhjHGF.eg!hv/ighwiHG)dán(f)tis(f!ghGFg) me.(gf..) (::)",
+  "transcriber": "Dominique CROCHU",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "71"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8285",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

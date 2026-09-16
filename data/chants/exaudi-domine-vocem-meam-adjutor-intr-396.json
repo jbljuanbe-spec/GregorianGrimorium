@@ -1,0 +1,37 @@
+{
+  "id": "exaudi-domine-vocem-meam-adjutor-intr-396",
+  "incipit": "Exaudi Domine vocem meam... adjutor (Intr)",
+  "title": "Exaudi Domine vocem meam... adjutor (Intr)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "EXáudi Dómine * vocem meam, qua clamávi ad te: adjútor meus esto, ne derelínquas me neque despícias me, Deus salutáris meus. Ps. Dóminus illuminátio mea, * et salus mea: quem timébo? Glória Patri. E u o u a e.",
+  "gabc": "(c4) EX(f)áu(fg~)di(f) Dó(f_e)mi(dc)ne(c.) *(,) vo(ded)cem(d) me(e!f'g)am,(g.) (;) qua(gh) cla(f_d)má(d_c)vi(e_d) ad(fgf) te:(eef.) (:) ad(de)jú(ixghg/hi)tor(h) me(hg)us(g) e(gh!jj)sto,(g.) (;) ne(g) de(ghg)re(f)lín(e_f)quas(g_h) me(f.) (;) ne(e!fwg'!hv)que(g) de(g)spí(ghgh)ci(fd)as(egef) me,(ed..) (;) De(fhfg____)us(gv.ff/cdc.) (,) sa(ded)lu(dc)tá(dfe/ggh)ris(fg) me(egff)us.(fe..) <i>Ps.</i>(::) Dó(hg)mi(gh)nus(h) il(h)lu(h)mi(h)ná(hg)ti(gi)o(i) me(hi)a,(h.) *(:) et(hg~) sa(gh)lus(h) me(h)a:(h) quem(gf) ti(gh)mé(g)bo?(e.) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "332"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1002"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "396",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "facies-unctionis-1131",
+  "incipit": "Facies unctionis",
+  "title": "Facies unctionis",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Facies * unctiónis óleum, et fíliis Israel dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras. Ps. Grátias Dómini in aetérnum cantábo: * per omnes generatiónes annuntiábo fidelitátem túam. Fácies.",
+  "gabc": "(f3) FA(ef)CI(f)ES(fhffe.) *(,) unc(f)ti(hh)ó(h)nis(hg/hi!jvH'Gh') ó(f)le(fgf___)um,(f.) (:) et(f) fí(h')li(i)is(i) Is(ij)ra(ih)el(h.) (,) di(gh!ijIG'h)ces:(h.) (;) Hoc(f) ó(fi)le(ih)um(h.) unc(hjij)ti(h)ó(fhgh)nis(f.) (,) sanc(fg)tum(f_e) e(fhg)rit(h_i) mi(fgF'E)hi(e.) (:) in(h) ge(gihh)ne(ef)ra(hhi)ti(h)ó(h_f)nes(fi) ves(hiH'F)tras.(f.) <i>Ps.</i>(::) Grá(e)ti(fe)as(eh) Dó(h)mi(h)ni(h.) (,) in(h) ae(h)tér(hg)num(hi) can(i)tá(hi)bo:(h.) *(:) per(hf) om(fh)nes(h) ge(h)ne(h)ra(h)ti(h)ó(h)nes(h.) (,) an(h)nun(h)ti(h)á(h)bo(h) fi(h)de(h)li(i)tá(hf)tem(h) tú(ge)am.(fgf.) (::) Fá(ef)ci(f)es.(fhffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "196"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1131",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

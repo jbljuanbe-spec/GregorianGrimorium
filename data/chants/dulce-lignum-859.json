@@ -1,0 +1,37 @@
+{
+  "id": "dulce-lignum-859",
+  "incipit": "Dulce lignum",
+  "title": "Dulce lignum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Dulce lignum, dulces clavos, dúlcia ferens póndera: quae sola fuísti digna sustinére regem caelórum * et Dóminum.",
+  "gabc": "(c4) AL(e)le(gg)lú(ghgjvIH'h)ia.(g.) *(;) (jv.hji//ghG'Fhg/ji/hhg.) (;) (jv.hji//ghG'Fhg/ji/hhg//h_ihhg.) <sp>V/</sp>.(::) Dul(e)ce(gg) li(ghg/jvIH'h)gnum,(g.) (;) dul(g)ces(hi) cla(i)vos,(ig/hihhg.) (;) dúl(g)ci(g)a(hih) fe(ge/fgeed.,g!h'i)rens(ih~) pón(ivHGh'/ijgg)de(fg)ra:(g.) (:) quae(gji) so(jk)la(k) fu(i)í(k)sti(j) di(ih/jh/ij)gna(i.) (,) sus(i)ti(ih)né(jkj/hji//ghG'Fhg/ji/hhg)re(g.) (;) re(fg~)gem(g) cae(fh)ló(hv.gjIH'ig)rum(g.) *(,) et(e) Dó(gg)mi(ghg/jvIH'h)num.(g.) (;) (jv.hji//ghG'Fhg/ji/hhg.) (;) (jv.hji//ghG'F/hg/ji/hhg//h_ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "490"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1456"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "859",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

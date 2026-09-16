@@ -1,0 +1,31 @@
+{
+  "id": "locus-iste-651",
+  "incipit": "Locus iste",
+  "title": "Locus iste",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Locus iste * a Deo factus est, inæstimábile sacraméntum, irreprehensíbilis est. ℣. Deus, cui adstat Angelórum chorus, exáudi preces servórum * tuórum.",
+  "gabc": "(c3) LO(dde)cus(d) i(gxd!ewf'!gv)ste(f.) *(,) a(fh) De(ffe)o(ef) fa(fefDC'ef/hf)ctus(ded___) est,(d.) (;) in(f)æ(fe)sti(eh)má(h)bi(gxihhfg)le(g_f) sa(f)cra(e.d!ew!fvED'e)mén(gxef!gvFE)tum,(fe..) (:) ir(f)re(f)pre(f)hen(hh)sí(h)bi(f)lis(de) est.(dfe___//highf./dfe/feed.) <sp>V/</sp>.(::) De(d)us,(d) cu(d)i(d) ad(df!hh/ijh)stat(h.) (,) An(h)ge(h)ló(h)rum(h) cho(h)rus,(ihhe./hih___/ihhe.) (,) (hi!kv//lvKI'jvHF.) (,) (h_g/ijh'___ jvIH'jvIH'//hvGF.) (:) ex(h)áu(hi!jvIH'hf/hhhi~)di(h.) (,) pre(gxfgFE.fgFD.fvEDed)ces(d.) (;) ser(d)vó(dfE'D)rum(ef) *() tu(h)ó(hiH'Fhhh)rum.(hhf.) (,) (gxg_fgvED.fgED.fehv.hhhff/dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[72]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "651",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

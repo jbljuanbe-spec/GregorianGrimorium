@@ -1,0 +1,31 @@
+{
+  "id": "pater-cum-essem-4810",
+  "incipit": "Pater, cum essem",
+  "title": "Pater, cum essem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Pater, cum essem cum eis, ego servábam eos quos dedísti mihi, allelúia: nunc autem ad te vénio: non rogo ut tollas eos de mundo, sed ut serves eos a malo, allelúia, allelúia.",
+  "gabc": "(c4) Pa(fgf)ter,(ef) (::) cum(de) es(g!hi)sem(h) cum(hg) e(hjIG)is,(hg/hih) (;) e(h)go(ghg) ser(ge~)vá(g)bam(g) e(gh)os(g) (;4) quos(fe) de(d)dí(efe)sti(d) mi(ded)hi,(c) (;) al(e)le(egFE//gvFE)lú(egffv)ia:(fe) (:) nunc(ffv) au(dgf)tem(ef) (;4) ad(fe) te(gh) vé(jij)ni(jhj)o:(g) (:) non(h) ro(ghg)go(e) (;4) ut(f) tol(ixhi)las(h) e(gh)os(g) de(f) mun(fefd~)do,(fe) (:) sed(d) ut(f) ser(ixhi)ves(h) e(gh)os(g) a(f) ma(fe)lo,(d) (:) al(f)le(fc)lú(dedd>)ia,(c) (;) al(c)le(egFE//gvFE)lú(egffv)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "244"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4810",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

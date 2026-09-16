@@ -1,0 +1,31 @@
+{
+  "id": "jubilate-deo-universa-1674",
+  "incipit": "Jubilate Deo universa",
+  "title": "Jubilate Deo universa",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "JUBILÁte * Deo univérsa terra: jubiláte Deo univérsa terra: psalmum dícite nómini ejus: veníte, et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimae meae, allelúia.",
+  "gabc": "(c4) JU(c)BI(d)LÁ(ixdh!iv)te(h) *() De(hjh)o(ghggf) (;) u(ghg)ni(hg)vér(hv//g!jjj)sa(fg) ter(ixfh!jvHGig/hi)ra:(h) (:) ju(h)bi(h)lá(jhjGFfvDC,ddc/dd//cd!ff//g/hhg/hh,fg/hhh//gh!jjj//ij/kkj,kj/klKJjvIHk)te(kjjvIH) De(hjh)o(ghggf) (;) un(ghg)i(hg)vér(hv//g!jjj)sa(fg) ter(fh!jvHGig/h!jjh,jjvHGh!iwji)ra:(jjjvIHjggf) (:) psal(fh)mum(hg~) dí(hg!jjj)ci(hg)te(ghGF) (,) nó(fg/hf/ghg//jkj)mi(jjji)ni(hg) e(gv//fhhg/hv//gh!jjjh~)jus:(hhgh) (:) ve(jk)ní(klkl)te,(jh) (,) et(hg) au(gh)dí(hj/kjk)te,(kh) (,) et(jk/lkl) nar(jh)rá(hj)bo(jjj) vo(hhg)bis,(gfg) (;) o(fg/hf//ghg//jkj//jj)mnes(hjGFg) (,) qui(f) ti(ghg)mé(hfg)tis(fgd) De(fhg)um,(g) (:) quan(hj)ta(jji) fe(jvIH)cit(hg) Dó(ge)mi(fgffg)nus(gd) (;) á(df/gfgf//fffd/gef,hjg)ni(fdf)mae(f) me(fffgvFD)ae,(d) (:) al(fg~)le(ed/fh//ghg/e!fg/hfgvFE)lú(d!ewfef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "54"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1674",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "miserere-mihi-tribulor-5812",
+  "incipit": "Miserere mihi... tribulor",
+  "title": "Miserere mihi... tribulor",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Misereré mihi, Dómine, quóniam tríbulor: líbera me, et éripe me de mánibus inimicórum meórum, et a persequéntibus me: Dómine, non confúndar, quóniam invocávi te. ℣. In te, Dómine, sperávi, non confúndar in ætérnum: in justítia tua líbera me. Miserére.",
+  "gabc": "(c3) Mi(e)se(hhv)re(fe)ré(fd) (::) mi(d)hi,(f) Dó(hhi)mi(h)ne,(h) (;) quó(h)ni(hhe)am(e) trí(gxfgFE)bu(feede)lor:(ed) (:) lí(de)be(fef)ra(hf//hhi) me,(h) (;) et(f) é(h)ri(hji)pe(h) me(h) (;) de(f) má(h)ni(h)bus(fh) (;3) i(f)ni(hg)mi(h)có(hji)rum(h) me(fhg)ó(hhfg)rum,(fe) (;) et(f) a(d) per(e)se(f)quén(hhv)ti(h)bus(hiHGh) me:(f) (:) Dó(f)mi(e)ne,(ed) (;4) non(h) con(h)fún(hji)dar,(h) (;) quó(h)ni(hhf)am(f) in(fh)vo(ef)cá(fhFEf)vi(ded) te.(d) <sp>V/</sp>.(::) In(d) te,(f) Dó(h)mi(h)ne,(h) spe(h)rá(h)vi,(h) (;3) non(h) con(h)fún(h)dar(h) in(h) æ(h)tér(i)num:(h) (::) in(f) ju(h)stí(h)ti(h)a(h) tu(h)a(h) lí(i)be(g)ra(h) me.(fefED) (::) Mi(e)se(hhv)ré(fe)re.(fd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "147"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5812",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

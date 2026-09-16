@@ -1,0 +1,43 @@
+{
+  "id": "dicite-pusillanimes-218",
+  "incipit": "Dicite : Pusillanimes",
+  "title": "Dicite : Pusillanimes",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Dicite: * Pusillánimes confortámini, et nolíte timére: ecce Deus noster véniet, et salvábit nos.",
+  "gabc": "(c3) DI(ef)ci(fdfe)te:(e.) *(;) Pu(e)sil(e!f'h)lá(g!h'i)ni(i)mes(i.) (,) con(i)for(i)tá(kik)mi(kkk)ni,(klk/k/iji.) (;) et(h) no(h)lí(hj)te(iji) ti(h)mé(hj)re:(ijii/ghg.) (:) ec(g!hwi'!jv)ce(i) De(i)us(i) nos(i)ter(gi) vé(hi)ni(ghG'___FE'f)et,(fe..) (;) et(d!f'h) sal(h)vá(hg/hf)bit(hf/g_vFE) nos.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "9"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "337"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "23"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "218",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

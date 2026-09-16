@@ -1,0 +1,31 @@
+{
+  "id": "jerusalem-surge-1681",
+  "incipit": "Jerusalem surge",
+  "title": "Jerusalem surge",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Jerúsalem * surge, et sta in excélso: et vide jucunditátem, quae véniet tibi a Deo tuo",
+  "gabc": "(f3) JE(fge)rú(fh)sa(hg)lem(hv//ghf) *() sur(hj)ge,(i) (,) et(i/ig) sta(hi) in(ij) ex(i)cél(hi)so:(gf) (:) et(h) vi(fv//ege/fg)de(f) ju(f)cun(hf/fe~)di(f)tá(h!ihi)tem,(hg) (;) quae(g) vé(ij)ni(ig)et(high) ti(fv//egef)bi(fvEC) (,) a(e) De(gih)o(hv//giHGh) tu(fgf)o(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "6"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1681",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

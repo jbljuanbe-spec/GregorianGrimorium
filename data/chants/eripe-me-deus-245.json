@@ -1,0 +1,31 @@
+{
+  "id": "eripe-me-deus-245",
+  "incipit": "Eripe me... Deus",
+  "title": "Eripe me... Deus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Eripe me * de inimícis meis, Deus meus: et ab insurgéntibus in me líbera me, Dómine.",
+  "gabc": "(c3) E(ef)ri(e)pe(fe/f!hhg/hhg//h!iwjij) me(ji..) *(;) de(i) i(i)ni(i)mí(i!jw!kvJI)cis(ijhivHGhg..) (,) me(ijhh'ih/ihih)is,(h_g/hvG'FE/fe..) (;) De(ge/f!hh/ikJI')us(ihhvGF) me(h.f!gw!hvG'FE'f)us:(fe..) (:) et(e) ab(e) in(hg~)sur(hi~)gén(iie//fgFE. , hiHG./iji/hvGF/hhi. , kk/lk//lklk/l_m)ti(k_j)bus(kkki/jkj.) (,) in(ih~) me(i//kki//hiH'GFggh.) (;) lí(f)be(i)ra(h/ijhhg) me,(e.) (,) Dó(eg/i_g/ijH'FghF'E,hiH'EfhhvGF'gw!hvGF)mi(ef!gvFE'f)ne.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "161"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "245",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

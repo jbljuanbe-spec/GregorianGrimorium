@@ -1,0 +1,31 @@
+{
+  "id": "panem-de-caelo-6151",
+  "incipit": "Panem de caelo",
+  "title": "Panem de caelo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Panem de cælo dedísti nobis, Dómine, habéntem omne delectaméntum, et omnem sapórem suavitátis.",
+  "gabc": "(c3) Pa(dde)nem(d) (::) de(df) cæ(feede)lo(ed) (;) de(d)dí(efef)sti(hffe) no(hhi)bis,(h) (;) Dó(hji)mi(ihhf)ne,(f) (;) ha(f)bén(hi)tem(h) (;3) o(h)mne(hh) de(fh)le(ed)cta(fdf)mén(gxfegf)tum,(f) (:) et(f) o(hi)mnem(i) sa(ih)pó(gxihiHGFg)rem(gf) (;) su(efd)a(d!ef)vi(f//hvFE//fgFE)tá(d!efEDe)tis.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "317"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6151",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

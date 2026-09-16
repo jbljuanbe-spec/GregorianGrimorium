@@ -1,0 +1,37 @@
+{
+  "id": "laetabimur-1296",
+  "incipit": "Laetabimur",
+  "title": "Laetabimur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Laetábimur * in salutári tuo: et in nómine Dómini Dei nostri magnificábimur.",
+  "gabc": "(f3) LAe(f)tá(fefvEDefef)bi(g)mur(f!gwh.) *(,) in(hf~) sa(hih)lu(iji)tá(jlKJ')ri(i) tu(hg/hihi)o:(f!gwh.) (;) et(f) in(h) nó(ij)mi(i)ne(i) Dó(j)mi(ih)ni(hihh/fgf.) (,) De(hhg)i(hi/jij) nos(h)tri(hv.fgFE.) (,) ma(e)gni(hg)fi(hi)cá(iv.giHG'F//e_f)bi(e.d!ewfe/fg)mur.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "144"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "359"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1296",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

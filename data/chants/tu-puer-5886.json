@@ -1,0 +1,31 @@
+{
+  "id": "tu-puer-5886",
+  "incipit": "Tu, puer",
+  "title": "Tu, puer",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tu puer, prophéta Altíssimi vocáberis: præíbis enim ante fáciem Dómini paráre vias ejus.",
+  "gabc": "(f3) Tu(f!hi) pu(jijh)er,(h) (::) pro(hf)phé(hj)ta(j) Al(j)tís(j)si(jij)mi(h!ijg) (;) vo(hjij;3h!ijhhg)cá(f)be(f!ghGFg)ris:(gf) (:) præ(j)í(kxjik)bis(j) e(ijiiv)nim(f) (;) an(fhhg~)te(f) fá(fihi)ci(i)em(ijij) (;3) Dó(gh/ihi)mi(f)ni(fe) (;) pa(f)rá(fe//ffef)re(fc) (;4) vi(ef/hhvFE//hh)as(ivHGh) e(fgf)jus.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "498"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5886",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

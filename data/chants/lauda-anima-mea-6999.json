@@ -1,0 +1,31 @@
+{
+  "id": "lauda-anima-mea-6999",
+  "incipit": "Lauda, anima mea",
+  "title": "Lauda, anima mea",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Lauda ánima mea Dóminum, laudábo Dóminum in vita mea: psallam Deo meo quámdiu ero, allelúia.",
+  "gabc": "(c4) Lau(ce/ge//ghGF//fvED)da(fd/efe) (::) á(fd)ni(e)ma(f) me(hggd)a(fhGF//ghg) (;4) Dó(f)mi(egffv)num,(ef) (:) lau(ed~)dá(ghg)bo(h) Dó(hjh/ij)mi(g)num(fgFE) (;) in(f) vi(fe/f!gh)ta(hg) (;4) me(ge//fhGF//fvED)a:(fd/efe) (:) psal(ce/gf)lam(ffc) De(df!gvFE)o(e) (;4) me(ixdh!ivHG)o(gh) (;) quám(f)di(ef//hig)u(gf) e(ffv)ro,(d!efED) (:) al(ce/gf)le(ffc;1ffe//hghffe)lú(egffv)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "226"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6999",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "facies-unctionis-8753",
+  "incipit": "Facies unctionis",
+  "title": "Facies unctionis",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": null,
+  "text_latin": "Facies * unctionis oleum, et filiis Israel dices: Hoc oleum unctionis sactum erit mihi in generationes vestras. Ps. Gratias Domini in æternum cantabo; * per omnes generationes annuntiabo fideliatem tuam. Facies.",
+  "gabc": "(f3)Fa(ef)ci(f)es(fhffe.)   *(,) un(f)cti(hh)o(h)nis(hg/hi/jvH'Gh') o(f)le(fgf___)um,(f.) (:) et(f) fi(h')li(i)is(i) Is(ij)ra(ih)el(h.) (,) di(gh/ijIG'h)ces:(h.) (;) Hoc(f) o(fi)le(ih)um(h.) un(hjij)cti(h)o(fhgh)nis(f.) (,) sa(fg)ctum(f_e) e(fhg)rit(h_i) mi(fgF'E)hi(e.) (:) in(h) ge(gihh)ne(ef)ra(hhi)ti(h)o(h_f)nes(fi) ve(hiH'F)stras.(f.)    <c><i>Ps.</i></c>(::) Gra(e)ti(fe)as(eh) Do(h)mi(h)ni(h.) (,) in(h) æ(h)ter(hg)num(hi) can(i)ta(hi)bo;(h.)   *(:) per(hf) om(fh)nes(h) ge(h)ne(h)ra(h)ti(h)o(h)nes(h.) (,) an(h)nun(h)ti(h)a(h)bo(h) fi(h)de(h)li(i)a(hf)tem(h) tu(ge)am.(fgf.) (::) Fa(ef)ci(f)es.(fhffe.) (::)",
+  "transcriber": "Sebastian Malton",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "661"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8753",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

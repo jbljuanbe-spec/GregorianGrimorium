@@ -1,0 +1,31 @@
+{
+  "id": "justorum-anime-3823",
+  "incipit": "Justorum anime",
+  "title": "Justorum anime",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Justórum * ánimae in manu Dei sunt: et non tanget illos torméntum malítiae. ℣. Visi sunt óculis insipiéntium mori: illi autem * sunt in pace",
+  "gabc": "(c4) JUS(d)TÓ(ff)RUM(fh) *() á(ixhiHG)ni(hggfg)mae(fv//e!gh//fg!hvFED/ef!gvgf) (;) in(f) ma(ixfg/ih)nu(i) De(ixii//iiivGF/gi!jvIHi)i(i) sunt:(ixiv//h!ij/hig//hihig) (:) et(f) non(f) tan(hf/gh!jj)get(jh/jg) il(f)los(fv//d!fg//fh!jvGF/fd) (,) (ff/ge/fgd/eddc) (;) tor(f)mén(hfh)tum(ixhiHG) ma(g)lí(g!hj)ti(jjjh)ae.(ixhv///giHF) (z0::c3)<sp>V/</sp>. Vi(d)si(f) sunt(gxfh/ih/ih//ivFD//fh!ivFD/fhfg) (,) (fh/ih/ih//ivFD/ed//ddd/fh/ijh) (;) ó(hi)cu(h)lis(h) in(h)si(h)pi(h)én(h)ti(h)um(hg/ij) mo(ih)ri:(hg/ih//jvIHG/hf) (:) il(hh)li(h) au(ih/ijh ih/ijij//hi/jij)tem(jh/jki/hh/fgf) *(;) sunt(d!ef) in(f) pa(fhGF/hhh)ce(hhf) (,) (gxgf/gvED//fgED//fe/hv/hhhff//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "363"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3823",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

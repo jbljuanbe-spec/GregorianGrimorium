@@ -1,0 +1,31 @@
+{
+  "id": "gloria-et-honore-5797",
+  "incipit": "Gloria et honore",
+  "title": "Gloria et honore",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Glória et honóre coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine. T. P. Allelúia.",
+  "gabc": "(c4) Gló(f)ri(ixfg/hihi)a(ih) (::) et(h) ho(h)nó(iyhjjvIH//jjvIH//gih)re(hggfg) (;) co(f!gh)ro(ghGF)ná(hghGF)sti(jjvIHG) (;3) e(hjjvIHG)um:(ghggf) (:) et(h) con(jjk)sti(hhg)tu(f)í(fg!hvhg)sti(jjvIHG) (;3) e(ghffd)um(d) (;) su(f)per(f) ó(fgfg)pe(d!efEDCd)ra(dc//f!ghg) (;) má(hjjvIH//gihhg)nu(gf)um(f) (;4) tu(f)á(fgFE)rum,(fg!hvhg) (;) Dó(ixgih/ggf//hg/ffdf;ffgfgff)mi(d)ne.(dffgd) <i>T. P.</i>(::) Al(fg>)le(ef//ghf/gvFE)lú(de/fef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "17*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5797",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

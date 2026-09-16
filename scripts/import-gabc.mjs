@@ -2,8 +2,8 @@
 // Importa archivos .gabc a registros de data/chants/.
 //
 // Uso:
-//   node scripts/import-gabc.mjs --in <dir> --origin <gregobase|public-domain-scan|licensed> \
-//        --edition "<edición>" [--out data/chants] [--dry-run] [--force]
+//   node scripts/import-gabc.mjs --in <dir> --origin <gabc-file|public-domain-scan|licensed> \
+//        --license "<licencia>" [--out data/chants] [--dry-run] [--force]
 //
 // La procedencia es obligatoria y explícita: ningún registro entra al corpus
 // sin declarar de dónde viene (ver docs/SOURCES.md).
@@ -11,12 +11,12 @@
 import { readFileSync, readdirSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import { parseGabc } from "./lib/gabc.mjs";
+import { parseGabc } from "../lib/gabc.mjs";
 import { toChantRecord } from "./lib/normalize.mjs";
 
-const VALID_ORIGINS = ["gregobase", "public-domain-scan", "licensed"];
+const VALID_ORIGINS = ["gregobase", "gabc-file", "public-domain-scan", "licensed"];
 
-export function importGabcFiles({ inputDir, outputDir, origin, edition, dryRun = false, force = false }) {
+export function importGabcFiles({ inputDir, outputDir, origin, license, dryRun = false, force = false }) {
   if (!VALID_ORIGINS.includes(origin)) {
     throw new Error(`--origin debe ser uno de: ${VALID_ORIGINS.join(", ")}`);
   }
@@ -30,7 +30,7 @@ export function importGabcFiles({ inputDir, outputDir, origin, edition, dryRun =
   for (const file of files) {
     try {
       const parsed = parseGabc(readFileSync(join(inputDir, file), "utf8"));
-      const record = toChantRecord(parsed, { origin, edition });
+      const record = toChantRecord(parsed, { origin, license });
       const target = join(outputDir, `${record.id}.json`);
 
       // Nunca sobreescribir revisión humana: un registro `verified` solo se
@@ -73,9 +73,9 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const args = parseArgs(process.argv.slice(2));
   const root = dirname(dirname(fileURLToPath(import.meta.url)));
 
-  if (!args.in || !args.origin || !args.edition) {
+  if (!args.in || !args.origin || !args.license) {
     console.error("Faltan argumentos. Uso:");
-    console.error('  node scripts/import-gabc.mjs --in <dir> --origin <origen> --edition "<edición>"');
+    console.error('  node scripts/import-gabc.mjs --in <dir> --origin <origen> --license "<licencia>"');
     process.exit(2);
   }
 
@@ -83,7 +83,7 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     inputDir: args.in,
     outputDir: args.out ?? join(root, "data/chants"),
     origin: args.origin,
-    edition: args.edition,
+    license: args.license,
     dryRun: Boolean(args["dry-run"]),
     force: Boolean(args.force),
   });

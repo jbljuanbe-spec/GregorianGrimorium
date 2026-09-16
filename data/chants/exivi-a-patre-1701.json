@@ -1,0 +1,31 @@
+{
+  "id": "exivi-a-patre-1701",
+  "incipit": "Exivi a Patre",
+  "title": "Exivi a Patre",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Exívi a * Patre, et veni in mundum: íterum relínquo mundum, et vado * ad Patrem.",
+  "gabc": "(c2) AL(gg)LE(d/gfg gh!ijjvIHG//ivHG/hg)LÚ(fg~)IA.(gd/giHG/jvIH/hg) *(;) (gh!ijjvIHG//ivHG/hvGFg) (,) (ghGFD/eddc) (,) (cd!fvv/ghGF//deddc) <sp>V/</sp>.(::) Ex(g)í(ggfg)vi(g) a(gh!ij//hjIHG//ivHG/hg) *() Pa(gvgfg/ivHG,jvvIHG//ivHG/hvGFg)tre,(g) (;) et(gf~) ve(g/hfg gh!ijjvIHG//ivHG/hg)ni(g) in(fg~) mun(ghhg)dum:(g) (:) í(g)te(gd/giHG/jvIHh)rum(g) (,) re(g)lín(ggh)quo(g gh!ij//hjIHG//ivHG/hg) (,) mun(gv//d/gfg gh!ij/jvIHG//ivHG/hvGFg)dum,(g) (:) et(gf~) va(g/hfg  gh!ij/jvIHG//ivHG/hg)do(fg) *(,) ad(fg~) Pat(gd/giHG/jvIH/hg ; gh!ij/jvIHG//ivHG/hvGFg , ghGFD/eddc , cd!fvv/ghGF//deddc)rem.(c) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "230"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1701",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

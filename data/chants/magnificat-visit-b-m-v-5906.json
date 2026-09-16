@@ -1,0 +1,31 @@
+{
+  "id": "magnificat-visit-b-m-v-5906",
+  "incipit": "Magnificat (Visit. B. M. V.)",
+  "title": "Magnificat (Visit. B. M. V.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo salutári meo.",
+  "gabc": "(c3) Al(d)le(gxf!gh//igh;3d!ef//gef)lú(feed~)ia.(d) (::) (d!fh//igh) (;3) (kvJH//iih) (;) (hf//hvGFED) (;) (gxgvFE/fd//ecd) <sp>V/</sp>.(::) Ma(d!fh//igh//hvFD)gní(d)fi(gvFEe)cat(d) (;) á(f!gh)ni(ih//kvJI/jh)ma(h) (;3) me(gvFE/fh)a(h) (;) Dó(kkvJIj)mi(h//kvJI/jh)num:(h) (:) et(h) ex(ijIH)sul(kkj~)tá(ihi)vit(j) (;) spí(kkvJIj//lh!iv)ri(gxgfg)tus(h) (;3) me(gxfgFEDe)us(f) (;) in(hi/jik//kvJIH//igh) (;) (f!gh) De(gvFED//gvFE/fd)o(d) (;) sa(f!gh)lu(igh;3kvJIH)tá(ijiiv)ri(h) (::) me(gxfg!hvGFED//gvFE//fvED)o.(d) (;) (d!fh//ivih) (;3) (hvGFED//ecd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "510"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5906",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

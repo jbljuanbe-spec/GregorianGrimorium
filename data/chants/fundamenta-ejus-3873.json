@@ -1,0 +1,31 @@
+{
+  "id": "fundamenta-ejus-3873",
+  "incipit": "Fundamenta ejus",
+  "title": "Fundamenta ejus",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Fundaménta ejus * in móntibus sanctis: díligit Dóminus portas Sion super ómnia tabernácula Jacob. ℣. Gloriósa dicta sunt de te, cívitas Dei. ℣. Homo natus est in ea, et ipse fundávit eam * Altíssimus.",
+  "gabc": "(c4) FUN(d)DA(f)MÉN(fg)TA(ge/fgDCd) e(fg)jus(ixf/iiivHGhhg) *(;) in(fg) món(gj/jk)ti(h)bus(hg/hf//hjhj) sanc(jvIHiw!jvIHGh)tis:(hg) (:) dí(g/hji)li(j)git(j) Dó(j)mi(j)nus(iijh) (,) por(jk)tas(kij) Si(hjIG)on(gv//fh/ji/jkh/hg/hg/jjh/jg/gf) (:) su(f)per(hj) óm(igh)ni(gf)a(gh) ta(g)ber(g)ná(gh)cu(g)la(gh/jij) (,) Ja(jh!iwj)cob.(jjjvIHivHGhg) <sp>V/</sp>.(::) Glo(g)ri(g)ó(g!hwi!jv)sa(j) dic(j)ta(j) sunt(jk) de(jg) te,(hg/h!iw!jvIHijhhg) (:) cí(hg/jjg/hvGF)vi(f!hj)tas(j) De(j)i.(jijHGixjjvHGhiGF,iyh/jh/ig/hhg) <sp>V/</sp>.(::) Ho(g!hwi!jv)mo(j) na(ij)tus(j) est(j) in(j) e(ik/ljjh)a,(jh/hg/hg/jjh/jggf) (:) et(f) ip(hj)se(igh) fun(gfg)dá(g/hji)vit(j) e(h!iwj)am(ijh/hg) *(;) Al(hg/jjg/hvGF)tís(f!hj)si(j)mus.(jijHGgg/hg/gfg,jjjkvJIHhg/hjIHGghf,h!iw!jvIHihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "348"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3873",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

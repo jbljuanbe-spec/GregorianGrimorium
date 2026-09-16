@@ -1,0 +1,24 @@
+{
+  "id": "tollite-hostias-4639",
+  "incipit": "Tollite Hostias",
+  "title": "Tollite Hostias",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": "Re",
+  "version": "Chants Abreges",
+  "text_latin": "Tollite hostias, et introite in atria ejus : adorate Dominum in aula sancta ejus. Revelabit dominus condensa : et in templo ejus omnes dicent gloriam.",
+  "gabc": "(c3)Tol(d)li(f)te(h) ho(h)sti(h)as,(h.) (,) et(h) in(h)tro(h)i(h)te(h) in(h) a(h)tri(h)a(h) e(ivHF)jus :(f.) (:) ad(f)o(h)ra(h)te(h) Do(h)mi(h)num(h) in(h) au(h)la(hhf) san(gxg)cta(fe) e(f)jus.(ed..) (::) Re(d)ve(f)la(h)bit(h) do(h)mi(h)nus(h) con(h)den(f)sa :(hi) et(h.) (;) in(f) tem(h)plo(h) e(h)jus(h) om(h)nes(h) di(hh)cent(e) glo(f)ri(ed)am.(d.) (::)",
+  "transcriber": "Valeria",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4639",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

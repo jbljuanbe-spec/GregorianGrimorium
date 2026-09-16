@@ -1,0 +1,31 @@
+{
+  "id": "exsultate-deo-6539",
+  "incipit": "Exsultate Deo",
+  "title": "Exsultate Deo",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exsultáte Deo adjutóri nostro, jubiláte Deo Jacob: súmite psalmum jucúndum cum cíthara: cánite inítio mensis tuba: quia præcéptum in Israël est, et judícium Deo Jacob. ℣. Buccináte in neoménia tuba, ut insígni die solemnitátis vestræ. Glória E u o u a e.",
+  "gabc": "(c2) Ex(d)sul(dbc)tá(dc//ffg)te(f) (::) De(fg)o(f) (;4) ad(f)ju(f)tó(fgf)ri(feg) no(ghf)stro,(fgf) (:) ju(f)bi(hg)lá(h)te(f) De(fhGF)o(f) Ja(fgf)cob:(f) (:) sú(ffg)mi(f)te(f) psal(fgffe~)mum(dc) ju(dcd)cún(ffg)dum(f) (;) cum(feg) cí(ghf)tha(fgf)ra:(f) (:) cá(ffg)ni(f)te(f) i(f)ní(f)ti(f)o(fg) men(fd)sis(f) tu(gih)ba:(h) (:) qui(fd)a(f) præ(h)cép(hj)tum(g) (;4) in(f) Is(fe)ra(g)ël(giHG) est,(gf) (;) et(f) ju(f)dí(ffv)ci(dc)um(c) (;1) De(dcd)o(ff) Ja(fe/ghf)cob.(f) <sp>V/</sp>.(::) Buc(fg)ci(gf)ná(gh)te(h) in(h) ne(h)o(hg)mé(gi)ni(h)a(h) tu(g)ba,(f) (::) ut(f) in(g)sí(h)gni(h) di(hj)e(g) so(f)le(f)mni(g)tá(fd)tis(f) ve(g)stræ.(f) (::) Gló(fg)ri(gf)a(gh) (::) E(f) u(g) o(fd) u(f) a(g) e.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "331"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6539",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

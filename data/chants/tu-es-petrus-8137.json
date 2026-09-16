@@ -1,0 +1,24 @@
+{
+  "id": "tu-es-petrus-8137",
+  "incipit": "Tu es Petrus",
+  "title": "Tu es Petrus",
+  "cantus_id": "Comunhão",
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": null,
+  "mode_variant": null,
+  "version": "salmodia",
+  "text_latin": "Tu és Pétrus, et súper hanc pétram * ædificábo Ecclésiam méam.",
+  "gabc": "(c3) TU(e) és(fh) Pé(h)trus,(h) (;) et(h) sú(i)per(h) hanc(h) pé(gf)tram(h.) *(:) æ(h)di(h)fi(h)cá(h)bo(h) Ec(h)clé(h)si(h)am(f) mé(h)am.(gf..) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8137",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

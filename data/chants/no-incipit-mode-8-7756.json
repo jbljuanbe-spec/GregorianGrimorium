@@ -1,0 +1,24 @@
+{
+  "id": "no-incipit-mode-8-7756",
+  "incipit": "-- No Incipit (mode 8)",
+  "title": "-- No Incipit (mode 8)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": null,
+  "mode_variant": "VIII g",
+  "version": null,
+  "text_latin": "Allelúia, * allelúia, allelúia. E u o u a e.",
+  "gabc": "(c3)AL(h>)le(gh)lú(fe)ia,(g) *(,) al(f)le(g)lú(h)ia,(f) al(f)le(e)lú(f)ia.(e) (::) E(h) u(h) o(g) u(h) a(f) e.(e) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7756",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

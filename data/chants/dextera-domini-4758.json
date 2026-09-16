@@ -1,0 +1,31 @@
+{
+  "id": "dextera-domini-4758",
+  "incipit": "Dextera Domini",
+  "title": "Dextera Domini",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dextera Dómini fecit virtútem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini.",
+  "gabc": "(c4) Dex(e!gh)te(hiHG)ra(gh/ihi) (::) Dó(gh)mi(fvEDe)ni(ed) (;) fe(de!ghg)cit(h) (;3) vir(hi/ki/jk)tú(hgih)tem,(h) (:) déx(j)te(ji)ra(jjh) Dó(h!ijh)mi(gh)ni(h) (;) ex(g)al(h)tá(hjjh//kjji)vit(hihhg~) me:(hg) (:) non(g!hj) mó(j)ri(jvIH)ar,(h) (;3) sed(gjjv) vi(hjg)vam,(egeg) (;) et(d) nar(e)rá(ggv)bo(e) (;3) ó(ghg)pe(h)ra(h//jkjkJI) (;3) Dó(h)mi(f)ni.(f//hhvGF//iih) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "54"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4758",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dominabitur-583",
+  "incipit": "Dominabitur",
+  "title": "Dominabitur",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Dominábitur * a mari usque ad mare, et a flúmine usque ad términos orbis terrárum. ℣. Et adorábunt eum omnes reges terræ: omnes Gentes sérvient * ei.",
+  "gabc": "(c3) DO(d)mi(d)ná(efef/hig'hvFE'e)bi(de)tur(e.) *(;) a(d) ma(efe)ri(f) us(f!hhh/ijhhvF'Egihh)que(f) ad(f) ma(fgf___)re,(f.) (:) et(ijIHih) a(fh) flú(h)mi(feh)ne(hig'/hf.) (;) us(fh)que(h) ad(g) tér(h)mi(f)nos(d.) (,) or(dfe___/hgh)bis(f) ter(e)rá(de)rum.(d!ewfef//highf./dfe/feed.) <sp>V/</sp>.(::) Et(d) ad(d)o(fe)rá(eh)bunt(h) e(hi)um(ihhf/hiHG.hiFD.) (,) (f!hhi/hhf/hiHG.hiFD.) (,) (fdfED//fd/ef/hh/ig/hf/hi/kkkh..) (;) o(f)mnes(hg) re(hih)ges(hf) ter(ffe)ræ:(gxefd___//f_e/fgF'ED'dfvEDed..) (:) o(fdfED)mnes(d.) Gen(fd/ef!hh/i!jwkI'H)tes(hiHF.) (;) sér(gxgg//gg)vi(d)ent(efe/ffe.) *() e(fhG'F//hhh)i.(hhf.) (,) (gxg_f/gvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": "Ps. 71, 8. \\Vbar. 11",
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "639"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1710"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "389"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "583",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

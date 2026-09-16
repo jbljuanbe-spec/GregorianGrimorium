@@ -1,0 +1,31 @@
+{
+  "id": "mihi-autem-absit-ps-memento-3368",
+  "incipit": "Mihi autem absit. Ps. Memento",
+  "title": "Mihi autem absit. Ps. Memento",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Mihi autem * absit gloriári, nisi in cruce Dómini nostri Jesu Christi, per quem mihi mundus crucifíxus est, et ego mundo. Ps. Meménto Dómine David: * et omnis mansuetúdinis ejus. Glória Patri E u o u a e",
+  "gabc": "(f3) MI(e)HI(f) au(f)tem(hh) *(,) ab(ihi)sit(ihif) glo(hj)ri(ih)á(hg)ri,(ef) (;) ni(fi)si(i) in(i) cru(kxi!jwkj)ce(ji) (,) Dó(ij)mi(ih)ni(hv///gih) no(fge)stri(f) (,) Je(f)su(hhi) Chri(fgFE)sti,(e) (:) per(h) quem(hhh) mi(f)hi(fi) mun(i)dus(h) cru(h)ci(hi)fí(i)xus(h) est,(hji) (;) et(hihh) e(ef!hhi)go(h) mun(hjIH)do.(hhh/fgf) <i>Ps.</i>(::) Me(e)mén(fe)to(eh) Dó(hg)mi(hi)ne(i) Da(hi)vid:(h) *(:) et(hf) om(fh)nis(h) man(h)su(h)e(h)tú(i)di(hf)nis(h) e(ge)jus.(fgf) (::) Gló(e)ri(fe)a(eh) Pa(h)tri(h) (::) E(h) u(i) o(hf) u(h) a(ge) e(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "372"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3368",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

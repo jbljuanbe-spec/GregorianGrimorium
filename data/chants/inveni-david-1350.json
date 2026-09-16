@@ -1,0 +1,37 @@
+{
+  "id": "inveni-david-1350",
+  "incipit": "Inveni David",
+  "title": "Inveni David",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Invéni David servum meum: óleo sancto meo unxi * eum.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) *(,) <i>ij.</i>(hv.iji./ef/h_f//hv.ghe/hhh.f!gwhf.) <sp>V/</sp>.(::) In(f_e/f!gwh'!iv)vé(jiihi)ni(iv.hh/fgf.) (,) Da(f!hh/ijHF'ivH'GEf./hfhhf/ge)vid(e.) (;) ser(ffe/ffe/fc..,ef!hvvF'Ehhh)vum(ivH'Gh) me(fgf__)um:(f.) (:) ó(f!h'i)le(jiihi)o(iv.hh/fgf.) (,) sanc(fg~)to(f) me(f!hh/ijHF'ivH'GEf./hfhhf/ge)o(e.) (;) un(hh)xi(hi) *() e(i_h/jij)um.(jvvIH'GE//f!gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "514"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1489"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1350",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

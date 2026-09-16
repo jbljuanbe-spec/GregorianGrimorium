@@ -1,0 +1,31 @@
+{
+  "id": "haec-est-vita-aeterna-540",
+  "incipit": "Haec est vita aeterna",
+  "title": "Haec est vita aeterna",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Hæc est vita aetérna, ut cognóscant te solum Deum verum, et quem misísti * Jesum Christum.",
+  "gabc": "(c4) AL(d/ff)le(ef!gvEDffd)lú(ix!f!gh/ig/h_e/fg~)ia.(g.) *(,) <i>ij.</i>(d!ef!gvEDffd) (,) (d!ef!gvEDhv.ghF'ED.) (,) (e_g//fgf/deddc.) (,) (fff/g_hGE'feed.) (::) <sp>V/</sp>. Hæc(dffeggvFE'fd) est(d.) (,) vi(d)ta(d) ae(dh)tér(ixhv.f'!hi'GFhv.d!ef!hvGE'fd)na,(d.) (;) ut(d) co(d)gnó(d!fff)scant(e_devDC) te(dc..) (,) so(c.d!ewf)lum(f!g_h~) De(hvGF'fvED)um(dv.cd!evDC'd) ve(d!ewfef)rum,(ed..) (:) et(f) quem(ghg) mi(h)sí(jhhg/he/f_g//dfED.,ixdh'/jhhg/he/f_g eg!ivHGhvFDfvED,hhggf/hjh__)sti(h.) *(;) Je(d!ff)sum(ef!gvEDffd) Chri(ixf!gh/ig/h_e/fg~)stum.(g.) (,) (d!ef!gvEDffd) (,) (d!ef!gvEDhv.ghF'ED.) (,) (e_g//fgf/deddc.) (,) (fff/g_hGE'feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "64**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "540",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

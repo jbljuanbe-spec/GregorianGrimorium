@@ -1,0 +1,31 @@
+{
+  "id": "gaudeamus-thomae-1404",
+  "incipit": "Gaudeamus... Thomae",
+  "title": "Gaudeamus... Thomae",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Gaudeámus * omnes in Dómino, diem festum celebrántes sub honóre Thomae Mártyris: de cujus passióne gaudent Angeli, et colláudant Fílium Dei. Ps. Exsultáte justi in Dómino: * rectos decet collaudátio. Glória Patri. E u o u a e.",
+  "gabc": "(c4) GAu(c)de(d)á(ixdh!iv)mus(h) *(,) o(hg~)mnes(hg) in(fg) Dó(gjh)mi(ixhg!hwihi)no,(ih) (;) di(h)em(fg~) fes(g)tum(gff) ce(dg)le(gff)brán(dg~)tes(gff) (,) sub(f) ho(g)nó(g/hjh)re(ghg) Tho(fh)mae(gjj) Már(h)ty(hih)ris:(h) (:) de(fg) cu(fg)jus(f) pas(f)si(g)ó(g/hjh)ne(ghg) (,) gau(fg)dent(f) An(fg/hgh)ge(gvFE/fwgfg)li,(gf) (;) et(f) col(g)láu(g/hjHG)dant(hg) (,) Fí(fge)li(f)um(fg/hfgvFE) De(d!ewfef)i.(ed) <i>Ps.</i>(::) Ex(f)sul(gh)tá(h)te(h) jus(hj)ti(h) in(h) Dó(h)mi(hg)no:(gh) *(:) rec(gf)tos(gh) de(h)cet(h) col(hjh)lau(g)dá(f)ti(fff)o.(d) (::) Gló(f)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(hjh) o(g) u(f) a(fff) e.(dc/df) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "40"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1404",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "venite-filii-1697",
+  "incipit": "Venite filii",
+  "title": "Venite filii",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Veníte fílii, * audíte me: timórem Dómini docébo vos. ℣. Accédite ad eum, et illuminámini: et fácies vestrae * non confundéntur.",
+  "gabc": "(c4) VE(d)NÍ(ff)TE(ghgh) fí(hfg)li(g)i,(f) *(,) au(hj~)dí(jh//jij)te(ixgjh/ij) me:(ixih) (:) ti(h)mó(hg)rem(j) Dó(j)mi(ij)ni(hf) do(gh)cé(f)bo(ef) vos.(dec) (,) (fhg//jkijh//fhg/hggf) <sp>V/</sp>.(z0::c3) Ac(d)cé(d)di(f)te(hvvGFhvGEff) (,) (gxde!fgFE/fvEDe) (,) (fh/ih/ih/ijh) (,) ad(h) e(ih/kkh/ih/kkvIH)um,(hv//ghGF) (;) et(h) il(h)lu(h)mi(h)ná(i!jwk)mi(ih)ni:(hihh/fgf) (:) et(fh~) fá(h)ci(h)es(g) ves(h)trae(f) *(,) non(df) con(e!hgh)fun(f)dén(de~)tur.(d!ewfef//highf//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "286"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1697",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

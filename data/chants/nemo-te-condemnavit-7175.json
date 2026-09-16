@@ -1,0 +1,31 @@
+{
+  "id": "nemo-te-condemnavit-7175",
+  "incipit": "Nemo te condemnavit",
+  "title": "Nemo te condemnavit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Nemo te condemnávit, múlier? Nemo, Dómine. Nec ego te condemnábo: jam ámplius noli peccáre.",
+  "gabc": "(c4) Ne(d)mo(c!dfED) (::) te(df) con(f)de(gf)mná(gh)vit,(h) (;3) mú(gh)li(fvED)er?(dfddc) (:) Ne(d)mo,(cd) Dó(d)mi(d!efEDe)ne.(ed) (:) Nec(dc) e(f)go(gh) te(h) con(h)de(gffe~)mná(dc)bo:(cd/eed) (:) jam(fefED//ecd) ám(d)pli(d!efEDe)us(ed) (;) no(d!fg//f!gh)li(fe) pec(cd)cá(d!efEDe)re.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "120"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7175",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

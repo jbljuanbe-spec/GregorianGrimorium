@@ -1,0 +1,31 @@
+{
+  "id": "diffusa-est-6238",
+  "incipit": "Diffusa est",
+  "title": "Diffusa est",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum. T. P. Allelúia.",
+  "gabc": "(c4) Dif(d)fú(ffg)sa(f) est(f) (::) grá(ghgh)ti(g)a(fgFD) (;) in(d) lá(dgf/gh)bi(f)is(f) tu(f!ghGFg)is:(gf) (:) prop(fh)té(hjjv)re(hjggfg)a(gf) (;) be(fg)ne(f)dí(fg)xit(f) te(f) De(d!efEDCd)us(dc) (;) in(ffe) æ(gh/jvHG/ixhiHG)tér(f!ghGFg)num.(gf) <i>T. P.</i>(::) Al(d)le(f)lú(fhggf~)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "55*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6238",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

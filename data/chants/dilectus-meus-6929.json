@@ -1,0 +1,31 @@
+{
+  "id": "dilectus-meus-6929",
+  "incipit": "Dilectus meus",
+  "title": "Dilectus meus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Diléctus meus cándidus et rubicúndus: manus ejus tornátiles, plenæ hyacínthis.",
+  "gabc": "(c4) Di(h)lé(hf/ghg)ctus(e) (::) me(gvFED//f!ghg)us(g) cán(f)di(egffv)dus(fe) (;) et(h) ru(gh)bi(gf)cún(gh)dus:(h) (:) ma(f)nus(gf) e(dffe//fg)jus(gff) (;4) tor(f!ghg)ná(h)ti(g)les,(f) (;) ple(f)næ(e!fg) hya(gf/ghg)cín(egffv)this.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "553"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6929",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

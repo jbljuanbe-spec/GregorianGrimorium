@@ -1,0 +1,31 @@
+{
+  "id": "omnes-gentes-plaudite-intr-5326",
+  "incipit": "Omnes gentes plaudite (Intr)",
+  "title": "Omnes gentes plaudite (Intr)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Omnes Gentes pláudite mánibus: jubiláte Deo in voce exsultatiónis, allelúia, allelúia, allelúia. ℣. Subjécit pópulos nobis: et gentes sub pédibus nostris. Glória E u o u a e.",
+  "gabc": "(f2) O(ffvDC//dffv//hgh>)mnes(f) (::) Gen(hgh)tes(gfgFD) (;) pláu(ffv)di(f)te(gvFEf) má(d)ni(ded)bus:(d) (:) ju(f)bi(hg)lá(hjij)te(h) De(fhGF//hvGFgf)o(f) (;) in(df) vo(f)ce(f) ex(ff)sul(dfe~)ta(c)ti(f)ó(fhghf)nis,(f) (:) al(f)le(fd//fefd)lú(d!ef>)ia,(c) (;) al(dc~)le(fg/hg//hvGF)lú(gh~)ia,(h) (;) al(fg~)le(ixgiHG)lú(hggfg)ia.(gf) <sp>V/</sp>.(::) Sub(fg)jé(gf)cit(gh) pó(ixgi)pu(h)los(h) no(g)bis:(f) (::) et(h) gen(hj)tes(g) sub(f) pé(g)di(fd)bus(f) no(g)stris.(f) (::) Gló(fg)ri(gf)a(gh) (::) E(f) u(g) o(fd) u(f) a(g) e.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "237"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5326",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

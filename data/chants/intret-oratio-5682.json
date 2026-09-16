@@ -1,0 +1,31 @@
+{
+  "id": "intret-oratio-5682",
+  "incipit": "Intret oratio",
+  "title": "Intret oratio",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Intret orátio mea in conspéctu tuo: inclína aurem tuam ad precem meam, Dómine. ℣. Dómine Deus salútis meæ: in die clamávi, et nocte coram te. Glória E u o u a e",
+  "gabc": "(c3) In(eh)tret(h) (::) o(h)rá(hih)ti(fh)o(h) me(hihhv)a(f//hhiffe) (;) in(e) con(f)spé(fhhf//hgh)ctu(ef) tu(fih)o:(gihhv) (:) in(hhv)clí(ijHGF)na(fihhg) (;4) au(e)rem(fh) tu(hfhGE)am(ef/gef) (;) ad(d) pre(c!de)cem(e!fh) me(hghe)am,(ef//hih) (;) Dó(hhvFE)mi(ec)ne.(deDC) <sp>V/</sp>.(::) Dó(e)mi(fh)ne(h) De(h)us(h) sa(h)lú(hi)tis(h) me(gf)æ:(fh) (::) in(e) di(fh)e(h) cla(h)má(h)vi,(h) et(h) no(hg)cte(fe) co(f)ram(g) te.(ef) (::) Gló(e)ri(fh)a(h) (::) E(h) u(hg) o(fe) u(f) a(g) e(ef) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "91"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5682",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

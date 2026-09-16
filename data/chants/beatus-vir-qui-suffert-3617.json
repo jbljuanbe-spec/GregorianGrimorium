@@ -1,0 +1,31 @@
+{
+  "id": "beatus-vir-qui-suffert-3617",
+  "incipit": "Beatus vir qui suffert",
+  "title": "Beatus vir qui suffert",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Beátus vir, qui suffert tentatiónem: quóniam cum probátus fúerit, accípiet corónam * vitae.",
+  "gabc": "(c4) AL(df)LE(e/ghfgvFED)LÚ(gh)IA.(gh) *(;) <i>ij.</i>(gih/giHGgd//efED/dc/e/ggh) (,) (gih/giHG/gd//efED/dc/de/feed) <sp>V/</sp>.(::) Be(c!eg)á(ghGE/fvED//cd/fde)tus(e/fvfe) vir,(e) (;) qui(ec) suf(eg/fhggvFE)fert(e) (,) ten(gh!iwjjvIH)ta(gigh)ti(ghe)ó(fv//efd)nem:(ed) (:) quó(eg!hi)ni(h)am(h) cum(h) pro(h)bá(h)tus(hg) fú(hj)e(ghggvFEf)rit,(fe) (;) ac(ec)cí(eg)pi(fhggvFE)et(e) (,) co(c!de)ró(efvECde)nam(e) *() vi(e/ghfgvFEDgh)tae.(gh) (;) (gih/giHGgd//efEDdcevggh) (,) (gih/giHGgd//efEDdc/de/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[38]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3617",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

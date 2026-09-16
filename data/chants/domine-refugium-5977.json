@@ -1,0 +1,31 @@
+{
+  "id": "domine-refugium-5977",
+  "incipit": "Domine, refugium",
+  "title": "Domine, refugium",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Dómine, refúgium factus es nobis, a generatióne et progénie.",
+  "gabc": "(c3) Al(ef)le(e)lú(ehg//ij)ia.(i) (::) (jvIG/hi) (;6) (jij//hiHGh) (;) (f!hj) (;6) (hjijh) (;6) (hvGE//fhg) (;) (ijh//ghFE//fgffe) <sp>V/</sp>.(::) Dó(ef/ghg//hg/ffe;ef/hg//hihi)mi(ji)ne,(i) (;) re(ij)fú(jh//ijIG;3hiHG//hi)gi(f//ghGFE//fg)um(fe) (;) fa(h!iji)ctus(ihhg) es(fhGFh) (;) no(ehhf//ijHGh;f!hi;3gihhvGF)bis,(f//hf//gvFE/fe) (:) a(eg/ih) ge(gh)ne(gf)ra(gh)ti(g)ó(iv//jki;6hji//hhe;fhg//hiffe//fhGFg)ne(fe) (:) et(eg/ih) pro(h)gé(hgi)ni(ji)e.(i) (;) (jh//ghFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "312"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5977",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "isti-sunt-qui-venerunt-6538",
+  "incipit": "Isti sunt qui venerunt",
+  "title": "Isti sunt qui venerunt",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Isti sunt, qui venérunt ex magna tribulatióne, et lavérunt stolas suas, et dealbavérunt eas in sánguine Agni.",
+  "gabc": "(c4) Al(cd)le(ef//ghhg)lú(fg)ia.(g) (::) (ghg//fgf//deddc) (;) (ce//fggv//hjIHhg) <sp>V/</sp>.(::) I(cd)sti(e!fg) sunt,(g) (;) qui(g) ve(g)né(ghgj//ijIHG//e!fg)runt(g) (;) ex(gvFD) ma(eddv)gna(c) (;1) tri(c)bu(d)la(ef//ghhg)ti(fg)ó(g)ne,(g) (:) et(gf~) la(d)vé(e!fg)runt(g) sto(hg)las(fg) su(ghhg)as,(g) (:) et(jvIH//jvIG//hggv) (;4) de(d)al(e)ba(f)vé(hg)runt(fg) e(ghhg)as(g) (::) in(g) sán(ghhg)gui(fe)ne(fgf) A(g)gni.(g) (;) (ghGF//hjIH/hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "23*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6538",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

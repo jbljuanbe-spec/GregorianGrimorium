@@ -4,29 +4,54 @@
   "title": "Chant",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "incipit", "title", "genre", "text_latin", "source", "review_status"],
+  "required": ["id", "incipit", "title", "genre", "text_latin", "gabc", "provenance", "review_status"],
   "properties": {
     "id": {
       "type": "string",
       "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
-      "description": "Slug único, derivado del íncipit en minúsculas sin acentos."
+      "description": "Slug único, derivado del íncipit y desambiguado con el id de origen."
     },
     "incipit": { "type": "string" },
     "title": { "type": "string" },
+    "cantus_id": {
+      "type": ["string", "null"],
+      "description": "Identificador en Cantus Index, cuando la fuente lo aporta. Permite cruzar la pieza con los catálogos de musicología."
+    },
     "genre": {
       "type": "string",
       "enum": [
-        "Introitus", "Graduale", "Alleluia", "Tractus", "Offertorium",
-        "Communio", "Kyrie", "Gloria", "Credo", "Sanctus", "Agnus Dei",
-        "Antiphona", "Responsorium", "Hymnus", "Sequentia", "Other"
+        "Introitus", "Graduale", "Alleluia", "Tractus", "Offertorium", "Communio",
+        "Antiphona", "Responsorium", "Responsorium breve", "Hymnus", "Sequentia",
+        "Kyriale", "Psalmus", "Canticum", "Oratio", "Preces", "Improperia",
+        "Varia", "Other"
       ]
+    },
+    "genre_code": {
+      "type": ["string", "null"],
+      "description": "Código de dos letras de la fuente (in, gr, al...), conservado para trazabilidad."
     },
     "mode": {
       "type": ["string", "null"],
-      "enum": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", null],
-      "description": "Modo gregoriano, cuando aplica y es conocido."
+      "enum": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", null]
     },
-    "text_latin": { "type": "string" },
+    "mode_variant": {
+      "type": ["string", "null"],
+      "description": "Variante o modo irregular (peregrinus, etc.) tal como lo declara la fuente."
+    },
+    "version": {
+      "type": ["string", "null"],
+      "description": "Versión melódica (p.ej. \"Solesmes\"), cuando la fuente la distingue."
+    },
+    "text_latin": {
+      "type": "string",
+      "description": "Texto latino extraído del gabc, sin la notación."
+    },
+    "gabc": {
+      "type": "string",
+      "description": "Notación en gabc. Es la partitura: el frontend la dibuja con Exsurge, en vez de reproducir la maquetación de una edición ajena."
+    },
+    "transcriber": { "type": ["string", "null"] },
+    "commentary": { "type": ["string", "null"] },
     "liturgical_occurrences": {
       "type": "array",
       "items": {
@@ -35,57 +60,44 @@
         "required": ["calendar", "celebration"],
         "properties": {
           "calendar": { "type": "string" },
-          "celebration": { "type": "string" },
-          "rank": { "type": "string" }
-        }
-      },
-      "default": []
-    },
-    "related_chant_ids": {
-      "type": "array",
-      "items": { "type": "string" },
-      "default": []
-    },
-    "source": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["origin", "edition"],
-      "properties": {
-        "origin": {
-          "type": "string",
-          "enum": ["gregobase", "public-domain-scan", "licensed"],
-          "description": "De dónde procede el registro. 'licensed' requiere autorización documentada aparte."
-        },
-        "edition": { "type": "string" },
-        "external_id": {
-          "type": ["string", "null"],
-          "description": "Identificador en la fuente externa (p.ej. id de GregoBase)."
-        },
-        "printed_pages": {
-          "type": "array",
-          "items": { "type": "integer" },
-          "default": []
+          "celebration": { "type": "string" }
         }
       }
     },
-    "score_images": {
+    "bibliography": {
       "type": "array",
+      "description": "Ediciones impresas donde aparece la pieza, con su página.",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["file"],
+        "required": ["title"],
         "properties": {
-          "file": { "type": "string" },
-          "page": { "type": ["integer", "null"] },
-          "crop": {
-            "type": ["array", "null"],
-            "items": { "type": "integer" },
-            "minItems": 4,
-            "maxItems": 4
-          }
+          "title": { "type": "string" },
+          "editor": { "type": ["string", "null"] },
+          "year": { "type": ["integer", "null"] },
+          "page": { "type": ["string", "null"] }
         }
-      },
-      "default": []
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["origin", "license"],
+      "properties": {
+        "origin": {
+          "type": "string",
+          "enum": ["gregobase", "gabc-file", "public-domain-scan", "licensed"]
+        },
+        "license": {
+          "type": "string",
+          "description": "Licencia del registro de origen (p.ej. CC0-1.0)."
+        },
+        "external_id": { "type": ["string", "null"] },
+        "snapshot": {
+          "type": ["string", "null"],
+          "description": "Volcado o fecha concreta de la fuente, para poder reproducir la importación."
+        }
+      }
     },
     "review_status": {
       "type": "string",

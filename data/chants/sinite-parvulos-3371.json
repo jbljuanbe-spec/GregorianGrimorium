@@ -1,0 +1,31 @@
+{
+  "id": "sinite-parvulos-3371",
+  "incipit": "Sinite parvulos",
+  "title": "Sinite parvulos",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Sinite * párvulos veníre ad me, et ne prohibuéritis eos: tálium est enim regnum Dei.",
+  "gabc": "(c4) SI(f!gh)NI(g)TE(g) *() pár(h)vu(g)los(ghg) ve(f)ní(ixhi)re(h) ad(g) me,(ghg) (;) et(hjIH) ne(jk) pro(k)hi(k)bu(j)é(k)ri(j)tis(j) e(jjh/ig)os:(g) (:) tá(gk)li(k)um(k) est(kl) e(jvIH)nim(hgh) (,) re(geed/geg)gnum(g) De(ghg)i.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "524"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3371",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

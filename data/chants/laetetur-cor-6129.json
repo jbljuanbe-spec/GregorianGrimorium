@@ -1,0 +1,31 @@
+{
+  "id": "laetetur-cor-6129",
+  "incipit": "Laetetur cor",
+  "title": "Laetetur cor",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Lætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem ejus semper. ℣. Confitémini Dómino, et invocáte nomen ejus: annuntiáte inter gentes ópera ejus. Glória E u o u a e.",
+  "gabc": "(f3) Læ(c)té(ef)tur(f) (::) cor(fhffe) (;1) quæ(f)rén(h)ti(h)um(hg/h!ijHGh) Dó(f)mi(fgf)num:(f) (:) qu<sp>'ae</sp>(h)ri(ihhv)te(fhg) Dó(hghf)mi(ef)num,(fefEC) (;) et(e) con(ef hg)fir(h)má(fh)mi(fgFEf)ni:(fe) (:) qu<sp>'ae</sp>(f)ri(fef)te(fefEC) (;) fá(fhe)ci(f)em(hh) e(h)jus(hg//h!ijHGh) sem(fgf)per.(f) <sp>V/</sp>.(::) Con(e)fi(f)té(eh)mi(h)ni(h) Dó(h)mi(h)no,(h) (;3) et(h) in(h)vo(h)cá(h)te(hg) no(hi)men(i) e(hi)jus:(h) (::) an(h)nun(fh)ti(h)á(h)te(h) in(h)ter(h) gen(h)tes(h) ó(i)pe(hf)ra(h) e(ge)jus.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "129"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6129",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

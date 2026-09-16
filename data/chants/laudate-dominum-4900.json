@@ -1,0 +1,31 @@
+{
+  "id": "laudate-dominum-4900",
+  "incipit": "Laudate Dominum",
+  "title": "Laudate Dominum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Laudáte Dóminum, omnes gentes: laudáte eum, omnes pópuli: quóniam confirmáta est super nos misericórdia ejus, et véritas Dómini manet in ætérnum. T. P. Allelúia.",
+  "gabc": "(c3) Lau(fh~)dá(h)te(hg) Dó(h)mi(f)num,(fd) (::) o(ef~)mnes(f) gen(feede)tes:(de) (;) lau(df~)dá(f!gh)te(e) e(fhffde)um,(ed) (;) o(df!gh)mnes(ihhvGE) pó(fe/fg)pu(f)li:(f) (;) quó(hhi)ni(h)am(h) con(h)fir(h)má(ij)ta(i) est(i) su(h)per(h) nos(fge) (;) mi(f)se(hg)ri(h)cór(i)di(h)a(h) e(hjIH)jus,(h) (;) et(f) vé(hi)ri(h)tas(h) Dó(h)mi(f)ni(de) (;) ma(d)net(gxeg) in(g) æ(fv//egf)tér(ded)num.(d) <i>T. P.</i>(::) Al(df~)le(fv//egf)lú(ded)ia.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "98*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4900",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

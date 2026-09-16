@@ -1,0 +1,31 @@
+{
+  "id": "benedicat-vobis-505",
+  "incipit": "Benedicat vobis",
+  "title": "Benedicat vobis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Benedícat vobis Dóminus ex Sion: qui fecit cælum * et terram.",
+  "gabc": "(c4) AL(ef)le(dg/hffe)lú(fd/gh/i.h!iwj)ia.(g.) *(,) (h!iw!jvIHivHGE'fh.) (,) (g/jjjvI'HGhf/gffe.) (,) (d!fffvEDef!gv.fhg'/hf/gge.) <sp>V/</sp>.(::) Be(ef)ne(cd)dí(dg!jvHG'hvF'Ef)cat(fe..) (,) vo(gh/i.h!iwjg./h!iw!jvIHivHGE'fh)bis(h.) Dó(hg)mi(fe)nus(dg) (,) ex(gf/hf) Si(ffvEDf!gw!hvF'Ef)on:(fe..) (:) qui(f) fe(dggvF'Dgv.//dggvF'Dg)cit(g.) (,) cæ(gh/i.h!iwjg./h!iw!jvIHivHGE'fh)lum(h.) *(;) et(h) ter(h!iwj)ram.(g./h!iw!jvIHivHGE'fh.) (,) (g!jjjvI'HGhf/gffe.) (,) (d!fffvEDef!gv.fhg'/hf/gge.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[124]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "505",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

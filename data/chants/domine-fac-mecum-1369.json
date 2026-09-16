@@ -1,0 +1,31 @@
+{
+  "id": "domine-fac-mecum-1369",
+  "incipit": "Domine fac mecum",
+  "title": "Domine fac mecum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine, * fac mecum misericórdiam tuam, propter nomen tuum: quia suávis est misericórdia tua.",
+  "gabc": "(c3) DO(h)mi(f)ne,(f!gwh/i_hh'hvF'E//g_e/gig.) *(,) fac(e) me(f_e/f!gwhgh)cum(ghg.) (,) mi(fe)se(f)ri(ghg)cór(hvvGFghf~)di(h)am(gh/ih/iji) tu(gihh)am,(hg..) (;) prop(e)ter(f) no(fh/ih)men(hhh) tu(f.e/gwhhvGF)um:(hf/ghg.) (:) qui(hvGF)a(ghg) su(fe)á(f_)vis(ed) est(e_f) (,) mi(ed)se(e)ri(fhg)cór(g.f!gwhhvGFghf~)di(h)a(gh/ih/iji) tu(gihh)a.(hg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "133"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1369",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

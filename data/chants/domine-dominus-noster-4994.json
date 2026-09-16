@@ -1,0 +1,31 @@
+{
+  "id": "domine-dominus-noster-4994",
+  "incipit": "Domine, Dominus noster",
+  "title": "Domine, Dominus noster",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Domine Dóminus noster, quam admirábile est nomen tuum in univérsa terra!",
+  "gabc": "(f3) Do(f)mi(e!fhGFg)ne(gf) (::) Dó(hih)mi(hg)nus(ef) no(fg/hgh)ster,(gf) (:) quam(kxhi/jkj) ad(j)mi(ji)rá(j)bi(i)le(i) est(ij) (;) no(hvGFE/fg)men(f) (;3) tu(fihhvGE//f!ghGFg)um(gf) (;) in(c) u(ef)ni(fe)vér(dxfv//hhvFED//efef)sa(f) (;3) ter(f!ghGFg)ra!(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "99"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4994",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

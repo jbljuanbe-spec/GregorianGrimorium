@@ -1,0 +1,31 @@
+{
+  "id": "declinabo-3826",
+  "incipit": "Declinabo",
+  "title": "Declinabo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Declinábo super eum quasi flúvium pacis, et quasi torréntem inundántem * glóriam.",
+  "gabc": "(c4) AL(c)LE(c!de)LÚ(he/fgFEe)IA.(d) *(,) <i>ij.</i>(cec/dd/ed eg/he//fvED/evDC/dd) (,) (d/hhhggd eg/he/fvED/evDC/dd) (,) (fe/gvFED fe/gvFE/fd//cd!efeed) <sp>V/</sp>.(::) De(de)cli(cd)ná(d/hhhggd eg/he//fvED/evDCd)bo(d) (,) su(cd)per(d/hhh) e(ggfg)um(gd) (;) qua(e)si(c) flú(eg)vi(ge)um(fvEC/efEDd) pa(cd)cis,(d) (:) et(hjjvIHi) qua(h)si(g) tor(h)rén(jvIG/ivHGh,ki/jvIH//gih/jvIH/ivHG)tem(h) (,) in(h)un(hvGE/fg~)dán(gvFE/fd)tem(d) *(;) gló(e!fg)ri(he/fgFEe)am.(d) (,) (cec/dd/ed eg/he/fvED/evDC/dd) (,) (d/hhhggd eg/he//fvED/evDC/dd) (,) (fe/gvFED fe/gvFE/fd//cd!efeed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "448"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3826",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

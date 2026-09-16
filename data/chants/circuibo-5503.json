@@ -1,0 +1,31 @@
+{
+  "id": "circuibo-5503",
+  "incipit": "Circuibo",
+  "title": "Circuibo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Circuíbo, et immolábo in tabernáculo ejus hóstiam jubilatiónis: cantábo, et psalmum dicam Dómino.",
+  "gabc": "(c4) Cir(g)cu(gd)í(fhg)bo,(g) (::) et(g) im(h)mo(g)lá(h)bo(g) (;) in(gf) ta(g)ber(hj~)ná(j)cu(jjv)lo(h) e(hji//ji)jus(ih) (;) hó(hj/kl)sti(k)am(k) ju(k)bi(ki)la(jk)ti(ji)ó(ghg)nis:(g>) (:) can(fh~)tá(hfg)bo,(fgd) (;) et(d) psal(fgf)mum(g) di(hjijIH//ihig)cam(g) (;3) Dó(gfhg)mi(ghg)no.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "297"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5503",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "eduxit-eos-1610",
+  "incipit": "Eduxit eos",
+  "title": "Eduxit eos",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Edúxit eos * Dóminus in spe, allelúia: et inimícos eórum opéruit mare, allelúia, allelúia, allelúia. Ps. Atténdite pópule meus legem meam: * inclináte aurem vestram in verba oris mei. Glória Patri. E u o u a e.",
+  "gabc": "(c4) E(f)DÚ(g)XIT(d) e(f)os(fff) *(,) Dó(gf/hg)mi(g)nus(g) in(fg) spe,(ixg/iiig) (,) al(gh)le(e/fhg)lú(ghg)ia:(g) (:) et(ge) i(g)ni(ixi)mí(h/iji)cos(ih) e(ixi)ó(ihhgh)rum(hg) (,) o(g)pé(gh)ru(gf)it(f) ma(dgFE)re,(e) (:) al(fg~)le(g)lú(fg~)ia,(gv/ffd) (,) al(f)le(f)lú(ef!ghFD/gf)ia,(f) (,) al(fg~)le(gv/ffd/gvFE)lú(egff)ia.(fe) <i>Ps.</i>(::) At(hg~)tén(gh)di(h)te(h) pó(h)pu(h)le(h) me(h)us(hg) le(gi)gem(i) me(hi)am:(h) *(:) in(hg~)cli(gh)ná(h)te(h) au(h)rem(h) ves(h)tram(h) (,) in(h) ver(h)ba(h) o(gf)ris(gh) me(g)i.(e) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "216"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1610",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

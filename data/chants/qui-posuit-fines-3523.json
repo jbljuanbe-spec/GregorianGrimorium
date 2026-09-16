@@ -1,0 +1,31 @@
+{
+  "id": "qui-posuit-fines-3523",
+  "incipit": "Qui posuit fines",
+  "title": "Qui posuit fines",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Qui pósuit fines tuos pacem, et ádipe fruménti * sátiat te.",
+  "gabc": "(c4) AL(fd~)LE(e!fg)LÚ(hgh)IA.(ixhiHGgf) *(,) (ixhiHGge//ghGFEfgffe) <sp>V/</sp>.(::) Qui(h) pó(h)su(g)it(ixg//ivHGhffe) (,) fi(fd/ef!ghhg)nes(gh) tu(hg/hf/ghg)os(gd) pa(egfg)cem,(fe) (:) et(f) á(gh)di(gf)pe(g) fru(fd)mén(fv//fffd/gvFE,df/hf/ge/fv//df/gef~)ti(fe) *(;) sá(e!fg)ti(gdgvFE)at(fd/ef!gh) te.(ixhiHGgf) (,) (ixhiHGge//ghGFEfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[97]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3523",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tu-gloria-7029",
+  "incipit": "Tu gloria",
+  "title": "Tu gloria",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tu glória Jerúsalem, tu lætítia Israël, tu honorificéntia pópuli nostri. ℣. Tota pulchra es, María, et mácula originális non est in te. ℣. Felix es, sacra Virgo María, et omni laude digníssima, quæ serpéntis caput virgíneo pede contrivísti.",
+  "gabc": "(c4) Tu(d) gló(fg)ri(g)a(ge/fgDCd) (:) Je(cd)rú(ffg)sa(f)lem,(ixf!iiivHG/hhg) (;) tu(hggf) læ(f)tí(f!hj)ti(j)a(j) Is(j)ra(hj)ël,(jjjkhhg/hg/jjh/jggf) (:) tu(gef) ho(d)no(dg)ri(g)fi(g)cén(gh)ti(g)a(g) (;) pó(hg/jjg/hvGF)pu(f!hj)li(j) no(j)stri.(jijHG) (;) (ixjjvHG/hiGF) (;) (iyh/jh/ig/hhg) <sp>V/</sp>.(::) To(g!jj/kljjjg;jj/kljjjh//ijHGF;3gh!ijjk)ta(j) (;) pul(j!kl)chra(jh) es,(hg) (;3) Ma(h)rí(hjIGh)a,(gv//fh/ji/jkhhg/hg/jjh/jggf) (:) et(gh~) má(hhgh)cu(f)la(fg!hvhg) (;) o(hji)ri(jk)gi(g)ná(hg/hi!jvIH/ijh)lis(hg) (;) non(hggf) est(f!hj) in(j) te.(jijHG) (;) (ixjjvHG/hiGF) (;) (iyh/jh/ig/hhg) <sp>V/</sp>.(::) Fe(d!ff//fffd//fhfg)lix(f) es,(fg!hvhg) (;) sa(ghg)cra(fg) Vir(gh/ji)go(j) Ma(j)rí(h!ij)a,(jh) (;6) (jj/lvKJ/jvIHG/hg) (;) et(gh) o(fg)mni(g) lau(gh/jij)de(gh) di(h)gnís(h)si(h)ma,(hf/ghg/hg/hg/jjh/jggf) (:) quæ(f!hj) ser(igh)pén(gf/gh)tis(gh/jij) ca(jh/ij)put(jjjvIH/ivHG/hg) (;) vir(g)gí(gh)ne(g)o(g) pe(hg/jjg/hvGF)de(f) (::) con(f!hj)tri(j)ví(jijHG//gg/hggfg;gjj/kvJIH/hg)sti.(ghGF) (;) (hjIH/ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "422"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7029",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,99 +1,24 @@
-// Convierte un gabc ya parseado en un registro conforme a
-// data/schema/chant.schema.json.
+// Convierte un archivo .gabc suelto (con cabeceras) en un registro de canto.
+// Es la vía para transcripciones propias o corpus distribuidos como archivos;
+// el volcado de GregoBase entra por lib/gregobase.mjs.
 
-import { extractText } from "./gabc.mjs";
+import { buildRecord } from "./record.mjs";
 
-const GENRE_BY_OFFICE_PART = new Map([
-  ["introitus", "Introitus"],
-  ["introit", "Introitus"],
-  ["graduale", "Graduale"],
-  ["gradual", "Graduale"],
-  ["alleluia", "Alleluia"],
-  ["tractus", "Tractus"],
-  ["tract", "Tractus"],
-  ["offertorium", "Offertorium"],
-  ["offertory", "Offertorium"],
-  ["communio", "Communio"],
-  ["communion", "Communio"],
-  ["kyrie", "Kyrie"],
-  ["gloria", "Gloria"],
-  ["credo", "Credo"],
-  ["sanctus", "Sanctus"],
-  ["agnus dei", "Agnus Dei"],
-  ["agnus", "Agnus Dei"],
-  ["antiphona", "Antiphona"],
-  ["antiphon", "Antiphona"],
-  ["responsorium", "Responsorium"],
-  ["responsory", "Responsorium"],
-  ["hymnus", "Hymnus"],
-  ["hymn", "Hymnus"],
-  ["sequentia", "Sequentia"],
-  ["sequence", "Sequentia"],
-]);
+export function toChantRecord({ headers, body }, { origin, license, externalId = null, snapshot = null }) {
+  if (!headers.name?.trim()) throw new Error("gabc sin cabecera `name`");
 
-const ROMAN_MODES = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"];
-
-export function toChantRecord({ headers, body }, { origin, edition, externalId = null }) {
-  if (!origin || !edition) {
-    throw new Error("La procedencia (origin) y la edición (edition) son obligatorias");
-  }
-
-  const name = headers.name?.trim();
-  if (!name) throw new Error("gabc sin cabecera `name`");
-
-  const textLatin = extractText(body);
-  if (!textLatin) throw new Error(`gabc sin texto legible: ${name}`);
-
-  return {
-    id: slugify(name),
-    incipit: name,
-    title: name,
-    genre: toGenre(headers["office-part"]),
-    mode: toMode(headers.mode),
-    text_latin: textLatin,
-    liturgical_occurrences: toOccurrences(headers.occasion),
-    related_chant_ids: [],
-    source: {
-      origin,
-      edition: headers.book?.trim() || edition,
-      external_id: externalId,
-      printed_pages: extractPages(headers.book),
-    },
-    score_images: [],
-    // La importación nunca marca un registro como verificado: el estado
-    // `verified` solo lo asigna una persona tras revisar texto, modo e imagen.
-    review_status: "needs_review",
-  };
-}
-
-export function slugify(value) {
-  return value
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/æ/gi, "ae")
-    .replace(/œ/gi, "oe")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "");
-}
-
-function toGenre(officePart) {
-  if (!officePart) return "Other";
-  const key = officePart.trim().toLowerCase().replace(/\.$/, "");
-  return GENRE_BY_OFFICE_PART.get(key) ?? "Other";
-}
-
-function toMode(mode) {
-  if (!mode) return null;
-  const value = mode.trim();
-  const arabic = value.match(/^([1-8])\b/);
-  if (arabic) return ROMAN_MODES[Number(arabic[1]) - 1];
-  const roman = value.match(/^(I{1,3}|IV|VI{0,3}|V)\b/i);
-  if (roman) {
-    const upper = roman[1].toUpperCase();
-    return ROMAN_MODES.includes(upper) ? upper : null;
-  }
-  return null;
+  return buildRecord({
+    incipit: headers.name,
+    gabc: body,
+    genreName: headers["office-part"],
+    mode: headers.mode,
+    modeVariant: headers["mode-modifier"],
+    transcriber: headers.transcriber,
+    commentary: headers.commentary,
+    occurrences: toOccurrences(headers.occasion),
+    bibliography: toBibliography(headers.book),
+    provenance: { origin, license, externalId, snapshot },
+  });
 }
 
 function toOccurrences(occasion) {
@@ -101,13 +26,27 @@ function toOccurrences(occasion) {
   return celebration ? [{ calendar: "Roman", celebration }] : [];
 }
 
-// "Graduale Romanum, 1961, p. 47" -> [47]; "pp. 47-49" -> [47, 48, 49]
-function extractPages(book) {
-  if (!book) return [];
-  const match = book.match(/pp?\.?\s*(\d+)(?:\s*[-–]\s*(\d+))?/i);
-  if (!match) return [];
-  const from = Number(match[1]);
-  const to = match[2] ? Number(match[2]) : from;
-  if (to < from) return [from];
-  return Array.from({ length: to - from + 1 }, (_, i) => from + i);
+// "Graduale Romanum, 1961, p. 47" -> título, año y página
+function toBibliography(book) {
+  const reference = book?.trim();
+  if (!reference) return [];
+
+  const page = reference.match(/pp?\.?\s*([\d\s,–-]+\d)/i);
+  const year = reference.match(/\b(1[0-9]{3}|20[0-9]{2})\b/);
+  // Se quitan página y año del título para que coincida con el vocabulario
+  // de GregoBase (sources.title = "Graduale Romanum", year aparte).
+  const title = reference
+    .replace(/,?\s*pp?\.?\s*[\d\s,–-]+\d\s*$/i, "")
+    .replace(/,?\s*\b(1[0-9]{3}|20[0-9]{2})\b\s*$/, "")
+    .replace(/,\s*$/, "")
+    .trim();
+
+  return [
+    {
+      title: title || reference,
+      editor: null,
+      year: year ? Number(year[1]) : null,
+      page: page ? page[1].trim() : null,
+    },
+  ];
 }

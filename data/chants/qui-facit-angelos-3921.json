@@ -1,0 +1,31 @@
+{
+  "id": "qui-facit-angelos-3921",
+  "incipit": "Qui facit Angelos",
+  "title": "Qui facit Angelos",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Qui facit Angelos suos spíritus: et minístros suos * flammam ignis.",
+  "gabc": "(c4) AL(c)LE(d)LÚ(ixed/hi)IA.(hvvGE/fd) *(;) <i>ij.</i>(ixeggvFDdc//fg!hihhg/efd) (,) (ffg/hg/hgge) <sp>V/</sp>.(::) Qui(cd) fa(ixed/hi)cit(h) (,) An(hvGE/fd/f/ggh)ge(gvFE)los(e) su(cd!f!gh)os(g) (,) spí(fe)ri(de)tus:(ed/ffe) (:) et(c!df//ef!ghg//hvGFE) mi(c)ní(d)stros(ef) su(ghGE)os(e) *(;) flam(c)mam(d) i(ixed/hi)gnis.(hvvGE/fd) (;) (ixeggvFDdc//fg!hihhg/efd) (,) (ffg/hg/hgge) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[151]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3921",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

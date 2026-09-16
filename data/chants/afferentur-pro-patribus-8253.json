@@ -1,0 +1,31 @@
+{
+  "id": "afferentur-pro-patribus-8253",
+  "incipit": "Afferentur... pro patribus",
+  "title": "Afferentur... pro patribus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Afferéntur * regi vírgines: próximæ ejus afferéntur tibi in lætítia et exsultatióne: adducéntur in templum regis. Pro pátribus tuis nati sunt tibi fílii: contítues eos príncipes super omnem terram.",
+  "gabc": "(c4) AF(d)fe(fd)rén(f)tur(e!f'g) *(,) re(gh)gi(e!f'g) vír(gh~)gi(gf)nes:(fff/ded.___) (:)\r\npró(fd)xi(f)mæ(ef!ghGE'f) e(e)jus(egff/ded.) (;) af(d)fe(dh)rén(he/f_g)tur(ixgh/igh) ti(egff)bi(fe..) (;) in(g) læ(gh)tí(h)ti(g)a(giHG.) (,) et(gf) ex(g)sul(hj~)ta(jijh)ti(hfhg)ó(ghg___)ne:(g.) (:)\r\nad(d)du(dh)cén(hgh)tur(ixhiHG'hffe.) (,) in(e) tem(f_g~)plum(g_fh) re(ghf/fef)gis.(fe..) (:)\r\nPro(c!d'f) pá(ff//ff)tri(fd)bus(e_f) tu(gh/hg)is(g.) (;) na(hg/h!j/jvH'G//fhg/ixhiG'E//gf/ghf'/fvED')ti(e) sunt(d'_) (,) ti(e)bi(fg) fí(gf/fef//ef!hvGE'/fd)li(cd)i:(d.) (:)\r\ncon(d)tí(df)tu(f!gwhgh)es(h) e(hjHG'/h)os(g_f) prín(g)ci(ghg___)pes(g.) (;) su(f)per(fd) om(f!gwhg)nem(h') ter(h/j/jvGF'/fd/g/gf/hvGF/gvFE)ram.(e.) (::)",
+  "transcriber": "Benjamin Bloomfield",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "(22)"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8253",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

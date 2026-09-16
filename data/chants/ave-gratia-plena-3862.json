@@ -1,0 +1,31 @@
+{
+  "id": "ave-gratia-plena-3862",
+  "incipit": "Ave gratia plena",
+  "title": "Ave gratia plena",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ave * grátia plena, Dóminus tecum, benedícta tu in muliéribus. T.P. Allelúia.",
+  "gabc": "(c4) A(d!fff/gvFD)VE(dc) *(,) grá(fhg)ti(g)a(g) ple(ixgiHG/gf/gvFD//cd!ewfd)na,(d) (:) Dó(d!ewf/gf/ghg)mi(fg)nus(g) te(ggghf//hji/hig)cum,(g) (:) be(gj)ne(ji)dí(jkj)cta(jvIH/hvGF/gf) tu(f) (;) in(f) mu(e!fg//f!gh)li(ed/ffd)é(d/hvvGFED/evDCd,ff/gvED/ffe)ri(cd)bus.(d) <i>T.P.</i>(::) Al(c!df)le(efED/gvvFD/ec,fh//ghFE//gd/fv//efDC,e/ghED/fvED/dc//e/gh)lú(ed/fe)ia.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[131]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3862",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

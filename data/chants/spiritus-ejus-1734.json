@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-ejus-1734",
+  "incipit": "Spiritus ejus",
+  "title": "Spiritus ejus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Spíritus ejus ornávit * caelos.",
+  "gabc": "(c4) AL(fg~)LE(g/hjg/hvGF)LÚ(fh!jjk)IA.(jjvIGh) *(,) (ijHGixfihhg) <sp>V/</sp>.(::) Spí(fg)ri(g/hjg/hvGFg)tus(f) e(fh!jjk)jus(jjvIGh) (,) (ijHGixfihhg) (;) or(fg)ná(g/hjg/hvGFg)vit(f) *(,) cae(fh!jjk)los.(jjvIGh) (,) (ijHGixfihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "260"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1734",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

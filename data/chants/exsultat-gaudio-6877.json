@@ -1,0 +1,31 @@
+{
+  "id": "exsultat-gaudio-6877",
+  "incipit": "Exsultat gaudio",
+  "title": "Exsultat gaudio",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Exsultat gaúdio pater Justi, gáudeat Pater tuus et Mater tua, et exsúltet quæ génuit te. ℣. Quam dilécta tabernácula tua, Dómine virtútum! concupíscit et déficit ánima mea in átria Dómini. Glória Patri E u o u a e",
+  "gabc": "(c3) Ex(e)sul(ehg)tat(h) gaú(hji)di(i)o(i) (::) pa(kj/kl)ter(kj) Ju(ki!jkjk)sti,(ji) (;) gáu(iji)de(h)at(hf) Pa(h)ter(ij) tu(jh/jiigh)us(hg) (;) et(hi) Ma(i)ter(ef~) tu(fv//efd)a,(d) (:) et(fi) ex(ijIH)súl(hhhi)tet(h) (;) quæ(hf) gé(hi!jvji)nu(ihh)it(f!g!hvGE) te.(fe) <sp>V/</sp>.(::) Quam(ehg) di(hi)lé(i)cta(i) ta(i)ber(i)ná(i)cu(i)la(i) tu(i)a,(i) (;3) Dó(ik)mi(j)ne(j) vir(j)tú(ji)tum!(ij) (::) con(ig~)cu(hi)pí(i)scit(i) et(i) dé(i)fi(i)cit(i) á(i)ni(i)ma(i) me(i)a(i) (;3) in(i) á(i!jkj)tri(i)a(h) Dó(h)mi(hg)ni.(fe) (::) Gló(ehg)ri(hi)a(i) Pa(i)tri(i) (::) E(i) u(i!jkj) o(i) u(h) a(hg) e(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "46"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6877",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

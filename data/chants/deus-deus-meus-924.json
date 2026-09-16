@@ -1,0 +1,31 @@
+{
+  "id": "deus-deus-meus-924",
+  "incipit": "Deus Deus meus",
+  "title": "Deus Deus meus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Deus, * Deus meus, ad te de luce vígilo: et in nómine tuo levábo manus meas, allelúia.",
+  "gabc": "(f3) DE(ef)us,(fhffe.) *(,) De(f!gwh)us(h_g) me(hhhvF'E//f!gwh_f)us,(f.) (;) ad(fe~) te(f) de(hg) lu(h_f/ij)ce(hiH'G/hvG'FE/fe__) (,) ví(fhGF')gi(ef'!gvF'E)lo:(e.) (:) et(hg) in(hi~) nó(i)mi(h)ne(hjIH'GFh') tu(e!hhh/i_h)o(h.) (;) le(fhg)vá(hhhf/ghg)bo(f_e) (,) ma(f/hhh)nus(fhGF') me(f)as,(fhGF.) (;) al(fg)le(e/hhhhiHE'//f!hhh_f//hihi)lú(fgf___)ia.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "265"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "924",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

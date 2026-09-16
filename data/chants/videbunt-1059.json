@@ -1,0 +1,31 @@
+{
+  "id": "videbunt-1059",
+  "incipit": "Videbunt",
+  "title": "Videbunt",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Vidébunt * in quem transfixérunt, cum moveréntur fundaménta terrae.",
+  "gabc": "(c4) VI(fg)dé(gff)bunt(de~) *(,) in(cd~) quem(d) trans(d!f'g)fi(gh)xé(hjjg)runt,(gv.fhGE.) (:) cum(fd~) mo(f)ve(ghg)rén(hv.fh!jvvH'GE'f)tur(f.) (,) fun(g)da(ef)mén(f_dfvECfhg__)ta(ghF'Ef) ter(ded__)rae.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "20**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1059",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

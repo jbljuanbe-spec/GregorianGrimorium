@@ -1,0 +1,31 @@
+{
+  "id": "domine-vivifica-1418",
+  "incipit": "Domine vivifica",
+  "title": "Domine vivifica",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Domine, * vivífica me secúndum elóquium tuum: ut sciam testimónia tua.",
+  "gabc": "(c4) DO(j)MI(h)NE,(h!iwj/kjjjhhg//iki) *(,) vi(ege)ví(gh)fi(g)ca(hjhhg/h!iwjij) me(ji) (;) se(ikj)cún(jjj)dum(hg) e(ghe)ló(g)qui(gihhg)um(g) tu(f)um:(fgff/ded) (:) ut(g) sci(hg/h!iwji)am(j) (,) tes(jj//jj)ti(g)mó(hf)ni(g)a(g/jjh/ig/hg) tu(egff)a.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "75"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1418",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

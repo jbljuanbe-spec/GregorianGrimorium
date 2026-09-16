@@ -1,0 +1,31 @@
+{
+  "id": "lignum-habet-3877",
+  "incipit": "Lignum habet",
+  "title": "Lignum habet",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Lignum * habet spem: si praecísum fúerit, rursum viréscit, et rami ejus púllulant.",
+  "gabc": "(c4) LI(fhggfg)GNUM(gf) *(,) ha(h/jjh!iwj)bet(hgh) spem:(ghg/ff/ded) (:) si(df) prae(fff)cí(d!ew!fvEDCd)sum(dc) fú(ixfg/hg/hi)e(h)rit,(h) (;) rur(hjh)sum(hjg/fvEDewf) (,) vi(d)ré(ffg/ef!gv//fg/hg/hvGF/fvED/fvED)scit,(d/fff) (:) et(fd~) ra(fhg)mi(g) e(ixh!jjvHG/hiGF/gwhgh//gh!jjj/kvJH)jus(h) (;) púl(hv//fhggv//efDC/dffff//ghgh)lu(gf)lant.(f/ghggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "397"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3877",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

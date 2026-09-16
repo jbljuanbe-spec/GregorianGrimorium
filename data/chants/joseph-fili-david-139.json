@@ -1,0 +1,37 @@
+{
+  "id": "joseph-fili-david-139",
+  "incipit": "Joseph fili David",
+  "title": "Joseph fili David",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Joseph * fili David, noli timére accípere Maríam cónjugem tuam: quod enim in ea natum est, de Spíritu Sancto est. T. P. Allelúia.",
+  "gabc": "(c3) JO(eh)SEPH(ggh.) *(,) fi(h)li(hf) Da(hih)vid,(i.) (;) no(g)li(e) ti(gh)mé(fe)re(e.) (,) ac(f)cí(ed)pe(e)re(f) Ma(i)rí(hji)am(i.) (,) cón(hf/hi)ju(h)gem(h_g) tu(ef!gvFE'f)am:(fe..) (:) quod(e) e(ei)nim(i) in(i) e(ij)a(i) na(hg)tum(f) est,(hhi!jw!kvJIji..) (;) de(h) Spí(jij)ri(h)tu(fg) San(e)cto(fh) est.(hv.gh!ivHF'/fd//fh'hhe.) <i>T. P. </i>(::) Al(eg~)le(gv./fhg)lú(efe___)ia.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "458"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1403"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "139",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

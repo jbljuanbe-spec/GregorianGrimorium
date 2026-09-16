@@ -1,0 +1,31 @@
+{
+  "id": "ego-vos-elegi-4728",
+  "incipit": "Ego vos elegi",
+  "title": "Ego vos elegi",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ego vos elégi de mundo, ut eátis, et fructum afferátis: et fructus vester máneat.",
+  "gabc": "(c4) E(h)go(jhhg) (::) vos(ihj) e(hf)lé(gh)gi(g) (;3) de(fg) mun(fgef>)do,(d) (:) ut(fe) e(fg)á(ghfg)tis,(d) (;) et(d) fru(fef)ctum(dc) af(fh)fe(gh)rá(fgf)tis:(f) (:) et(h) fru(ghffe)ctus(d) ve(fe)ster(cd) má(d)ne(d!efEDe)at.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "515"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4728",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

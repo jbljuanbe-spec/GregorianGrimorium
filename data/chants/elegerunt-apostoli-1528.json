@@ -1,0 +1,31 @@
+{
+  "id": "elegerunt-apostoli-1528",
+  "incipit": "Elegerunt Apostoli",
+  "title": "Elegerunt Apostoli",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Elegérunt * Apóstoli Stéphanum levítam, plenum fide et Spíritu Sancto: quem lapidavérunt Judaéi orántem, et dicéntem: Dómine Jesu, áccipe spíritum meum, allelúia.",
+  "gabc": "(c4) E(c)LE(df)GÉ(fv//ef!ghECd//egg//gg)RUNT(hg) *(,) A(g)pó(gih!iwj/jg)sto(fg)li(gffvED) (;) Sté(f)pha(fhg)num(hffe) le(d!ewf!gvEDed)ví(cddc)tam,(c) (:) ple(gh/ig/hfgv//h!jj//jj)num(kh/hg~) fi(gg/hf/gge)de(e) (;) et(e) Spí(hg)ri(hg)tu(high) San(f)cto:(f) (:) quem(fhGFgf/dgffffc) (;) la(cd)pi(df)da(fg)vé(gh/ig/hfgv//h!jj//jj)runt(khhf~) Ju(hi)daé(g/hhg)i(g) (;) o(d)rán(dg~)tem,(gf/fe) et(f) di(f!gwhg)cén(fg~)tem:(g) (:) Dó(gji)mi(jkj)ne(khhfh) Je(hv//fh/jhi/ghg)su,(g) (;) ác(gigh)ci(fe!fwg)pe(gfgvFDdc) (;) spí(cd)ri(e!fg//hiHG//hjjvjvIHG)tum(hih) me(ghhg)um,(g) (:) al(fh)le(high//egfffddc,d!ef/ghg)lú(fg~)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "35"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1528",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

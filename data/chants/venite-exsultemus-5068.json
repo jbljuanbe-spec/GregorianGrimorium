@@ -1,0 +1,31 @@
+{
+  "id": "venite-exsultemus-5068",
+  "incipit": "Venite, exsultemus",
+  "title": "Venite, exsultemus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Veníte, exsultémus Dómino, jubilémus Deo salutári nostro.",
+  "gabc": "(c3) Al(e)le(e)lú(ehg//ij)ia.(i) (::) (jvIHhf) (;) (hi//hhv//ij/hhv//ijhhf) (;) (hfh) (;3) (ghFE//fgffe) <sp>V/</sp>.(::) Ve(e)ní(ehg//ij)te,(i) (;) ex(i)sul(ih~)té(iv//kki)mus(i//jh//ivHG/hg) (;) Dó(hig)mi(h//ivHG)no,(hi//jkjji) (:) ju(i)bi(ig)lé(hi/jij)mus(i) (;) De(ikki;6hjIH//hvGFE)o(fe) (::) sa(ef)lu(e)tá(ef/hgh)ri(h) (;3) no(hiHG/ij)stro.(i//jvIH/hf) (;) (hghFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "317"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5068",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

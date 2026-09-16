@@ -1,0 +1,31 @@
+{
+  "id": "felix-es-sacra-3559",
+  "incipit": "Felix es sacra",
+  "title": "Felix es sacra",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Felix es, sacra Virgo María, et omni laude digníssima: quia ex te ortus est sol justítiae, Christus Deus * noster",
+  "gabc": "(c4) AL(g)LE(ghGFg)LÚ(h/jh/jhhg~)IA.(g//hvGFg) *(;) <i>ij.</i>(hjjikvJHG//ihj/hiHG) (,) (kkg//hiHG//iih!iw!jvIHhg) <sp>V/</sp>.(::) Fe(gjji)lix(i/jkJHhg) es,(g) (,) sa(hgh)cra(fh!jjlvKJHG) Vir(fg~)go(g) (,) Ma(ghGFg/hj)rí(ghg)a,(g) (:) et(g) o(ghGF)mni(f) lau(hg/jjhivHG// , kkg//hiHG//iih!iw!jvIH)de(hg) di(hih)gnís(g)si(fg)ma:(g) (:) qui(gd)a(fe) ex(fg) te(g) or(hg/hf//gh!jvHGef!gvFEfg)tus(dc) est(c) (;) sol(gf) jus(fh)tí(hg)ti(fg)ae,(g) (,) Chri(gh)stus(g) De(g)us(ghGFg) *() no(h/jh/jhhg~)ster(g//hvGFg) (,) (hjjikvJHG//ihj/hiHG) (,) (kkg//hiHG//iih!iw!jvIHhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "477"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3559",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "et-erat-ibi-3785",
+  "incipit": "Et erat ibi",
+  "title": "Et erat ibi",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Et erat ibi * usque ad óbitum Heródis: ut adimplerétur quod dictum est a Dómino per prophétam dicéntem: Ex Aegýpto vocávi fílium meum.",
+  "gabc": "(c4) ET(f) e(ef)rat(dc) i(cd!evede)bi(dc/deed) *(,) us(d)que(e) ad(f) ó(g)bi(f)tum(gh) He(h)ró(ghf)dis:(f) (:) ut(dh) ad(ixhi)im(g)ple(e)ré(fg)tur(g) (,) quod(g) di(g)ctum(e) est(gh) a(f) Dó(g)mi(fe)no(d) (,) per(g) pro(g)phé(h)tam(f) di(g)cén(fvED)tem:(ff) (:) Ex(d) Ae(dg)gýp(gf)to(f) vo(fe)cá(ghghvGF)vi(gvFDCd) (,) fí(fe/ggh)li(fe)um(cd) me(dc/d!ewfef)um.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[134]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3785",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

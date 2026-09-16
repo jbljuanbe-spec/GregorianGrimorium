@@ -1,0 +1,31 @@
+{
+  "id": "de-quacumque-6599",
+  "incipit": "De quacumque",
+  "title": "De quacumque",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. De quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero protéctor eórum semper.",
+  "gabc": "(c4) Al(cd)le(dv//efeed;4e!fg//gvFE/fd)lú(cd~)ia.(d) (::) (dhhggf/gh) (;) (dhhggd//efED/dc) (;) (ed//ffd) <sp>V/</sp>.(::) De(hgh//fvED) qua(cd)cúm(ef)que(ed) (;4) tri(fe)bu(d)la(g)ti(gh)ó(h//jvIG;3ixivHGF//gh)ne(h) (;) cla(dh)má(hggf)ve(edf)rint(efd) ad(cd) me,(d) (;) ex(ixhiggf)áu(g)di(gh)am(h) e(hih)os:(h) (:) et(dh) e(iyhjIHG)ro(efd) pro(c)té(ed//ffd)ctor(d) (;) e(cd)ó(de!fvED/dc;4e!fg//gvFE//fvDCd)rum(d) (::) sem(deDC//d!ef)per.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "366"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6599",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

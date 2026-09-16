@@ -1,0 +1,31 @@
+{
+  "id": "salvum-fac-servum-1726",
+  "incipit": "Salvum fac servum",
+  "title": "Salvum fac servum",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Salvum fac * servum tuum, Deus meus, sperántem in te. ℣. Auribus pércipe Dómine oratiónem * meam.",
+  "gabc": "(c4) SAL(c!de!ggg)VUM(evDCdwe!fv) fac(ed) *(,) ser(ixcf!gv/ihi)vum(gh) tu(ixfg/hf//hiGFEfggf)um,(f) (;) De(fhg/jjh)us(ixhi) me(ixhv//gh!ivGFghFDfv//fffdevDCd)us,(dc) (;) spe(d)rán(f)tem(fe) in(dc~) te.(fg/hg/jjvHGFfd//fff/ded) <sp>V/</sp>.(::) Au(dh)ri(h)bus(hg) pér(ixhv//fh!ivHGhv,f!gh/jij//h!jjjvGFh//jjh//jjg/ji)ci(h)pe(hih) (;) Dó(ixhghv//fh!ivGFE//f!gwh!ivHG)mi(hg)ne(g) (;) o(g)ra(g)ti(g)ó(g)nem(gh) *() me(ixjhiGFh!jjvHG)am.(hghFEfg) (,) (d!ewf!gv//fhGFEDewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "87"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1726",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

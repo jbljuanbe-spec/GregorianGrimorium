@@ -1,0 +1,31 @@
+{
+  "id": "tibi-gloria-3456",
+  "incipit": "Tibi gloria",
+  "title": "Tibi gloria",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Tibi glória, hosánna: tibi triúmphus et victória: tibi summae laudis et honóris * coróna.",
+  "gabc": "(c3) AL(ef/gf)LE(fe)LÚ(gh!ijIHhf/hi~)IA.(i) *(;) (hi!kvvJIHh//gh!ijIHi) (;) (gighvvGFEfgffe) <sp>V/</sp>.(::) Ti(eh)bi(hi) gló(jvIHivHFfe//gh!iji)ri(hi)a,(i) (,) ho(ei)sán(ivHFfef)na:(fe) (:) ti(ei)bi(ij) tri(h)úm(jkj)phus(i) (,) et(jf) vi(hvGEf)ctó(fh//gh!iji)ri(hi)a:(i) (:) ti(ikj)bi(i) sum(ijHFEf)mae(fh) lau(ghffef)dis(f) (;) et(e) ho(g!hi)nó(ivHFEf)ris(fg) *(,) co(ef/gf)ró(fe//gh!ijIHhf/hi)na.(i) (;) (hi!kvvJIHh//gh!ijIHi) (;) (gig/hvvGFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[82]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3456",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

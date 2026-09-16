@@ -1,0 +1,37 @@
+{
+  "id": "vidi-civitatem-5",
+  "incipit": "Vidi civitatem",
+  "title": "Vidi civitatem",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Vidi * civitátem sanctam, Jerúsalem novam, descendéntem de caelo a Deo, parátam sicut sponsam ornátam viro suo. T. P. Allelúia, allelúia. Ps. Eructávit cor meum verbum bonum: * dico ego ópera mea regi. Glória Patri E u o u a e",
+  "gabc": "(c4) VI(d!f'g)di(g) *() ci(gh)vi(f)tá(fh/ji)tem(ih) sanc(jjj)tam,(g_h) (,) Je(hfh)rú(jj)sa(h)lem(hfh) no(ixhiH'F)vam,(f.) (:) de(f)scen(g)dén(h)tem(g) de(hg) cae(h)lo(g) a(f) De(f!g'h)o,(h.) (;) pa(hf)rá(ixgih)tam(h) si(j)cut(hkj) spon(jjjhhf~)sam(f.) (;) or(gf~)ná(g)tam(hj) vi(iij)ro(h/jvvIH'/iw!jvIH) su(gh!ivHG'h)o.(hg..) <i>T. P.</i>(::) Al(jh~)le(j)lú(jijh)ia,(g.) (,) al(gh~)le(hv./fhg)lú(ghg___)ia.(g.) <i>Ps.</i>(::) E(g)ruc(hg)tá(gj)vit(j) cor(j) me(j)um(ji) ver(jk)bum(k) bo(jk)num:(j.) *(:) di(jh)co(hj) e(j)go(j) ó(j)pe(j)ra(jji) me(gh)a(ji) re(h)gi.(g.) (::) Gló(g)ri(hg)a(gj) Pa(j)tri(j) (::) E(j) u(jji) o(gh) u(ji) a(h) e(ghd___/ffg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "439"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1376"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

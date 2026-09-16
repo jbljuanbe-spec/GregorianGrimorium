@@ -1,0 +1,31 @@
+{
+  "id": "concussum-est-3893",
+  "incipit": "Concussum est",
+  "title": "Concussum est",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Concússum est mare, et contrémuit terra, ubi Archángelus Míchael descendébat * de coelo.",
+  "gabc": "(c3) AL(d)LE(efde/ffe)LÚ(df!hvGFhh)IA.(e) *(;) (hvijj/h/ii//efEDffe) (,) (h/ig/hvFEDCB//ef!gwhhvGFEffe) <sp>V/</sp>.(::) Con(eh~)cús(hg/fge)sum(fe) est(e) ma(d!ewfefhvGFge)re,(e) (;) et(ei) con(i)tré(iv//jkjjvIHjhi)mu(ji)it(i) (,) ter(ij/kljkvJIjvIHii,ij/kljkvJIjvIHjji~)ra,(i) (:) u(ei)bi(i) Arch(ij~)án(j)ge(ih)lus(h) Mí(hg)cha(fe)el(e) de(fe)scen(de~)dé(effe)bat(e) *(,) de(d!fh) coe(hvGFhh)lo.(e) (;) (hvijj/h/ii//efEDffe) (,) (h/ighvFEDCB//ef!gwhhvGFE/ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "537"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3893",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

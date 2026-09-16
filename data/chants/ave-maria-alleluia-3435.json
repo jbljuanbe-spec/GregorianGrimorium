@@ -1,0 +1,31 @@
+{
+  "id": "ave-maria-alleluia-3435",
+  "incipit": "Ave Maria (Alleluia)",
+  "title": "Ave Maria (Alleluia)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Ave María, grátia plena: Dóminus tecum: benedícta tu * in muliéribus.",
+  "gabc": "(f3) AL(ef~)LE(f/hfghvGEf//hf/gf)LÚ(ef~)IA.(fhvGF) *(;) <i>ij.</i>(fivHGF//g/hvGF/fe) (,) (fivHGF//e!hhhvGF/ggf) <sp>V/</sp>.(::) A(ef)ve(fg/hf/ge) Ma(fg!hvGF)rí(ef)a,(f) (,) grá(fg)ti(e)a(f) ple(fiivHFE)na:(f) (;) Dó(ih)mi(ihivHFE)nus(f) te(hg/hghvGFE)cum:(fhvGF) (:) be(f)ne(g!hi//hih/f!gwhgh/fgffe//fg!hvGFEf ; fg!hi//hih/f!gwhgh/fgffe//fg!hvGFEf , fg!hi)dí(fe)cta(ec) tu(efhvGF) *(;) in(ef~) mu(f)li(ef)é(f/hfghvGEf//hf/gf)ri(ef)bus.(fhvGF) (;) (fivHGF//ghvGFfe) (,) (fivHGF//e!hhhvGFggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[84]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3435",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

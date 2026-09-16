@@ -1,0 +1,37 @@
+{
+  "id": "franciscus-1200",
+  "incipit": "Franciscus",
+  "title": "Franciscus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Francíscus pauper et húmilis, caelum dives ingréditur, hymnis caeléstibus * honorátur.",
+  "gabc": "(c4) AL(cd/fg)le(edf./efd/ed)lú(cd~)ia.(d.) *(;) <i>ij.</i>(ixfg!hvhf//hv.giHF.) (,) (ixhv.giH'GF.deddc) (,) (cf/g/hh//fhghvF'EDffd.) <sp>V/</sp>.(::) Fran(cd/fgE'Dfv.efd/ed)cís(cd)cus(d.) (,) pau(f!g'h)per(hf) et(ixhv.giHF.) (,) (ixhv.giH'GF.deddc) hú(cd/fg)mi(edffd)lis,(d.) (:) cae(h)lum(g) di(h)ves(g) in(fh~)gré(ixhg/hh//fh!ivGFhh/fhf/gf)di(dcd)tur,(d.) (:) hym(ixdcf//hfhivGFhv.,ixf!gwhghivGFh)nis(hgg) (,) cae(e!f'g)lé(edf./efd/ed)sti(cd)bus(d.) *(;) ho(cd/fg)no(edf./efd/ed)rá(cd)tur.(d.) (;) (ixfg!hvhf//hv.giHF.) (,) (ixhv.giH'GF.deddc) (,) (cf/g/hh//fhghvF'EDffd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "602"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1643"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1200",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

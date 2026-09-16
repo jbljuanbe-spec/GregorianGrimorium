@@ -1,0 +1,24 @@
+{
+  "id": "auxit-populum-7513",
+  "incipit": "Auxit populum",
+  "title": "Auxit populum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "solesmes",
+  "text_latin": "Auxit * pópulum suum veheménter, et firmávit eum: convértit cor eórum, allelúia. Après la Pentecôte : cor eórum.",
+  "gabc": "(c4) AU(f!g'h)xit(g) *() pó(gh)pu(g)lum(g) su(g)um(ge) ve(fg)he(fe)mén(d_e_d_)ter,(d.) (;)\r\net(f) fir(ef)má(dc)vit(dfe) e(f_devDC'd)um:(dc..) (:)\r\ncon(cd)vér(d!ewfgvFE'fwgfg)tit(gf..) <v>{\\gredagger}</v>(,)\r\ncor(f_e/ggh) e(fe)ó(d)rum,(fss) (;)\r\nal(d/f'h~)le(h_g/h_f/g_e/f_g_f_gvFC./d!ewf/g_e/f_e)lú(defvED'e)ia.(ed..) <v>{\\gredagger}</v>(::)\r\n<i>Après</i>() <i>la</i>() <i>Pentecôte :</i>() cor(f_e/ggh) e(fe)ó(defvED'e)rum.(ed..) (::)",
+  "transcriber": "Boris Maire",
+  "commentary": "Ps 104 (105), 23-24a",
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7513",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

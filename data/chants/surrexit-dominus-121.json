@@ -1,0 +1,31 @@
+{
+  "id": "surrexit-dominus-121",
+  "incipit": "Surrexit Dominus",
+  "title": "Surrexit Dominus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Surréxit * Dóminus, et appáruit Petro, allelúia.",
+  "gabc": "(c2) SUr(d)ré(fdf)xit(f!g'h) *() Dó(hjh/i_j)mi(g)nus,(fgFD.) (;) et(d) ap(d)pá(dge/g_h)ru(ff)it(f) Pet(fgf___)ro,(f.) (;) al(hiH'G//ih/ivHG'F)le(g_f/d/e_f , deD'C/fv.deD'C/f_df)lú(fgf___)ia.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "246"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "121",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

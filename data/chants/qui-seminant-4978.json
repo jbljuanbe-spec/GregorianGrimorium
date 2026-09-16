@@ -1,0 +1,31 @@
+{
+  "id": "qui-seminant-4978",
+  "incipit": "Qui seminant",
+  "title": "Qui seminant",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Qui séminant in lácrymis, in gáudio metent. ℣. Eúntes ibant et flebant, mitténtes sémina sua. ℣. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos.",
+  "gabc": "(c4) Qui(d) sé(fg)mi(ge//fgDCd)nant(fgf) (;3) (ixfg/ih//ivHG/hg) (::) in(f!gi) lá(ih)cry(ihig)mis,(hiHG//hhg) (;) in(g) gáu(hg//jjg/hvGF)di(f!hj)o(j) me(iyjijHG;jjvHG/ixhiGF;iyhjh//ig)tent.(ghhg) <sp>V/</sp>.(::) E(g)ún(g!hj)tes(jjvIH) i(jhhg)bant(gh) (;) et(dg) fle(gv//ffdg;4ixfg/ihiHGh)bant,(hg) (:) mit(gh)tén(gh)tes(g) (;3) sé(hg//jjg/hvGF)mi(f!hj)na(j) su(j)a.(jijHG) (;) (jjvHG/ixhiGF) (;) (iyhjh//ig//hhg) <sp>V/</sp>.(::) Ve(g)ni(g)én(g!hj)tes(jjvIH) au(jhhg~)tem(gh) (;) vé(h!ijh)ni(gf)ent(ghfg) (;3) (ixihiGF) (;) (ghghg//jjh/jggf) (:) cum(f) ex(fh/jv)sul(iyigh)ta(gfg)ti(gh//jij)ó(jhj)ne,(jjvIH//ivHG/hg) (;) por(gh)tán(gh)tes(g) (::) ma(g)ní(hg//jjg/hvGF)pu(f!hj)los(j) (;6) su(j)os.(jijHG//gg/hggfg) (;) (gjjkJIH/hg//ghGF) (;) (hjIH//ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "23*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4978",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

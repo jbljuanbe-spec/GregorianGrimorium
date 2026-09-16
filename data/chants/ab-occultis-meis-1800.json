@@ -1,0 +1,31 @@
+{
+  "id": "ab-occultis-meis-1800",
+  "incipit": "Ab occultis meis",
+  "title": "Ab occultis meis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ab occúltis meis * munda me, Dómine: et ab aliénis parce servo tuo.",
+  "gabc": "(c3) AB(e) oc(e)cúl(gih)tis(g) me(ef)is(efED) *(,) mun(fh)da(hf) me,(h) Dó(hi!jvji)mi(gihh)ne:(hg) (:) et(f) ab(ji) a(jk)li(j)é(ljji/jkjjij)nis(ijHG) (;) par(g!hi)ce(h) ser(g!hi)vo(h) tu(gvFEf,ehghhg//hji/jh/iig)o.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "121"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1800",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

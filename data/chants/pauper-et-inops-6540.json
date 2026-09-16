@@ -1,0 +1,31 @@
+{
+  "id": "pauper-et-inops-6540",
+  "incipit": "Pauper et inops",
+  "title": "Pauper et inops",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Pauper et inops laudábunt nomen tuum.",
+  "gabc": "(c4) Al(d/ff)le(ef)lú(ghGFgh)ia.(hjHG) (::) (hd/ev) (;1) (fg/hg hd/ev) (;1) (fg!hvGF/hgge) <sp>V/</sp>.(::) Pau(h)per(ixg//ivHG/hffe) (;) et(fd/ef!ghhg) i(fg)nops(g) (;) lau(ghghFED)dá(e/gef/hvGF/hvGF/gf)bunt(e) (;) no(e!fg)men(gdf) (::) tu(e!fg//fhgh)um.(hjHG hd/ev) (;1) (fg/hg hd/ev) (;1) (fg!hvGF/hgge) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "411"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6540",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

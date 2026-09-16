@@ -1,0 +1,31 @@
+{
+  "id": "dedisti-6336",
+  "incipit": "Dedisti",
+  "title": "Dedisti",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Dedísti mihi protectiónem salútis tuæ: et déxtera tua suscépit me.",
+  "gabc": "(c4) Al(cd!fg)le(edf;1efd/ed)lú(cd~)ia.(d) (::) (ixfg!hvhf/hv//giHF) (;) (hv//giHGF) (;1) (deddc) (;) (cf/g/hh/fhg//hvFED/ffd) <sp>V/</sp>.(::) De(cd!fgED/fv//efd/ed)dí(cd)sti(d) (;) mi(ixfg!hvhf/hv//giHF;hv//giHGF;1deddc;cd!fgED/ffd)hi(d) (:) pro(f)te(h)cti(g)ó(h)nem(g) sa(ixf)lú(hg/hh//fh!ivGF!hh!fhf/gf)tis(dcd) tu(d!efd)æ:(d) (:) et(dcf) déx(ixhfh/ivGF/hv;f!ghgh//ivGF!h)te(hg)ra(e!fg) tu(edf;1efd/ed)a(dcd) (::) su(cd!fg)scé(edf;1efd/ed)pit(cd~) me.(d) (;) (ixfg!hvhf/hv//giHF) (;) (hv//giHGF) (;1) (deddc) (;) (cf/g/hh/fhg/hvFED!ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "446.2"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6336",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

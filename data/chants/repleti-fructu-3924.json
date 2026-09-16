@@ -1,0 +1,31 @@
+{
+  "id": "repleti-fructu-3924",
+  "incipit": "Repleti fructu",
+  "title": "Repleti fructu",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Repléti fructu justítiae per Jesum Christum, in glóriam et laudem * Dei",
+  "gabc": "(c4) AL(c!df)LE(f/gvEDfv//efd)LÚ(dc/eed~)IA.(d) *(;) <i>ij.</i>(fg!hvGFgff//e!fwg/efd!ew!fvECewfd) <sp>V/</sp>.(::) Re(dh)plé(f!gwhg)ti(gf) fru(fv//e!fwg/efd)ctu(d) ju(dg)stí(gvFEDewfe)ti(de)ae(dc) (;) per(dfe) Je(fg)sum(ed!ewfe) Chri(deDCd)stum,(d) (:) in(c!df) gló(fv//efd/ed)ri(cd)am(d) (,) et(d) lau(dc/eed~)dem(d) *() De(fgf/hggf)i(fv//e!fwg/efd!ew!fvECewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "480"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3924",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

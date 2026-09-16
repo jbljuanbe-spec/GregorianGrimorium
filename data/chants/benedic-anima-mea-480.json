@@ -1,0 +1,31 @@
+{
+  "id": "benedic-anima-mea-480",
+  "incipit": "Benedic anima mea",
+  "title": "Benedic anima mea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Bénedic ánima mea Dóminum, et ómnia interióra mea nomen sanctum * ejus.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh)ia.(ixhiHG'gf.) *(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) <sp>V/</sp>.(::) Bé(h)ne(h)dic(ixg'ivHG'hffe.) (,) á(fd/ef!ghhg)ni(fg)ma(gh) me(hggf/ghg)a(g_d) Dó(egfg)mi(fe)num,(e.) (:) et(f) ó(gh)mni(gf)a(g) in(g)te(gh)ri(f)ó(df)ra(f) me(fv.fffdgvFE.,df/h_f/g_efv.df!gvFE'f)a(fe..) (;) no(fd)men(f) sanc(e!f'g)tum(gd/gvFD) *() e(fd/ef!g'h)jus.(ixhiHG'gf.) (,) (ixhiHG'ge./ghGF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "636"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "480",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

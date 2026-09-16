@@ -1,0 +1,43 @@
+{
+  "id": "universi-1169",
+  "incipit": "Universi",
+  "title": "Universi",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Univérsi * qui te exspéctant, non confundéntur, Dómine. ℣. Vias tuas, Dómine, notas fac mihi: et sémitas tuas * édoce me.",
+  "gabc": "(f3) U(e)ni(f)vér(fh!ivHF'gvEC.efef)si(f.) *(,) qui(fe) te(h) ex(ij)spéc(j)tant,(j_i/j_i/j_g/hih.___) (;) non(i_) con(hg~)fun(ef)dén(hi)tur,(gh/ih/ivHG') Dó(f)mi(fgf___)ne.(f.) (,) (kxef/hh//i./jkI'Gh_ih/hf.) (f+::c4) <sp>V/</sp>. Vi(dh)as(h) tu(hg)as,(gh) Dó(g_f)mi(g_h)ne,(h.,f!gh!jvjh/f!gh!jvjh/jvjvH'G/jk/jkJH.) (,) (ixf!gh!jvjh/j/jh/ig/gf.) (:) no(hk)tas(k_j) fac(j_lKJ'kj/jh.) (,) mi(hf/gh/jjh/jjvH'Gh!iwj_i)hi:(jjjvIH'jg/gf.) (:) et(fg~) sé(g./hjHG'gf)mi(g)tas(g) tu(hv.fgf/ef'!gvf/fd/ec)as(c.) *(,) é(ff)do(g_f)ce(fhgh) me.(hvhvGF'EC/d!ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "2"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "320"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "16"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1169",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

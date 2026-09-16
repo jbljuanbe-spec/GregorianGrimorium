@@ -1,0 +1,31 @@
+{
+  "id": "vos-qui-secuti-dicit-3409",
+  "incipit": "Vos qui secuti... dicit",
+  "title": "Vos qui secuti... dicit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Vos qui secúti estis me, * sedébitis super sedes, judicántes duódecim tribus Israel, dicit Dóminus.",
+  "gabc": "(f3) VOS(ff) qui(e) se(f)cú(g)ti(h) es(ih)tis(fg) me,(f) *(;) se(e)dé(f)bi(h)tis(h) su(h)per(ij) se(i)des,(i) (;) ju(i)di(i)cán(i)tes(g) du(i)ó(h)de(g)cim(e) tri(gh)bus(ih) Is(f)ra(e)el,(gh) di(i)cit(hg) Dó(f)mi(f)nus.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "523"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3409",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

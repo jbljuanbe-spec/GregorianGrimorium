@@ -1,0 +1,31 @@
+{
+  "id": "notus-in-judaea-7069",
+  "incipit": "Notus in Judaea",
+  "title": "Notus in Judaea",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Notus in Judǽa Deus: in Israël magnum nomen ejus. ℣. Et factus est in pace locus ejus: et habitátio ejus in Sion. ℣. Ibi confrégit poténtias árcuum, scutum, gládium et bellum.",
+  "gabc": "(c3) No(e!fgf)tus(effe) (::) in(de) Ju(ehhi)d<sp>'ae</sp>(f)a(fefd//fhfh) (;3) De(hvGF//ghGFEf)us:(fe) (:) in(efe) Is(d!fh)ra(h)ël(g!hiffefe//hhf/heed) (;) ma(d!fhfgf)gnum(h) no(h)men(h) e(hghe;hhvFE/gxfgED;gyfhf/ge)jus.(effe) <sp>V/</sp>.(::) Et(e) fa(e!fhhv)ctus(h) est(hhvGF) in(f) pa(hffe)ce(ef) (;) lo(f!ghf)cus(ed) e(efde)jus:(e) (;4) (gxgfgED) (;) (efefe//hhf/heed) (:) et(e) ha(e)bi(e)tá(fh)ti(gef)o(ed/ef) e(ef)jus(e) (;) in(d!fh) Si(h)on.(hghFE) (;) (hhvFE/gxfgED) (;) (gyfhf/ge/ffe) <sp>V/</sp>.(::) I(e!fh)bi(h) con(h)fré(hvGF)git(f) (;4) po(f)tén(fhGF)ti(ed)as(efe) (;4) ár(fgf~)cu(h)um,(hiffefe//hhf/heed) (:) scu(fe/fh)tum,(efd) (::) glá(d!fh)di(h)um(h) et(h) bel(h)lum.(hghFE//eev/feede) (;) (ehhiHGF/fe//efED) (;) (fhGF/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "98*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7069",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

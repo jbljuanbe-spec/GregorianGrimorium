@@ -1,0 +1,31 @@
+{
+  "id": "gloria-et-divitiae-3543",
+  "incipit": "Gloria et divitiae",
+  "title": "Gloria et divitiae",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Glória * et divítiae in domo ejus: et justítia ejus manet in saéculum saéculi, allelúia.",
+  "gabc": "(c4) GLÓ(ffg)RI(f)A(f) *(,) et(f) di(hg)ví(h)ti(gf)ae(fgFD) (,) in(d) do(ffe/gh)mo(fff) e(f!gwhghvGF)jus:(gf) (:) et(fgf) ju(gh)stí(h/jjh!iwj)ti(gh)a(gfg) e(d!ff/gf)jus(f) (;) ma(hv//fhg)net(g) in(ixgih) saé(ixij)cu(g)lum(fgFD) saé(ixf!gwhgh/jjh//giHGF,fff//fgf/ghg/hf)cu(fgf)li,(f) (;) al(gf~)le(fff//hg/hg)lú(fg!hvGFg)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "508"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3543",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

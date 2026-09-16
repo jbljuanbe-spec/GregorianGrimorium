@@ -1,0 +1,37 @@
+{
+  "id": "venite-exsultemus-1246",
+  "incipit": "Venite exsultemus",
+  "title": "Venite exsultemus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Veníte, exsultémus Dómino: jubilémus Deo salutári * nostro.",
+  "gabc": "(c2) AL(c)le(c)lú(f_eg)ia.(ghGF'/fd.) *(;) <i>ij.</i>(fgf___/ff'g//fff/ghffc.) (,) (fdf./efD'C/d_eddc.) <sp>V/</sp>.(::) Ve(c)ní(cfe/gh)te,(g.) (;) ex(g)sul(gf~)té(g/iig)mus(ghf/gvFE/fe..) (,) Dó(fge___)mi(fgF'E)no:(f.g!hwihhg.) (:) ju(g)bi(g_e)lé(f!gwhgh)mus(g.) (,) De(g!iig//f_hGF'/fhGF'/fvE'DC)o(ddc.) (;) sa(cd)lu(c)tá(c.d!ewfef)ri(e.) *(,) nos(fgf___/fe/f!gwhgh)tro.(g//iig/he/f_g) (;) (d!ewf'!gv//iig/he/f_g) (,) (g/iii_g//jkI'G/iivG'F/iig.) (,) (g/iif/hvGF'/fc.) (;) (dffe/fhGF'D/gf/gffc.) (,) (fffvD'C/d_eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "358"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1038"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1246",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

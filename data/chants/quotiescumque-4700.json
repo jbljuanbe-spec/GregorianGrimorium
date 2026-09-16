@@ -1,0 +1,31 @@
+{
+  "id": "quotiescumque-4700",
+  "incipit": "Quotiescumque",
+  "title": "Quotiescumque",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Quotiescúmque manducábitis panem hunc, et cálicem bibétis, mortem Dómini annuntiábitis donec véniat: ítaque quicúmque manducáverit panem, vel bíberit cálicem Dómini indígne, reus erit Córporis, et Sánguinis * Dómini, allelúia. ETP: * Dómini",
+  "gabc": "(c3) Quo(e)ti(ei)e(i)scúm(i)que(e) (::) man(i)du(h)cá(ikjk)bi(i)tis(i) pa(ij)nem(i) hunc,(i) (;) et(h) cá(h!ij)li(j)cem(ji) bi(hj)bé(ih)tis,(h) (;) mor(hg)tem(f) Dó(hhi)mi(h)ni(h) an(h)nun(g)ti(h)á(i)bi(h)tis(h) (;) do(i!jkj)nec(iji) vé(hg)ni(f!ghg)at:(fe) (:) í(fg)ta(f)que(f) qui(hg)cúm(efe)que(e) (;1) man(e)du(f)cá(h!ij)ve(i)rit(i) pa(j)nem,(i) (;) vel(i) bí(j)be(i)rit(i) cá(j)li(i)cem(h) Dó(ik)mi(i)ni(j) (;6) in(h)dí(hg/hih)gne,(fe) (:) re(fh)us(h) e(ge)rit(e) (;) Cór(fg)po(fe)ris,(e) et(ed~) Sán(ef)gui(e)nis(e) *(;4) Dó(fhg)mi(hih)ni,(f) (;) al(eg~)le(gfhg)lú(efe)ia.(e) (::) <i>ETP:</i>() * Dó(fhg)mi(efe)ni(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "275"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4700",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

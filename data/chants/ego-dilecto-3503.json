@@ -1,0 +1,31 @@
+{
+  "id": "ego-dilecto-3503",
+  "incipit": "Ego dilecto",
+  "title": "Ego dilecto",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ego * dilécto meo, et diléctus meus mihi, qui páscitur inter lília.",
+  "gabc": "(c4) E(jj)GO(h!iwj/kjjjhhg//iki) *(,) di(ege)lé(gh)cto(g) me(hihhg/h!iwjij)o,(ji) (;) et(j) di(ikj)lé(jjj)ctus(hg) me(gihhg)us(gf) mi(f)hi,(fgff/ded) (:) qui(g) pá(hg/h!iwji)sci(j)tur(j) in(jj//jj)ter(g) lí(hf)li(g)a.(gjHGF) (,) (fff/hvGFE/fe//gf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "344"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3503",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

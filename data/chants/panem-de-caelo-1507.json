@@ -1,0 +1,31 @@
+{
+  "id": "panem-de-caelo-1507",
+  "incipit": "Panem de caelo",
+  "title": "Panem de caelo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Panem de caelo * dedísti nobis, Dómine, habéntem omne delectaméntum, et omnem sapórem suavitátis.",
+  "gabc": "(c3) PA(dde)NEM(d) de(df) cae(feede)lo(ed) *(,) de(d)dí(ef)sti(hffe) no(hhi)bis,(h) Dó(hji)mi(ihhf)ne,(f) (;) ha(f)bén(hi~)tem(h) o(h)mne(hhh) de(f!gh)lec(ed)ta(fdf)mén(fe/gf)tum,(f) (:) et(f) o(hi~)mnem(i) sa(ih)pó(ih/ivHGFg)rem(gf) (,) su(fhd)a(d!ef)vi(gxfhFEfw!gvFE)tá(de!fvEDe)tis.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "305"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1507",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

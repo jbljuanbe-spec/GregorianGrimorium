@@ -1,0 +1,31 @@
+{
+  "id": "paratum-cor-meum-6033",
+  "incipit": "Paratum cor meum",
+  "title": "Paratum cor meum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Parátum cor meum, Deus, parátum cor meum: cantábo, et psallam in glória mea.",
+  "gabc": "(c4) Al(cd/fgf~)le(ed//efEDd)lú(cd~)ia.(d) (::) (ixfg/hiHG) (;3) (ef!ghGF) (;1) (deddc) (;) (cd!ffv//ghh) (;) (fhghFED//ffd) <sp>V/</sp>.(::) Pa(c!df)rá(f)tum(fg) cor(g) me(ixfhg//hi)um,(h) (;3) De(ghGFg)us,(gf) (;) pa(f!hj)rá(j)tum(ixjvIG) cor(gjjv) me(hih)um:(h) (:) can(fg~)tá(hjh//hfg)bo,(gv//ffv/ded) (;) et(d) psal(ffv)lam(ghGFg) (;3) in(f) gló(fh/ixig//hhv//ggv//ixhfg;gjjh//ig//hhv//ggv//hfg;ef/ghGFE)ri(feede)a(ed) (::) me(dffgf//ghgh)a.(hvGFEC//dfED) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "329"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6033",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

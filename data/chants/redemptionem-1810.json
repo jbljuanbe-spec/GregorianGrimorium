@@ -1,0 +1,31 @@
+{
+  "id": "redemptionem-1810",
+  "incipit": "Redemptionem",
+  "title": "Redemptionem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. Ps. Redemptiónem misit Dóminus in pópulo * suo.",
+  "gabc": "(f3) AL(e)LE(f)LÚ(hi~)IA.(ih/iggf) *(,) <i>ij.</i>(hv/iji/ef/hf//hv//ghe/hhhf!gwhf) <i>Ps.</i>(::) Re(f)demp(f)ti(f)ó(fe/fh!ivHG/hiHG/hi)nem(i) (,) mi(ijij)sit(hjij) Dó(gh/if/hv//g!hi)mi(fhGF)nus(f) (;) in(fe~) pó(f)pu(f)lo(hg) *() su(hi)o.(ih/iggf) (,) (hv/iji/ef/hf//hv//ghe/hhhf!gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "226"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1810",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

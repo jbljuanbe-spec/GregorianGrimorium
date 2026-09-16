@@ -1,0 +1,31 @@
+{
+  "id": "qui-vult-venire-89",
+  "incipit": "Qui vult venire",
+  "title": "Qui vult venire",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Qui vult veníre post me, * ábneget semetípsum: et tollat crucem suam, et sequátur me.",
+  "gabc": "(c4) QU{I}(d) vult(f) ve(fe)ní(gh)re(ix/ih) post(fg) me,(fvED.) *(;) áb(ixf!gwhg/hih)ne(g)get(f) se(fe)met(d)í(f!g'h)psum:(e.) (:) et(h) tol(ghg)lat(ef) cru(ghgh)cem(f_d) su(gef)am,(f.) (;) et(eg/hjh) se(fg)quá(ef)tur(d!ew!fv_E~C~) me.(d.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[12]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "89",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

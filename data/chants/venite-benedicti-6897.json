@@ -1,0 +1,31 @@
+{
+  "id": "venite-benedicti-6897",
+  "incipit": "Venite benedicti",
+  "title": "Venite benedicti",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Veníte, benedícti Patris mei, percípite regnum, allelúia, quod vobis parátum est ab orígine mundi, allelúia, allelúia, allelúia. ℣. Confitémini Dómino quóniam bonus: quóniam in sǽculum misericórdia ejus. Glória E u o u a e.",
+  "gabc": "(c3) Ve(eh)ní(g!hi)te,(i) (::) be(iji)ne(h)dí(g!hiHGi)cti(i) (;6) Pa(i)tris(ef) me(fefd)i,(d) (:) per(f)cí(i)pi(h)te(h) re(hih)gnum,(hgh) (;) al(f)le(fdfe)lú(efe)ia,(e) (:) quod(e) vo(e)bis(ehg) pa(hi)rá(i)tum(hi) est(ijiiv/ghg) (;) ab(h) o(ik)rí(k)gi(i)ne(ijhi) mun(iji)di,(i) (:) al(hk)le(kkv)lú(hihhg~)ia,(f) (;) al(f)le(hi)lú(kikjji~)ia,(i) (;) al(hi~)le(iv//hig/hvFE)lú(efe)ia.(e) <sp>V/</sp>.(::) Con(ehg)fi(hi)té(i)mi(i)ni(i) Dó(i)mi(i)no(i) (;6) quó(ik)ni(j)am(j) bo(ji)nus:(ij) (::) quó(ig)ni(hi)am(i) in(i) s<sp>'ae</sp>(i)cu(i)lum(i) (;6) mi(i)se(i)ri(i)cór(i!jkj)di(i)a(h) e(hg)jus.(fe) (::) Gló(ehg)ri(hi)a(i) (::) E(i) u(i!jkj) o(i) u(h) a(hg) e.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "207"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6897",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

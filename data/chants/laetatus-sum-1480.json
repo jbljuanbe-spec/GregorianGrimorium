@@ -1,0 +1,31 @@
+{
+  "id": "laetatus-sum-1480",
+  "incipit": "Laetatus sum",
+  "title": "Laetatus sum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia * ij. ℣. Laetátus sum in his quae dicta sunt mihi: in domum Dómini * ibimus",
+  "gabc": "(c4) AL(dc~)le(f)lú(ixgfi)ia(h) *(,) <i>ij.</i>(ixiji/hig//fg/hjh/hg) (,) (fhg/ev//dec//ef!gvvFD/ewfd) <sp>V/</sp>.(::) Lae(d)tá(fd/dc/fg)tus(ixfhg/hi) sum(h) (,) in(h) his(h) quae(h) dic(hjHGF//eg/hgh)ta(fg) sunt(ef~) mi(de!fvEDe)hi:(ed) (:) in(cd~) do(df/efd//cd/fdhvhg/gf/hjh)mum(h) (;) Dó(fgd/fv//efd/fg!hvhg)mi(egff)ni(fe) *(;) i(d!fff/ghf)bi(ixgi)mus(h//iji/hig//fg/hjh/hg) (,) (fhg/ev//dec//ef!gvvFDewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "5"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1480",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tenuisti-manum-3690",
+  "incipit": "Tenuisti manum",
+  "title": "Tenuisti manum",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Tenuísti * manum déxterram meam: et in voluntáte tua deduxísti me, et cum glória suscepísti me. T. P. Allelúia, allelúia. Ps. Quam bonus Israel Deus, * his qui recto sunt corde! Glória Patri E u o u a e",
+  "gabc": "(c2) TE(cd)NU(c)Í(c!df)STI(f) *(,) ma(gfg)num(g) déx(g/iii)ter(g)ram(ghf~) me(g!hwihi)am:(hg) (:) et(g) in(gf) vo(g)lun(i)tá(h/iji)te(i) tu(hiHGh)a(hg) (,) de(g)du(gi)xí(i)sti(ih/ivHGh) me,(hg) (:) et(gh) cum(fg) gló(g)ri(fg)a(ghgg/efe) (,) su(ef!ghg)sce(gffd!ewf)pí(c)sti(cdc) me.(c) <i>T. P.</i>(::) Al(fg~)le(g)lú(fge/fgf)ia,(f) (,) al(fg)le(ghffvEDC)lú(cdc)ia.(c) <i>Ps.</i>(::) Quam(cfe) bo(fg)nus(g) Is(gi)ra(h)el(h) De(hg)us,(gh) *(:) his(ge) qui(fg) re(g!hwi)cto(g) sunt(f) cor(fff)de!(dc) (::) Gló(cfe)ri(fg)a(g) Pa(g)tri(g) (::) E(g) u(g!hwi) o(g) u(f) a(fff) e(dc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "393"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3690",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

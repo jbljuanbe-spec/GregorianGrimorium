@@ -1,0 +1,37 @@
+{
+  "id": "panem-caeli-711",
+  "incipit": "Panem caeli",
+  "title": "Panem caeli",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Panem caeli * dedit eis: panem Angelórum manducávit homo.",
+  "gabc": "(c4) PA(g!hj)nem(j) cae(jhjvIG)li(g.) *(,) de(i!j'k)dit(k_h) e(hkj__)is:(ikjj/ghg.) (:) pa(g.h!iwj)nem(ji) An(h_g)ge(h!iwj)ló(ghGF'g)rum(gf..) (;) man(gh~)du(hgh)cá(gh/i.h!iwj)vit(hih) ho(gh!ivHG'h)mo.(hg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "520"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1495"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "711",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

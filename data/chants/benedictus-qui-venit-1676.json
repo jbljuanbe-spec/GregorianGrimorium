@@ -1,0 +1,31 @@
+{
+  "id": "benedictus-qui-venit-1676",
+  "incipit": "Benedictus qui venit",
+  "title": "Benedictus qui venit",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Benedíctus * qui venit in nómine Dómini: benedíximus vobis de domo Dómini: Deus Dóminus, et illúxit nobis, allelúia, allelúia.",
+  "gabc": "(c4) BE(fgffe)NE(cd)DÍ(ff!gwhgh)CTUS(hg) *(,) qui(g) ve(hjjj/kj)nit(j) (;) in(j) nó(jk/lk)mi(kjj)ne(ghg//ikj) (,) Dó(jki/jh)mi(gf)ni:(h!iwjh/ivHG/hg) (:) be(f)ne(g)dí(gj)xi(j)mus(jjjvHGh) vo(fg)bis(hjHGh) (;) de(fg) do(gh)mo(hj) Dó(jjj/kv//jlk)mi(klj/jh!iwji)ni:(i) (:) De(g/jjj/kv/jlk)us(kljjh!iwji) (,) Dó(g/jjj/kj)mi(jkj/ki/jh/gih)nus,(hggfg) (;) et(fg) il(gh)lú(h/kl)xit(ji) no(jjjh)bis,(hv//gjhj) (;) al(f)le(g)lú(h/jjj)ia,(jkJI/jv//jjjg) (,) al(hj)le(jjj//kj/kjj)lú(hg~)ia.(gjh/ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "220"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1676",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

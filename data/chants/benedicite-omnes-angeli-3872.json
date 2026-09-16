@@ -1,0 +1,31 @@
+{
+  "id": "benedicite-omnes-angeli-3872",
+  "incipit": "Benedicite omnes Angeli",
+  "title": "Benedicite omnes Angeli",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Benedícite * omnes Angeli Dómini Dóminum: hymnum dícite, et superexaltáte eum in saécula. T. P. Allelúia.",
+  "gabc": "(c4) BE(eef)NE(de)DÍ(gh)CI(gf)TE(fff/ded) *(,) o(g)mnes(g) An(iij)ge(h)li(g) Dó(h)mi(g)ni(f) Dó(hih)mi(ghg)num:(g) (:) hym(g)num(g) dí(ij)ci(h)te,(gh!iwjiih) (;) et(h) su(iji)per(g)ex(h)al(g)tá(f!gh)te(g) e(efEDe)um(ed) (,) in(fv//fffde/gh) saé(gv//fg/hhg)cu(egff)la.(fe) <i>T. P.</i>(::) Al(ff)le(d!ewf!gvFE)lú(egff)ia.(fe)  (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "538"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3872",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

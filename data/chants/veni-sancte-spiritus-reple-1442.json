@@ -1,0 +1,31 @@
+{
+  "id": "veni-sancte-spiritus-reple-1442",
+  "incipit": "Veni Sancte Spiritus reple",
+  "title": "Veni Sancte Spiritus reple",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Veni Sancte Spíritus, replé tuórum corda fidélium: et tui amóris in eis ignem * accénde.",
+  "gabc": "(f3) AL(ef~)LE(fg/hggf)LÚ(ef~)IA.(f) *(,) (ii//gh!ivHG//fhg/eef) (;) (kxjj//ikJI/ivHF//giHGE/ggf) <sp>V/</sp>.(::) Ve(e!fwg/hggf/ef)ni(f) (,) Sanc(f)te(g!hwi) Spí(iv//hig/hfg)ri(gef)tus,(f) (;) re(h)plé(gvFEf/ggf) (,) tu(f)ó(hg)rum(hi) cor(i)da(ghfg) fi(g)dé(gf)li(ef)um:(f) (:) et(g) tu(i)i(ij) a(j)mó(kxkvJI/ivHF//ghGF/ef , kxeg//ij!kvJI/ivHF//ghGF/ef//e!fwg!hv)ris(g) (;) in(gef) e(gf)is(f) i(ef~)gnem(f) *() ac(fg/hggf)cén(ef~)de.(f) (,) (ii//gh!ivHG//fhg//eef) (;) (kxjj//ikJI/ivHF//giHGE/ggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "249"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1442",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

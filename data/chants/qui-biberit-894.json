@@ -1,0 +1,31 @@
+{
+  "id": "qui-biberit-894",
+  "incipit": "Qui biberit",
+  "title": "Qui biberit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Qui bíberit aquam, * quam ego dabo ei, dicit Dóminus, fiet in eo fons aquae saliéntis in vitam aetérnam.",
+  "gabc": "(c4) QUI(e) bí(g)be(f)rit(e) a(gh)quam,(fgff) *(,) quam(d) e(g!h'i)go(h) da(h_g/h!iwji/jkj)bo(h) e(g.f!gw!hgh)i,(hg..) (;) di(h)cit(ixgiHG'hffe) Dó(e)mi(egff)nus,(eef.) (:) fi(dg!hi)et(h) in(h) e(h)o(hg) (,) fons(h!iwj) a(ghg)quae(efef.) sa(d)li(e)én(ixgh!jvH'GF'gwh!ivHG)tis(hg..) (;) in(g) vi(g_e/f!gwh)tam(h.) ae(ixhiG'Fghg)tér(egff)nam.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "136"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "894",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

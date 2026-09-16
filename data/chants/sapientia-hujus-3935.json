@@ -1,0 +1,31 @@
+{
+  "id": "sapientia-hujus-3935",
+  "incipit": "Sapientia hujus",
+  "title": "Sapientia hujus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Sapiéntia hujus mundi stultítia est apud Deum, scriptum est enim: Dóminus novit cogitatiónes sapiéntium, * quoniam vanae sunt.",
+  "gabc": "(c4) AL(cd~)LE(ded/evDC)LÚ(ef!gvFEe)IA.(d) *(;) <i>ij.</i>(dhhhvGF/ghh//d!fffvED/evDC/eed) (;) (dcd/fe/fgFED//evDC/d!ewfd) <sp>V/</sp>.(::) Sa(c)pi(c)én(cd~)ti(d)a(d) hu(ed/evDC)jus(c) mun(ef!gvFEe)di(d) (;) stul(ixdh)tí(hhvGF/gh/ih)ti(gh)a(hvGF/fvED) est(dc) (,) a(fe)pud(fgFEf) De(d!ewfef)um,(ed) (:) scrip(h)tum(g) est(h) e(j)nim:(jkj) (;) Dó(hi)mi(h)nus(hg) no(gig/hhg/iih)vit(h) (,) co(h)gi(hg)ta(gj)ti(ji)ó(jkj)nes(hg) sa(h)pi(g)én(fe)ti(cd)um,(deDC) *(;) quo(c)ni(de)am(ed) va(fe/gvFED/ed)nae(cd) sunt.(d//hhhvGF/ghh//d!fffvED/evDC/eed) (,) (dcd/fe/fgFED//evDC/d!ewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "410"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3935",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

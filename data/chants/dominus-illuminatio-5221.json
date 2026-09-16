@@ -1,0 +1,31 @@
+{
+  "id": "dominus-illuminatio-5221",
+  "incipit": "Dominus illuminatio",
+  "title": "Dominus illuminatio",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dominus illuminátio mea, et salus mea, quem timébo? Dóminus defénsor vitæ meæ, a quo trepidábo? qui tríbulant me inimíci mei, ipsi infirmáti sunt, et cecidérunt. ℣. Si consístant advérsum me castra, non timébit cor meum. Glória E u o u a e.",
+  "gabc": "(f3) Do(c!ef)mi(f)nus(fgf) (::) il(e)lu(f)mi(h)ná(h)ti(hf)o(f) me(f!ghf)a,(f) (;) et(ef) sa(hhi)lus(h) me(hihhe)a,(e) (;) quem(fi) ti(hiHGh)mé(fgf)bo?(f) (:) Dó(f!hi)mi(i)nus(iji) (;) de(h)fén(hih)sor(h) vi(hih)tæ(h) me(hihhf)æ,(f) (;) a(f) quo(f!hi) tre(i)pi(h)dá(hjij)bo?(h!ij) (:) qui(f) trí(f!hi)bu(i)lant(kxih/jki) me(hihhv/fgf) (;) i(f)ni(hg)mí(h)ci(f) me(fhhffef)i,(fe) (;) i(f)psi(e) in(f)fir(h)má(hhv)ti(h) sunt,(f) (;) et(fhe) ce(hhv)ci(ivHGh)dé(fgf)runt.(f) <sp>V/</sp>.(::) Si(e) con(f)sí(eh)stant(h) ad(h)vér(hg)sum(hi) me(i) ca(hi)stra,(h) (::) non(h) ti(h)mé(i)bit(hf) cor(h) me(ge)um.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "288"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5221",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

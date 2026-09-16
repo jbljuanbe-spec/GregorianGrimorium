@@ -1,0 +1,31 @@
+{
+  "id": "recordare-virgo-3741",
+  "incipit": "Recordare Virgo",
+  "title": "Recordare Virgo",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Recordáre, * Virgo Mater, in conspéctu Dei, ut loquáris pro nobis bona, et ut avértat indignatiónem suam a nobis",
+  "gabc": "(c4) RE(d!ff/ggf/gh)COR(fe~)DÁ(gvFECd)RE,(d) *(,) Vir(d/ff/ggf/gh)go(fe) Ma(cd)ter,(d) (,) in(f) con(gh)spé(hg)ctu(ge) De(gf)i,(dffff) (;) ut(f!hj) lo(ji)quá(gf)ris(f!gh) pro(f) no(g)bis(h) bo(fvECd)na,(d) (:) et(f) ut(g) a(gh)vér(fe)tat(d) (,) in(f)di(g)gna(hj)ti(j)ó(k)nem(i) su(j)am(h) (;) a(d/ff/ggf/ghd/fffh!jvvIGFh) (,) (h/jj/kkj/klh/jjjvIGFgh) no(d!ewfef)bis(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "600"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3741",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

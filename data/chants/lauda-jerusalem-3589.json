@@ -1,0 +1,31 @@
+{
+  "id": "lauda-jerusalem-3589",
+  "incipit": "Lauda Jerusalem",
+  "title": "Lauda Jerusalem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Lauda, Jerúsalem, Dóminum: lauda Deum tuum, * Sion.",
+  "gabc": "(c4) AL(fd~)LE(e!fg)LÚ(hgh)IA.(ixhiHGgf) *(,) <i>ij.</i>(ixhiHGge//ghGFE/fgffe) <sp>V/</sp>.(::) Lau(h)da,(ixg//ivHG/hffe) (,) Je(fd)rú(ef)sa(g)lem,(ixg//hiHFhfg) Dó(ixgh!ij)mi(g)num:(giHG) (:) lau(ixge/ghFEghFEfh//ivGFhvGFge~)da(e) (,) De(e!fg)um(gh~) tu(ixhiHGF)um,(ghg) *(;) Si(ixg!hwih)on.(hv//ghg/fffd//gfg/ffdgvFE) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[96]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3589",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

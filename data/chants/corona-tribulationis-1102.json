@@ -1,0 +1,31 @@
+{
+  "id": "corona-tribulationis-1102",
+  "incipit": "Corona tribulationis",
+  "title": "Corona tribulationis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Coróna tribulatiónis efflóruit in corónam glóriae, et sertum * exsultatiónis.",
+  "gabc": "(c4) AL(dhh)le(hvGF'ED)lú(d c/gv.fg!hvGFE'e)ia.(d.) *(;) <i>ij.</i>(ixdh!ivHG'Fghhhv'GF'ED'Cd.) (;) (ixdh!ivHG'Fghhhv'GFE'ed.) <sp>V/</sp>.(::) Co(cd)ró(dh_GFgvFE'D)na(cd) (,) tri(de/fd)bu(cd)la(dvCA)ti(cd)ó(d_c/d!ewfd)nis(d.) (;) ef(dh)fló(hvGFgf)ru(gh)it(h.) (,) in(h) co(hg)ró(fg)nam(g) gló(dfe/ded)ri(cd)ae,(d.) (;) et(d) ser(dvCA)tum(cd) *() ex(de/fd)sul(cd)ta(dhh)ti(hvGF'ED)ó(ddc/gv.fg!hvGFE'e)nis.(d.) (;) (ixdh!ivHG'Fghhhv'GF'ED'Cd.) (;) (ixdh!ivHG'Fghhhv'GFE'ed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "18**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1102",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

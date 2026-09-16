@@ -1,0 +1,31 @@
+{
+  "id": "judica-domine-1455",
+  "incipit": "Judica Domine",
+  "title": "Judica Domine",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Judica * Dómine nocéntes me, expúgna impugnántes me: apprehénde arma et scutum, et exsúrge in adjutórium meum, Dómine, virtus salútis meae. Ps. Effúnde frámeam, et conclúde advérsus eos qui persequúntur me: * dic ánimae meae: Salus tua ego sum. Júdica.",
+  "gabc": "(c4) JU(dfe)DI(f)CA(f) *() Dó(f)mi(f)ne(fff) (,) no(fd)cén(fg)tes(ghGEf) me,(eef) (;) ex(d)pú(dg)gna(g) im(g)pu(gf~)gnán(fhgh)tes(egfg) me:(eef) (:) ap(d)pre(dg)hén(g)de(g) ar(gf~)ma(f) et(f) scu(fhgh)tum,(e) (;) et(f) ex(f)súr(fhg)ge(f) (,) in(f) ad(f)ju(f)tó(fhg)ri(f)um(fff) me(c!ew!fvEDe)um,(ed) (;) Dó(e!fg)mi(ge!fwg)ne,(ghFEfvEDCdc) (,) vir(eef)tus(d!ewf) sa(c)lú(fffd)tis(e!fg) me(gf/hvGFgvFE)ae.(e) <i>Ps.</i>(::) Ef(hg)fún(gh)de(h) frá(h)me(h)am,(h) (,) et(h) con(h)clú(h)de(h) ad(h)vér(h)sus(h) e(h)os(h) qui(hg) per(gi)se(i)quún(hi)tur(h) me:(h) *(:) dic(hg) á(gh)ni(h)mae(h) me(h)ae:(h) (,) Sa(h)lus(h) tu(h)a(gf) e(gh)go(g) sum.(egff) (::) Jú(dfe)di(f)ca.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "159"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1455",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

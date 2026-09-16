@@ -1,0 +1,31 @@
+{
+  "id": "propitius-esto-3602",
+  "incipit": "Propitius esto",
+  "title": "Propitius esto",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Propítius esto, Dómine, peccátis nostris: nequándo dicant gentes: Ubi est Deus * eórum?",
+  "gabc": "(c4) AL(cd~)LE(d/efddc)LÚ(ed/ffd)IA.(d) *(;) <i>ij.</i>(dhhvGEDffd) (,) (dffe/fgf/ddc//ed/ffd) <sp>V/</sp>.(::) Pro(cd)pí(d/efddc//e!fg/hg)ti(ed)us(efe) e(ded)sto,(d) (,) Dó(dhhg)mi(ed/ffd)ne,(d) (;) pec(deDC//e!gh)cá(fe)tis(cd) no(ddcd/efd)stris:(d) (:) ne(h)quán(h)do(h) di(g)cant(h) gen(jk//jkh//jvIHhg/ijh giggh,hi!jkkvJIH//jvIHhg/ijh~)tes:(h) (:) U(hiHG//ij/kj)bi(ih/jjh) est(h) (;) De(hvGE/fvED//ce!gv//hvGEf)us(ed) *(,) e(cd)ó(d/efddc//ed/ffd)rum?(d) (;) (dhhvGEDffd) (,) (dffe/fgf/ddc//ed/ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[98]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3602",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

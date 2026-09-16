@@ -1,0 +1,31 @@
+{
+  "id": "beati-pauperes-521",
+  "incipit": "Beati pauperes",
+  "title": "Beati pauperes",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "BEáti * páuperes spíritu, quóniam ipsórum est regnum caelórum. Beáti mundo corde, quóniam ipsi Deum vidébunt. T.P. Allelúia.",
+  "gabc": "(c4) BE(d)á(f)ti(fe) *() páu(ixf!gwhg/hiuh)pe(g)res(f) spí(fe)ri(d)tu,(fg!hvhg.) (;) quó(h)ni(g)am(hgh) i(f)psó(gfg)rum(fe) est(dfddc.) (,) re(f.e!gwhgh)gnum(gh) cae(f_e)ló(de!fvED'e)rum.(ed..) (:) Be(dh)á(h)ti(hg) mun(hj)do(ji) cor(hi)de,(h.) (;) quó(h)ni(g)am(hvGE) i(f!gh)psi(g.) (,) De(hvGF')um(g) vi(f_e)dé(de!fvED'e)bunt.(ed..) <i>T.P.</i>(::) Al(de)le(d)lú(dc/ffvED'ewf)ia.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "27**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "521",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

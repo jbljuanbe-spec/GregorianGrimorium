@@ -1,0 +1,31 @@
+{
+  "id": "simile-est-6271",
+  "incipit": "Simile est",
+  "title": "Simile est",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Símile est regnum cælórum hómini negotiatóri, quærénti bonas margarítas: invénta una pretiósa margaríta, dedit ómnia sua, et comparávit eam. T. P. Allelúia.",
+  "gabc": "(c4) Sí(ggh)mi(g)le(g) est(g) (::) re(g)gnum(d) cæ(g)ló(giHG)rum(g) (;) hó(jij)mi(h)ni(g) ne(h)go(jij)ti(hg)a(hi)tó(hgh)ri,(g) (;) quæ(g)rén(g)ti(d) bo(dg)nas(fv//efd) (;1) mar(d)ga(e)rí(gh)tas:(ghhg) (:) in(fg)vén(gjjk)ta(j) (;) u(j)na(j) pre(j)ti(jh)ó(ijhi)sa(gh) (;4) mar(d)ga(e)rí(gh)ta,(gh/jgh) (;) de(e)dit(f) ó(g)mni(f)a(e) su(f)a,(efd) (;) et(gh) com(d)pa(g)rá(gh/jh)vit(i) e(ghg)am.(g) <i>T. P.</i>(::) Al(g)le(ghfg)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "48*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6271",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "si-quis-manducaverit-1223",
+  "incipit": "Si quis manducaverit",
+  "title": "Si quis manducaverit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Si quis manducáverit ex hoc pane, vivet * in aetérnum.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh)ia.(ixhiHG'gf.) *(,) (ixhiHG'ge./ghGF'Ef_gffe.) <sp>V/</sp>.(::) Si(h) quis(h) man(g)du(g'//ixivHG'hffe)cá(fd/ef!ghhg)ve(fg)rit(g.) (,) ex(ghg'/hf) hoc(ed) pa(egF'D)ne,(d.) (:) vi(f!gwhg)vet(ixhiG'Eg.ixhiF'DfffdgvFE.) (,) (df/h_f/g_efv.df!gvFEfe..) *(;) in(fd/e/f'g) ae(gdgvFE)tér(fd/ef!g'h)num.(ixhiHG'gf.) (,) (ixhiHG'ge./ghGF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "96**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1223",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "jerusalem-quae-5394",
+  "incipit": "Jerusalem quae",
+  "title": "Jerusalem quae",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Jerúsalem, quæ ædificátur ut cívitas, cujus participátio ejus in idípsum: illuc enim ascendérunt tribus, tribus Dómini, ad confiténdum nómini tuo Dómine.",
+  "gabc": "(f2) Je(f)rú(fe)sa(de)lem,(eg/hffe) (::) quæ(f) æ(fd)di(dfe)fi(f)cá(g)tur(f) ut(f) cí(g)vi(f)tas,(ef) (:) cu(f)jus(dfe) par(fg)ti(g)ci(g)pá(gh)ti(h)o(h) e(j)jus(g) in(h) i(f)dí(g)psum:(e) (:) il(hj)luc(j) e(jjv)nim(g) a(h)scen(j)dé(ikjjv)runt(ji) (;) tri(jjv)bus,(g) tri(h)bus(f) Dó(h)mi(ghGFEf)ni,(fe) (:) ad(f) con(f)fi(fd)tén(fg)dum(g) nó(gh)mi(f)ni(d) tu(ffv)o(dfc) (;) (fg/hgh) Dó(f)mi(egffv)ne.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "124"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5394",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

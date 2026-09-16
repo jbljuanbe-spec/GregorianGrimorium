@@ -1,0 +1,31 @@
+{
+  "id": "dico-vobis-1709",
+  "incipit": "Dico vobis",
+  "title": "Dico vobis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dico vobis, * gáudium est Angelis Dei super uno peccatóre paeniténtiam agénte.",
+  "gabc": "(c3) DI(h)CO(f) vo(hi)bis,(i) *(,) gáu(ij)di(i)um(h) est(h) An(h)ge(g)lis(i) De(hif)i(f) (;) su(f)per(e) u(f)no(e) pec(f)ca(d)tó(ef)re(f) (,) pae(f)ni(h)tén(f)ti(e)am(f!gwhg/hih) a(f)gén(d!ed~)te.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "280"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1709",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

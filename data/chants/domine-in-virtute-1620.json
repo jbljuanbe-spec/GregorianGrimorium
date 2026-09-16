@@ -1,0 +1,31 @@
+{
+  "id": "domine-in-virtute-1620",
+  "incipit": "Domine in virtute",
+  "title": "Domine in virtute",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Dómine, in virtúte tua laetábitur rex: et super salutáre tuum exsultábit * veheménter.",
+  "gabc": "(c4) AL(d)LE(ff)LÚ(ixfgf/ivHGh)IA.(hv//fgf//ivGF/hhf) *(,) <i>ij.</i>(dfe/gvFD/dc//ffc) (,) (fhgj/jjj//kj/jh//fhg/hg/gf) <sp>V/</sp>.(::) Dó(ff)mi(ixfgf/ivHGh)ne,(hv//fgf//ivGF/hhf) (;) in(f!hj) vir(ixjjvIG)tú(g/jjj//kj/jhi)te(ih) tu(f!gh/jh/hgh)a(hvGF) (;) lae(f)tá(fhgh//fgFD//cd/fd//cd!ff , ixgh!iw!jvIH)bi(ghf)tur(ixf!gwh!ivHG/hih~) rex:(h) (:) et(ixf!gwhgh/jjjvIHG//jjjvIGF/hv) (,) (ixf!gwhgh/jjjvIHG//jjjvIGF/hv//fgf/ih) su(ghf)per(f) (,) sa(df)lu(fgf)tá(fv//efd)re(cf) tu(df/hg/hvGF)um(f) (;) ex(d)sul(ff)tá(ixfgf/ivHGh)bit(hv//fgf//ivGF/hhf) *(,) ve(dfe/gvFD/dc)he(ffc)mén(ixfhgj/jjj//kj/jhi)ter.(hv//fhg/hggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "283"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1620",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

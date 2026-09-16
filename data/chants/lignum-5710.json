@@ -1,0 +1,31 @@
+{
+  "id": "lignum-5710",
+  "incipit": "Lignum",
+  "title": "Lignum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Lignum habet spem: si præcísum fúerit, rursum viréscit, et rami ejus póllulant.",
+  "gabc": "(c4) Li(fhggfg)gnum(gf) (::) ha(h!jjh!ij)bet(gfg) spem:(ghg/ff!ded) (:) si(df) præ(fff)cí(d!efEDCd)sum(dc) (;1) fú(ixfg/hg/hi)e(h)rit,(h) (;) rur(hjh)sum(hjg/fvED/ef) (;) vi(d)ré(ffg/ef!gv//fg/hg/hvGF/fvED)scit,(d!fff) (:) et(fd~) ra(fhg)mi(g) e(ixh!jjvHG/hiGF/ghgh//gh!jjj/kvJH)jus(h) (;) pól(hv//fhggv/efDC/df//fff//ghgh)lu(gf)lant.(f/ghggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "446.3"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5710",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "non-vos-relinquam-6454",
+  "incipit": "Non vos relinquam",
+  "title": "Non vos relinquam",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Non vos relínquam órphanos: véniam ad vos íterum, allelúia: et gaudébit cor vestrum, allelúia, allelúia.",
+  "gabc": "(c3) Non(fh) vos(h) re(gh)lín(f)quam(fe) (::) ór(fh)pha(efEDe)nos:(ed) (:) vé(f)ni(ef)am(d) ad(ef) vos(f) í(fgf)te(ef)rum,(f) (;) al(f)le(e)lú(fgffe~)ia:(e) (:) et(f) gau(h)dé(h)bit(hhv) (;3) cor(gxfg!hvGFE//fgFE) ve(d!efEDe)strum,(ed) (:) al(df)le(hhv)lú(ih~)ia,(hi//kvJH//jvIHh) (;) al(df)le(ehhf/gxghGFE//fgFE)lú(d!efEDe)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "263"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6454",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "te-gloriosus-all-442",
+  "incipit": "Te gloriosus (All)",
+  "title": "Te gloriosus (All)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Te gloriósus Apostolórum chorus laudat, * Dómine.",
+  "gabc": "(c4) AL(cd)le(ef!ghhg)lú(gi/jh/ivHG)ia.(g.) *(;) <i>ij.</i>(gh/ijh.__jvIHG.fhfg./egFE'DC.) (,) (cd!ef!ghhvGF'Deddc.) <sp>V/</sp>.(::) Te(cd) glo(f)ri(e)ó(fg)sus(gvFEDfg!hvhg.) (,) A(g)pos(gh)to(hg)ló(fvED)rum(dgF'E) cho(cdc__)rus(c.) (:) lau(g/hg/jv.ijhhvGEfg~)dat,(g.) *(,) Dó(gh/ijh.__jvIH'G)mi(fhfg)ne.(egFE'DC.) (,) (cd!ef!ghhvGF'Deddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "588"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1613"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "442",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "mirabantur-omnes-7227",
+  "incipit": "Mirabantur omnes",
+  "title": "Mirabantur omnes",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Mirabántur omnes de his, quæ procedébant de ore Dei.",
+  "gabc": "(c3) Mi(ef)ra(e!fh)bán(hvGF)tur(hf/ghGF) (::) o(e!fgFEf)mnes(fe) (;) de(eh//g!hih//ij) his,(i) (;3) quæ(efED) pro(e)ce(f)dé(hi)bant(hih) (;) de(hi) o(ihhvGF)re(h) (;4) De(fheed//e!fg)i.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "55"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7227",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

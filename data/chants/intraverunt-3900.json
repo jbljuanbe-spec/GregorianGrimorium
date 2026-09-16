@@ -1,0 +1,31 @@
+{
+  "id": "intraverunt-3900",
+  "incipit": "Intraverunt",
+  "title": "Intraverunt",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Intravérunt aquae usque ad ánimam meam, veni in altitúdinem maris, et tempéstas * demérsit me.",
+  "gabc": "(f3) AL(fe~)LE(eh)LÚ(gvFE)IA.(fv//e!fh/ghf) *(;) (hji/hjiivHF/gw!hvGF/feg) (,) (f!hh//iggf!gwhf) <sp>V/</sp>.(::) In(f)tra(ef)vé(gh)runt(gf) a(fiivHG)quae(f) (,) us(f)que(g) ad(h) á(i)ni(h)mam(ij) me(kxjkiih)am,(h) (:) ve(higgf/hvGF)ni(f) (,) in(f) al(hg)ti(hi)tú(ij)di(i)nem(ivHF) ma(fgFE)ris,(e) (;) et(ei~) tem(i)pé(ihi)stas(f) *() de(fe)mér(eh)sit(gvFE) me.(fv//e!fh/ghf) (;) (hji/hjiivHF/gw!hvGF/feg) (,) (f!hh//iggf!gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[141]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3900",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

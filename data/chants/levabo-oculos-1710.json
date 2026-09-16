@@ -1,0 +1,31 @@
+{
+  "id": "levabo-oculos-1710",
+  "incipit": "Levabo oculos",
+  "title": "Levabo oculos",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Levábo * óculos meos, et considerábo mirabília tua, Dómine, ut dóceas me justítiam tuam: da mihi intelléctum, ut discam mandáta tua.",
+  "gabc": "(c4) LE(df)VÁ(fg/hg)BO(g) *(,) ó(gh)cu(g)los(g) me(g)os,(gv//ffffg) (;) et(d) con(fhg)si(h)de(gf)rá(fg!hvhg)bo(hggf) (,) mi(g)ra(h)bí(jij)li(hg)a(g) tu(ghf)a,(g/jjvIHiw!jvIH) Dó(hg)mi(gh/jhi)ne,(hg) (:) ut(fg) dó(gjjjj/kl)ce(jh!iwj/kj)as(jjjvHGFixgwh!ivHG) me(hg) (;) ju(g)stí(hjg/hg)ti(fg)am(g/jji) tu(jkj/kijvHGFgw!hgh)am:(hjhhf) (:) da(d!ewf!gv) mi(gh!ivHGh)hi(hg) in(gih/ig)tel(gf~)léc(fg/hgh)tum,(h!jvvHG) (;) ut(gf~) di(fv//fff//fgfg)scam(d/fge/fgDCd) (,) man(cd)dá(f!gwhghvGF)ta(g/jjvIHiw!jvIH) tu(gh/jhi)a.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "82"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1710",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "timebunt-gentes-1173",
+  "incipit": "Timebunt gentes",
+  "title": "Timebunt gentes",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Timébunt gentes * nomen tuum, Dómine, et omnes reges terræ glóriam tuam. ℣. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte * sua.",
+  "gabc": "(c4) TI(d)mé(ff)bunt(gh~) gen(h_fgvFED.g_e/fg)tes(f.) *(;) no(hf/gh!jj/kjk)men(jij) tu(h_g/h/jjvH'GF)um,(h_g~) Dó(f)mi(fg!hvGF'g)ne,(gf..) (:) et(f) o(ghgh)mnes(jhhg) re(h!iwj)ges(j_i) (`) ter(jkJ'IH)ræ(hjH'GhjjhjvvIH'jggf.) (;) gló(f!g'h/f!g'h)ri(gf)am(fv.ef!gvgf.) (,) tu(f!hhh//gh!jjjhjvvIH'jg./f.h!iw!jvIH'GF'f//hvGFgf)am.(f.) (z0::c3)\r\n<sp>V/</sp>. Quó(d)ni(d)am(d) æ(d)di(d)fi(fe)cá(eh)vit(h.) (,) Dó(h)mi(h)nus(ihh'hh_f//hhf/hhe/gxfgED.gyhhjvIH'/hvGF.) (;) Si(hi)on,(i_h/i/kkh//i_h/kkkvIH'hvGF.) (:) et(f) vi(hf)dé(h)bi(hfh)tur(hhhvF'Ef!hhhf/hhhvGF'heed.) (;) in(d) ma(d)je(d)stá(dfE'D)te(ef) *() su(fhG'Fhhh)a.(hhf.,gxg_f/gvED.fgED.fehv.hhhff//dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "71"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1173",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

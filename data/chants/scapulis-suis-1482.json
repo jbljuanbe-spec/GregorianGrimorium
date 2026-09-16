@@ -1,0 +1,31 @@
+{
+  "id": "scapulis-suis-1482",
+  "incipit": "Scapulis suis",
+  "title": "Scapulis suis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Scápulis suis * obumbrábit tibi Dóminus, et sub pennis ejus sperábis: scuto circúmdabit te véritas ejus.",
+  "gabc": "(c4) SCÁ(h)PU(g)LIS(g) su(gih)is(h) *(,) o(g)bum(g)brá(gh/ji)bit(ih~) ti(jk)bi(hv//fhg) Dó(g)mi(ghg)nus,(g) (:) et(g) sub(g) pen(gh/ji)nis(j) e(j)jus(jjjvIHG/hg) (;) spe(hih)rá(jj//hj/kjk)bis:(ji) (:) scu(hj/kj)to(jj//jjj) cir(hg~)cúm(gh!iwj)da(jkJH)bit(hg) te(gf) (;) vé(ixfg!ivHGh//jkj)ri(hf)tas(fhg) e(ghg)jus.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "81"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1482",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

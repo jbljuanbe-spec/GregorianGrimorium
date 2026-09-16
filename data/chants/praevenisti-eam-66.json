@@ -1,0 +1,31 @@
+{
+  "id": "praevenisti-eam-66",
+  "incipit": "Praevenisti eam",
+  "title": "Praevenisti eam",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Praevenísti eam, * Dómine, in benedictiónibus dulcédinis: posuísti in cápite ejus corónam de lápide pretióso. T. P. Allelúia.",
+  "gabc": "(c4) PRae(c)ve(d)ní(ff)sti(d) e(dc)am,(f) *(,) Dó(ghgh)mi(g)ne,(fgFD.) (;) in(d) be(d)ne(d)di(ge/gh)cti(f)ó(ff)ni(fgf)bus(f) dul(hg)cé(hv.f!hj)di(g)nis:(fgFD.) (:) po(c)su(d)í(ff)sti(fe/ghf.) (,) in(f) cá(ixf!gwh'!iv)pi(h)te(h) e(j)jus(hhg) co(h!iwj)ró(hg/hvGF'g)nam(gf..) (;) de(fv.egf) lá(fg)pi(deDC'd)de(dc) pre(f)ti(gfhvGF)ó(fgf__)so.(f.) <i>T. P.</i>(::) Al(fg~)le(ixgiHG')lú(hggfg)ia.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "42**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "66",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "benedicta-4820",
+  "incipit": "Benedicta",
+  "title": "Benedicta",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Benedícta es tu, fília, a Dómino Deo excélso præ ómnibus muliéribus super terram: quia nomen tuum ita magnificávit, ut non recédat laus tua de ore hóminum. T. P. Allelúia.",
+  "gabc": "(c3) Be(fe)ne(d)dí(f)cta(hiih) (::) es(h) tu,(gxfg) fí(fe)li(fg)a,(f) (;) a(d) Dó(gyfh)mi(gh)no(f) De(d!ef)o(e) (;4) ex(f)cél(hg/hih)so(fgf) (;) præ(d) ó(gxfg)mni(fe)bus(fgf) (;4) mu(h)li(f)é(hih)ri(fgf)bus(fd/ef) (;) su(fg)per(f) ter(feede)ram:(ed) (:) qui(gxfg)a(fefd) no(fgf)men(e) tu(hffv)um(ded) (;) i(d)ta(eggv) ma(g)gni(f!ghGFE//fgFE)fi(d)cá(d!efEDe)vit,(ed) (:) ut(d) non(f) re(h)cé(ih)dat(h) laus(hhi) tu(fde)a(e) (;) de(d) o(ef)re(fhFE//gxfgf//e!fge//fgFE) (;4) hó(d)mi(d!efEDe)num.(ed) <i>T. P.</i>(::) Al(d!ef)le(fhFE//fgFE)lú(d!efEDe)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "463"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4820",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

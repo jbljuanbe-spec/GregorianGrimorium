@@ -1,0 +1,31 @@
+{
+  "id": "veni-sancte-spiritus-reple-6443",
+  "incipit": "Veni Sancte Spiritus reple",
+  "title": "Veni Sancte Spiritus reple",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Chorus genua flectit usque ad Reple, et cantat totum. Veni, Sancte Spíritus: replé tuórum corda fidélium, et tui amóris in eis ignem accénde.",
+  "gabc": "(f3) Al(ef~)le(f//ghGFf)lú(ef~)ia.(f) (::) (iiv//gh!ivHGF//hvGFEf) (;) (fjjv/kxikJI//ivHGF) (;) (ghGFfe//f!ghggf) <sp>V/</sp>.(::) <alt>Chorus genua flectit usque ad Reple, et cantat totum.</alt>() Ve(fg//hvGF//ef)ni,(f) (::) San(f)cte(g!hi) Spí(ih/ig//hfg)ri(gef)tus:(f) (:) re(h)plé(gvFE//fggf) (;) tu(f)ó(hg)rum(hi) cor(ih~)da(ghfg) fi(g)dé(gf)li(ef)um,(f) (:) et(g) tu(i)i(ij) a(j)mó(kxkvJI//ivHGF;3ghGFfe;kxgi/jkJI//ivHGF;3ghGFfe//f!gh)ris(g) (;) in(gef) e(gf)is(f) (;4) i(ef)gnem(f) ac(f!ghGFf)cén(ef~)de.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "249"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6443",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

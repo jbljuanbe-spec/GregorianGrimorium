@@ -1,0 +1,31 @@
+{
+  "id": "nos-autem-1502",
+  "incipit": "Nos autem",
+  "title": "Nos autem",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Nos autem * gloriári opórtet, in cruce Dómini nostri Jesu Christi: in quo est salus, vita, et resurréctio nostra: per quem salváti, et liberáti sumus. Ps. Deus misereátur nostri, et benedícat nobis: * illúminet vultum suum super nos, et misereátur nostri. Nos autem.",
+  "gabc": "(c4) NOS(dfe) au(ef!gvFDfe)tem(fff) *(,) glo(fd)ri(f)á(e!fg)ri(gd) o(fh)pór(gv//fhg)tet,(eef) (;) in(d) cru(g)ce(g) Dó(ixhg/hi)mi(h)ni(h) no(jj)stri(hhg) (,) Je(hhg)su(f) Chris(ixef!hig)ti:(g) (:) in(ge~) quo(g) est(h) sa(ixhi)lus,(h) (,) vi(jj)ta,(hhg) (,) et(gh~) re(hhg)sur(f)réc(e!fg)ti(g)o(ixgih) no(gf/gfg)stra:(d) (:) per(d!fff) quem(f) sal(fd~)vá(fh)ti,(g) (,) et(h) li(f)be(gf)rá(e!fg)ti(ixgiHG) su(gfhvGFgvFE)mus.(e) <i>Ps.</i>(::) De(hg)us(gh) mi(h)se(h)re(h)á(h)tur(h) no(h)stri,(h) (,) et(h) be(h)ne(hg)dí(gi)cat(i) no(hi)bis:(h) *(:) il(hg~)lú(gh)mi(h)net(h) vul(h)tum(h) su(h)um(h) su(h)per(h) nos,(h) (,) et(h) mi(h)se(h)re(h)á(gf)tur(gh) no(g)stri.(egff) (::) Nos(dfe) au(ef!gvFD/fe)tem.(fff) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "168"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1502",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

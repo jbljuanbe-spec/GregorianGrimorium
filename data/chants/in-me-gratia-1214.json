@@ -1,0 +1,31 @@
+{
+  "id": "in-me-gratia-1214",
+  "incipit": "In me gratia",
+  "title": "In me gratia",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "In me * grátia omnis viae et veritátis, in me omnis spes vitae et virtútis. ℣. Transíte ad me omnes qui concupíscitis me, et a generatiónibus meis * implémini.",
+  "gabc": "(c4) IN(ffg) me(fef.) *() grá(ixff/g!hwi)ti(gf)a(fgFD.) (,) o(dgf/gh)mnis(gg) vi(ixhiGF'fe/fwgfg)ae(gf..) (;) et(f) ve(ghgh/jkj)ri(ixhiH'G)tá(hjg__!hwihi)tis,(ih..) (:) in(h) me(jj) o(j)mnis(ji) spes(hgj./klkkj.) (,) vi(ixjhi)tae(hg) et(ixjhi) vir(gh)tú(gf)tis.(ixffh//giHF.) (,) (fhg__jv.jjjhh//fhg/hggf.) <sp>V/</sp>.(z0::c3) Tran(d)sí(d)te(d) ad(df/hh/ijh) me(h.) o(hi~)mnes(h) qui(h) con(h)cu(h)pí(h)sci(h)tis(h) me,(ihhe./hih__/ihhe.) (,) (hi!kv//lvKI'/jvHF.) (,) (h_g//ijh'__//jvIH'/jvIH'//hvGF.) (:) et(hh) a(h) ge(h)ne(h)ra(h)ti(h)ó(ih/ij_h/ih/ij_ij//hi/jij)ni(j)bus(jh/jki/hhf.) (,) me(hf/hhh)is(h.f!gwh!iv.hi/jhh/iih.) *(;) im(hh)plé(hiH'F/hihi)mi(hg)ni.(hhhf/hhhf/hhf.) (,) (de/f!hh/ijghf./gxegFD.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "48**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1214",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

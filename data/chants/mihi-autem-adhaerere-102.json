@@ -1,0 +1,37 @@
+{
+  "id": "mihi-autem-adhaerere-102",
+  "incipit": "Mihi autem adhaerere",
+  "title": "Mihi autem adhaerere",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Mihi autem * adhaerére Deo bonum est, pónere in Dómino Deo spem meam: ut annúntiem omnes praedicatiónes tuas in portis fíliae Sion. T. P. Allelúia.",
+  "gabc": "(c4) MI(g!h'j)hi(i) au(ij~)tem(i.) *(,) ad(jkjji)hae(jjj)ré(jjjh)re(iji.) (,) De(gih)o(jjjvHG') bo(g!jj//jjj)num(hkjjvIG) est,(hg/h/jjjvHGhh//giHG'/hffe.) (:) pó(f)ne(f)re(e/f'g) in(g) Dó(gh)mi(g)no(g_0!h_i) De(hgj)o(jv.jjjvIH'/jggf.) (,) spem(gjji) me(jjjvIH)am:(hiHG/hg..) (:) ut(g) an(g)nún(gi)ti(i)em(iki/jkhhg.) (,) o(ig/h/jj/kjji~)mnes(jjjvIH') prae(h/jji)di(hg)ca(h)ti(g)ó(g/jjjh/kvJI'j)nes(ih/jg) tu(gf/gvFE)as(fff/ded.___) (:) in(gj//jjj) por(ghG'F)tis(gh!ivih.) (,) fí(j)li(jjj)ae(giHG'/gf/g.h!iwj'/kjjvIH.) Si(fhG'F/gvFE)on.(e.) <i>T. P. </i>(::) Al(f)le(e!fg/hgh)lú(hjg)ia.(gvFE/f_e//g_f/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "498"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1467"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "102",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

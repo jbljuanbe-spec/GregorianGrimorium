@@ -1,0 +1,31 @@
+{
+  "id": "laudate-dominum-3545",
+  "incipit": "Laudate Dominum",
+  "title": "Laudate Dominum",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Laudáte * Dóminum de coelis: laudáte eum in excélsis. ℣. Laudáte eum omnes Angeli ejus: laudáte eum omnes Virtútes * ejus.",
+  "gabc": "(c3) LAU(eg~)DÁ(gih)TE(fe/hhg/ihhg) *(,) Dó(ge)mi(fh)num(hgi) de(hgi) coe(hiHFg)lis:(fv//ef!hhhvFEff//ehf/gffe) (:) lau(e)dá(fe/f!hh)te(f) e(ef)um(f) (,) in(eg) ex(gihhhhf//hffe/fe)cél(d!ew!fvEDCd)sis.(dv//cd/efddd ded/eddc) <sp>V/</sp>.(::) Lau(e)dá(g!hi)te(i) e(iv//hj/ijiii//h/iih/ihhhhf/hffe/f/ijhhg)um(hhh) (;) o(fg~)mnes(ef) An(g!hi)ge(h)li(ivHF) e(hffef)jus:(fhFEfddc) (:) lau(e)dá(ehhvGE)te(e/hh//hh/ijhhhvFEgvFE) (,) (ge/f!hh/ijij) (,) (hj!kvIGhiGFghf/giHG) e(ef)um(f!gh!iv//hiHF) (;) o(ehfh)mnes(h) Vir(hi)tú(ge//fhg)tes(gi!jvIH//f!hhvFEfe) *(,) e(d!ew!fvEDCd)jus.(dv//cd/efddd ded/eddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[69]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3545",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

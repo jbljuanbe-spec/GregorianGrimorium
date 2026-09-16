@@ -1,0 +1,31 @@
+{
+  "id": "domine-convertere-1639",
+  "incipit": "Domine convertere",
+  "title": "Domine convertere",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Domine * convértere, et éripe ánimam meam: salvum me fac propter misericórdiam tuam.",
+  "gabc": "(c4) DO(f)MI(f)NE(fgff) *() con(fd~)vér(fg~)te(f)re,(f) (,) et(fg) é(ghf)ri(fgf)pe(f) á(fh)ni(g)mam(ffhg) me(fgf)am:(f) (:) sal(fg~)vum(f) me(f) fac(f) (,) prop(fd/ffd)ter(dc) mi(d)se(ffg)ri(f)cór(fg~)di(f)am(fg/hg/hg) tu(fg!hvGFg)am.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "277"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1639",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

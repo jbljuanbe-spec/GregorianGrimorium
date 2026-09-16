@@ -1,0 +1,31 @@
+{
+  "id": "lavabo-7091",
+  "incipit": "Lavabo",
+  "title": "Lavabo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Lavábo inter innocéntes manus meas, et circuíbo altáre tuum, Dómine: ut áudiam vocem laudis tuæ, et enárem univérsa mirabília tua.",
+  "gabc": "(c4) La(d)vá(fhg)bo(g) (::) in(gh)ter(g) in(gh)no(g)cén(fgf)tes(d!efEC) (;) ma(f!gh)nus(fg) me(gh/jhi)as,(hg) (:) et(gd) cir(ghg~)cu(hjh)í(j;6jjvHGF//ghgh)bo(hg) (;) al(f)tá(ixghg/hi)re(h) tu(gf/ghGF)um,(g) (;3) Dó(g)mi(iygh/jhi)ne:(hg) (:) ut(ji) áu(jk)di(j)am(ji/jkj) (;3) vo(h)cem(fh) lau(hjjv)dis(gh) tu(hggfg)æ,(gf) (:) et(hj) e(j)ná(jk)rem(ji/jkj) (;) u(ji)ni(ig)vér(hi)sa(i) mi(i)ra(i)bí(kjjv)li(hg)a(g) (;) tu(gffd;3fh/jggf//ghgh)a.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "146"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7091",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

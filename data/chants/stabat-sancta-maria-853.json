@@ -1,0 +1,37 @@
+{
+  "id": "stabat-sancta-maria-853",
+  "incipit": "Stabat sancta Maria",
+  "title": "Stabat sancta Maria",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Stabat sancta María, caeli Regína, et mundi Dómina, juxta crucem Dómini nostri Jesu Christi * dolorósa.",
+  "gabc": "(f3) AL(fh~)le(gvFE'h)lú(gf~)ia.(f.) *(;) <i>ij.</i>(ivHGF'Effg//hvGF'Efccb//fv.ef!gvgf.) <sp>V/</sp>.(::) Sta(f!gw!hvGF'E)bat(h!ij) sanc(kxkvJIH'GFghf)ta(f) Ma(fe)rí(fgff)a,(e.) (;) cae(fe)li(h!ij) Re(kxkvJIH'ih)gí(iki)na,(j.kvJIH'GF.) (;) et(fgff) mun(e)di(g!hi) Dó(ivH'GhvGFgf)mi(ef)na,(f.) (:) jux(h)ta(gf) cru(gvFEf!gwh)cem(gf) Dó(hi)mi(h)ni(g) no(ij)stri(j.) (,) Je(ji)su(gh) Chri(fvECef)sti(f/ghggf.) *(,) do(fh)lo(gvFE'h)ró(gf)sa.(f.) (;) (ivHGF'EffghvGF'Efccb//fv.ef!gvgf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "596"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1633V"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "853",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

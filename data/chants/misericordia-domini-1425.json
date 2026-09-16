@@ -1,0 +1,31 @@
+{
+  "id": "misericordia-domini-1425",
+  "incipit": "Misericordia Domini",
+  "title": "Misericordia Domini",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Misericórdia * Dómini plena est terra, allelúia: verbo Dei caeli firmáti sunt, allelúia, allelúia. Ps. Exsultáte justi in Dómino: * rectos decet collaudátio. Glória Patri. E u o u a e.",
+  "gabc": "(c4) MI(d)SE(fe)RI(f)CÓR(ef~)DI(f)A(f) *() Dó(ef/gf)mi(fff)ni(ed) (,) ple(f)na(fff) est(fd) ter(fg~)ra,(f) (,) al(gf~)le(f)lú(fhGF)ia:(fgff) (:) ver(dg~)bo(g) De(gd/gvFEf)i(e) (,) cae(fffd)li(fe) fir(fg~)má(gh)ti(fvED) sunt,(d) (;) al(f)le(fh/jh)lú(ghg)ia,(e) (,) al(g)le(ixg//hiGF/hvGFg)lú(egff)ia.(fe) <i>Ps.</i>(::) Ex(hg)sul(gh)tá(h)te(h) jus(hg)ti(gi) in(i) Dó(hi)mi(h)no:(h) *(:) rec(hg)tos(gh) de(h)cet(h) col(h)lau(gf~)dá(gh)ti(g)o.(e) (::) Gló(hg)ri(gh)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(gf) u(gh) a(g) e.(egff) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "223"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1425",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

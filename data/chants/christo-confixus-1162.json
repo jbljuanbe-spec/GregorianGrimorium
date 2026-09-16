@@ -1,0 +1,37 @@
+{
+  "id": "christo-confixus-1162",
+  "incipit": "Christo confixus",
+  "title": "Christo confixus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Christo confíxus sum cruci: vivo ego, jam non ego, vivit vero in me * Christus.",
+  "gabc": "(c4) AL(cd~)le(d!ewf!gvFED./fvEDC')lú(f!g'h~)ia.(h.) *(,) <i>ij.</i>(ixivHG/hvGF'/ghhvGF/gd/evDC.) (,) (fg!hvGF'E/fvED/eed) <sp>V/</sp>.(::) Chri(cd)sto(d!ewf!gvFED./fvEDC.) (,) con(f)fí(ixfg!hvGF/ghg/hi)xus(h) sum(gf) cru(gh)ci:(h.) (:) vi(fe)vo(d) e(d!ewfef)go,(ed..) (;) jam(hvGF/gd/evDC.) non(fg!hvGF'ED) e(cd)go,(d.) (:) vi(f!g'h)vit(hj) ve(jvIH'G/hhvGF/gvFD)ro(ed..) (;) in(cd~) me(d!ewf!gvFED./fvEDC') *() Chris(f!g'h)tus.(h.) (,) (ixivHG/hvGF'/ghhvGF/gd/evDC.) (,) (fg!hvGF'E/fvED/eed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "427"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1354V"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1162",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

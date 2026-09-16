@@ -1,0 +1,31 @@
+{
+  "id": "laudate-dominum-omnes-gentes-8297",
+  "incipit": "Laudate Dominum omnes gentes",
+  "title": "Laudate Dominum omnes gentes",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": null,
+  "text_latin": "Allelúia. * ℣. Laudáte Dóminum omnes gentes, et collaudáte eum om-nes pópuli.",
+  "gabc": "(f3) AL(c)le(ef//efef)lú(efghffe~)ia.(ef..) *(,) (fg!hi//giHGF'//e/hhvGFggf.) <sp>V/</sp>.(::) Lau(c)dá(ef)te(f) Dó(f)mi(f)num(fhfgvFE.) (;) om(h)nes(gh/ihhg) gen(fgwhgh)tes,(gf..) (:) et(f) col(f)lau(fi~)dá(i)te(hg) e(hvGFg)um(gf..) (;) om-(fgffe~)nes(ghgg) pó(f)pu(fgf)li.(f) (,) (fg!hi_//giHGF'//e/hhhvGFggf.) (::)",
+  "transcriber": "Dominique Crochu",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "273"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8297",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

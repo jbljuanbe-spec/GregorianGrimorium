@@ -1,0 +1,31 @@
+{
+  "id": "ascendam-796",
+  "incipit": "Ascendam",
+  "title": "Ascendam",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ascéndam * in palmam, et apprehéndam fructus ejus.",
+  "gabc": "(c4) A(dcd)scén(df!gh)dam(g.) *(,) in(ghgh) pal(fd/gef)mam,(f.) (;) et(fd) ap(f)pre(gh)hén(h'/jkJ~H~)dam(h.) (,) fru(jhhgh)ctus(f_e) e(d!ewfef)jus.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "83**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "796",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

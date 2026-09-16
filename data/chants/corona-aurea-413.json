@@ -1,0 +1,31 @@
+{
+  "id": "corona-aurea-413",
+  "incipit": "Corona aurea",
+  "title": "Corona aurea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Coróna áurea super caput ejus: expréssa signo sanctitátis, glória honóris, et opus * fortitúdinis.",
+  "gabc": "(c4) AL(ddc~)le(egE'Cd./egED'ew!fvED)lú(dcd~)ia.(d.) *(;) <i>ij.</i>(dhhvGEfvED.ce!fg'EDffd.) (;) (c/ee//c/dd//ce!gvvFDee) (,) (dfegvEDffd.) <sp>V/</sp>.(::) Co(cd)ró(dfddce//fg'EDffd)na(d) áu(dc~)re(cd)a(d.) (;) su(d)per(dh~) ca(ixhiH'GhvGEfvED)put(dfddc.) (,) e(dfe/fg!hvF'ED.ef!gvEDffd)jus:(d.) (:) ex(dfd)prés(cd)sa(d.) (,) si(cd~)gno(d) san(dh/jjggf/gh.,hggf/gh/jjggf/gh.,g.h!iwj!kvJ'IH'Gh.,hkkj/klJ'IH)cti(gh)tá(g.h!iwj/kjjvIH)tis,(gh..) (;) gló(h)ri(gh)a(h) ho(hjI'Gi!jk)nó(ih/jjh)ris,(h.) (:) et(d) o(cd)pus(d) *() for(d)ti(d_c)tú(egE'Cd./egED'ew!fvED'd)di(cd)nis.(d.) (;) (dhhvGEfvED.ce!fg'EDffd.) (;) (c/ee//c/dd//ce!gvvFDee) (,) (dfegvEDffd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "17**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "413",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

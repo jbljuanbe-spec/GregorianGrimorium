@@ -1,0 +1,31 @@
+{
+  "id": "benedictus-sit-5149",
+  "incipit": "Benedictus sit",
+  "title": "Benedictus sit",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Benedíctus sit Deus Pater, Unigenitúsque Dei Fílius, Sanctus quoque Spíritus: quia fecit nobíscum misericórdiam suam.",
+  "gabc": "(c4) Be(dg)ne(g!hji)dí(jkj)ctus(jvIH) sit(h) (::) De(hj/kjjvIH)us(hjhhg) (;3) Pa(jkjjvIH)ter,(hg) (;3) (ixihi//gh) (:) U(ef)ni(g)ge(hg/iyjkijh)ni(gfh)tú(ghfg)sque(f) (;) De(ffd//fhg)i(g) (;3) Fí(g!hjh)li(fd//fhg)us,(e!fg) (:) San(gh/jij)ctus(gjjhj) (;6) quo(jjvHGF/ixg!hiHGh)que(hg) (;3) Spí(iyhji)ri(jkJI/jh)tus:(ih) (:) qui(fg)a(gj) fe(jjvHG)cit(gf) (;4) no(hji)bí(jkJI/jh)scum(ih) (;) mi(e!fg)se(gh/jgh)ri(ef)cór(g)di(gh!jvIH)am(h) (;3) su(hjHG)am.(gvFE/fe) (;4) (gfgf/fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "266"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5149",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

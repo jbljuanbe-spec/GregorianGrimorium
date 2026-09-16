@@ -1,0 +1,37 @@
+{
+  "id": "signum-magnum-23",
+  "incipit": "Signum magnum",
+  "title": "Signum magnum",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Signum magnum * appáruit in caelo: múlier amícta sole, et luna sub pédibus ejus, et in cápite ejus coróna stellárum duódecim. Ps. Cantáte Dómino cánticum novum: * quia mirabília fecit. Glória Patri. E u o u a e.",
+  "gabc": "(c3) SI(ef)GNUM(f) ma(fdfe)gnum(e.) *(,) ap(fh)pá(hhh)ru(h)it(hji) in(ihhf!gwh) cae(efe___)lo:(e.) (:) mú(ef/hgh)li(h)er(h') a(h)mí(h)cta(fh) so(h)le,(hg/hiffe.) (;) et(e) lu(ef/hg)na(h') sub(g) pé(g!h'i)di(i)bus(ijHF'gwh) e(hi)jus,(h.) (:) et(hg) in(h) cá(hji)pi(h)te(hhh) e(e!g'hffd~)jus(d.) (;) co(e)ró(ef)na(e') stel(e)lá(e)rum(e.f!gwh!iv') du(ihhf!gwh')ó(e)de(efe___)cim.(e.) <i>Ps.</i>(::) Can(ehg)tá(hi)te(i) Dó(i)mi(i)no(i) cán(ik)ti(j)cum(j) no(ji)vum:(ij..) *(:) qui(ig)a(hi) mi(i)ra(i)bí(i!jwk)li(i')a(h) fe(hhh)cit.(fe..) (::) Gló(ehg)ri(hi)a(i) Pa(i)tri.(i) (::) E(i) u(i!jwk) o(i') u(h) a(hhh) e.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "582"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1601"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "23",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

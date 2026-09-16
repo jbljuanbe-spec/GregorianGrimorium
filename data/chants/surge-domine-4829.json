@@ -1,0 +1,31 @@
+{
+  "id": "surge-domine-4829",
+  "incipit": "Surge, Domine",
+  "title": "Surge, Domine",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Surge, Dómine, in réquiem tuam, tu et arca sanctificatiónis tuæ. ℣. Sacerdótes tui induántur justítiam: et sancti tui exsúltent. ℣. Propter David servum tuum, non avértas fáciem Christi tui.",
+  "gabc": "(c4) Sur(g)ge,(gv//ffd/fc) (;4) (cd//ffg//hjhhg) (::) Dó(gjjk)mi(h)ne,(gf/ghhg) (;) in(g) ré(hj)qui(j)em(hji) (;3) tu(j)am,(jjkhhghg//jjh/jggf) (:) tu(ixfg!hi) et(hg) ar(gh)ca(g) (;) san(gf)cti(gh)fi(g)ca(gh)ti(g)ó(hg//jjg/hvGF)nis(f!hj) (;3) tu(j)æ.(iyjijHG) (;) (jjvHG/ixhiGF) (;) (iyhjh//ig/hhg) <sp>V/</sp>.(::) Sa(gh)cer(g)dó(g!hj)tes(jjvIH) tu(jhhg)i(gh) (;) in(hg~)du(h)án(hi/jh)tur(gf) ju(g)stí(gh)ti(gf)am:(ghfg) (;3) (ixihiGF) (;) (ghghg//jjh/jggf) (:) et(f) san(hj)cti(iyigh) tu(gf/gh)i(g) (;) ex(gh/jij)súl(jhj)tent.(jjvIH//ivHG/hg) <sp>V/</sp>.(::) Prop(g)ter(gd) Da(g)vid(hj) ser(jk)vum(kjjv) tu(hjIG)um,(g) (;) (fh/ji//jkhhghg//jjh/jggf) (:) non(g) a(g)vér(hfg)tas(gh/ji) fá(j)ci(hj)em(jjvHG) (::) Chri(hg//jjg/hvGF)sti(f!hj) (;3) tu(j)i.(jijHG//ggv/hggfg) (;) (gjjkJIH/hg//ghGF) (;) (hjIH//ihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "91*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4829",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

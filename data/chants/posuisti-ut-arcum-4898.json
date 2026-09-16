@@ -1,0 +1,31 @@
+{
+  "id": "posuisti-ut-arcum-4898",
+  "incipit": "Posuisti ut arcum",
+  "title": "Posuisti ut arcum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Posuísti, ut arcum ǽreum, bráchia mea: et præcinxísti me virtúte ad bellum, et supplantásti insurgéntes in me subtus me. T. P. Allelúia.",
+  "gabc": "(c3) Po(e)su(f)í(hgh)sti,(fe) (::) ut(hi) ar(ihhg)cum(fe) <sp>'ae</sp>(eig/ij)re(i)um,(i) (;) brá(i)chi(jkj)a(ih) me(i!jkj)a:(ji) (:) et(e) præ(ei)cin(i)xí(hi)sti(i!jkJIj) me(ji) (;) vir(ih~)tú(iji)te(jkj) ad(ih) bel(i!jkj)lum,(ji) (:) et(ij) sup(h)plan(f)tá(hgh)sti(fe) (;) in(e)sur(ei)gén(iijGE)tes(f) (;4) in(e) me(hhf/hi) sub(hg)tus(efe) me.(e) <i>T. P.</i>(::) Al(eg~)le(gfhg)lú(efe)ia.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "472"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4898",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

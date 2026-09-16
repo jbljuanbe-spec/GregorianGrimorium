@@ -1,0 +1,31 @@
+{
+  "id": "non-fecit-1133",
+  "incipit": "Non fecit",
+  "title": "Non fecit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Non fecit * táliter omni natióni: et judícia sua non manifestávit eis.",
+  "gabc": "(c4) NON(d) fe(fhg)cit(g) *() tá(hgh)li(gf)ter(f.) (,) o(f!g'h)mni(hg) na(g)ti(i)ó(i.h!iwj)ni:(hg..) (:) et(e') ju(f)dí(g')ci(f)a(e') su(f)a(efd.) (,) non(dg) ma(gh)ni(d)fe(g)stá(g/jjh)vit(ih) e(ghg___)is.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "6**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1133",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

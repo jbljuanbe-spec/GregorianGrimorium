@@ -1,0 +1,31 @@
+{
+  "id": "verba-mea-1416",
+  "incipit": "Verba mea",
+  "title": "Verba mea",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Verba mea áuribus pércipe, Dómine: intéllige * clamórem meum.",
+  "gabc": "(f3) AL(ef~)LE(f)LÚ(ef~)IA.(f/ggf) *(;) <i>ij.</i>(fg!hi/jf!gw!hvGF//e!fwg/hggf) <sp>V/</sp>.(::) Ver(ef~)ba(f) me(fhg!hw!ivHF)a(f) (,) áu(f!hi~)ri(i)bus(iij) pér(if/ghGF//e!fwg!hv)ci(gf)pe,(f) (,) Dó(fc/de!fgf)mi(ef)ne:(f) (:) in(f)tél(g!hwi/ji~)li(if/ghGF//e!fwg!hv)ge(gf) *(;) cla(f)mó(ed)rem(ef~) me(fe)um.(f/ggf) (;) (fg!hi/jf!gw!hvGF//e!fwg/hggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "267"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1416",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

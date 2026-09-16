@@ -1,0 +1,37 @@
+{
+  "id": "tu-es-sacerdos-3563",
+  "incipit": "Tu es Sacerdos",
+  "title": "Tu es Sacerdos",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Tu es sacérdos in aetérnum, secúndum órdinem * Melchísedech.",
+  "gabc": "(c4) AL(d)LE(dgfg//hjh)LÚ(fg~)IA.(g) *(;) <i>ij.</i>(hjhj//klJG/hjIHG) (,) (hjhj//klJG/hjIHG) (;) (hjij//ikJHhg//ig/hhg) <sp>V/</sp>.(::) Tu(fg) es(g) sa(h)cér(ijhhg~)dos(g) in(ih) ae(jkj)tér(jjjvIGh)num,(h) (;) se(hi!jk)cún(kj~)dum(kj/ikJHhg) ór(ih/ij)di(hg)nem(gh/jkj//ikJHhg) *(;) Mel(d)chí(dgfg//hjh)se(fg)dech.(g) (;) (hjhj//klJG/hjIHG) (,) (hjhj//klJG/hjIHG) (;) (hjij//ikJH/hg//ig/hhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[3]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[30]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3563",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

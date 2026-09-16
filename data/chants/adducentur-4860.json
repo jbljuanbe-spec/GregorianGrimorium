@@ -1,0 +1,31 @@
+{
+  "id": "adducentur-4860",
+  "incipit": "Adducentur",
+  "title": "Adducentur",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Adducéntur regi vírgines post eam: próximæ ejus afferéntur tibi in lætítia.",
+  "gabc": "(c4) Al(cd/fgf~)le(ed//efEDd)lú(cd~)ia.(d) (::) (ixfg/hiHG) (;4) (ef/ghGF) (;4) (deddc) (;) (cd/ffv//ghhv) (;) (fhghFED//ffd) <sp>V/</sp>.(::) Ad(cd/ffv)du(fg)cén(gf//ixgig//hffd;fg//ig//hhgh>)tur(f) (;) re(f!hj)gi(jg) vír(gjjh~)gi(ixhih)nes(h) (;) post(f!gh//jh//hgh) e(fg)am:(g) (;3) (ffv/ded) (:) pró(de/fg)xi(ghg)mæ(fg) e(ghhg)jus(g) (;) af(f)fe(ghg)rén(ixhig//hhv//ggv//hfg;gjjh//ig//hhv//ggv//hfg;ef/ghGFE)tur(f) ti(feede)bi(ed) (::) in(d) læ(d)tí(df/gf)ti(fg/hgh)a.(hvGFEC//dfED) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "49*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4860",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "benedixisti-domine-4304",
+  "incipit": "Benedixisti Domine",
+  "title": "Benedixisti Domine",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob: remisísti iniquitátem plebis tuae.",
+  "gabc": "(c4) Be(e)ne(e)di(e)xí(ege/ghg/f/fd!gvFE)sti,(f) (::)\r\n Dó(e!fg)mi(ixfhg/hi)ne,(h) (;)\r\nter(jhjg/ffd;4ef!ghGF)ram(gffd~) tu(egFE)am:(e) (:)\r\n a(d)ver(g)tí(ixhg/hi)sti(h) (;3)\r\n cap(h)ti(h)vi(h)tá(h)tem(jh/hf~) Ja(ghg)cob:(dg;hvFD/gv/gv/hjh/hg) (:)\r\n re(dg)mi(g)sí(hjHGhjjv)sti(j) (;6)\r\n i(j)ni(j)qui(ih)tá(jkj)tem(ig) (;) ple(hv//ghGFgh)bis(g) tu(egff)ae.(fe) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "9"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4304",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

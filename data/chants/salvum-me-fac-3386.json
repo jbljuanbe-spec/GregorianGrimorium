@@ -1,0 +1,31 @@
+{
+  "id": "salvum-me-fac-3386",
+  "incipit": "Salvum me fac",
+  "title": "Salvum me fac",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Salvum * me fac, Deus: quóniam intravérunt aquae usque ad ánimam meam.",
+  "gabc": "(c4) SAL(g/jjjh)VUM(hg) *() me(ghGF) fac,(hv//jkjjjjvHGgf//hihig) (,) De(jjjh//jkJI)us:(i) (:) quó(h!jj)ni(hg)am(g) in(h)tra(gf)vé(fg/hg/hihhg)runt(h) (,) a(h/jjjh)quae(ghGFghg) (;) us(hj)que(h) ad(hg) á(hg)ni(f)mam(fg~) me(ghGFgvFE)am.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[137]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3386",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

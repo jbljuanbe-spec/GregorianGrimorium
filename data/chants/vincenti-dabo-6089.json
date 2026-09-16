@@ -1,0 +1,31 @@
+{
+  "id": "vincenti-dabo-6089",
+  "incipit": "Vincenti dabo",
+  "title": "Vincenti dabo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Vincénti dabo édere de ligno vitæ, quod est in paradíso Dei mei. T. P. Allelúia.",
+  "gabc": "(c2) Vin(f)cén(ghffe)ti(dc) (::) da(df)bo(f) é(ghGF)de(e)re(f) (;) de(f) li(h!ij)gno(jh) vi(jjk)tæ,(j) (:) quod(jvIHGF//ghf) est(f) (;4) in(f!gi) pa(i)ra(ij)dí(ivHG)so(h) (;) De(fg)i(fvEDC) (;1) me(dc//dffv//h/ijh//ivHF/gf)i.(f) <i>T. P.</i>(::) Al(f)le(efddc;1fg/hiHGF)lú(ef)ia.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "448"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6089",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

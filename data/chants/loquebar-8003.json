@@ -1,0 +1,31 @@
+{
+  "id": "loquebar-8003",
+  "incipit": "Loquebar",
+  "title": "Loquebar",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Loquébar de testimóniis tuis in conspéctu regum, et non confundébar: et meditábar in mandátis tuis, quæ diléxi nimis. Allelúia, allelúia. Beáti immaculáti in via: qui ámbulant in lege Dómini. Glória. E u o u a e.",
+  "gabc": "(c3)Lo(df)qué(hhi)bar(h) (::) de(h) tes(h)ti(h)mó(i)ni(hf)is(h) tu(h!ijIHi)is(ih) (;) in(h) con(iji~)spéc(j)tu(h) re(hjIHih)gum,(h) (;) et(fdf) non(hhv) con(ijh)fun(h)dé(hih)bar:(h) (:) et(h) me(e)di(f)tá(hhi)bar(h) (;) in(hihhg) man(ef)dá(hhi)tis(h) (,3) tu(hhv//ijh)is,(fhhfh) (;) quæ(d) di(ef)lé(fhhf)xi(e) ni(ef/hhef)mis.(d) (::) Al(d)le(efef)lú(f//hhef)ia,(efe) (;) al(d~eff)le(fhFEgxfgFE)lú(d~efEDe)ia.(ed) (::) Be(d)á(f)ti(h) im(h)ma(h)cu(h)lá(h)ti(h) in(h) vi(i)a:(h) (::) qui(f) ám(h)bu(h)lant(h) in(h) le(i)ge(g) Dó(h)mi(f)ni.(fefED) (::) Gló(d)ri(f)a.(h) (::) E(h) u(h) o(i) u(g) a(h) e.(fefED) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "45*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "8003",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "beatus-vir-qui-timet-3370",
+  "incipit": "Beatus vir qui timet",
+  "title": "Beatus vir qui timet",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Beátus vir, qui timet Dóminum: in mandátis ejus * cupit nimis.",
+  "gabc": "(c3) AL(d!fh~)LE(hf)LÚ(fh/ih~)IA.(iv//hiHFfd) *(;) <i>ij.</i>(gxfgFE//gyhighf//dfe/feed) <sp>V/</sp>.(::) Be(df!gwh)á(hiHE//gxgfgED/df/hf)tus(fh/ihjvIH) vir,(h) (;) qui(hf) ti(gxg)met(gyfe/highf//gxegFEf) Dó(d)mi(ded)num:(d) (:) in(d) man(d)dá(efeffefv , hihivHFEf hiHF)tis(gxgvFE) e(gxfhfg~)jus(f) *(;) cu(d!ef)pit(fhGF) ni(i)mis.(hhf) (,) (gxgfgvED//fgED/fe/hvhhhff//dfe/feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[41]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3370",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

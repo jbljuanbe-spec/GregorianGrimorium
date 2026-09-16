@@ -1,0 +1,37 @@
+{
+  "id": "tollite-hostias-404",
+  "incipit": "Tollite hostias",
+  "title": "Tollite hostias",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Tollite hóstias, * et introíte in átria ejus: adoráte Dóminum in aula sancta ejus.",
+  "gabc": "(c3) TOl(i)li(h)te(g) hó(ijij)sti(hi)as,(i_g) *(,) et(h) in(g)tro(hi)í(i_g/hih)te(g.) (,) in(h) á(h_f//hgh)tri(gf)a(f) e(fhg/hvG~F~)jus:(gf..) (:) a(hg)do(h)rá(ih__)te(h_f) Dó(f_e)mi(e_d)num(d.) (,) in(f) au(fhg/ivH~G~)la(g) san(g)cta(gih) e(fiH~'G~)jus.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "374"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1058"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "404",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

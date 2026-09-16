@@ -1,0 +1,31 @@
+{
+  "id": "laudate-deum-omnes-all-538",
+  "incipit": "Laudate Deum omnes (All)",
+  "title": "Laudate Deum omnes (All)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Laudáte Deum omnes Angeli ejus: laudáte eum omnes virtútes * ejus.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh)ia.(ixhiHG'gf.) *(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) <sp>V/</sp>.(::) Lau(h)dá(h)te(g) De(ghG'E)um(fgfg.) (;) o(g)mnes(gh) An(h_g~)ge(ghg'/hf)li(ed) e(egF'~D~)jus:(d.) (:) lau(dc~)dá(f)te(ghg) e(ixhiG'Eg./hiF'DfffdgvFE.,df/h_f/g_efv.df!gvFE'f)um(//fe..) (;) o(fd~)mnes(f) vir(f)tú(ef/g_efv.df!gvFE'f)tes(fe..) *(;) e(fd/ef!g'h)jus.(ixhiHG'gf.,ixhiHG'ge./ghGF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "68"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "538",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

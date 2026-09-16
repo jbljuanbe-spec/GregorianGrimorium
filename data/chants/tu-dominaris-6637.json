@@ -1,0 +1,31 @@
+{
+  "id": "tu-dominaris-6637",
+  "incipit": "Tu dominaris",
+  "title": "Tu dominaris",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tu domináris potestáti maris: motum autem flúctuum ejus tumítigas. T. P. Allelúia.",
+  "gabc": "(c4) Tu(g) do(hji)mi(jk)ná(h!ijIHGh)ris(hg) (::) po(gh)te(hf)stá(gh)ti(h) ma(gh)ris:(e) (:) mo(gh/ji//jk)tum(hg) au(g!hi)tem(ih) (;) flú(hf/gh)ctu(h)um(ghfg) e(fe/fg)jus(g) (;) tu(hggf//ghg)mí(f)ti(egffv)gas.(fe) <i>T. P.</i>(::) Al(ffe~)le(dfe)lú(egffv)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "451"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6637",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

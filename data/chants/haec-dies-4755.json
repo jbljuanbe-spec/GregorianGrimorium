@@ -1,0 +1,31 @@
+{
+  "id": "haec-dies-4755",
+  "incipit": "Haec dies",
+  "title": "Haec dies",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Hæc dies, quam fecit Dóminus: exsultémus, et lætémur in ea.",
+  "gabc": "(c3) Al(d!ef)le(fe//fhg)lú(f//hhg~)ia.(h//ivHF/fe) (::) (hhv//efED) (;) (f!ghg) (;4) (ehf//gffe) <sp>V/</sp>.(::) Hæc(hgih) di(g!hi//ivHF//hf/gh)es,(h) (;) quam(hf) fe(hji)cit(h) Dó(gh)mi(fe)nus:(e) (;4) (hhvGE) (;4) (gxfgFD) (;4) (egFE/fe) (:) ex(e)sul(feh)té(hf/hvGE//fhFD;gxgvFEf//hhv//ijHF;gygig//ivHG//he//fe;ge/gvFE/fd)mus,(d) (::) et(fd~) læ(e)té(ef)mur(f) in(f) e(hg/hfh)a.(ghFE) (;1) (df/hf//gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "217"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4755",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sancti-tui-florebunt-3529",
+  "incipit": "Sancti tui... florebunt",
+  "title": "Sancti tui... florebunt",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Sancti tui, Dómine, florébunt sicut lílium: et sicut odor bálsami erunt * ante te.",
+  "gabc": "(c4) AL(fg~)LE(g)LÚ(hghvGFhh)IA.(g) *(;) <i>ij.</i>(gj/ki/jh/ijHG) (,) (gj/ki/jh/ijHG) (,) (gji/jkkvJHG/hihhg) <sp>V/</sp>.(::) Sanc(fg~)ti(g) tu(hghvGF)i,(hhg) Dó(h!iwjjvIHG)mi(fg)ne,(g) (;) flo(g)ré(i!jk)bunt(jji) si(hg)cut(hih) lí(g)li(fg)um:(g) (:) et(g) si(ih)cut(jk) o(kvvJHGh/ii//kvvJHG)dor(hih) bál(g)sa(fg)mi(g) (:) e(ghghvGFhh)runt(g) *(,) an(fg~)te(ghghvGFhh) te.(g) (;) (gj/ki/jh/ijHG) (,) (gj/ki/jh/ijHG) (,) (gji/jkkvJHGhihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[17]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3529",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "beatam-me-dicent-286",
+  "incipit": "Beatam me dicent",
+  "title": "Beatam me dicent",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "BEátam me dicent * omnes generatiónes, quia fecit mihi magna qui potens est.",
+  "gabc": "(c4) BE(d)á(ffg)tam(f) me(fh) di(hggfg)cent(gf..) *(,) o(fv.egF'D)mnes(d_c) ge(f)ne(f_e)ra(g)ti(ixgig___!hwi)ó(fgf___)nes,(f.) (:) qui(f)a(f) fe(ixf!gwh'!iv)cit(h) mi(hjj)hi(hj) ma(gf~)gna(fgff/ded.) (,) qui(f_e/ggh) po(f)tens(fg!hvGF'g) est.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "584"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1604"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "286",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pro-omnibus-476",
+  "incipit": "Pro omnibus",
+  "title": "Pro omnibus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Pro ómnibus mórtuus est Christus: ut et qui vivunt, jam non sibi vivant, sed ei qui pro ipsis mórtuus est, * et resurréxit.",
+  "gabc": "(c4) AL(gh)le(g)lú(g_e/fvED/evDC)ia.(c.) *(;) <i>ij.</i>(efe'/ghg'/hig./h!iw!jvIHG.) (,) (egF'EC/dde//gf/hgge.) <sp>V/</sp>.(::) Pro(ed) óm(f)ni(e)bus(d/efe/deddc.) (,) mór(eg)tu(g)us(f) est(ghg) Chri(e!fg)stus:(g.) (:) ut(g) et(gh) qui(hg) vi(fvED/gvFE)vunt,(e.) (;) jam(g) non(hi) si(i)bi(hi) vi(jvIH/ivHG)vant,(g.) (:) sed(ji) e(j)i(h) qui(gh) pro(g) i(e!fwg'!hv)psis(g.) mór(hg)tu(f)us(e) est,(dg..) *(;) et(g) re(gh)sur(g)ré(g_e/fvED/evDC)xit.(c.) (;) (efe'/ghg'/hig./h!iw!jvIHG.) (,) (egF'EC/dde//gf/hgge.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "480"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1434"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "476",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

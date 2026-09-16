@@ -1,0 +1,31 @@
+{
+  "id": "primus-ad-sion-6102",
+  "incipit": "Primus ad Sion",
+  "title": "Primus ad Sion",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Primus ad Sion dicet: Ecce adsum, et Jerúsalem evangelístam dabo.",
+  "gabc": "(c3) Al(d/fh)le(hf)lú(f//hih~)ia.(ih) (::) (ih/ffd) (;4) (gxfgFE) (;) (hihhf) (;4) (dfefeed) <sp>V/</sp>.(::) Pri(d!fh)mus(h//ivHE) (;4) (gxgfgED) (;) ad(d) Si(fh)on(hf) di(f!hih//jiih)cet:(h) (:) Ec(hfgFE//hihhf)ce(e//gvFEf) a(ded)dsum,(d) (::) et(d) Je(efef//ffef;hihih//ffef;hiHF)rú(gxgvFE)sa(fhggfg)lem(gf) (::) e(d)van(d)ge(d!ef)lí(f)stam(gxfgFE) da(i)bo.(hhffv) (;4) (dfefeed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "454"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6102",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

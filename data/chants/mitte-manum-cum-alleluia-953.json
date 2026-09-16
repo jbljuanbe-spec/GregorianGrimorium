@@ -1,0 +1,37 @@
+{
+  "id": "mitte-manum-cum-alleluia-953",
+  "incipit": "Mitte manum cum Alleluia",
+  "title": "Mitte manum cum Alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Mitte * manum tuam, et cognósce loca clavórum, allelúia: et noli esse incrédulus, sed fidélis, allelúia, allelúia.",
+  "gabc": "(c4) MIt(ffg)te(f) *() ma(gh)num(g) tu(f)am,(ghg.) (,) et(fvE~D~) co(f)gnó(g)sce(f) lo(f)ca(f) cla(f)vó(f)rum,(g.) (,) al(fd~)le(f)lú(ixg!hw!ivH~G~//)ia:(hg..) (:) et(fd~) no(f)li(g) es(h)se(g) in(f)cré(g)du(fe)lus,(d.) (,) sed(f) fi(f)dé(dec___)lis,(c.) (;) al(f)le(g)lú(ixi)ia,(h.) (,) al(ixi)le(hv.gih)lú(fgf___)ia.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "263"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "811"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "953",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

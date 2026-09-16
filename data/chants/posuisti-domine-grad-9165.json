@@ -1,0 +1,31 @@
+{
+  "id": "posuisti-domine-grad-9165",
+  "incipit": "Posuisti Domine (Grad.)",
+  "title": "Posuisti Domine (Grad.)",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes 1974",
+  "text_latin": "Posuísti Dómine in capite ejus corónam de lápide pretióso. ℣. Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum.",
+  "gabc": "(c4)Po(c)su(d)ís(ixdh'!iv)ti(h.) (,) Dó(ixhihghGF.hiHG'/hw!ivHGhi)mi(h)ne(h.) (;) in(hjh___!iwj) ca(jki/jhh)pi(hg/h/jjjhhg)te(hggf) e(hf/gh/jh/jvGEfvDC,d/ff/ghFEghffe)jus(ge/ghgff/ded.) (:) co(d/ff/gf)ró(fhgh)nam(hjh___!iwjjvIHih..) (;) de(h) lá(gh)pi(h)de(h) pre(h/jjh)ti(f)ó(ghFDfffvDC.,fhg/jj)so.(ixhv.gh!ivF'Dff/g_f/g_f/gff/ded.)\r\n\r\n<sp>V/</sp>.(::) De(c)si(d)dé(dh)ri(h)um(jhhg/hvGEf_gixeg/ivH'GhvFDe.,ghF'Eghff/f'1dfED) á(ixf!gwhiv)ni(h)mæ(hvGF/gw!hvGF) e(gh)jus(g.) (,) tri(f)bu(f)ís(fhhg/hfg)ti(d) e(df_ef//ef/hvGEfd)i:(d.) (:) et(e) vo(c)lun(d)tá(d/ff//fffd/fvEDe/fg)te(ghhg.) (,) la(f)bi(f)ó(fhhg/hfg)rum(d) e(df_ef//ef/hvGEfd)jus(d.) (;) non(c) frau(d)dás(ff)ti(fg) e(gf/hgh)um.(hhf.,hg/hvFDgfffvECddc/da..,cd/fvfvDCd/ff/gff/ded.) (::)",
+  "transcriber": "Dominique CROCHU",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "477"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "9165",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

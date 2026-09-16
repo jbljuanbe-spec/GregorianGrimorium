@@ -1,0 +1,31 @@
+{
+  "id": "quaerite-dominum-1069",
+  "incipit": "Quaerite Dominum",
+  "title": "Quaerite Dominum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quaérite * Dóminum, et confirmámini: quaérite fáciem ejus semper. T. P. Allelúia.",
+  "gabc": "(c4) QUaé(j)ri(h)te(h!iwj/k_jj'jhhg//iki.__) *(,) Dó(ege__/ghg/hjhhg/h!iwji)mi(ji)num,(i.) (;) et(ikjjjhhg~) con(ghe)fir(g)má(gihhg)mi(g_f)ni:(fgff/ded.__) (:) quaé(dg)ri(g)te(j_i) fá(j_i)ci(jj)em(jv.ijhi) e(hv.gh!jlk)jus(k.) (,) sem(k_jlvKJkvJI)per.(i.) <i>T. P.</i>(::) Al(jk)le(j)lú(jjjlvKJkvJI)ia.(i.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "136**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1069",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

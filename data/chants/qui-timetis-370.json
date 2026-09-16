@@ -1,0 +1,31 @@
+{
+  "id": "qui-timetis-370",
+  "incipit": "Qui timetis",
+  "title": "Qui timetis",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Qui timétis * Dóminum, laudáte eum: univérsum semen Jacob, glorificáte eum. ℣. Tímeat eum omne semen Israel: quóniam non sprevit, neque despéxit deprecatiónem * páuperis.",
+  "gabc": "(c4) QUI(c) ti(d)mé(ixdh'!iv)tis(h.) *(,) Dó(ixhih/ghGF./hiHG'/hw!ivHG/hi)mi(h)num,(h.) (;) lau(hjh!iwj!kvvJH)dá(hg/h!jjjhhg)te(hggf) (,) e(hf/gh/jh/jvGE'/fvDC' , d!ff/ghF'E/ghffe)um:(ge/ghg/ff/ded.) (:) u(f)ni(ghgh)vér(hv.f!g'h)sum(g.) (,) se(hjij)men(hv./fh!jvH'GF'g) Ja(fv./dfe)cob,(d/ffd) (,) (fge'/fgd'/eddc.) (;) glo(fd)ri(e)fi(f)cá(ghgh//jj//jjj)te(g.) (,) e(ixhg/hig)um.(efd/f_h//ghGE/f_g//fgFD.) <sp>V/</sp>.(::) Tí(dh)me(h)at(g) e(gh/jhi)um(g.) (,) o(fh/jhhg~)mne(h.) se(hkj___/kvJH'i)men(h.) Is(h!iwj)ra(g)el:(fh/jh/ih..) (:) quó(f!gwhgh/jhhggf!gwh_g)ni(h)am(g.) (`) non(h_fh) spre(g_fg)vit,(d/ffd) (,) (fge'/fgd'/eddc.) (:) ne(ffd/fff)que(fg) de(g_f)spé(ixfhg/hiG'F,gf/ghff'fd!ewfef)xit(ed..) (;) de(f)pre(ec)ca(df)ti(f)ó(ef!ghhg)nem(gh) *(,) páu(ixjhiGF'/h!jjvH'Gh')pe(d)ris.(dc/d!ff/ghG'E/fgff/ded.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "467"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "370",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

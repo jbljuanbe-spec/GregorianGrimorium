@@ -1,0 +1,31 @@
+{
+  "id": "exsultate-deo-1560",
+  "incipit": "Exsultate Deo",
+  "title": "Exsultate Deo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Exsultáte Deo adjutóri nostro, jubiláte Deo Jacob: súmite psalmum jucúndum * cum cíthara.",
+  "gabc": "(c2) AL(c)LE(cfe)LÚ(fg~)IA.(g) *(,) <i>ij.</i>(ffg/e!gh//fhg!hwig//ed!ewf/gffc) (,) (fffd//fe/gffvDC/deddc) <sp>V/</sp>.(::) Ex(cd)sul(c)tá(cfe)te(fg) De(ghFEfg)o(g) (;) ad(g)ju(g)tó(g)ri(ig!hw!ivHG) nos(ghFE/fg)tro,(ghf/gvFE/fe) (:) ju(ef)bi(e)lá(ef!gwh)te(hg/hvFD/gv) (,) De(gf/fvEDC)o(ddc) Ja(cd!ewf!gv)cob:(ghFE/fg) (:) sú(c)mi(cfe)te(fg) psal(g!hwi/ji/ig!hwih/ivHG)mum(hg) (,) ju(g)cún(g)dum(ig!hwih/ivHG/hg) *(;) cum(gd~) cí(dfe)tha(fg)ra.(g) (,) (ffg/e!gh//fhg!hwig//ed!ewf/gffc) (,) (fffd//fe/gffvDC/deddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "298"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1560",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

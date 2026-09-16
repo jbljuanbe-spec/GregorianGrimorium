@@ -1,0 +1,31 @@
+{
+  "id": "confitebor-tibi-domine-deus-3380",
+  "incipit": "Confitebor tibi, Domine Deus",
+  "title": "Confitebor tibi, Domine Deus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Confitébor * tibi, Dómine Deus meus, in toto corde meo, et glorificábo nomen tuum in aetérnum: quóniam tu, Dómine, suávis et mitis es: et multae misericórdiae ómnibus invocántibus te, allelúia.",
+  "gabc": "(c4) CON(c)FI(d)TÉ(ixdh!iv)BOR(h) *() ti(hjh)bi,(ghg) (,) Dó(hf)mi(ghg)ne(hg) De(hv//g!jjj)us(fg) me(ixfh!jvHGig/hi)us,(h) (;) in(h) to(jh//jvGFfvDCd)to(d) (,) cor(fg/hf/ghg/jkjjjjvIH)de(hg) (,) me(gv//fhhghv//gh!jjjh)o,(hhgh) (:) et(jk) glo(klkl)ri(jh)fi(hg)cá(hj/kjk)bo(kh) (,) no(jk/lkl)men(jh) tu(hj)um(jjj) (;) in(hhg) ae(gfg)tér(fg/hf/ghg/jkj//jj)num:(hjGFg) (:) quó(f)ni(gh)am(hgh) tu,(gfg) Dó(ixivHGgf)mi(gh)ne,(h) (;) su(h)á(gji)vis(h) et(h) mi(gji)tis(hg) es:(ghggf) (:) et(h) mul(fg/hg)tae(gd) mi(d)se(e)ri(f)cór(gv//fhg)di(fe)ae(f) (;) ó(hj)mni(h)bus(ghg) in(fh)vo(g)cán(ef!gh)ti(fe)bus(cd) te,(d!ewf/gff/ded) (:) al(fffd/ffixhiHGFfe~)le(ghGFge/fd,fge/fhGFfd//gf/gff)lú(dc~)ia.(d/fffd/fff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "357"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3380",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

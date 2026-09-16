@@ -1,0 +1,31 @@
+{
+  "id": "per-signum-crucis-7913",
+  "incipit": "Per signum Crucis",
+  "title": "Per signum Crucis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Per signum Crucis de inimícis nostris líbera nos, Deus noster.",
+  "gabc": "(c3) Per(e) si(gih)gnum(g) (::) Cru(ef)cis(efED) (;) de(fh) i(h)ni(hf)mí(h)cis(hi/jvji) no(gihhv)stris(hg) (;) lí(h)be(iji)ra(jljji//jkjjij) nos,(ijIH) (;) De(g!hi)us(h) no(gvFEf,4ehg//hhg,3hjijh//ivHG)ster.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "573"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7913",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

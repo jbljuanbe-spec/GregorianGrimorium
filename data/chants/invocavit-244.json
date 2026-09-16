@@ -1,0 +1,31 @@
+{
+  "id": "invocavit-244",
+  "incipit": "Invocavit",
+  "title": "Invocavit",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Invocávit * Altíssimum poténtem in oppugnándo inimícos úndique, et audívit illum magnus et sanctus Deus.",
+  "gabc": "(c4) IN(c)vo(d)cá(ixdh'!iv)vit(h) *(,) Al(h)tís(ixhi)si(h)mum(h) po(ixh)tén(h!jjh/i_j)tem(gh) (;) in(fh) op(h)pu(g)gnán(gh!jvHG'h)do(h) i(g)ni(h)mí(j_h//kvJ'IG)cos(gh) (,) ún(hjh)di(h)que,(ixh!jjh/ivG'Fg.) (:) et(f) au(gh~)dí(hgh)vit(hjI'H) il(gihhg)lum(g.) (;) ma(f!gwhgh//gh!jjjkJH)gnus(h.) (,) et(hi~) san(gh!jv//kjk)ctus(ij/kh) De(ghG'F)us.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "470"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "244",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

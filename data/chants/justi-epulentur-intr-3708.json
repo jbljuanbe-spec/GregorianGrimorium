@@ -1,0 +1,31 @@
+{
+  "id": "justi-epulentur-intr-3708",
+  "incipit": "Justi epulentur (Intr.)",
+  "title": "Justi epulentur (Intr.)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Justi * epuléntur, et exsúltent in conspéctu Dei: delecténtur in laetítia. Ps. Exsúrgat Deus, et dissipéntur inimíci ejus: * et fúgiant qui odérunt eum, a fácie ejus. Glória Patri E u o u a e",
+  "gabc": "(c4) JU(ffg)STI(f) *() e(gh)pu(f)lén(g)tur,(f) (,) et(f) ex(f)súl(f!gh)tent(fg) in(f) con(ghg~)spéc(h)tu(f) De(fhGFg)i:(f) (:) de(f)lec(ghg)tén(hf/hgg)tur(fgFD) (,) in(f) lae(gf!gwhf)tí(f)ti(fgf)a.(f) <i>Ps.</i>(::) Ex(fg)súr(gf)gat(gh) De(h)us,(h) et(h) dis(h)si(h)pén(h)tur(h) i(h)ni(g)mí(ixi)ci(h) e(g)jus:(f) *(:) et(f) fú(gh)gi(h)ant(h) qui(h) o(h)dé(h)runt(h) e(hj)um,(g) (,) a(f) fá(g)ci(fd)e(f) e(g)jus.(f) (::) Gló(fg)ri(gf)a(gh) Pa(h)tri(h) (::) E(f) u(g) o(fd) u(f) a(g) e(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "363"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3708",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "erubescant-et-revereantur-6809",
+  "incipit": "Erubescant et revereantur",
+  "title": "Erubescant et revereantur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Erubéscant et revereántur simul, qui gratulántur malis meis: induántur pudóre et reveréntia, qui malígna loquúntur advérsus me.",
+  "gabc": "(c3) E(ehg)ru(h)bé(i!jkj)scant(iji) (::) et(i) re(h)ve(hg)re(f)án(hg~)tur(e) si(hgih)mul,(h) (;) qui(e) gra(f)tu(d)lán(ef)tur(f) ma(i)lis(hg) me(e!fgFEf)is:(fe) (:) in(hg)du(h)án(ij)tur(i) pu(h)dó(hg)re(f) (;) et(f) re(e)ve(f)rén(hi)ti(h)a,(hi!kvJI/ji) (:) qui(g) ma(h)lí(ij)gna(i) lo(h)quún(h)tur(f!ghGE) (;) ad(g)vér(e)sus(fh) me.(h) (;3) (g!hiHF/fe//fhhe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "161"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6809",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

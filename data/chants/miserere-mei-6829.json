@@ -1,0 +1,31 @@
+{
+  "id": "miserere-mei-6829",
+  "incipit": "Miserere mei",
+  "title": "Miserere mei",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Miserére mei, Dómine, et noli continére in ira misericórdias tuas: quia afflíctus sum, et humiliátus sum nimis: Dómine, vim pátior, ádjuva me.",
+  "gabc": "(c4) Mi(f)se(gh)ré(ixhi)re(h) (::) me(gh)i,(gf) Dó(g)mi(f)ne,(fe) (;) et(f) no(hg)li(h) con(g)ti(fe)né(de/fef)re(ed) (;) in(f) i(ixfg/hi)ra(h) (;6) mi(h)se(jhhgh)ri(f)cór(f!gh)di(g)as(fe) tu(d!efEDe)as:(ed) (:) qui(f)a(gh) af(h)flí(iyjiih)ctus(ghGFg) sum,(gf) (;) et(f) hu(f)mi(gh)li(g)á(g)tus(ge) sum(fg) ni(efEDe)mis:(ed) (:) Dó(f)mi(ef)ne,(ghg/ixhih) (;3) vim(gf) pá(g)ti(hj)or,(iyijHG) (;) ád(hvFEf)ju(d)va(ded) me.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "103*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6829",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

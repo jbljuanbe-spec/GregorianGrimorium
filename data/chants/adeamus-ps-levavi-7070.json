@@ -1,0 +1,31 @@
+{
+  "id": "adeamus-ps-levavi-7070",
+  "incipit": "Adeamus (ps. Levavi)",
+  "title": "Adeamus (ps. Levavi)",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Adeámus cum fidúcia ad thronum grátiæ, ut misericórdiam consequámur, et grátiam inveniámus in auxílio opportúno. T. P. Allelúia, allelúia. ℣. Levávi ócculos meos in montes: unde véniet auxílium mihi. Glória E u o u a e.",
+  "gabc": "(c3) A(d)de(f)á(hhi)mus(h) (::) cum(hihh) fi(fe)dú(f!gh)ci(ed)a(d) (;) ad(f) thro(fef)num(fef) grá(hf/hhh)ti(ivHF)æ,(f) (:) ut(f) mi(h)se(hi)ri(i)cór(ij)di(i)am(h) con(h)se(hi)quá(hihh)mur,(gf) (:) et(f) grá(hhi)ti(f)am(f) in(f)ve(f)ni(hh)á(hv//gih/ghf)mus(f) (;) in(gxfg~) au(fe)xí(fgFD)li(dfED/ed)o(d) (;) op(gxde/gf!gh)por(hgge!fg)tú(ded)no.(d) <i>T. P.</i>(::) Al(df~)le(fef)lú(hf/hhh)ia,(hiHF) (;) al(ef)le(fhFE/fgFE)lú(de!fvEDe)ia.(ed) <sp>V/</sp>.(::) Le(d)vá(f)vi(h) óc(h)cu(h)los(h) me(h)os(h) in(h) mon(i)tes:(h) (::) un(f)de(h) vé(h)ni(h)et(h) au(h)xí(i)li(h)um(g) mi(h)hi.(fefED) (::) Gló(d)ri(f)a(h) (::) E(h) u(h) o(i) u(g) a(h) e.(fefED) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "484"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7070",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

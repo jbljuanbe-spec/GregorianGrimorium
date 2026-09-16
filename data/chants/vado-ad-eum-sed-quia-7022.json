@@ -1,0 +1,31 @@
+{
+  "id": "vado-ad-eum-sed-quia-7022",
+  "incipit": "Vado ad eum... sed quia",
+  "title": "Vado ad eum... sed quia",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Vado ad eum, qui misit me: sed quia hæc locútus sum vobis, tristítia implévit cor vestrum.",
+  "gabc": "(c4) Al(dh)le(gvFE;4gh/ijIH)lú(hihhg~)ia.(gh) (::) (de/fg//gvFE//fvED//evDCd) (;) (hhf//gd//fe/ddc) (;) (ffv//ghGE//feed) <sp>V/</sp>.(::) Va(cd)do(d//efDC//gffe) (;1) ad(dc) e(dfd)um,(efe) (;) qui(e!fggf) mi(ed//efe)sit(ded) me:(d) (:) sed(d) qui(fe)a(fg) hæc(ixg/hihhg) (;) lo(hghGF//gvFE)cú(d!gh)tus(gf) sum(eggvFE) (;4) vo(dggvFED//efd)bis,(d) (;) tri(hg)stí(h)ti(gf)a(gh//jh/ixig//hvGF/gh) (;) (jkh//ig//hvGF/ghhv) (;) (ivGF//gfg//hjh) (;) im(d/h>)plé(hvGFE//fd//cd)vit(d) (::) cor(dh) ve(gvFE;3gh/ijIH)strum.(hiHGh) (;) (de/fg//hvGE//feed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "227"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7022",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

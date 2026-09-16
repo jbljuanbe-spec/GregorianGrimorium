@@ -1,0 +1,37 @@
+{
+  "id": "declinabo-198",
+  "incipit": "Declinabo",
+  "title": "Declinabo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Declinábo super eum quasi flúvium pacis, et quasi torréntem inundántem * glóriam.",
+  "gabc": "(c4) AL(c)le(c!de)lú(he/fgFE'e)ia.(d.) *(,) <i>ij.</i>(cec/dd/ed. eg/he./fvED/evDC/dd) (,) (d/hhhggd./eg/he./fvED/evDC/dd) (,) (fe/gvFED. fe//gvFE'/fd./cd!efeed.) <sp>V/</sp>.(::) De(de)cli(cd)ná(d/hhhggd./eg/he./fvED/evDCd)bo(d.) (,) su(cd)per(d/hhh) e(ggfg)um(g_d) (;) qua(e)si(c) flú(eg)vi(ge)um(fvEC/efED'd) pa(cd)cis,(d.) (:) et(hjjvIH'i) qua(h)si(g) tor(h)rén(jvIG/ivHGh.,ki/jvIH//gih/jvIH/ivHG)tem(h.) (,) in(h)un(hvGE/fg~)dán(gvFE'/fd)tem(d.) *(;) gló(e!fg)ri(he/fgFE'e)am.(d.) (,) (cec/dd/ed. eg/he./fvED/evDC/dd) (,) (d/hhhggd./eg/he./fvED/evDC/d) (,) (fe/gvFED. fe/gvFE'/fd./cd!efeed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "509"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1482"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "198",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tulerunt-jesum-6335",
+  "incipit": "Tulerunt Jesum",
+  "title": "Tulerunt Jesum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tulérunt Jesum paréntes ejus in Jerúsalem, ut sísterent eum Dómino.",
+  "gabc": "(c4) Tu(c!df)lé(f)runt(e!fg) (::) Je(dgFE/ghGF/gvFE)sum(f) (;) pa(f)rén(fgf/gfffd~)tes(dgFE) (;4) e(hghf/hggd~)jus(dgFE/fgFD) (;) in(df/gef) Je(f)rú(ff/ixhih/ih)sa(hg)lem,(gh/igh) (:) ut(ef) sí(ghhg)ste(gf)rent(fg!hvhg) e(dgFE)um(e) (;) Dó(eg!hvGF/ghg)mi(e)no.(egf/gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "48"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6335",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

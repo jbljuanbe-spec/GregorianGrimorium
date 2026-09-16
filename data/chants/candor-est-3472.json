@@ -1,0 +1,31 @@
+{
+  "id": "candor-est-3472",
+  "incipit": "Candor est",
+  "title": "Candor est",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Candor est lucis aetérnae, spéculum sine mácula, et imágo bonitátis * illíus",
+  "gabc": "(c3) AL(d)LE(efde/ffe)LÚ(df!hvGFhh)IA.(e) *(;) <i>ij.</i>(hvijj/h/ii//efED/ffe) (,) (h/ig/hvFEDCB//ef!gwhhvGFE/ffe) <sp>V/</sp>.(::) Can(eh~)dor(hg/fge) est(fe) (,) lu(d!ewfef/hvGFge)cis(e) ae(ei)tér(iv//jkjjvIHjh/ij)nae,(i) (;) spé(ij)cu(i)lum(i) si(i)ne(i) má(j!kwlj/kvJIjvIHii , ij/klj/kvJIjvIHii , ei/jvIHhvGFEfe)cu(de)la,(e/ffe) (:) et(ehg) i(hi)má(i/jkjjvIHGhih)go(i) (,) bo(h)ni(f)tá(fhvGFED//fgffe)tis(ev//de!fvfe) *(,) il(d)lí(df!hvGFhh)us(e) (;) (hvijj/h/ii//efED/ffe) (,) (highvFEDCB//ef!gwhhvGFE/ffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "507"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3472",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

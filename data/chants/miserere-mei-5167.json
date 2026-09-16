@@ -1,0 +1,31 @@
+{
+  "id": "miserere-mei-5167",
+  "incipit": "Miserere mei",
+  "title": "Miserere mei",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Miserére mei Deus, miserére mei: quóniam in te confídit ánima mea.",
+  "gabc": "(c3) Al(ef)le(e)lú(ehg//ij)ia.(i) (::) (jvIG/hi) (;6) (jij//hiHGh) (;) (f!hj) (;3) (hjijh//hvFE//fhg) (;) (ijh//ghFE//fgffe) <sp>V/</sp>.(::) Mi(e)se(ef/ghg//hg/ffe;ef/hg//hihi)ré(ji)re(i) (;) me(ij)i(jh//ijIG//hiHG//hi) (;4) De(f!ghGFE/fg)us,(fe) (:) mi(h)se(iji)ré(ihhg)re(fhGFh) (;) me(ehhf//ijHGh;f!hi;6gihhvGF)i:(f//hf//gvFE/fe) (:) quó(eg/ih)ni(h)am(gh) (;3) in(gf~) te(gh) con(g)fí(iv//jki//hji//hhe;fhg//hiffe//fhGFg)dit(fe) (::) á(eg/ih)ni(h)ma(hgi) me(ji)a.(i) (;) (jh//ghFE//fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "102*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5167",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

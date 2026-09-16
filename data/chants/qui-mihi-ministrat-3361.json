@@ -1,0 +1,31 @@
+{
+  "id": "qui-mihi-ministrat-3361",
+  "incipit": "Qui mihi ministrat",
+  "title": "Qui mihi ministrat",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Qui mihi minístrat, * me sequátur: et ubi ego sum, illic et miníster meus erit.",
+  "gabc": "(c3) QUI(d) mi(gxf!gwh)hi(h) mi(gxhf)ní(ghg)strat,(f) *(,) me(hi) se(h)quá(hfh)tur:(fhffd) (:) et(d) u(d)bi(fh) e(hf/hi/kjk)go(ih) sum,(hg/hf) (;) il(f)lic(hih/ghFEedevfhffe) (;) et(hv//ghfhvED) mi(d)ní(bca)ster(ba~) me(dfe)us(e!fwg!hvFEf) e(ded)rit.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[13]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3361",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

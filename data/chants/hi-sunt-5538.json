@@ -1,0 +1,31 @@
+{
+  "id": "hi-sunt-5538",
+  "incipit": "Hi sunt",
+  "title": "Hi sunt",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Hi sunt, qui cum muliéribus non sunt coinquináti: vírgines enim permansérunt.",
+  "gabc": "(f3) Al(ef~)le(f)lú(hi~)ia.(i) (::) (hhig/hf) (;3) (h!iji) (;) (ef/hfh//ghe) (;3) (hhf//ghf) <sp>V/</sp>.(::) Hi(fef//hi//jiihi) sunt,(i) (;3) (hhv/fgf) (;) qui(fg) cum(f) mu(f)li(f)é(fhhv//ijHF;ivHGEf//hf//hhf/ge)ri(fe)bus(e) (;) non(f) sunt(e) co(f)in(e)qui(f)ná(ffe//ffe/fc;ef//hhvFE//hhv)ti:(ivHG/hf) (;) vír(f)gi(f/hi//jiihi)nes(i) (;3) (hhv/fgf) (;) e(fhhv//ijHF;ivHGEf//hf//hhf/ge)nim(e) (::) per(hhv)man(hi)sé(ih//ijij)runt.(jvIHGE) (;4) (fg/hggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "392"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5538",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

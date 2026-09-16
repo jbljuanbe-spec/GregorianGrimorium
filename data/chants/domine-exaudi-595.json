@@ -1,0 +1,37 @@
+{
+  "id": "domine-exaudi-595",
+  "incipit": "Domine exaudi",
+  "title": "Domine exaudi",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Dómine, exáudi oratiónem meam, et clamor meus * ad te véniat.",
+  "gabc": "(c2) AL(c)le(cfe)lú(g!fg~)ia.(g.) *(,) <i>ij.</i>(hg/jvIH/ef!gvvFDC.) (;) (g_f/h_e//fggvFD'C/d_eddc.) <sp>V/</sp>.(::) Dó(cfeg)mi(fg)ne,(g.) (,) ex(gh!i'j)áu(j_k)di(gig___!hwi_h/ivHG/hg..) (;) o(f)ra(fff)ti(gi)ó(hv./ghf)nem(dfE'De) me(cdc___)am,(c.) (:) et(c) cla(cfe)mor(fg~) me(gg/i_g/g'h!i'j//hjI'HG/hi)us(hg..) *(;) ad(c) te(cfe) vé(g)ni(fg)at.(g./hg/jvIH/ef!gvvFDC.) (;) (g_f/h_e//fg/gvFD'C/d_eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "367"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1049"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "595",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

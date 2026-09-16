@@ -1,0 +1,37 @@
+{
+  "id": "habet-in-vestimento-270",
+  "incipit": "Habet in vestimento",
+  "title": "Habet in vestimento",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Habet in vestiménto et in fémore suo scriptum: Rex regum, et Dóminus * dominántium.",
+  "gabc": "(c4) AL(ddc~)le(egE'Cd./egED'ew!fvED)lú(dcd)ia.(d.) *(;) (dhhvGEfvED.c!ef!gvEDffd.) (,) (c/ee//c/dd//ce!gvvFDee) (,) (dfe/gvEDffd.) <sp>V/</sp>.(::) Ha(dc/dfddce/fg'EDffd)bet(d.) (,) in(d) ve(d)sti(dh)mén(ixhiH'GhvGEfvED)to(dfddc.) (;) et(dc) in(d) fé(f)mo(e)re(fg!hvF'ED) su(d!ewf'!gv)o(ed/ffd) scrip(d!ewfd)tum:(d.) (:) Rex(dh/jjggf/gh.) (,) (hggf/gh/jjggf/gh.) (,) (g.h!iwj!kvJ'IH'Gh.) (,) (hkkj/klJ'IH'Gh.) re(g.h!iwj/kjjvIH)gum,(h.) (;) et(hg~) Dó(hjI'Gi!jk)mi(ih/jjh)nus(h.) *(,) do(d)mi(ddc)nán(egE'Cd./egED'ew!fvED)ti(dcd)um.(d.) (;) (dhhvGEfvED.c!ef!gvEDffd.) (,) (c/ee//c/dd//ce!gvvFDee) (,) (dfe/gvEDffd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "641"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1712"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "270",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

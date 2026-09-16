@@ -1,0 +1,31 @@
+{
+  "id": "tota-pulchra-es-maria-all-3608",
+  "incipit": "Tota pulchra es Maria (All)",
+  "title": "Tota pulchra es Maria (All)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Tota pulchra es, María: et mácula originális * non est in te.",
+  "gabc": "(c4) AL(d/ff/gf)LE(ed)LÚ(ixf!gh!ivHGgf/gh~)IA.(h) *(,) <i>ij.</i>(d!ef!gvFEed;de!fg!hv//jg/gf/ghh//d!ef!gvFEed,hvGFghh//d!ef!gvFEed) <sp>V/</sp>.(::) To(d!ew!fvEDCde)ta(d) pul(f!gh)chra(ixhiGFgwhg/hi) es,(h) (:) Ma(ffvEDfg/hfgvFE)rí(d!ewfef)a:(ed) (:) et(hg~) má(gj)cu(i)la(jkJH) (,) o(hg)ri(hjIGegffffvDC)gi(dfd)ná(egEDfvDCde)lis(e//ghdfvED) *(;) non(d/ff/gf) est(ed) in(ixf!gh!ivHGgf/gh~) te.(h/d!ef!gvFEed;de!fg!hv//jg/gf/ghh//d!ef!gvFEed,hvGFghh//d!ef!gvFEed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "347"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3608",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ipse-est-directus-1094",
+  "incipit": "Ipse est directus",
+  "title": "Ipse est directus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Ipse est diréctus divínitus in paeniténtiam gentis, et tulit abominatiónes impietátis: et gubernávit ad Dóminum cor ipsíus: et in diébus peccatórum corroborávit * pietátem.",
+  "gabc": "(c4) AL(ddc~)le(ed//egED'ew!fvED)lú(dcd~)ia.(d.) *(;) <i>ij.</i>(hfhvGE'Deec/dd) (,) (ffdevDCd.) (;) (hfhvGE'D/fffgvFD/evDC/eed.) (,) (hvGF'ED'/ewfd.) <sp>V/</sp>.(::) I(h_fhvvGE'fvED)pse(cd) est(d.) (,) di(d)ré(dv.c!d'f/efd)ctus(d) di(de)ví(ded)ni(cd)tus(d.) (;) in(d) pae(h)ni(g)tén(hvGE'Dffe)ti(cd)am(d) gen(d!ewfd)tis,(d.) (:) et(df) tu(fgE'DfvED)lit(d.) (,) a(d)bo(d)mi(d)na(dh)ti(h)ó(hgh//khjvIGh.,hgh//khjvIGhhh/ig,gh!jvIG'jv//ijhivHG'h)nes(h.) im(h)pi(hg)e(ef)tá(dc/eed)tis:(d.) (:) et(d) gu(d)ber(dh~)ná(hg)vit(h) ad(h) Dó(hg)mi(h)num(j.) (,) cor(ji) i(gh)psí(h_g/h!iwj)us:(ih..) (:) et(hg) in(hih) di(gef)é(ed)bus(d) pec(d)ca(dh'hhvGE'fvED'C)tó(efE'D)rum(d.) (;) cor(de)ro(dc)bo(e!fg)rá(ghGE'f)vit(ed..) *(,) pi(d_c)e(ed//egED'ew!fvED)tá(dcd)tem.(d.) (;) (hf/hvGE'Deeec/dd) (,) (ffdevDCd.) (;) (hfhvGE'DfffgvFDevDCeed.) (,) (hvGF'ED'ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "566"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1581"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1094",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

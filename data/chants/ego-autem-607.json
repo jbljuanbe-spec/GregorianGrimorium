@@ -1,0 +1,37 @@
+{
+  "id": "ego-autem-607",
+  "incipit": "Ego autem",
+  "title": "Ego autem",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ego autem, * cum mihi molésti essent, induébar cilício. Humiliábam in jejúnio ánimam meam: et orátio mea in sinu meo convertétur.",
+  "gabc": "(f3) E(fv.egf)go(f) au(ef!hhh/ih~)tem,(h.) *(,) cum(hg) mi(hhhf/ghg)hi(f_e) (,) mo(e)lé(ef/gfge)sti(ce) es(ce/fef)sent,(fe..) (;) in(fh~)du(h)é(h!iwjij)bar(ji) ci(i)lí(h!ij)ci(hg)o.(f'//hvF'Ef.) (:) Hu(fih)mi(hg)li(fg)á(gvFE)bam(e.) (,) in(hg) je(hi)jú(i)ni(h)o(h'//jvIH'GF'gwh.) (;) á(f!hhhvF'E//f!hhh)ni(f)mam(fgef) me(fgf__)am:(f.) (:) et(fe) o(fh)rá(hg)ti(ef)o(f) me(fih)a(hi) (,) in(h) si(hg)nu(fe) me(efe)o(c_bc.) con(efef~)ver(f!gwh/ig/h_g)té(fg!hvGF'g)tur.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "604"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1646"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "607",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

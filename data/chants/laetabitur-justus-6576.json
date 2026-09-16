@@ -1,0 +1,31 @@
+{
+  "id": "laetabitur-justus-6576",
+  "incipit": "Laetabitur justus",
+  "title": "Laetabitur justus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Lætábitur justus in Dómino, et sperábit in eo, et laudabúntur omnes recti corde, allelúia, allelúia.",
+  "gabc": "(c3) Læ(d)tá(efef)bi(e)tur(dc) (::) ju(ded)stus(d) (;1) in(df) Dó(fe//hhe/fe)mi(d!efEDe)no,(ed) (:) et(d) spe(f)rá(hjIH)bit(hihhv/fgf) (;4) in(gxg) e(fge)o,(ed) (:) et(de) lau(d)da(ef)bún(evDC/efeed~)tur(ed) (;) o(df)mnes(ehhi) re(h)cti(gxhf//ghGFE//fgFE) (;1) cor(d!efEDe)de,(ed) (:) al(df)le(hhv)lú(hi)ia,(hi//kvJH//jiih) (;) al(df)le(ehhf//gxghGFE/fgFE)lú(d!efEDe)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "20*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6576",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "domine-diligo-315",
+  "incipit": "Domine diligo",
+  "title": "Domine diligo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Dómine, díligo habitáculum domus tuae et locum tabernáculi * glóriae tuae.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) *(,) (hv.iji./ef/h_f//hv.ghe/hhh.f!gwhf.) <sp>V/</sp>.(::) Dó(f_e/f!gwh'!iv)mi(jiihi)ne,(iv.hh/fgf.) (,) dí(f!hh/ijHF'ivH'GEf./hfhhf/ge)li(fe)go(e.) (;) ha(f)bi(ef)tá(ffe/ffe/fc.. , ef!hvvFEhhhi)cu(h)lum(h.) (,) do(h')mus(ivH'Gh) tu(fgf__)ae(f.) (:) et(f) lo(f!h'i/jiihi)cum(iv.hh/fgf.) (,) ta(fg)ber(f)ná(f!hh/ijHF'ivH'GEf./hfhhf/ge)cu(fe)li(e.) *(;) gló(hh)ri(h)ae(hi) tu(i_h/jij)ae.(jvvIH'GE//f!gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "592E"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1623D"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "315",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

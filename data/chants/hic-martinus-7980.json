@@ -1,0 +1,31 @@
+{
+  "id": "hic-martinus-7980",
+  "incipit": "Hic Martinus",
+  "title": "Hic Martinus",
+  "cantus_id": "g02218",
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Hic Martínus, pauper et módicus, cælum dives ingréditur, hymnis cæléstibus honorátur",
+  "gabc": "(c4) Al(cd fg>)le(edf;1efd ed)lú(cd~)ia.(d :: fghhfixhg/ivHGF;4deddc;cd/ffv ghhf;hghFEC dfED) <sp>V/</sp>.(::) Hic(cd/fg) Mar(edf;4efd ed)tí(cd)nus,(d) (;) pau(fgh)per(hf) et(ixhg/ivHGF;4deddc) (;1) mó(cd/fg)di(ed ffd)cus,(d) (:) cæ(h)lum(g) di(h)ves(g) (;4) in(f)gré(fhhg/hhv;fh hvGFgvFED)di(cd)tur,(d) (:) hym(dcf hfixhiGFh;df/hf/hiGFh;3hhgh)nis(gf) (;) cæ(efg)lés(edf;1efd ed)ti(cd)bus(d) (::) ho(cd/fg)no(edf;1efd ed)rá(cd)tur(d) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "614"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7980",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

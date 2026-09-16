@@ -1,0 +1,31 @@
+{
+  "id": "deus-autem-3945",
+  "incipit": "Deus autem",
+  "title": "Deus autem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Deus autem, Rex noster ante saécula: operátus est salútem in médio * terrae",
+  "gabc": "(f3) AL(f)LE(efEC)LÚ(ef~)IA.(fgf) *(;) <i>ij.</i>(fg!hi!jvIFhvGF) (,) (fg!hi!jvIFhvGF//ef!ghggf) <sp>V/</sp>.(::) De(f)us(efEC) au(ed~)tem,(ef) Rex(fgf) no(ef)ster(f) (;) an(f)te(g!hi) saé(ijIFhvGF//e!fwg!hv)cu(gf)la:(f) (:) o(f)pe(fe)rá(c)tus(ed) est(ef) sa(fgf)lú(ef)tem(fgf) (;) in(f) mé(hg)di(hi)o(ijIF/hvGF//ef!gw!hvGFfvEC) *() ter(ef)rae(fgf) (;) (fg!hi!jvIFhvGF) (,) (fg!hi!jvIF/hvGF//ef!ghggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[192]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3945",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

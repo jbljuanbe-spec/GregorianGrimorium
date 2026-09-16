@@ -1,0 +1,31 @@
+{
+  "id": "laetabimur-6160",
+  "incipit": "Laetabimur",
+  "title": "Laetabimur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Lætábimur in salutári tuo: et in nómine Dómini Dei nostri magnificábimur.",
+  "gabc": "(f3) Læ(f)tá(fefED//efef)bi(h)mur(fh) (::) in(hf~) sa(hih)lu(iji)tá(kxjkj)ri(i) tu(hg//hihi)o:(fh) (:) et(f) in(h) nó(ij)mi(i)ne(h) Dó(i)mi(hg)ni(hihhv/fgf) (;) De(hhg)i(hi/jij) no(h)stri(hghffe) (;) ma(f)gni(hg)fi(hi)cá(ig//ivHGFEf)bi(ed//efe/fg)mur.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "128"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6160",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

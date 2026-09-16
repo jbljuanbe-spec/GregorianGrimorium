@@ -1,0 +1,31 @@
+{
+  "id": "benedicite-dominum-omnes-angeli-3777",
+  "incipit": "Benedicite Dominum omnes Angeli",
+  "title": "Benedicite Dominum omnes Angeli",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Benedícite * Dóminum omnes Angeli ejus: minístri ejus, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus.",
+  "gabc": "(c4) BE(c)NE(d)DÍ(ixdh!iv)CI(h)TE(h) *() Dó(h!jjjh)mi(hg)num(h) (;) o(f!gwhg~)mnes(h) An(hjh!iwj)ge(g)li(fgffe) e(de!fvED)jus:(ed) (:) mi(d)ní(d!fg)stri(g) e(hgh)jus,(ixhighvFDf) (;) qui(df) fá(ghg)ci(h)tis(gf) ver(hjIH)bum(hgh) e(fg!hvGF)jus,(gf) (:) ad(g) au(fgf)di(d)én(d!ew!fvEDevDC)dam(dc) vo(fhgh)cem(hjh/ghg/fgFDf) (,) ser(d!fff)mó(f)num(fgffe) e(de!fvEDe)jus.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "542"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3777",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

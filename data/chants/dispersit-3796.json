@@ -1,0 +1,31 @@
+{
+  "id": "dispersit-3796",
+  "incipit": "Dispersit",
+  "title": "Dispersit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Dispérsit, dedit paupéribus: justítia ejus manet in saéculum * saéculi.",
+  "gabc": "(c4) AL(g)LE(ghggfg)LÚ(f!hj)IA.(ih) *(,) <i>ij.</i>(jkJHG//hjggfg) (,) (ghg/hh/e!fg//hjh/ig/hhg) <sp>V/</sp>.(::) Dis(g)pér(ghggfg//fh!jv//h/jkJIHG//hjh/ig/hg)sit,(g) (;) de(gdgv)dit(g) pau(gh~)pé(hiHG//h!iw!jvHGh)ri(fg)bus:(g) (:) ju(f)stí(hj)ti(j)a(jjj) e(h!iwj/kjjvIHG)jus(g) (;) ma(fg)net(g) in(g) saé(gh)cu(g)lum(gfg) *(,) saé(f!hj)cu(ih)li.(jkJHG//hjggfg) (,) (ghg/hh/e!fg//hjh/ig/hhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "491"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3796",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

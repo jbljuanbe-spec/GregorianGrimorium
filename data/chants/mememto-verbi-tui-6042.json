@@ -1,0 +1,31 @@
+{
+  "id": "mememto-verbi-tui-6042",
+  "incipit": "Mememto verbi tui",
+  "title": "Mememto verbi tui",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Meménto verbi tui servo tuo, Dómine, in quo mihi spem dedísti: hæc me consoláta est in humilitáte mea.",
+  "gabc": "(c4) Me(f)mén(gh)to(hg) (::) ver(h)bi(hg) tu(h)i(hf) (;) ser(g)vo(gd) tu(f)o,(f) (;4) Dó(f)mi(egffv)ne,(fe) (:) in(f) quo(ghg) mi(h)hi(gf) spem(gh) de(g)dí(egffv)sti:(fe) (:) hæc(g) me(gh/iih) con(h)so(hg)lá(h)ta(ghGFEf) est(fe) (;) in(fe) hu(d)mi(efe)li(d)tá(e!fg)te(f) me(egff)a.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "343"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6042",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

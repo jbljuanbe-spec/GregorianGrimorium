@@ -1,0 +1,31 @@
+{
+  "id": "ecce-virgo-alleluia-5369",
+  "incipit": "Ecce Virgo... alleluia",
+  "title": "Ecce Virgo... alleluia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Ecce Virgo concípiet, et páriet fílium, et vocábitur nomen ejus Emmánuel. T. P. Allelúia.",
+  "gabc": "(c4) Ec(d)ce(dfe) Vir(fg>)go(d) (::) con(ce)cí(gh)pi(gf)et,(fefd) (;) et(ce) pá(gh//jjkh)ri(gh)et(h) fí(h)li(h!ijh)um,(h) (:) et(hg~) vo(ij)cá(hg)bi(ihi)tur(gh/iih) (;) no(fe)men(f) e(ixg!hihhg~)jus(hg) (;) Em(fge/fd)má(df/gh)nu(fvED)el.(d) <i>T. P.</i>(::) Al(fgf~)le(ed//fh//ghg;4ef/ghf//gvFE)lú(d/efef)ia.(ed) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "445"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5369",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

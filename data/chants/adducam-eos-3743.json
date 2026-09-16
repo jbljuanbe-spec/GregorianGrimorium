@@ -1,0 +1,31 @@
+{
+  "id": "adducam-eos-3743",
+  "incipit": "Adducam eos",
+  "title": "Adducam eos",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Addúcam eos * in montem sanctum meum, et laetificábo eos in domo oratiónis meae: holocáusta eórum et víctimae eórum placébunt mihi super altáre meum.",
+  "gabc": "(c4) AD(df)DÚ(fg/hg)CAM(gh) e(g)os(gv//ffffg) *(,) in(d) mon(fhg)tem(h) sanc(gf~)tum(fg!hvhg) me(hggf)um,(fg/hg/jjjhhg) (:) et(h) lae(fg)ti(gh)fi(g)cá(gjjjj/kljjh!iwj/kj)bo(jg) e(hjHFg)os(g) (;) in(df~) do(fg/hg)mo(g) (,) o(g)ra(hjg/hg)ti(fg)ó(gh/ji)nis(j) me(jkj/ki/jvHGF/gwhgh)ae:(hjhhf) (:) ho(d)lo(f)cáu(d!ewf)sta(fg) e(gh)ó(hjh)rum(ghGF) (;) et(gh) víc(hi)ti(hg)mae(gih/ig) e(gf)ó(fg/hgh)rum(h//jvvHG) (;) pla(gf)cé(fhgh)bunt(gf) mi(fv//fff/gfg)hi(d/fge/fgDCd) (;) su(c)per(d) al(dc~)tá(f!gwhg/hvGF)re(g//jjvIH/iw!jvIH) me(gh/jhi)um.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "386"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3743",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

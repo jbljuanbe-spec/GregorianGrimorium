@@ -1,0 +1,31 @@
+{
+  "id": "diffusa-est-5784",
+  "incipit": "Diffusa est",
+  "title": "Diffusa est",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Diffúsa est grátia in lábiis túis: proptérea benedíxit te Deus in ætérnum.",
+  "gabc": "(c3) Al(d!ef)le(fe//fhg)lú(f//hhg~)ia.(h//ivHF/fe) (::) (hhv//efED) (;) (f!ghg) (;3) (ehf/gffe) <sp>V/</sp>.(::) Dif(h)fú(hgih)sa(hg) est(h) (;3) grá(g!hi//ivHF//hfg)ti(hg)a(h) (;) in(hf~) lá(hji)bi(h)is(gh) (;) tú(fe//hhvGE;4gxfgFD;4egFEfe)is:(e) (:) prop(e)té(feh)re(h)a(h) (;) be(h)ne(h)dí(gygh)xit(h) te(h) De(hf//hvGE//fhFD;gxgvFEf//hhv//ijHF;gygig//ivHG//he//fe;4ge//gvFE//fd)us(d) (::) in(fd/ef) æ(f)tér(hg/hfh)num.(ghFE) (;4) (df/hf//gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "57*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5784",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

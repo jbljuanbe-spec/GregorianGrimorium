@@ -1,0 +1,37 @@
+{
+  "id": "post-partum-all-127",
+  "incipit": "Post partum (All)",
+  "title": "Post partum (All)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Post partum, Virgo invioláta permansísti: Dei Génitrix intercéde * pro nobis.",
+  "gabc": "(c4) AL(c)le(df)lú(efee)ia.(d.) *(,) <i>ij.</i>(de!f'g//egffdevDCe.) (,) (de!f'g//egffdevDCeed.) (;) (fg!hvGFE.) (,) (eg/hg/efD'Cdde.) <sp>V/</sp>.(::) Post(f) par(efd/edd)tum,(c) Vir(dfde~)go(e.) (;) in(e)vi(c)o(e)lá(g_h//egffde)ta(d_c) (,) per(d)man(dfd~)sí(e_0!fg)sti:(fe..) (:) De(c)i(e) Gé(g)ni(ixgh)trix(hiHG./fg!hvGF'De.) (;) (ixce/gh!ivHG.fg!hvGF'De.) (,) (ffe/ggf/hvG'FE.) (;) in(f)ter(evDC)cé(dfde)de(e.) *(,) pro(c) no(df)bis.(efeed.) (,) (de!f'g//egffdevDCe.) (,) (de!f'g//egffdevDCeed.) (;) (fg!hvGFE.) (,) (eg/hg/efD'Cdde.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[77]"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1265"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "127",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

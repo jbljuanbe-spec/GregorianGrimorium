@@ -1,0 +1,31 @@
+{
+  "id": "beata-viscera-160",
+  "incipit": "Beata viscera",
+  "title": "Beata viscera",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "BEáta víscera * Maríae Vírginis, quae portavérunt aetérni Patris Fílium. T. P. Allelúia.",
+  "gabc": "(c4) BE(d)á(f)ta(fe) ví(fg)sce(efED'e)ra(ed..) *(,) Ma(f)rí(gh)ae(hvGF) Vír(ixghg/hi)gi(h)nis,(h.) (:) quae(f) por(gh~)ta(hg/hfgvFE)vé(d!ewfef)runt(ed..) (,) ae(h)tér(ixjhhg/hi)ni(h.) Pa(dc/f!g'h)tris(f_e) Fí(cd)li(d_c/d!ewf)um.(ed..) <i>T. P.</i>(::) Al(fg~)le(e_d/fh//ghg/e!fg/hfgvFE)lú(d!ewfef)ia.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[80]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "160",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

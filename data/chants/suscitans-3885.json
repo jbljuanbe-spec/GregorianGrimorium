@@ -1,0 +1,31 @@
+{
+  "id": "suscitans-3885",
+  "incipit": "Suscitans",
+  "title": "Suscitans",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "AlLELÚIA. * ℣. Súscitans a terra ínopem, et de stércore érigens páuperem: ut cóllocet eum cum princípibus, cum princípibus * pópuli sui.",
+  "gabc": "(c4) Al(d!ff)LE(ef)LÚ(ghGFgh)IA.(hjHG) *(,) (hd/ev//fg/hg hdev//fg!hvGFhgge) <sp>V/</sp>.(::) Sú(ixdh!iv)sci(h)tans(h) a(h) ter(hg/hvGEf)ra(ixg/hihhg) í(ixgh!ij)no(g)pem,(giHG) (;) et(h) de(hg) stér(h)co(g)re(g) é(gh)ri(g)gens(gvFDf) páu(e)pe(egff)rem:(eef) (:) ut(d) cól(dc)lo(f)cet(ghg) e(ixhiGEg//hiFD//fffd/gvFE , df/hf/ge/fv//df/gef)um(e) (;) cum(f) prin(f)cí(ef!gh)pi(g)bus,(ghghf) (;) cum(ed~) prin(e)cí(gef/hvGFhvGFg)pi(fe)bus(e) *(,) pó(fd)pu(f)li(e!fg) su(fhgh)i.(hjHG) (,) (hd/ev//fg/hg hdev//fg!hvGF/hgge) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[153]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3885",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

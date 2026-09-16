@@ -1,0 +1,37 @@
+{
+  "id": "in-multitudine-1015",
+  "incipit": "In multitudine",
+  "title": "In multitudine",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. In multitúdine presbyterórum prudéntium sta, et sapiéntiae illórum ex corde conjúngere: ut omnem narratiónem Dei possis * audíre.",
+  "gabc": "(c4) AL(ggd//g.h!iwj)le(hg)lú(hfg)ia.(g.) *(;) <i>ij.</i>(gi!kvvJ'IH//j_g/he/fvED.) (,) (df!gh//j_g/hf//g_dgv.) <sp>V/</sp>.(::) In(gg) mul(hg)ti(gj)tú(jk)di(j)ne(j.) (,) pres(j)by(ji)ter(g)ó(h_g/h!iw!jvIH'hg)rum(g.) (,) pru(dg)dén(g!hj)ti(j)um(ij!kvJ'IGhfg) sta,(g.) (:) et(g) sa(e)pi(f)én(gh)ti(g)ae(g) il(gh)ló(hvGEffe)rum(dc..) (,) ex(g) cor(hgj)de(j) con(jji~)jún(ghGE'f)ge(ed)re:(d.) (:) ut(geg) o(hgj)mnem(j) nar(j)ra(jk)ti(j)ó(ji)nem(g) De(h_g/h!iw!jvIH'hg)i(g.) (;) pos(ggd//g.h!iwj)sis(hg) *() au(g)dí(hfg)re.(g.) (;) (gi!kvvJ'IH//j_g/hefvED.) (,) (df!gh//j_g/hf//g_dgv.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "528"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1513"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1015",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

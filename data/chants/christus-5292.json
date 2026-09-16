@@ -1,0 +1,31 @@
+{
+  "id": "christus-5292",
+  "incipit": "Christus",
+  "title": "Christus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Christus unam pro peccátis ófferens hóstiam, in sempitérnum sedet in déxtera Dei: una enim oblatióne consummávit in ætérnum sanctificátos. T. P. Allelúia.",
+  "gabc": "(c4) Chri(gh/jij)stus(i) (::) u(ikj)nam(i;3jjj) pro(h) pec(hg)cá(h)tis(hi/jhhg) (;) óf(h)fe(hvGF)rens(ghg) hó(e)sti(egff)am,(fe) (;) in(ef~) sem(e)pi(e!fg)tér(hgj)num(jv//jj//jvIH/jggf) (;) se(gh)det(g) in(f!hj~) déx(jj//jh)te(j)ra(ij/kj/klk) De(ikjj)i:(ji) (:) u(g/jj//jk)na(j) e(j)nim(ij) o(h)bla(hg)ti(hi)ó(gh)ne(ghgge) (;) con(h)sum(hg~)má(h)vit(h!ij) in(g) æ(gge)tér(fvEDe)num(ed) (;) san(ff//fd~)cti(e!gh)fi(gv//fhGFg)cá(egff)tos.(fe) <i>T. P.</i>(::) Al(hggf~)le(ef/hvGF/ghg)lú(egffv)ia.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "67*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5292",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

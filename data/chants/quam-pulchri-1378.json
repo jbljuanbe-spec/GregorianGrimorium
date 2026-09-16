@@ -1,0 +1,31 @@
+{
+  "id": "quam-pulchri-1378",
+  "incipit": "Quam pulchri",
+  "title": "Quam pulchri",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Quam pulchri super montes pedes annuntiántis et praedicántis pacem: annuntiántis bonum, praedicántis * salútem!",
+  "gabc": "(c4) AL(d!ff)le(ef)lú(ghG'Fg_h)ia.(hjH'G) *(,) <i>ij.</i>(h_dev.fg/h_g h_d/ev.fg!hvGF'hgge.) <sp>V/</sp>.(:) Quam(h) pul(h)chri(ixg'//ivHG'hffe.) (,) su(fd)per(ef) mon(g)tes(ixg'//hihhg.) (;) pe(h)des(ghg') an(g)nun(gf)ti(g)án(gh)tis(g.) (,) et(g) prae(g)di(g)cán(gvFD')tis(f) pa(egff)cem:(eef) (:) an(d)nun(d)ti(dc)án(f)tis(ghg) bo(ixhiG'E.f./hiF'D//fffd/gvFE. , df/h_f/g_e/fv.df!gvFE'f)num,(fe..) (:) prae(f)di(f)cán(e!f'g)tis(gdf) *() sa(ef)lú(ghG'Fg_h)tem!(hjH'G) (,) (h_dev.fg//h_d/ev.fg!hvGF'hgge.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "68**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1378",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

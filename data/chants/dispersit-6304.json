@@ -1,0 +1,31 @@
+{
+  "id": "dispersit-6304",
+  "incipit": "Dispersit",
+  "title": "Dispersit",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi, cornu ejus exaltábitur in glória. ℣. Beátus vir, qui timet Dóminum: in mandátis ejus colet nimis. Glória E u o u a e.",
+  "gabc": "(c4) Di(g)spér(gjHGj)sit,(j) (::) de(jjh)dit(hg) pau(hji~)pé(jjv)ri(ghGFEf)bus:(fe) (:) ju(f)stí(e!fgFE//f!gh)ti(g)a(g) e(hjjvHF//ghg)jus(g) (;) ma(ixhg/hiGF)net(g) (;3) in(h) s<sp>'ae</sp>(hjjv)cu(h)lum(gh) s<sp>'ae</sp>(h)cu(hf/ghgh)li,(hg) (:) cor(hjjv)nu(hg) e(gh)jus(gh/jvIH//ijggv/efe) (;) ex(f)al(e)tá(d!fh)bi(h)tur(hj) (;3) in(ge~) gló(fhGE)ri(fgFE)a.(e) <sp>V/</sp>.(::) Be(g)á(hj)tus(j) vir,(j) qui(j) ti(jk)met(j) Dó(j)mi(ih)num:(hj) (::) in(g) man(hj)dá(j)tis(j) e(j)jus(ji) co(hg)let(h) ni(i)mis.(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e.(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "549"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6304",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

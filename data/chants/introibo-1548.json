@@ -1,0 +1,31 @@
+{
+  "id": "introibo-1548",
+  "incipit": "Introibo",
+  "title": "Introibo",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Introíbo * ad altáre Dei, ad Deum qui laetíficat juventútem meam.",
+  "gabc": "(c4) IN(gj)TRO(j)Í(jhjvIG)BO(g) *(,) ad(gh/ji) al(i)tá(i!jk)re(kh) De(hkj)i,(ikjj/ghg) (:) ad(g) De(gh!iwj)um(j) qui(hi) lae(hg)tí(h!iwj)fi(ghGFg)cat(gf) (;) ju(g)ven(hgh)tú(gh/ih!iwj)tem(hih) me(gh!ivHGh)am.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "64"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1548",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

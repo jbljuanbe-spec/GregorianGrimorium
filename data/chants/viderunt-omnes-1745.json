@@ -1,0 +1,31 @@
+{
+  "id": "viderunt-omnes-1745",
+  "incipit": "Viderunt omnes",
+  "title": "Viderunt omnes",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Vidérunt omnes * fines terrae salutáre Dei nostri: jubiláte Deo omnis terra. ℣. Notum fecit Dóminus salutáre suum: ante conspéctum géntium revelávit * justítiam suam.",
+  "gabc": "(c3) VI(d)dé(d)runt(fh~) o(hiHF//hhhjvIH)mnes(h) *(,) fi(hi)nes(hf) ter(hfhhf)rae(f/hhf/hg/hf) (;) sa(f)lu(hg)tá(hgi)re(ivHGhf) (,) De(fe/f!gwh/ih)i(hg/i!jk) nos(ih)tri:(hg/hf) (:) ju(f)bi(hg)lá(h)te(hhh) De(fheed)o(de!fhFD) (;) o(d!fg/ijh)mnis(gxhf!gw!hvGEfw!gvFE) ter(ded)ra.(d!fh//d!fhhvGE//dfe/feed) <sp>V/</sp>.(::)  No(d)tum(fe~) fe(eh)cit(hi~) Dó(ihhf/hiHG//hiFD,f/hhi/hhf/hiHG//hiFD,gxfg//e!gh/ghg/hvFD,fdfED//fd/ef!hh/i!jwk)mi(ih)nus(hiHF) (;) sa(f)lu(hg)tá(hhf/hhf)re(f) su(fhf/hhf)um:(f) (:) an(f)te(f) con(fi~)spéc(i)tum(hiHF) gén(hi!jwk)ti(ih)um(hiHF.) (;) re(f!hi/hhf)ve(f)lá(hfhhe/fd)vit(d) *(,) jus(f)tí(f/hhfg)ti(ef)am(gxhf/ge) su(d)am.(cd/efe,de!fhFE//gxd!ef!hhegvFD) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "31"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1745",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

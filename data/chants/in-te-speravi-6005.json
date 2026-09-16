@@ -1,0 +1,31 @@
+{
+  "id": "in-te-speravi-6005",
+  "incipit": "In te speravi",
+  "title": "In te speravi",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "In te sperávi, Dómine: dixi, Tu es Deus meus, in mánibus tuis témpora mea.",
+  "gabc": "(f3) In(c) te(e!fh) (::) spe(f)rá(hf/hih)vi,(hhvGE//f!ghGF) (;3) Dó(f)mi(fg/hgh)ne:(gf) (:) di(fh)xi,(h!ij) (;) Tu(hiHF) es(f) (;3) De(f!ghGF)us(ef) me(fh/ihhgh)us,(hg) (:) in(h) má(hi/jij)ni(h)bus(hvGF) tu(hih)is(h) (;) tém(hf//hhvFEf;3hhv)po(fe)ra(egf) me(fgf)a.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "317"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6005",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

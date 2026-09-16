@@ -1,0 +1,31 @@
+{
+  "id": "per-signum-crucis-346",
+  "incipit": "Per signum crucis",
+  "title": "Per signum crucis",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Per signum Crucis * de inimícis nostris líbera nos, Deus noster. T. P. Allelúia.",
+  "gabc": "(c3) PER(e) si(gih)gnum(g) Cru(ef)cis(efED.) *(,) de(fh) i(h)ni(hf)mí(h)cis(hi!jvji) no(gihh)stris(hg..) (:) lí(f)be(ji)ra(j/ljji/jkjjij) nos,(ijHG.) (;) De(g!h'i)us(h) no(gvFEf./ehghhg//hji/jh/iivHG)ster.(g.) <i>T. P.</i>(::) Al(hi)le(h)lú(hhh/jvIH/ivHG)ia.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "491"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "346",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

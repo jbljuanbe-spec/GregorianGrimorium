@@ -1,0 +1,37 @@
+{
+  "id": "oculus-dei-473",
+  "incipit": "Oculus Dei",
+  "title": "Oculus Dei",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Oculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit * caput ejus.",
+  "gabc": "(f3) AL(c)le(ef//efefhvGF'f)lú(ef~)ia.(f.) *(;) <i>ij.</i>(gig'ivH'GF'gffe.) (,) (gf/giH'GFgffe.) (,) (hhh/i_jIG'hggf.) <sp>V/</sp>.(::) O(ffvEC)cu(ef)lus(f.) De(eg/ig/hggf)i(gf..) (;) re(f)spéx(fj'jji)it(gfh) il(feg)lum(g.) in(ivHGhvGF) bo(fg)no,(fe..) (:) et(f) e(ef)ré(hi!jvH'GF fg!hi)xit(gf/hhf) e(e/ghf)um(f.) (;) ab(f) hu(feec)mi(ef)li(fg)tá(fe)te(fg) i(giigivHG'h)psí(fg)us,(fe..) (:) et(f) ex(fc)al(ef)tá(fhfg.,giigivHGhvGFgvFEff//hhhfgvFE'f)vit(fe..) *(;) ca(f)put(ec) e(ef//efefhvGF'f/ef~)jus.(f.) (,) (gig'ivH'GFgffe.) (,) (gf/giH'GF'gffe.) (,) (hhh/i_jIG'hggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "604"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1646"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "473",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

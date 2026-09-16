@@ -1,0 +1,37 @@
+{
+  "id": "immittet-angelus-747",
+  "incipit": "Immittet Angelus",
+  "title": "Immittet Angelus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Immíttet * Angelus Dómini in circúitu timéntium eum, et erípiet eos: gustáte et vidéte, quóniam suávis est Dóminus.",
+  "gabc": "(c4) IM(gh~)mít(hv.fhg)tet(g.) *(,) An(g!jj//jjj)ge(h)lus(ghg.) Dó(h!iwjjvIG)mi(h!iwjjvIG)ni(h!iwj/kjji.) (;) in(j) cir(hg~)cú(j'/ki'/jh')i(h)tu(fgf.___) (,) ti(hg)mén(hg/jj//jjj)ti(hg)um(ixgv.fh!ivHG) e(ghg___)um,(g.) (:) et(g) e(gh/ji)rí(jjvIG)pi(h!iwji)et(j.) e(jjh/jkj/kvJI)os:(j.) (:) gus(ji)tá(jv.jjj/kjk)te(h_g) (,) et(g) vi(hji)dé(jkj'/ki'/jvH'G/jjvIH'/iwj)te,(g.) (,) quó(gh)ni(gf)am(g) su(h)á(h/jjj)vis(g) est(h_g/h!iwj/kjji.) (;) Dó(j'/kj'/ki'/jvH'Fg. , f!gh!jvvIH'/iw!jvIH)mi(gh!ivHG'h)nus.(hg..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "359"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1039"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "747",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

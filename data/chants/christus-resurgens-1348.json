@@ -1,0 +1,37 @@
+{
+  "id": "christus-resurgens-1348",
+  "incipit": "Christus resurgens",
+  "title": "Christus resurgens",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Christus resúrgens ex mórtuis, jam non móritur: mors illi ultra * non dominábitur.",
+  "gabc": "(c4) AL(dc~)le(d./fgF'ED'//fvED'dc)lú(ixf!gwh'!iv//)ia.(hfg.) *(,) (ixhvGF/g_i//hi!jvIHG./hvGF/ghhvGF'g//dfddc.) (,) (cf/ghGE'D/ffd.) <sp>V/</sp>.(::) Chri(dc)stus(d./fgF'ED'//fvED'dc) (,) re(f)súr(ixghhvGF/gfg/hg/h_i)gens(hgg) (,) ex(f) mór(ixgfg/hvGF/g_i//hi!jvIG'/gfg/hg/h_i//)tu(h)is,(h.) (;) jam(hvGF'g//dfddc.) non(cf/ghG'F) mó(ed)ri(cd)tur:(d.) (:) mors(ixcf/giiiv'HF/gfg/hjh.) (,) (ixcf/giiiv'HF/gfg/hjh.) (,) (ixjvIH/ivHG/hvGF/g_h) (,) il(hvGF//)li(gh) ul(gf~)tra(fgffvED.) *(;) non(dc~) do(d./fgF'ED'//fvED)mi(dc)ná(ixf!gwh'!iv)bi(h)tur.(hfg.) (,) (ixhvGF/g_i//hi!jvIHG./hvGF/ghhvGF'g/dfddc.) (,) (cf/ghGE'D/ffd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "269"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "827"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1348",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "exclamaverunt-469",
+  "incipit": "Exclamaverunt",
+  "title": "Exclamaverunt",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Exclamavérunt * ad te, Dómine, in témpore afflictiónis suae, et tu de caelo exaudísti eos, allelúia, allelúia. Ps. Exsultáte, justi, in Dómino: * rectos decet collaudátio, Glória Patri E u o u a e",
+  "gabc": "(c4) EX(f)CLA(c)MA(d)VÉ(ixdh'!i)RUNT(h) *(,) ad(h) te,(gfg) Dó(ixhgih)mi(gf)ne,(f.) (;) in(df~) tém(fff)po(dc)re(c.) af(d)fli(fe)cti(f)ó(fhG'E)nis(egF'Ef) su(ded___)ae,(d.) (:) et(d) tu(f) de(g) cae(ghg)lo(g_d) (,) ex(d)au(ff)dí(fg)sti(gff) e(deD'C)os,(c.) (;) al(c!d'f~)le(f_e)lú(fgf)ia,(fffddc.) (,) al(df~)le(fefd)lú(ded___)ia.(d.) <i>Ps.</i>(::) Ex(f)sul(gh)tá(h)te,(h) jus(hj)ti,(h) in(h) Dó(h)mi(hg)no:(gh..) *(:) re(gf)ctos(gh) de(h)cet(h) col(hjh)lau(g')dá(f)ti(fff)o,(d.) (::) Gló(f)ri(gh)a(h) Pa(h)tri(h) (::) E(h) u(hjh) o(g') u(f) a(fff) e(dc/df..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "492"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1465A"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "469",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "scapulis-suis-5204",
+  "incipit": "Scapulis suis",
+  "title": "Scapulis suis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Scápulis suis obumbrábit tibi Dóminus, et sub pennis ejus sperábis: scuto circúmdabit te véritas ejus.",
+  "gabc": "(c4) Scá(h)pu(g)lis(g) su(gih)is(h) (::) o(g)bum(g)brá(gh/ji)bit(ih) ti(jk)bi(hfhg) Dó(g)mi(ghg)nus,(g) (:) et(g) sub(g) pen(gh/jij)nis(j) e(j)jus(jjv/ghg) (;) spe(hjh)rá(jv//hj/kjk)bis:(ji) (:) scu(h!jkj)to(j) cir(hg~)cúm(g!hj)da(jkJH)bit(hg) te(gf) (;) vé(fg/hgh//jkj)ri(hg)tas(ghfhg) e(ghg)jus.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "83"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5204",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

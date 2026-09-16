@@ -1,0 +1,31 @@
+{
+  "id": "bene-fundata-est-1343",
+  "incipit": "Bene fundata est",
+  "title": "Bene fundata est",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Bene fundáta est domus Dómini supra firmam * petram.",
+  "gabc": "(c4) AL(cd)le(ef!ghhg)lú(gi/jhivHG)ia.(g.) *(;) (gh/ijh.__jvIHG.fhfg./egFE'DC.) (,) (cd!ef!ghhvGF'Deddc.) <sp>V/</sp>.(::) Be(cd)ne(fe) fun(fg~)dá(gvFEDfg!hvhg)ta(fg) est(g.) (,) do(ghhg)mus(fvED) Dó(dgF'E)mi(cdc__)ni(c.) (:) su(g/hgjv.ijhhvGEfg)pra(g.) fir(cd!ef!ghhv//gi/jhivHG)mam(g.) *(;) pe(gh/ijh.__jvIHG.fhfg)tram.(egFE'DC.) (,) (cd!ef!ghhvGF'Deddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[73]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1343",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

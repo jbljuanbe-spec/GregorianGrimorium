@@ -1,0 +1,37 @@
+{
+  "id": "per-te-dei-genitrix-634",
+  "incipit": "Per te Dei Genitrix",
+  "title": "Per te Dei Genitrix",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Per te, Dei Génitrix, nobis est vita pérdita data: quae de caelo suscepísti prolem, et mundo genuísti * Salvatórem.",
+  "gabc": "(c4) AL(d)le(e!fg)lú(ge/fgeed~)ia.(d.) *(,) <i>ij.</i>(c/dd/cd/ed//ef!gvvFD'ecd.) (;) (dhhf/ghddc/dfde.) (,) (fhg/hvE'DC.fe/gvF'ECeed.) <sp>V/</sp>.(::) Per(d!hg~) te,(hggdfv.) De(eg/heed)i(d) Gé(c)ni(cd)trix,(d.) (;) no(ixdh/ih)bis(gh) est(he) vi(fe)ta(c.) pér(e!f'g~)di(g_f)ta(ed/fe) da(cd)ta:(d.) (:) quae(hjjvIG) de(gh) cae(h)lo(g) su(j)sce(jvIH)pí(igh)sti(h) pro(hk)lem,(ji..) (;) et(gj~) mun(jvIG'jhhg~)do(gh) ge(gef)nu(ge/fd)í(cd)sti(d.) *(,) Sal(d)va(e!fg)tó(ge/fgeed)rem.(d.) (,) (c/dd/cd/ed//ef!gvvFD'ecd.) (;) (dhhf/ghddc/dfde.) (,) (fhg/hvF'ED.fe/gvF'ECeed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "552"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1557"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "634",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

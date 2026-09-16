@@ -1,0 +1,31 @@
+{
+  "id": "benedicta-3446",
+  "incipit": "Benedicta",
+  "title": "Benedicta",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Benedícta * et venerábilis es, Virgo María, quae sine tactu pudóris invénta es mater Salvatóris.",
+  "gabc": "(c3) BE(h)NE(hf)DÍ(hi)CTA(h) *(,) et(h) ve(i)ne(h)rá(ij)bi(i)lis(hg) es,(hi) (,) Vir(i)go(i) Ma(i)rí(hif)a,(f) (:) quae(fe) si(f)ne(d) ta(ef)ctu(e) pu(f)dó(h)ris(hg/hih) (;) in(f)vén(fhGEf)ta(de) es(e) ma(df)ter(e) Sal(ehgh)va(f)tó(ded)ris.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[190]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3446",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

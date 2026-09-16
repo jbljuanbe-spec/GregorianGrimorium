@@ -5,12 +5,29 @@
   "description": "Biblioteca digital de canto gregoriano: buscador de íncipits con partituras verificadas.",
   "type": "module",
   "scripts": {
-    "test": "node --test \"scripts/**/*.test.mjs\"",
+    "dev": "next dev",
+    "prebuild": "node scripts/build-exsurge.mjs && node scripts/build-search-index.mjs",
+    "build": "next build",
+    "start": "npx serve out",
+    "test": "node --test \"scripts/**/*.test.mjs\" \"lib/**/*.test.mjs\"",
     "validate": "node scripts/validate-data.mjs",
-    "import": "node scripts/import-gabc.mjs",
-    "check": "pnpm run test && pnpm run validate"
+    "typecheck": "tsc --noEmit",
+    "import:gregobase": "node scripts/import-gregobase.mjs",
+    "import:gabc": "node scripts/import-gabc.mjs",
+    "check": "pnpm run test && pnpm run validate && pnpm run typecheck"
   },
   "dependencies": {
-    "ajv": "^8.17.1"
+    "ajv": "^8.17.1",
+    "exsurge": "github:frmatthew/exsurge",
+    "next": "^15.5.25",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.3",
+    "@types/react": "^19.3.0",
+    "esbuild": "^0.28.2",
+    "playwright": "^1.63.0",
+    "typescript": "^5.9.3"
   }
 }

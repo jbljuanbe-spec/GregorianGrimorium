@@ -1,0 +1,31 @@
+{
+  "id": "redime-me-1521",
+  "incipit": "Redime me",
+  "title": "Redime me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Redime me, * Deus Israel, ex ómnibus angústiis meis.",
+  "gabc": "(c3) RE(h)DI(gh)ME(fg) me,(fe) *(,) De(ef!gvgfg)us(ed/effe) Is(hg)ra(h)el,(ijIG//hiHGEf) (;) ex(fhg) óm(hiHGF//hg/hi)ni(h)bus(ghFEf) (,) an(e)gú(ehGF/hwihi)sti(gh)is(f) me(efe/f!hhffeed!ewf!gvFEf)is.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "136"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1521",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

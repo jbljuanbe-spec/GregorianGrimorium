@@ -1,0 +1,31 @@
+{
+  "id": "qui-fecerit-15",
+  "incipit": "Qui fecerit",
+  "title": "Qui fecerit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Qui fécerit * et docúerit, hic magnus vocábitur in regno caelórum. T.P. Allelúia.",
+  "gabc": "(c3) QUI(i) fé(i')ce(h)rit(g.) *() et(ij) do(gh)cú(f)e(e)rit,(fhg.) (,) hic(ih) ma(ijI'H)gnus(h) vo(hf)cá(hi)bi(h)tur(g.) (,) in(h) re(i)gno(g) cae(h)ló(f_e/f!gw!hvGF'g)rum.(fe..) <i>T.P.</i>(::) Al(eg~)le(gv.fhg)lú(efe__)ia.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "33**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "15",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

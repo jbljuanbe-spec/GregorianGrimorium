@@ -1,0 +1,31 @@
+{
+  "id": "dicit-andreas-1021",
+  "incipit": "Dicit Andreas",
+  "title": "Dicit Andreas",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Dicit Andréas * Simóni fratri suo: Invénimus Messíam, qui dícitur Christus: et addúxit eum ad Jesum.",
+  "gabc": "(c3) DI(hh)cit(h) An(hi~)dré(i)as(hgh.) *(,) Si(h)mó(hg)ni(ge) fra(g)tri(hih) su(h.f!gw!hvG'FE'f)o:(fe..) (:) In(h)vé(ik)ni(j)mus(ijg) Mes(h)sí(ihi)am,(ie..) (;) qui(f) dí(h_g)ci(h!i'j)tur(ij~) Chris(hiH'G)tus:(g.) (:) et(g) ad(h)dú(ij)xit(i) e(h_f)um(f_e) ad(ef) Je(e)sum.(dvC'B//ece.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "392"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1021",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

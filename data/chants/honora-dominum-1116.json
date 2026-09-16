@@ -1,0 +1,37 @@
+{
+  "id": "honora-dominum-1116",
+  "incipit": "Honora Dominum",
+  "title": "Honora Dominum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Honóra * Dóminum de tua substántia, et de primítiis ómnium frugum tuárum da ei. Noli prohibére benefácere eum qui potest: si vales, et ipse bénefac.",
+  "gabc": "(c4) Ho(dfd)nó(eef//dgff'ffvD'C//dfD'C//dfd/ef)ra(e.) *(,) Dó(ef!ghhg)mi(gf)num(fg!hvhg.) (;) de(g) tu(g)a(d!ewf) sub(f)stán(ef!ghGE'f)ti(f)a,(egff/ded.) (:) et(d) de(d) pri(dh)mí(h_ghvGE//f!gwhgh//f!gwhgh)ti(f)is(eef.) (,) ó(ec//ege/gh)mni(gf)um(f.) fru(hjh)gum(ghg) tu(f)á(ghff)rum(ed..) (,) da(fv.ghgh) e(egff)i.(fe..) (:) No(g/iij)li(g) pro(h)hi(h)bé(gh_G'_FE'f)re(fe..) (;) be(f)ne(f)fá(e!fwg'!hv)ce(g)re(g.) (,) e(g)um(ghgg) qui(f_d) pot(egF'E)est:(eef.) (:) si(dg) va(g.f!gwhgh)les,(hg..) (;) et(g!jj) i(jjj)pse(gh) (,) bé(e.f!gwhg)ne(gv.efD'Cd)fac.(f_d/f!gwhgh//ghF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "569"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1582"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1116",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "gustate-et-videte-1304",
+  "incipit": "Gustate et videte",
+  "title": "Gustate et videte",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Gustáte, et vidéte quóniam suávis est Dóminus: in aetérnum misericórdia * ejus.",
+  "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) *(,) (hv.iji./ef/h_f//hv.ghe/hhh.f!gwhf.) <sp>V/</sp>.(::) Gu(f)stá(f_e/f!gwh'!ivjiihi)te,(iv.hh/fgf.) (,) et(f) vi(f)dé(f!hh/ijHF'ivH'GEf./hfhhf/ge)te(e.) (;) quó(f)ni(ef)am(f) su(f)á(ffe/ffe/fc..,ef!hvvF'Ehhhi)vis(h') est(ivH'Gh') Dó(f)mi(fgf__)nus:(f.) (:) in(f) ae(f)tér(f!h'i/jiihi)num(iv.hh/fgf.) (;) mi(f)se(fg)ri(f)cór(f!hh/ijHF'ivH'GEf./hfhhf/ge)di(f)a(e.) *(;) e(hh/i_h/jij)jus.(jvvIH'GE//f!gwhf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "616"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1304",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

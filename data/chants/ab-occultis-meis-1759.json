@@ -1,0 +1,31 @@
+{
+  "id": "ab-occultis-meis-1759",
+  "incipit": "Ab occultis meis",
+  "title": "Ab occultis meis",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ab occúltis * meis munda me Dómine: et ab aliénis parce servo tuo. ℣. Si mei non fúerint domináti tunc immaculátus ero: et emundábor a delícto * máximo.",
+  "gabc": "(c3) AB(c) oc(c)cúl(ef~)tis(f) *() me(hfghvFEge/fg)is(f) (;) mun(hf/h!ij)da(hvGF) me(gxfegvFE) (,) Dó(ed/fef)mi(fef)ne:(fd/ef!hvvFE//f!gwh/ihh/fgf) (:) et(hh) ab(h) a(h)li(h)é(hg/hi!jvHGhhg,ihivHF)nis(fhFEfhhf//hvvGFheed) (:) par(d!ef)ce(f) ser(fhvGFg)vo(ef) tu(hf/hi)o.(ih/ijIH) (,) (jh/jkIGhvFE//f!gwh!iv//h!ij) (,) (ijijHFgwhf) <sp>V/</sp>.(::) Si(f) me(h)i(hi) non(i) fú(i)e(i)rint(i) do(i)mi(ij)ná(jvIHGhvFE,ge/f!hh/ijij//,//hj!kvIGhvFE//fgFEf , i!jwkj/kvJIj)ti(ji) (:) tunc(i!jw!kvJIjw!kvJI) im(i)ma(i)cu(i)lá(i)tus(ij) e(jhjvIHhf//hhf/hv//hhhf , hi!jvIHjvIHif)ro:(f) (:) et(hh) e(h)mun(hi~)dá(ivHGE//fhGEfh,gi!jvHF)bor(fhFEfhhf//hvvGFheed) (:) a(d) de(ef)lí(fhvGFg)cto(ef) *() má(hf)xi(hi)mo.(ijHGhi) (,) (e!fhhjIHGFgwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "111"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1759",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

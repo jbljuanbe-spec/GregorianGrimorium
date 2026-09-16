@@ -1,0 +1,31 @@
+{
+  "id": "benedictio-dei-295",
+  "incipit": "Benedictio Dei",
+  "title": "Benedictio Dei",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Benedíctio Dei in mercédem justi festínat, et in hora velóci procéssus illíus * fructíficat.",
+  "gabc": "(c4) AL(d)le(e!fg)lú(he/fgFE'e)ia.(d.) *(,) (cec/dd/ed.//eg/he./fvED/evDC/dd) (,) (d!hhhggd./eg/he./fvED/evDC/dd) (,) (fe/gvFED./fe/gvFE'fd./cd/efeed.) <sp>V/</sp>.(::) Be(cd)ne(d!hhhggd.//eg/he./fvED)díc(ed)ti(cd)o(d) De(ded___)i(d.) (,) in(cd) mer(d!hhh)cé(ggfg)dem(gd) jus(ec/eg)ti(ge) fe(fvEC/efED'd)stí(cd)nat,(d.) (:) et(h) in(hjjvIH'i) ho(h)ra(g) ve(h)ló(jvIG/ivHGh. , ki/jvIH//gih/jvIH/ivHG)ci(h.) (;) pro(h)cés(hkJ'IH'/kvJ'IG'gh/ijiih)sus(h) il(hvGE/fg)lí(gvFE'/fd)us(d.) *(;) fruc(d)tí(e!fg)fi(he/fgFE'e)cat.(d.) (,) (cec/dd/ed.//eg/he./fvED/evDC/dd) (,) (d!hhhggd./eg/he./fvED/evDC/dd) (,) (fe/gvFED./fe/gvFE'/fd./cd/efeed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "452"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "295",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

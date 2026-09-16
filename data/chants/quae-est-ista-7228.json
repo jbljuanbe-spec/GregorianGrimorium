@@ -1,0 +1,31 @@
+{
+  "id": "quae-est-ista-7228",
+  "incipit": "Quae est ista",
+  "title": "Quae est ista",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Quæ est ista præ progréditur quasi auróra consúrgens? Pulchra ut luna, elécta ut sol, terríbilis ut castrórum ácies ordináta.",
+  "gabc": "(c3) Quæ(ig) est(ij) i(ij)sta(i) (::) præ(hg) pro(f)gré(giij)di(i)tur(i) (;) qua(e)si(fg) au(g)ró(ghGF)ra(ii) (;3) con(j)súr(ijii>)gens?(ghg) (:) Pul(gh)chra(h) ut(hg) lu(hi)na,(h) (;3) e(h)lé(ji)cta(hi) ut(ijiiv) sol,(ghg) (:) ter(e!fg)rí(ghg)bi(f)lis(ghGF/gf) (;) ut(e) ca(f)stró(ghg)rum(f) á(ghg)ci(f)es(g!hi) (;3) or(ivHF)di(gfgf)ná(e!fgFEf)ta.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "377"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7228",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "beatus-vir-qui-timet-cupit-nimis-tract-7670",
+  "incipit": "Beatus vir qui timet...cupit nimis (Tract)",
+  "title": "Beatus vir qui timet...cupit nimis (Tract)",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "BEátus vir * qui timet Dóminum : in mandátis ejus cupit nimis. ℣. Potens in terra erit semen ejus: generátio rectórum benedicétur. ℣. Glória et divítiæ in domo ejus : et justítia ejus manet * in sǽculum sǽculi.",
+  "gabc": "(c4) BE(g)á(g/hih)tus(g/hhg) vir(g.) *(,) qui(gjj) ti(j_k)met(hvGF'ghhg.) (,) Dó(hjij)mi(hj)num :(jjjkhhg/hg/jjh/jggf.) (:) in(f!h'j) man(igh)dá(gfg)tis(gh/jij) (`) e(j.h!iwj)jus(jjjvIH/ivHG/hg..) (;) cu(ix/fh/ih/ig)pit(j.) ni(jv.ijg./ixjjvH'GhiGF.)(,)(iyh./jh/ig)mis.(g/hhg.)\r\n\r\n<sp>V/</sp>.(::) Pot(g!hwi'!jv)ens(j) in(j) ter(j)ra(j) e(ij)rit(j.) (,) se(j)men(j) e(j_kJ'G/h_g/h!iw!jvIH/ijh)jus:(hg..) (:)\r\n\r\nge(f/h'j)ne(igh)rá(gf/gh)ti(g)o(g.) (`) re(gh/jij)ctó(j.h!iwj)rum(jjjvIH/ivHG/hg..) (;) \r\n\r\nbe(h_g/h!iwj)ne(ghG'F)di(f!h'j)cé(j)tur.(jijHG./ixjjvH'G/hiGF.) (,) (iyh./jh/ig/hhg.) \r\n\r\n<sp>V/</sp>.(::) Gló(g!hwi'!jv)ri(j)a(j) et(j) di(j)ví(ij)ti(j)æ(j.) (,) in(j) do(j)mo(j) e(j_kJ'G/h_g/h!iw!jvIH/ijh)jus(hg..) :(:) \r\n\r\net(f!h'j) ju(igh)stí(gf/gh)ti(g)a(gh/jij) (`) e(j.h!iwj)jus(jjjvIH/ivHG/hg..) (;) \r\n\r\nma(h_g/h!iwj)net(g_h) *(,) in(f) sǽ(f.h!iw!jk)cu(j)lum(j) sǽ(j)cu(j)li.(jijHGg'g/hg/gfg.) (,) (jjj/kvJ'IH'hg/hjI'HG'ghf.) (,) (h!iw!jvIH'/ihhg.) (::)",
+  "transcriber": "Elmer Montejo",
+  "commentary": null,
+  "liturgical_occurrences": [
+    {
+      "calendar": "Roman",
+      "celebration": "Tractus"
+    }
+  ],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[8]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7670",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

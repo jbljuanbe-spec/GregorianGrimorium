@@ -1,0 +1,31 @@
+{
+  "id": "salve-mater-82",
+  "incipit": "Salve Mater",
+  "title": "Salve Mater",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Salve Mater misericórdiae, Mater spei et grátiae, * O María.",
+  "gabc": "(c4) AL(cd)le(ef!ghhg)lú(gi/jh/ivHG)ia.(g.) *(;) <i>ij.</i>(gh/ijh.__jvIHG.fhfg./egFE'DC.) (,) (cd!ef!ghhvGF'D/eddc.) <sp>V/</sp>.(::) Sal(cd)ve(fe) Ma(fg)ter(gvFED/fg!hvhg.) (,) mi(g/hhg)se(fvED)ri(dgF'E)cór(c)di(cdc__)ae,(c.) (;) Ma(g)ter(g) spe(g/hg/jv.ijhhvGEfg)i(g.) (,) et(cd) grá(ef!ghhg)ti(gi/jh/ivHG)ae,(g.) *(;) O(d) Ma(d)rí(gh/ijh.__jvIHG./fhfg)a.(egFE'DC.) (,) (cd!ef!ghhvGF'Deddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "49**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "82",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

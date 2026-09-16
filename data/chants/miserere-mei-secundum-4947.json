@@ -1,0 +1,31 @@
+{
+  "id": "miserere-mei-secundum-4947",
+  "incipit": "Miserere mei... secundum",
+  "title": "Miserere mei... secundum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Miserére mei, Dómine, secúndum magnam misericórdiam tuam: dele, Dómine, iniquitátem meam.",
+  "gabc": "(c4) Mi(g)se(hj)ré(j)re(ijHG) (::) me(hj)i,(ji) Dó(jjv)mi(hg)ne,(gh//jvIH/jg) (:) se(g)cún(gjjv)dum(hg) ma(hv//f!gh)gnam(gh) (;4) mi(gf)se(g)ri(hj)cór(j)di(j)am(i!jkj//klk) tu(ikjj)am:(ji) (:) de(gjjv)le,(g) Dó(gh/ihi)mi(g)ne,(fgffv/ded) (;) i(h)ni(h)qui(h)tá(hg)tem(hih) me(g!hiHGh)am.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "100"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4947",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

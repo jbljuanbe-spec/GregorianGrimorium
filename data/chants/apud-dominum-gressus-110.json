@@ -1,0 +1,31 @@
+{
+  "id": "apud-dominum-gressus-110",
+  "incipit": "Apud Dominum gressus",
+  "title": "Apud Dominum gressus",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Apud Dóminum * gressus hóminis dirigéntur: et viam ejus volet. ℣. Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. ℣. Lex Dei ejus in corde ipsíus, et non supplantabúntur gressus * ejus.",
+  "gabc": "(f3) A(f)pud(efE'C) Dó(efef)mi(gf)num(f.) *(,) gres(e!f'h)sus(hg) hó(h)mi(hvGF)nis(e!fwgf//ghg/hvGFgf..) (;) di(ef)ri(eh)gén(hggf~)tur:(fe/ggf/gh/iffe.) (:) et(gh) vi(f_e/f!gwh'!iv)am(hg/hiih.) e(eh)jus(gh/ihi) vo(f)let.(f/ggf.) <sp>V/</sp>.(::) Os(ef) ju(hi)sti(f.) me(e)di(f)tá(hi)bi(hg/hvGF'g)tur(gf..) (;) sa(hhg)pi(i)én(hhg)ti(fe)am,(ef/gf/ggf/gh/iffe.) (:) et(e) lin(gh)gua(f) e(f_e/f!gwh'!iv)jus(hg/hiih.) (;) lo(i)qué(i)tur(e) ju(f)dí(hv.gh/ihi)ci(f)um.(f/ggf.) <sp>V/</sp>.(::) Lex(hi) De(hih)i(f) e(fh_gh//gh!jvIGhvGF'g)jus(gf..) (,) in(hg) cor(hi)de(hvGE) ip(f)sí(g_fg)us,(fe/ggf/gh/iffe.) (:) et(g) non(e) sup(fh)plan(h)ta(h)bún(h/ihhe)tur(f!gwhg.) (,) gres(h)sus(gh/ihi) *() e(f)jus.(fe/f!hh/ijI'Gh.) (,) (gh!jvIH'hvGF/ggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "528"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "110",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

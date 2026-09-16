@@ -1,0 +1,31 @@
+{
+  "id": "domine-deus-salutis-alleluia-1687",
+  "incipit": "Domine Deus salutis... alleluia",
+  "title": "Domine Deus salutis... alleluia",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Domine * Deus salútis meae, in die clamávi, et nocte coram te: intret orátio mea in conspéctu tuo, Dómine. allelúia.",
+  "gabc": "(c4) DO(d!ewf)MI(gf)NE(g) *(,) De(hjh)us(ghGF) sa(fh)lú(hv//jjh!iwj)tis(gf!gwhg) me(ghg)ae,(g) (;) in(g) di(gi/kj)e(jjjhj) cla(g)má(hjh)vi,(gh) (;) et(fg) no(gjh)cte(ghGF) co(f)ram(fg!hvGF) te:(gf) (:) in(gh)tret(gh) o(gf)rá(hjh!iwj)ti(gh)o(gf) me(gh)a(hjhh/fgf) (;) in(gh) con(g/hji)spéc(j)tu(gh) tu(gh/ji)o,(jjvIHiw!jvIH) Dó(hg)mi(g!hwihi)ne.(hg) (;) al(g)le(ghfg)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "262"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1687",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "timete-dominum-3916",
+  "incipit": "Timete Dominum",
+  "title": "Timete Dominum",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Timéte Dóminum * omnes sancti ejus, quóniam nihil deest timéntibus eum: dívites eguérunt, et esuriérunt: inquiréntes autem Dóminum non defícient omni bono. Ps. Benedícam Dóminum in omni témpore: * semper laus ejus in ore meo. Glória Patri E u o u a e",
+  "gabc": "(c4) TI(g)MÉ(gjHGj)TE(j) Dó(j)mi(jjj)num(ih) *(,) o(hjij)mnes(ih) sa(h)ncti(hk) e(kj~)jus,(jkjji) (;) quó(g)ni(gh)am(h) ni(j)hil(jjjh~) de(i)est(h) (,) ti(h)mén(hi)ti(hg)bus(hi) e(hghvGE)um:(e) (:) dí(ge)vi(f)tes(g) e(g)gu(g)é(gh)runt,(g) (,) et(g) e(g)su(g)ri(g)é(gh!jvHFgwhgh)runt:(hg) (:) in(g)qui(g)rén(gh/ji)tes(jjjh) au(j)tem(jjj) Dó(hjij)mi(h)num(ghg) (;) non(g) de(ghGE)fí(f!gwhg)ci(gf!gwhgh)ent(hg) (,) o(g!jjg//jjjg~)mni(ge) bo(fgFE)no.(e) <i>Ps.</i>(::) Be(g)ne(hj)dí(j)cam(j) Dó(j)mi(j)num(j) in(j) o(k)mni(j) tém(j)po(ih)re:(jjj) *(:) sem(ig~)per(hj) laus(j) e(j)jus(j) in(jji) o(hg)re(h) me(i)o.(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "509"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3916",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

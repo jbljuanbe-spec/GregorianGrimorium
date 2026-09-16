@@ -1,0 +1,31 @@
+{
+  "id": "deus-in-nomine-5739",
+  "incipit": "Deus, in nomine",
+  "title": "Deus, in nomine",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Deus in nómine tuo salvum me fac, et in virtúte tua líbera me: Deus exáudi oratiónem meam. ℣. Quóniam aliéni insurrexérunt in me: et fortes quæsiérunt ánimam meam. Glória E u o u a e.",
+  "gabc": "(c4) De(fgf)us(f) (::) in(dg) nó(g)mi(g)ne(g) tu(ixhg/hig)o(fgf) (;) sal(ef!gh)vum(g) me(egffv) fac,(fe) (:) et(fgf) in(ef) vir(g)tú(g)te(g) tu(ixhg/hig)a(fgf) (;) lí(iygh/jij)be(h)ra(hf//ghgh) me:(hg) (:) De(g!hjjv)us(hj) ex(gh)áu(ef/ghg~)di(hg//ffv/ded) (;) o(dc)ra(f)ti(gh)ó(hfg)nem(ixgh/ighg) me(egffv)am.(fe) <sp>V/</sp>.(::) Quó(hg)ni(gh)am(h) a(h)li(h)é(h)ni(h) in(h)sur(h)rex(hg)é(gi)runt(i) in(hi) me:(h) (::) et(hg~) for(gh)tes(h) quæ(h)si(h)é(h)runt(h) á(h)ni(hf)mam(gh) me(g)am.(e) (::) Gló(hg)ri(gh)a(h) (::) E(h) u(h) o(hf) u(gh) a(g) e.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "124"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5739",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

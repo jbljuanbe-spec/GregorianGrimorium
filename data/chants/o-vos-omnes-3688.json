@@ -1,0 +1,31 @@
+{
+  "id": "o-vos-omnes-3688",
+  "incipit": "O vos omnes",
+  "title": "O vos omnes",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "O vos omes, * qui transítis per viam, atténdite, et vidéte, si est dolor sicut dolor meus. ℣. Cum dilexísset suos, qui erant in mundo, in finem diléxit * eos.",
+  "gabc": "(c2) O(cd!ff/gffvED) vos(dc) o(cd/ede)mes,(dc) *(;) qui(cf) tran(fg~)sí(ghGF)tis(gffe) (,) per(fg~) vi(gfg)am,(gv//fge/ffg//fiHG/hig) (:) at(g)tén(h!ij)di(j)te,(jk) et(g) vi(i)dé(hfg)te,(ghgg/efe) (;) si(cg) est(g/iii) do(fh!ivHG/hvFD//fgFEg)lor(g) (;) si(gih)cut(ij) do(j)lor(f//giHGF/fd//fgFEC) (,) (dfe/ge//fvED/e!fg) me(cdc)us.(c) <sp>V/</sp>.(::) Cum(c) di(fg)le(g)xís(gj//ij/kiiiivGFfd , ffd/ffg)set(g) su(g)os,(gf//gih/ijhhg) (;) qui(gj) e(j)rant(jk) in(g) mun(igge//fhGF/fd!ew!fvEDCd)do,(dc) (:) in(cd) fi(dgf/gh)nem(g) (,) di(d)lé(ff)xit(fg) *() e(fv//ef/gfg)os.(gge//giHG/ivHG/ge) (,) (fge/fvDC/deddc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "439"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3688",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

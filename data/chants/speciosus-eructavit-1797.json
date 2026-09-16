@@ -1,0 +1,31 @@
+{
+  "id": "speciosus-eructavit-1797",
+  "incipit": "Speciosus. ℣. Eructavit",
+  "title": "Speciosus. ℣. Eructavit",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Speciósus * forma prae fíliis hóminum: diffúsa est grátia in lábiis tuis. ℣. Eructávit cor meum verbum bonum: dico ego ópera mea Regi: lingua mea cálamus scribae velóciter * scribéntis.",
+  "gabc": "(c3) SPe(e)ci(fhg)ó(h)sus(h) *(,) for(hh//hhhf!gwh/ih//jijvIG)ma(ig/hi/jh,hhhih/ihhg) (;) prae(fhg) fí(hihhf)li(hig)is(hiffe) (,) hó(fhg/hfi)mi(hg)num:(gv//eg/ihh/fgf) (:) dif(f)fú(hf/ghg)sa(ge/f!hhhvFEec) est(de) (,) grá(eg)ti(g)a(fgFEf!hh/f!hhhvGFheed) (;) in(f) lá(hf/gh!ivFE)bi(feec)is(efe/f!hh) tu(gxfe/fgEDefDC,ef!hvhvFEff//ef/ge)is.(c//eec//ed/ec) <sp>V/</sp>.(::) E(e)ruc(e)tá(ef!gwhgh)vit(hg) cor(gh!iwjij) me(ji/hhf/ig/hih,hhhvFEhg/hi)um(ih/ihhg) (;) ver(gh/iji/jhhg)bum(g) bo(hf!gwhg)num:(gv//eg/ihh/fgf) (:) di(f)co(fi) e(ivivHGijhhgh)go(hg) (;) ó(hv//fhg)pe(g)ra(g) me(gh/iji/jhhg)a(g) (,) Re(hf!gwhg)gi:(gv//eg/ihh/fgf) (:) lin(f)gua(f) me(f)a(f) cá(fgfg)la(ge/f!hhhvFEec)mus(de) (,) scri(eg)bae(fgFEf!hh/f!hhhvGFheed) (;) ve(f)ló(hf/gh!ivFE)ci(feec)ter(efef) *(,) scri(hh)bén(gxfe/fgEDefDC , ef!hvhvFEff//ef/ge)tis.(c///eec//ed/ec) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "42"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1797",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "beatus-vir-qui-timet-all-765",
+  "incipit": "Beatus vir qui timet (All.)",
+  "title": "Beatus vir qui timet (All.)",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Beátus vir, qui timet Dóminum: in mandátis ejus * cupit nimis.",
+  "gabc": "(c3) AL(d!f'h~)le(h_f)lú(fh'/ih~)ia.(iv.hiHF'fd.) *(;) <i>ij.</i>(gxfgF'Egyhighf./dfe/feed.) <sp>V/</sp>.(::) Be(d.f!gwh)á(h_iHE.gxgfgE'Dd'f/h_f)tus(fh/i_hjvIH) vir,(h.) (;) qui(h_f) ti(gxg)met(gyf_e/highf.gxegF'Ef') Dó(d)mi(ded__)num:(d.) (:) in(d) man(d)dá(efeffefv. , hih'__ivHF'Ef.//hiH'F)tis(gxgvFE) e(gxfhfg~)jus(f.) *(;) cu(d!e'f)pit(fhGF') ni(i)mis.(hhf.) (,) (gxg_fgvED.fgED.fe/hv.hhhff//dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[46]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "765",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

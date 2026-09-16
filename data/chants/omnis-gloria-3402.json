@@ -1,0 +1,31 @@
+{
+  "id": "omnis-gloria-3402",
+  "incipit": "Omnis gloria",
+  "title": "Omnis gloria",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Omnis glória ejus * fíliae regis ab intus, in fímbriis áureis, circumamícta varietátibus: adducéntur regi vírgines post eam, próximae ejus afferéntur tibi. Ps. Eructávit cor meum verbum bonum: * dico ego ópera mea regi. Glória Patri E u o u a e",
+  "gabc": "(c4) O(e/fff)MNIS(ed) gló(gh)ri(g)a(hj) e(j)jus(j) *(,) fí(ij)li(j)ae(jjj) re(hig)gis(h) ab(h) in(h!iwj/kjj)tus,(ji) (;) in(g) fím(gh~)bri(h)is(h!jj) áu(i!jk)re(j)is,(ijh) (;) cir(g)cu(h)ma(i)mí(gh)cta(h) va(g)ri(h)e(g)tá(h)ti(g)bus:(egff/ded) (:) ad(d)du(fhg)cén(gff)tur(df) re(ef!gwh)gi(g) (,) vír(hhg)gi(fg)nes(g!jj) post(hg) e(hi)am,(gh!iw!jvIH/ijgg/efe) (:) pró(ge)xi(f)mae(g) e(gh!jvHF/gwhgh)jus(hg) (;) af(gh)fe(g)rén(g/jjh/jvIGh)tur(g) ti(gf/hvGF/gvFE)bi.(e) <i>Ps.</i>(::) E(g)ru(hj)ctá(j)vit(j) cor(j) me(j)um(j) ver(k)bum(j) bo(ih)num:(jjj) *(:) di(ig)co(hj) e(j)go(j) ó(j)pe(j)ra(jji) me(hg)a(h) re(i)gi.(gh) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[167]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3402",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

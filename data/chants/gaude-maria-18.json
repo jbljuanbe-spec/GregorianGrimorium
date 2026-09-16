@@ -1,0 +1,37 @@
+{
+  "id": "gaude-maria-18",
+  "incipit": "Gaude Maria",
+  "title": "Gaude Maria",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Gaude * María Virgo, cunctas haéreses sola interemísti. ℣. Quae Gabriélis Archángeli dictis credidísti. ℣. Dum Virgo Deum et hóminem genuísti et post partum, Virgo, invioláta permansísti. ℣. Dei Génitrix, intercéde * pro nobis.",
+  "gabc": "(f3) GAu(f)de(fv.eee_c/d_b bc/d!ef./ghggf.) *(,) Ma(e!f'h)rí(ghGE')a(f) Vir(g_fg)go,(fe/ggf/gh/iffe.) (:) cunc(e)tas(e) haé(gh)re(f)ses(f) so(f_e/f!gwh'!iv)la(hg/hiih.) (;) in(ef)te(eh)re(gh/ih)mí(hvGF')sti.(f/ggf.) <sp>V/</sp>.(::) Quae(f) Ga(e)bri(f)é(h'/ihhf/g'/hggf/h'/ihhg/i'/jiig/h'/ighf)lis(f.) (,) Arch(h)án(kx/hj/kiig/ijhhvFE'f!hh/ijij. , kx/hj!kvIH'hf/ihhf//)ge(fe//)li(e.) (;) di(hhg)ctis(e) cre(g!h'i)di(h)dí(hvGF')sti.(f/ggf.) <sp>V/</sp>.(::) Dum(hi) Vir(i_jI~H~//)go(kx/iji___/jkI'H//j_i/jkI'H) (,) (jji/jvIH//jji/jvIH//j_i/jiif.) (;) De(hhg )um(f) et(h) hó(h!i'j)mi(jvIH'GhvGF'g)nem(gf..) (;) ge(f')nu(i)í(jiif/hhf/jvIH'hvGF)sti(fe/ggf/gh/iffe.) (:) et(e) post(e) par(gh)tum,(f) Vir(f_e/f!gwh'!iv//)go,(kx/hgi./jkiih.) (;) in(hi)vi(hhg)o(fe)lá(fh)ta(h) per(h)man(gh/ih)sí(hvGF')sti.(f/ggf.) <sp>V/</sp>.(::) De(ef)i(f/hhhvF'E//f_ef.) Gé(ef!hhi)ni(h)trix,(h.) (;) in(hi~)ter(hihhe)cé(fgf)de(g.) *() pro(g) no(i_hivHFg. , hjijH'GF)bis.(fe/f!hh/ijI'Gh.) (,) (gh!jvIH'hvGFggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[78]"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1266"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "18",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "confitemini-quoniam-507",
+  "incipit": "Confitemini... quoniam",
+  "title": "Confitemini... quoniam",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "[[\"gabc\",\" Alleluia. \",],[\"gabc\",\" Confit\\u00e9mini D\\u00f3mino, qu\\u00f3niam bonus: qu\\u00f3niam in sa\\u00e9culum miseric\\u00f3rdia * ejus. \",]]",
+  "gabc": "[[\"gabc\",\"(c4) AL(e)le(gg/higg'g/h_g)lu(gg/hig)ia.(g/gh//gjh/ih/hg.) (::) \",{}],[\"gabc\",\"(c4) COn(g)fi(g)t\\u00e9(j)mi(j)ni(jjjvHG) D\\u00f3(ig/hjij)mi(ih)no,(jjh//i'/jkhhg.) (;) qu\\u00f3(gi/kj)ni(j)am(jjj) bo(hk)nus:(kj/kjji.) (:) qu\\u00f3(igiHG//i_g/h!iwjjk)ni(j)am(j.) in(h!iwj) sa\\u00e9(j)cu(h!iwj)lum(i'/jkhhg.) (;) mi(hf)se(g)ri(h)c\\u00f3r(h!iwj)di(hg)a(g.) *(,) e(hf/gh!jjjg//jjjk)jus.(i.//gjh/ihhg.) (::)\",{}]]",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "239L"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "507",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

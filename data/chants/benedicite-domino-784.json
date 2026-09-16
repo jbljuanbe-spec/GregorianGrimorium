@@ -1,0 +1,37 @@
+{
+  "id": "benedicite-domino-784",
+  "incipit": "Benedicite Domino",
+  "title": "Benedicite Domino",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Benedícite Dómino omnes virtútes ejus: minístri ejus, qui fácitis voluntátem * ejus.",
+  "gabc": "(c4) AL(fd~)le(e!f'g)lú(hgh)ia.(ixhiHG'gf.) *(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) <sp>V/</sp>.(::) Be(h)ne(h)dí(h)ci(g)te(ixg'//ivHG'hffe.) (,) Dó(fd/ef!ghhg)mi(fg)no(g.) (;) o(g)mnes(gh) vir(h_g~)tú(ghg'/hf)tes(ed) e(egF'D)jus:(d.) (:) mi(dc)ní(f)stri(ghg) e(ixhiG'Eg./hiF'D//fffdgvFE. , df/h_f/g_efv.df!gvFE'f)jus,(fe..) (:) qui(f) fá(df)ci(f)tis(f) vo(f)lun(e!f'g)tá(gdgvFE)tem(e.) *(,) e(fd/ef!g'h)jus.(ixhiHG'gf.) (,) (ixhiHG'ge./ghGF'Ef_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "612"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1664"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "784",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "audi-filia-738",
+  "incipit": "Audi filia",
+  "title": "Audi filia",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Audi fília, * et vide, et inclína aurem tuam: quia concupívit rex spéciem tuam. ℣. Vultum tuum deprecabúntur omnes dívites plebis: fíliae regum in honóre tuo. ℣. Adducéntur regi vírgines post eam: próximae ejus afferéntur tibi. ℣. Adducéntur in laetítia et exsultatióne: adducéntur in templum * regis.",
+  "gabc": "(f3) AU(f)di(efE'C) fí(efef)li(gf)a,(f.) *(,) et(ef/hgh) vi(ghG'F)de,(e!fwgf//ghghvGFgf..) (;) et(e) in(fe~)clí(eh)na(h) au(h)rem(hgg) tu(fe)am:(ef/gf/ggf/gh/iffe.) (:) qui(e)a(e) con(gh)cu(f)pí(f)vit(f_e/f!gwh'!iv) rex(hg/hiih.) (;) spé(ef)ci(eh)em(g/hih) tu(hvGF')am.(f/ggf.)\r\n\r\n<sp>V/</sp>.(::) Vul(e)tum(f) tu(fh)um(hh//hhh) de(f)pre(f)ca(hg)bún(h)tur(f.) (,) o(f!hh//hhh)mnes(fe/ggf/gh/iffe.) (,) dí(g!h'i)vi(hg)tes(fg) ple(f)bis:(fe/ggf/gh/iffe.) (:) fí(gh)li(f)ae(f) re(f_e/f!gwh'!iv)gum(hg/hiih.) (;) in(ef) ho(ef)nó(eh)re(g/hih) tu(hvGF')o.(f/ggf.)\r\n\r\n<sp>V/</sp>.(::) Ad(fhg)du(h)cén(iji___/j_i/j_f)tur(f.) (,) re(h)gi(hi!jvIH'GhvGFgf..) (;) vír(f)gi(hg)nes(hf) post(f) e(f!hh//hhh)am:(fe/ggf/gh/iffe.) (:) pró(gh)xi(f)mae(f) e(f_e/f!gwh'!iv)jus(hg/hiih.) (;) af(ef)fe(ef)rén(eh)tur(g/hih) ti(hvGF')bi.(f/ggf.)\r\n\r\n<sp>V/</sp>.(::) Ad(e)du(f)cén(hi)tur(f.) in(e) lae(f)tí(hi)ti(hg/hvGF'g)a(gf..) (;) et(f) ex(f)sul(hg~)ta(hf)ti(f)ó(f!hh//hhh)ne:(fe/ggf/gh/iffe.) (:) ad(gh~)du(f)cén(f_e/f!gwh'!iv)tur(kxhgi./jkiih.) (;) in(h/ihhe) tem(fgf)plum(g.) *() re(i_hivHFg.,hjijH'GF)gis.(fe/f!hh/ijI'Gh.) (,) (gh!jvIH'hvGFggf.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[62]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "738",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

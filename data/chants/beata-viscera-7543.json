@@ -1,0 +1,31 @@
+{
+  "id": "beata-viscera-7543",
+  "incipit": "Beata viscera",
+  "title": "Beata viscera",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Beáta víscera Maríae Vírginis, quae portavérunt aetérni Patris Fílium. T.P. Allelúia.",
+  "gabc": "(c4)Be(d)á(f)ta(fe) (::) ví(fg)sce(efEDe)ra(ed) (;) Ma(f)rí(gh)ae(hvGF) Vír(ixghg/hi)gi(h)nis,(h) (:) quae(f) por(gh)ta(hghf/gVFE)vé(de/fef)runt(ed) (;) ae(h)tér(ixjh/hg/hi)ni(h) (;4) Pa(dc/dffvgh)tris(fe) Fí(d)li(de/fef)um.(ed) (::) <i>T.P.</i> Al(fVgf~)le(ed/fh/ghg;4ef/g/hf/gVFE)lú(de/fef)ia.(ed) (::)",
+  "transcriber": "Cody Jorgensen, OP",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "569"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7543",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

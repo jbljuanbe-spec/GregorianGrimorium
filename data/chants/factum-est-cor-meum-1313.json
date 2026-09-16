@@ -1,0 +1,37 @@
+{
+  "id": "factum-est-cor-meum-1313",
+  "incipit": "Factum est cor meum",
+  "title": "Factum est cor meum",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Factum est cor meum * tamquam cera liquéscens in médio ventris mei: quóniam zelus domus tuae comédit me. T. P. Allelúia, allelúia. Ps. Quam bonus Israel Deus: * his qui recto sunt corde! Glória Patri E u o u a e",
+  "gabc": "(c4) FA(e./fff)ctum(ed~) est(gh) cor(g) me(hj)um(j.) *(,) tam(j)quam(j) ce(j)ra(jjj) li(hig)qué(h!iwj/kjj)scens(ji..) (;) in(gh~) mé(hhgh)di(gf)o(f) ven(e!f'h~)tris(h!iwj) me(g_f/gvFD)i:(d.) (:) quó(gj)ni(j)am(jjj) ze(h)lus(hg) do(high)mus(e) tu(fgef)ae(d.) (,) co(dg)mé(ghfg//e!fg/hfg)dit(e!fw!gv_FE) me.(e.) <i>T. P.</i>(::) Al(g)le(hg)lú(g!jjj)ia,(j_kJG.) (,) al(gh~)le(h!iw!jvIG)lú(g_e/fgF'E)ia.(e.) <i>Ps.</i>(::) Quam(g) bo(hj)nus(j) Is(k)ra(j)el(j) De(ih)us:(jjj) *(:) his(ig) qui(hj) re(jji)cto(hg) sunt(h') cor(i)de!(gh..) (::) Gló(g)ri(hj)a(j) Pa(j)tri(j) (::) E(j) u(jji) o(hg) u(h') a(i) e(gh..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "505"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1477"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1313",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

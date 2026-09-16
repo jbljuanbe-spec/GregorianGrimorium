@@ -1,0 +1,31 @@
+{
+  "id": "lutum-fecit-6341",
+  "incipit": "Lutum fecit",
+  "title": "Lutum fecit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Lutum fecit ex sputo Dóminus, et linívit óculos meos: et ábii, et lavi, et vidi, et crédidi Deo.",
+  "gabc": "(f3) Lu(h)tum(gh) fe(f)cit(fe) (::) ex(h) spu(hi)to(i) Dó(ij)mi(ih)nus,(h) (;) et(h) li(i)ní(j)vit(ih) ó(ij)cu(i)los(h) me(hvGF)os:(f) (:) et(h) á(hi)bi(i)i,(h) (;6) et(j) la(ji)vi,(h) (;6) et(i) vi(hg)di,(f) (;) et(fe) cré(hi)di(j)di(i) De(h)o.(h) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "129"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6341",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

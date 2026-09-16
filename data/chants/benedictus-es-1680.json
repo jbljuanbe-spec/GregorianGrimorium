@@ -1,0 +1,31 @@
+{
+  "id": "benedictus-es-1680",
+  "incipit": "Benedictus es",
+  "title": "Benedictus es",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Benedíctus es, * Dómine, qui intuéris abýssos, et sedes super Chérubim. ℣. Benedíctus es Dómine, in firmaménto coeli, et laudábilis * in saécula.",
+  "gabc": "(c4) BE(d)ne(ff)díc(fhgh)tus(h) es,(ggf) *(,) Dó(h)mi(ixi)ne,(hg//hiHF//ghFD//ev//dec/fg/hggf) (;) qui(j) in(jkJH)tu(jk)é(j)ris(ixjhiHG/ivHG/kv//jkJF//gh/jiih) (,) a(ixjh/i!jwk)býs(jkJIHi)sos,(ih) (:) et(g) se(ixh!ij)des(ih) su(ixjhi)per(gf) Ché(f)ru(hg)bim.(jkijh//fhg/hggf) <sp>V/</sp>.(z0::c3) Be(d)ne(f)díc(hvvGF/hvGE/ff/gxde!fgFE/fvEDe,fh/ih/ih/ijh)tus(gh) es(h) (,) Dó(ih/kkh/ih/kkvIH)mi(hg/hvGFg)ne,(gf) (;) in(hi!jwk) fir(ih~)ma(hf)mén(f!hhe)to(f) (,) coe(gxfgFE//fgFD//fvED/ed)li,(d) (:) et(d) lau(ef)dá(f)bi(f)lis(hfg) *() in(e) saé(ef!gwh)cu(h)la.(he) (,) (gxhfgED//ef/hff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "263"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1680",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

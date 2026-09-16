@@ -1,0 +1,31 @@
+{
+  "id": "in-omnem-terram-com-212",
+  "incipit": "In omnem terram (Com.)",
+  "title": "In omnem terram (Com.)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "In omnem terram * exívit sonus eórum: et in fines orbis terrae verba eórum, allelúia, allelúia.",
+  "gabc": "(c4) IN(g) o(hj~)mnem(j) ter(jhjvIG)ram(g.) *(;) ex(g)í(gh/ji)vit(j) so(i!j'k)nus(kh) e(h)ó(hkj__)rum:(ikjj/ghg.) (:) et(g) in(h) fi(g.h!iwj)nes(j) or(hi)bis(h_g) ter(hjg'hvGF'g)rae(gf..) (;) ver(gh~)ba(hgh) e(fg)ó(gh/jhi)rum,(hg..) (;) al(gi~)le(i)lú(jkj)ia,(h.) (,) al(gi~)le(iv.hji)lú(ghg__)ia.(g.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[90]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "212",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

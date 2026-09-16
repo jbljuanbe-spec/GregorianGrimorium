@@ -1,0 +1,37 @@
+{
+  "id": "in-die-resurrectionis-1042",
+  "incipit": "In die resurrectionis",
+  "title": "In die resurrectionis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. In die resurrectiónis meae, dicit Dóminus, praecédam vos * in Galilaéam.",
+  "gabc": "(c3) AL(e)le(e)lú(e_f//df!hvGF/hi~)ia.(ie..) *(,) <i>ij.</i>(fg!hvGFE./df!gvFE.) (;) (de!fv./gh'GFE./df!gvFE.//fgf/ge/ffe.) <sp>V/</sp>.(::) In(ei) di(i)e(ihhf//h_ie.) (,) re(d)sur(f!gwh)re(hg)cti(fe)ó(fg)nis(f) me(efe___)ae,(e.) (,) di(dc)cit(de) Dó(e)mi(ef/hfg)nus,(fe..) (:) prae(i/kj/k_lK'JI')cé(i/kj/k_lK'JI'//hkkvJH/ivHF)dam(hi~) vos(i.) *(;) in(e) Ga(e)li(e)laé(e_f//df!hvGF/hi)am.(ie..) (,) (fg!hvGFE./df!gvFE.) (;) (de!fv./gh'GFE./df!gvFE.//fgf/ge/ffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "262"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "809"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1042",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

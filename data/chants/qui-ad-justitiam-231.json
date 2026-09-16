@@ -1,0 +1,37 @@
+{
+  "id": "qui-ad-justitiam-231",
+  "incipit": "Qui ad justitiam",
+  "title": "Qui ad justitiam",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Qui ad justítiam erúdiunt multos, fulgébunt quasi stellae in perpétuas * aeternitátes.",
+  "gabc": "(c2) AL(c)le(ce/g_f)lú(ef!gvFE'g)ia.(g_f/g_e) *(,) (g/iivG'F/gv.fffc..) (;) (dffe/fhGF'D//gf/gffc.) (,) (fffvD'C/d_eddc.) <sp>V/</sp>.(::) Qui(cg) ad(gh) ju(gfg)stí(gvFD/e!fg)ti(fe)am(e.) (,) e(ef)rú(dg)di(gh)unt(hggf) mul(fg/iiivGF/ii/jiivHG')tos,(ghhg.) (;) ful(fg)gé(gi/hi!jvIH'G/fhggfg)bunt(g.) (,) qua(f)si(gh) stel(hgh)lae(gf) in(fd) per(ef)pé(g!hwi/ji)tu(hg)as(g.) *() ae(g)ter(g)ni(fg)tá(ghg/h_f//d/fff_d)tes.(,) (ghF'E/ggfg/g./jjvHG'/d/ffd/ec..) (;) (fhg___/hiG'F/de!gvvFE'De.) (,) (dfe/f_e//dfe/f_e//dfe'/ge'/fvD'C/d_eddc.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "497"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1467"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "231",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

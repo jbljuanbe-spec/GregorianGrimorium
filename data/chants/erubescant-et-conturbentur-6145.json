@@ -1,0 +1,31 @@
+{
+  "id": "erubescant-et-conturbentur-6145",
+  "incipit": "Erubescant et conturbentur",
+  "title": "Erubescant et conturbentur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Erubéscant, et conturbéntur omnes inimíci mei: avertántur retrórsum, et erubéscant valde velóciter.",
+  "gabc": "(c4) E(fe)ru(f)bé(ixg!hih)scant,(ghg) (::) et(gffe) con(de)tur(cd)bén(dffv)tur(d) (;) o(dcd)mnes(df) i(c)ni(d)mí(fe)ci(fg) me(gffef)i:(fe) (:) a(dg)ver(g)tán(gh)tur(g) re(f)trór(df/ghgh)sum,(f) (;) et(fd) e(f)ru(f)bé(efd)scant(d) (;) val(cd)de(d) ve(d)ló(dcd//ffv//gh/ixivHG//hvFE)ci(egFE)ter.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "91"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6145",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

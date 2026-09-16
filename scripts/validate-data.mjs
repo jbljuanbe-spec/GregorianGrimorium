@@ -14,6 +14,7 @@ const validate = ajv.compile(schema);
 
 const files = readdirSync(chantsDir).filter((f) => f.endsWith(".json"));
 let errors = 0;
+const byStatus = {};
 const seenIds = new Set();
 
 for (const file of files) {
@@ -42,9 +43,11 @@ for (const file of files) {
     continue;
   }
   seenIds.add(record.id);
-
-  console.log(`✓ ${file} (${record.review_status})`);
+  byStatus[record.review_status] = (byStatus[record.review_status] ?? 0) + 1;
 }
 
-console.log(`\n${files.length} registros, ${errors} error(es)`);
+const summary = Object.entries(byStatus)
+  .map(([status, count]) => `${count} ${status}`)
+  .join(", ");
+console.log(`${files.length} registros (${summary}), ${errors} error(es)`);
 process.exit(errors > 0 ? 1 : 0);

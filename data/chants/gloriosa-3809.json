@@ -1,0 +1,31 @@
+{
+  "id": "gloriosa-3809",
+  "incipit": "Gloriosa",
+  "title": "Gloriosa",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Gloriósa * dicta sunt de te, María: quia fecit tibi magna qui potens est.",
+  "gabc": "(c4) GLO(gg)RI(gh)Ó(hvGF//gh!iwjg)SA(g) *(,) di(g!jj)cta(j) sunt(kij) de(h) te,(hvGF) Ma(h)rí(hjIG)a:(g) (:) qui(g)a(hih) fe(g)cit(e) ti(ffg)bi(gvFED) ma(f/gh/jg)gna(g) (,) qui(f) po(ghg/h!jjh)tens(hig) est.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "350"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3809",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

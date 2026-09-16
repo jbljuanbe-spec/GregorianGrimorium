@@ -1,0 +1,31 @@
+{
+  "id": "concaluit-cor-3773",
+  "incipit": "Concaluit cor",
+  "title": "Concaluit cor",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Concáluit cor meum intra me: et in meditatióne mea exardéscet * ignis.",
+  "gabc": "(c4) AL(dh)LE(gvFE/gh!iw!jvIH)LÚ(hih)IA.(h) *(;) (d!ewf!gvvFE/fvED/evDCd) (;) (hig/hffvEC/d/fff//ef/ge//gvFED) <sp>V/</sp>.(::) Con(d)cá(cd)lu(d)it(dffvED/gffe) cor(dc~) me(dfd)um(effe) (,) in(ef/gf)tra(ed!ewfd) me:(d) (:) et(d) in(fe) me(fg)di(gh)ta(ixhi)ti(hg)ó(hg/hvGF/gffe)ne(e/ghGFED) me(c/efd)a(d) (;) ex(h)ar(gh)dé(gf//g/hjh/ig//hvGF/ghhhvGFg,hjh/ig//hvGF/ghhgh)scet(gvFE) *() ig(gh!iw!jvIH/ih)nis.(h) (;) (d!ewf!gvvFE/fvED/evDCd) (;) (hig/hffvEC/d/fff//ef/ge//gvFED)  (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "435"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3773",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

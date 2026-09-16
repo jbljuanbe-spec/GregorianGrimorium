@@ -1,0 +1,37 @@
+{
+  "id": "sederunt-principes-906",
+  "incipit": "Sederunt principes",
+  "title": "Sederunt principes",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Sedérunt * príncipes, et advérsum me loquebántur: et iníqui persecúti sunt me. ℣. Adjuva me, Dómine Deus meus: salvum me fac propter misericórdiam * tuam.",
+  "gabc": "(c3) SE(b)dé(dd/f_ef)runt(ded.) *(,) prín(d!e'f)ci(f)pes,(fefED'dfvEDed..) (;) et(d) ad(d)vér(e)sum(f) me(hih___/ihh/fgf.) (,) lo(f)que(hh)bán(hh//hh)tur:(f.) (:) et(f) i(h)ní(i!jwk)qui(i.) per(h)se(h)cú(h)ti(gh) sunt(fe~) me.(dfe___/h!ighf./dfe/feed.) <sp>V/</sp>.(::) Ad(d)ju(d)va(f) me,(gxg) Dó(h)mi(h)ne(ihh'hf/hv.ijh.,hv.ijIH.ijHF.ghFD.,fdfEDfd/ef!hh/ig/hf/hi!kkkh..) (;) De(f!h'i)us(ih/jki/hhf.) (`) me(hf/hhh)us:(hf!gwh!iv.hi/jhh/iih.) (:) sal(d)vum(d) me(d) fac(d.) (,) prop(d)ter(d) mi(d)se(d)ri(d)cór(dfE'D)di(ef)am(f.) *() tu(fhG'Fhhh)am.(hhf.,gxg_fgvED.fgED.fehv.hhhff/dfe/feed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "36"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "416"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "906",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

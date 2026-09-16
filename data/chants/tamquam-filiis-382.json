@@ -1,0 +1,31 @@
+{
+  "id": "tamquam-filiis-382",
+  "incipit": "Tamquam filiis",
+  "title": "Tamquam filiis",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Tamquam fíliis dico: dilatámini * et vos.",
+  "gabc": "(c4) AL(g)le(gh)lú(g!iwj/kjji)ia.(g.) *(,) (jv.ijHG'hfg./hg/h!jjjvIH'Gh_ihhg.) <sp>V/</sp>.(::) Tam(g!hwi/ji~)quam(i) fí(h!iwji)li(hg)is(hi) di(hg)co:(g./hg/h!jjjvIH'Gh_ihhg.) (:) di(g)la(hi)tá(ih/kj)mi(hg)ni(g) *() et(hi) vos.(ihhg.) (,) (jv.ijHG'hfg./hg/h!jjjvIH'Gh_ihhg.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "547"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "382",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

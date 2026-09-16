@@ -1,0 +1,31 @@
+{
+  "id": "eripe-me-1651",
+  "incipit": "Eripe me",
+  "title": "Eripe me",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Eripe me de inimícis meis, Deus meus: et ab insurgéntibus in me * líbera me.",
+  "gabc": "(f3) AL(ef~)LE(f/hfg/hvGEf//hf/gf)LÚ(ef~)IA.(f/hvGF) *(;) <i>ij.</i>(f/ivHGF//g/hvGFfe) (,) (f/ivHGF//e!hhhvGF/ggf) <sp>V/</sp>.(::) E(ef)ri(f)pe(fg/hf/ge//fg!hvGF/ef~) me(f) (,) de(fg) i(e)ni(f)mí(f)cis(fi~) me(ivvHFE)is,(f) (;) De(ih/ih/ivHFE)us(f) me(hg/hg/hvGFE)us:(f/hvGF) (:) et(f) ab(f) in(hg~)sur(hi~)gén(iv//hih/f!gwhgh/fgffe//fg!hvGFEf;fg!hi//hih/f!gwhgh/fgffe//fg!hvGFEf,fg!hi)ti(fe)bus(ec) in(ef~) me(f/hvGF) *(;) lí(ef)be(f/hfg/hvGEf//hf/gf)ra(ef~) me.(f/hvGF) (;) (f/ivHGF//g/hvGF/fe) (,) (f/ivHGF//e!hhhvGFggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "293"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1651",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

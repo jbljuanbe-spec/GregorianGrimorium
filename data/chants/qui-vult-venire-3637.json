@@ -1,0 +1,31 @@
+{
+  "id": "qui-vult-venire-3637",
+  "incipit": "Qui vult venire",
+  "title": "Qui vult venire",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Qui vult veníre post me, * ábneget semetípsum: et tollat crucem suam, et sequátor me.",
+  "gabc": "(c4) QUI(d) vult(f) ve(fe)ní(gh)re(ixih) post(fg) me,(fvED) *(;) áb(ixf!gwhg/hih)ne(g)get(f) se(fe)me(d)tí(f!gh)psum:(e) (:) et(h) tol(ghg)lat(ef) cru(ghgh)cem(fd) su(gef)am,(f) (;) et(eg/hjh) se(fg)quá(ef)tor(d!ew!fvEC) me.(d) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[11]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3637",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

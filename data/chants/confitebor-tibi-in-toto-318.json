@@ -1,0 +1,31 @@
+{
+  "id": "confitebor-tibi-in-toto-318",
+  "incipit": "Confitebor tibi... in toto",
+  "title": "Confitebor tibi... in toto",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Confitébor * tibi, Dómine, in toto corde meo: retríbue servo tuo: vivam, et custódiam sermónes tuos: vivífica me secúndum verbum tuum, Dómine.",
+  "gabc": "(c4) COn(c)fi(d)té(ixdh'!iv)bor(h) *(,) ti(ixh!jjh/i_j)bi,(g_fg) Dó(iyhjI'H)mi(hih___)ne,(h.) (;) in(f) to(hjh___!iwj)to(ghF'Df') cor(d!fff)de(fgffe) me(de!fvED'e)o:(ed..) (:) re(d)trí(d!f'g)bu(hgh)e(ixhig'hvF'Df.) ser(df)vo(ghg) tu(h)o:(gf) (;) vi(hjI'H)vam,(hih.___) (,) et(fh) cus(h)tó(hjI'H)di(hgh)am(hgg) (,) ser(fg)mó(f!g'h)nes(ixhjHG'hw!ivHG) tu(fg!hvGF'g )os:(gf..) (:) vi(f)ví(fh/jhj)fi(g)ca(fgf) me(dff'ff) (;) se(d)cún(d!ew!fvEDevD~C~)dum(dc__) (,) ver(f./hjh/ghg/fgF'Dfff)bum(f) tu(f)um,(fgffe) Dó(d)mi(de!fvED'e)ne.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "155"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "318",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

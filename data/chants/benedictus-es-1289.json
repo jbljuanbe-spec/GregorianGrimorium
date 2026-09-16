@@ -1,0 +1,49 @@
+{
+  "id": "benedictus-es-1289",
+  "incipit": "Benedictus es",
+  "title": "Benedictus es",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Benedíctus es, Dómine Deus patrum nostrórum, et laudábilis * in s'æcula.",
+  "gabc": "(c3) AL(e)le(ef)lú(fg)ia.(e.) *(,) <i>ij.</i>(fe/fhGE./ee/fe/fe/fhGE.) (;) (giHG'FE/fe//fhG'FE/ffe.) <sp>V/</sp>.(::) Be(eee)ne(eh)dí(h)ctus(hg) es,(fe/fgffe.) (;) Dó(e)mi(ei)ne(i) De(ivHG'h)us(hg..) (,) pa(e)trum(gf~) no(hg)stró(fe)rum,(e./fhg/hihhg.) (:) et(eh) lau(hg~)dá(f)bi(fe)lis(e./fgffe.) *(;) in(eee) s<sp>'æ</sp>(e)cu(fg)la.(g_e) (,) (fe/fhGE./ee/fe/fe/fhGE.) (;) (giHG'FE/fe//fhG'FE/ffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "306"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "309"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "904"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "911"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1289",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

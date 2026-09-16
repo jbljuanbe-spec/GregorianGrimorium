@@ -1,0 +1,37 @@
+{
+  "id": "gaudete-justi-216",
+  "incipit": "Gaudete justi",
+  "title": "Gaudete justi",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Gaudéte justi in Dómino: rectos decet * collaudátio.",
+  "gabc": "(c4) AL(d!ff)le(ef)lú(ghG'Fggh)ia.(hjHG'gf.) *(;) <i>ij.</i>(ghg'/hvGF'fd./ghG'F//g_f/gffe.) \r\n<sp>V/</sp>.(::) Gau(fffg~)dé(ixdg/hg/hi)te(h) jus(hhgh)ti(e.) (,) in(f!gwhg~) Dó(hhg)mi(hgh)no:(fgf'/gv/ded.___) (:) rec(d!ffd/ffd d!ef!gh)tos(ghg.) (,) de(h_f/gffv//ce'!gv//hgg'g//ggge//fe/fvED//fgfg)cet(fe..) *(;) col(e!fwg'!hv)lau(gh~)dá(hvGF)ti(ghg)o.(hjHG'gf.) (;) (ghg'/hvGF'fd./ghG'F//g_f/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "406"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1327"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "216",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

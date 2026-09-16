@@ -1,0 +1,37 @@
+{
+  "id": "dicite-in-gentibus-1571",
+  "incipit": "Dicite in gentibus",
+  "title": "Dicite in gentibus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Dícite in géntibus: quia Dóminus regnávit * a ligno",
+  "gabc": "(c4) AL(g)LE(g)LÚ(gh!jvIH)IA.(jkJG//hvGFg) *(;) <i>ij.</i>(dg/hggf//h/jh/ig) (,) (dg/hggf//h/ijg) <sp>V/</sp>.(::) Dí(ggg)ci(gi)te(ijIG//hihhg) (,) in(gh) gén(gh)ti(gh!ivHGh)bus:(hg) (:) qui(g)a(ge) Dó(fgFE/fvED/g!hi)mi(hgh)nus(hjg) (,) re(gfh~)gná(hv//gjh/ih//gjhi)vit(hg) *(;) a(g) li(gh!jvIH)gno(jkJG//hvGFg) (;) (dg/hggf//h/jh/ig) (,) (dg/hggf//h/ijg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "217"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "427"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1571",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

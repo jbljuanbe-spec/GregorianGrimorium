@@ -1,0 +1,31 @@
+{
+  "id": "justus-ut-palma-4283",
+  "incipit": "Justus ut palma",
+  "title": "Justus ut palma",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Justus ut palma florébit : sicut cedrus Líbani multiplicábitur : plantátus in domo Dómini, in átriis domus Dei nostri. T. P. Allelúia, allelúia. ℣. Bonum est confitéri Dómino : et psállere nómini tuo, Altíssime.",
+  "gabc": "(c4)Ju(dffd//ffv)stus(ed) (::) ut(cd) pal(c!df)ma(ffe) flo(d)ré(d!efED)bit :(dffv) (:) si(c)cut(d) ce(f)drus(g) Lí(f)ba(gh)ni(h) (;6) mul(h)ti(h)pli(h)cá(hjHG)bi(hggfg)tur :(gf) (:) plan(df)tá(ffgf)tus(f) (;4) in(f) do(f)mo(gefe) Dó(d)mi(dffgf)ni,(f) (;) in(cd) á(ffg)tri(f)is(f) do(fg)mus(gffv) (;4) De(d)i(dffv) no(dc//ffvced)stri.(d) (::) <i>T. P.</i>(/) Al(ixhi)le(h)lú(hgh>)ia,(fd) (;) al(fg>)le(ef//ghf/gvFE)lú(de/fef)ia.(ed) (::)\r\n<sp>V/</sp>. Bo(f)num(gh) est(h) con(h)fi(h)té(hj)ri(h) Dó(h)mi(hg)no :(gh) (::) et(gf) psál(gh)le(h)re(h) nó(h)mi(h)ni(h) tu(h)o,(hjh) Al(g)tís(f)si(fe)me.(d) (::)",
+  "transcriber": "Innocent Smith, op",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "39*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4283",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

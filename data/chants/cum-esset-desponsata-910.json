@@ -1,0 +1,37 @@
+{
+  "id": "cum-esset-desponsata-910",
+  "incipit": "Cum esset desponsata",
+  "title": "Cum esset desponsata",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Cum esset * desponsáta mater ejus María Joseph, invénta est in útero habens de Spíritu Sancto.",
+  "gabc": "(c4) CUM(gh) es(h)set(hjhhg.) *() de(g)spon(ikj)sá(j.h!iwj)ta(j_i) (,) ma(ji)ter(gh) e(hiH'G)jus(h_g) (;) Ma(gh)rí(h!jjjh/kvJI'j)a(i_h) (,) Jo(gh!jj/kljj'jh!iwj_i)seph,(jjjvIH'/jhh/fgf.) (:) in(ef)vén(g_!h_i)ta(h_gh) est(h!jj/khhg.) (;) in(g) ú(hjh__!iwj)te(g)ro(fhg) ha(jv.ij/kjk)bens(iij.) (;) de(gh) Spí(g!jjj)ri(j)tu(kij) Sanc(ixhg/hiG'F/ghFE/f_gF'E)to.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "624"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1685"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "910",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

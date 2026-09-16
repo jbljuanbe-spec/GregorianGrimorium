@@ -1,0 +1,31 @@
+{
+  "id": "ecce-dominus-veniet-439",
+  "incipit": "Ecce Dominus veniet",
+  "title": "Ecce Dominus veniet",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ecce Dóminus véniet, * et omnes sancti ejus cum eo: et erit in die illa lux magna.",
+  "gabc": "(c2) EC(f)ce(f) Dó(f)mi(f)nus(f) vé(f)ni(dc)et,(c.) *(,) et(dbc) om(ffg~)nes(f) sanc(fg~)ti(f) e(fg)jus(f_e) cum(gig___!hwi) e(fgf___)o:(f.) (:) et(f) e(f!gwh'!iv)rit(h) in(h) di(hjj)e(hj) il(gf~)la(fgff/ded.) (,) lux(f_e/ggh) ma(fg!hvGF'g)gna.(gf..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "12"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "439",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

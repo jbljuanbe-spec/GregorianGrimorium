@@ -1,0 +1,31 @@
+{
+  "id": "venite-adoremus-5307",
+  "incipit": "Venite adoremus",
+  "title": "Venite adoremus",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Veníte, adorémus Deum, et procidámus ante Dóminum: plorémus ante eum, qui fecit nos: quia ipse est Dóminus Deus noster. ℣. Veníte, exsultémus Dómino: jubilémus Deo salutári nostro. Glória E u o u a e.",
+  "gabc": "(f3) Ve(h)ní(i)te,(fhe) (::) a(e)do(f)ré(hhi)mus(h) De(hjIH)um,(hhv/fgf) (:) et(fc) pro(efe)ci(f)dá(hhv)mus(hiHF) (;4) an(f!hi)te(i) Dó(ijIH)mi(hih)num:(h) (:) plo(fef)ré(hfh)mus(hiHF) (;) an(f!hi)te(i) e(hihhe)um,(f) (;3) qui(hg) fe(h)cit(fgffe~) nos:(e) (:) qui(f)a(fef) i(hf/hhi)pse(h) est(h) (;) Dó(h)mi(hhv)nus(ef) De(fih)us(hg) no(hghf)ster.(f) <sp>V/</sp>.(::) Ve(e)ní(f)te,(eh) ex(h)sul(hg)té(hi)mus(i) Dó(hi)mi(h)no:(h) (::) ju(h)bi(fh)lé(h)mus(h) De(h)o(h) sa(h)lu(i)tá(hf)ri(h) no(ge)stro.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "334"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5307",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

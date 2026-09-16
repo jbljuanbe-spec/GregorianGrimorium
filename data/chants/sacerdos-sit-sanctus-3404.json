@@ -1,0 +1,31 @@
+{
+  "id": "sacerdos-sit-sanctus-3404",
+  "incipit": "Sacerdos sit sanctus",
+  "title": "Sacerdos sit sanctus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * Sacérdos sit sanctus, sicut et ego sanctus sum, Dóminus * qui sanctífico vos.",
+  "gabc": "(f3) AL(fg~)LE(f)LÚ(fg!hiivHGhwi)IA.(ih!iw!jvIHif) *(;) (fg!hjh/ig//ef!hvhgivHGF) (::) Sa(f)cér(fhg)dos(hi) sit(i) sanc(kxii/jkIHGhwihi)tus,(hg) (;) si(gf)cut(hji) et(h) e(gf/gh)go(g) (,) sanc(fhg)tus(hi) sum,(ie//giHGFgwhf) (:) Dó(ef!hhi)mi(h)nus(gf!gwh) *(,) qui(f) sanc(f!gwhf)tí(fg)fi(f)co(fg!hiivHGhwi) vos.(ih!iw!jvIHif) (;) (fg!hjh/ig//ef!hvhgivHGF) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[93]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3404",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

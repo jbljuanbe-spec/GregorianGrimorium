@@ -1,0 +1,37 @@
+{
+  "id": "qui-docti-fuerint-fulgebunt-1189",
+  "incipit": "Qui docti fuerint fulgebunt",
+  "title": "Qui docti fuerint fulgebunt",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Qui docti fúerint, fulgébunt quasi splendor * firmaménti.",
+  "gabc": "(c4) AL(cd)le(ef!ghhvGF'/fvED)lú(ddc/gf)ia.(ed..) *(;) <i>ij.</i>(d!ewf'!gv/efd./hvGF'ED'/ecd.) (,) (fffvED'ecd.) (;) (efe/fvEDeed.) (,) (dgF'ED'efd.hvGFE'ed.) <sp>V/</sp>.(::) Qui(cd) do(ixdh'!ivHG'hff)cti(e_d) fú(cd/ed)e(fg)rint,(ge/fd.) (,) ful(df)gé(ixhg/hihhggf,hhvGFhhg//eg/hf/efd/cd)bunt(de/feed.) (:) qua(dvCAcd!ef/hvGED'd/gffvED.///c/ef'ED.,cf/ghhfg)si(e_d) splen(ixcf/gh/iggf/ghh,fhhvGF'fvED.///cf/gh)dor(hvGFE'ed.) *(;) fir(cd/ed/fvED)ma(cd!ef!ghhvGF'fvED)mén(ddc/gf)ti.(ed..) (;) (d!ewf'!gv/efd./hvGF'ED'/ecd.) (,) (fffvED'/ecd.) (;) (efe/fvEDeed.) (,) (dgF'ED'/efd.hvGFE'/ed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "496"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1466"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1189",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

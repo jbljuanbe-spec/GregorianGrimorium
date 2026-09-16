@@ -1,0 +1,31 @@
+{
+  "id": "benedicimus-deum-4804",
+  "incipit": "Benedicimus Deum",
+  "title": "Benedicimus Deum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Benedícimus Deum cæli, et coram ómnibus vivéntibus confitébimur ei: quia fecit nobíscum misericórdiam suam.",
+  "gabc": "(c4) Be(h)ne(gf)dí(gh)ci(g)mus(e) (::) De(gffv)um(ed//f!ghGF//ghg) cæ(egffv)li,(fe) (:) et(h) co(g)ram(h) ó(gf~)mni(gh)bus(h) vi(h)vén(h)ti(gh)bus(ge) (;) con(f)fi(gff)té(dfEC)bi(d)mur(dggvFD) (;4) e(fg/hgh)i:(hg) (:) qui(gef)a(ed) fe(fgef)cit(ed) (;4) no(h)bí(ixjhhgi)scum(hg/hih) (;) mi(h)se(ghg)ri(ef)cór(g)di(g)am(hggf//ghg) (;4) su(egffv)am.(fe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "266"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4804",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

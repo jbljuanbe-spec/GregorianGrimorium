@@ -1,0 +1,31 @@
+{
+  "id": "respice-in-me-5226",
+  "incipit": "Respice in me",
+  "title": "Respice in me",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Respice in me, et miserére mei, Dómine: quóniam únicus et pauper sum ego: vide humilitátem meam, et labórem meum: et dimíte ómnia peccáta mea, Deus meus. ℣. Ad te, Dómine, levávi ánimam meam: Deus meus in te confído, non erubéscam. Glória E u o u a e.",
+  "gabc": "(c4) Re(ffg)spi(f)ce(f) (::) in(fg) me,(gffv) (;) et(fd) mi(f)se(g)ré(ixgiHG)re(gf) (;3) me(f)i,(fe/gh) Dó(f)mi(fgf)ne:(f) (:) quó(ixfg/hi)ni(h)am(h) ú(jjk)ni(j)cus(j) (;) et(jh) pau(jlk)per(iyki) sum(jlk) e(ki/jh)go:(h) (:) vi(h)de(hjjv) hu(h)mi(hjjv)li(g)tá(gjjh)tem(g) (;3) me(fge/fd)am,(dc) (;) et(cd) la(fe)bó(ixeg/hiGF)rem(f) me(fgf)um:(f) (:) et(f) di(f)mí(gfhg)te(fe) (;) ó(ffe~)mni(dc)a(c) pec(cd)cá(ffg)ta(f) me(ffgf)a,(fe) (;) De(f!gh)us(hjHG/ixhiHG) me(f!ghGFg)us.(gf) <sp>V/</sp>.(::) Ad(fg) te,(gf) Dó(gh)mi(h)ne,(h) le(h)vá(h)vi(hg) á(ixgi)ni(h)mam(h) me(g)am:(f) (::) De(f)us(h) me(hj)us(g) in(f) te(f) con(f)fí(f)do,(f) (;3) non(g) e(fd)ru(f)bé(g)scam.(f) (::) Gló(fg)ri(gf)a(gh) (::) E(f) u(g) o(fd) u(f) a(g) e.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "285"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5226",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

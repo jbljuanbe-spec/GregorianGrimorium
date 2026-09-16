@@ -1,0 +1,31 @@
+{
+  "id": "eo-quod-liberassem-1269",
+  "incipit": "Eo quod liberassem",
+  "title": "Eo quod liberassem",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Eo quod liberássem * páuperem vociferántem, et pupíllum, cui non esset adjútor, benedíctio peritúri super me veniébat, et cor víduae consolátus sum. Oculus fui caeco, et pes claudo: pater eram páuperum.",
+  "gabc": "(c4) E(c)o(dfd) quod(ff) li(fff_d)be(f)rás(ix!ef/hig)sem(ghffe.) *(;) páu(fffd~)pe(f)rem(e!f'g) vo(d)ci(ef)fe(gh)rán(gf)tem,(fh!jjjh..) (:) et(dh) pu(h)píl(h/jjh)lum,(giH'Gh.) (,) cu(e!fg)i(g) non(g) es(fgF'E)set(f) ad(f)jú(ef!hvGE'fd)tor,(d.) (:) be(de)ne(cd)dí(dgf/gh)cti(gf)o(f) pe(fd)ri(f)tú(ef!gh)ri(hg..) (;) su(h)per(hg) me(giH'Gh.) ve(ef)ni(d)é(d!ewf/gfg)bat,(e.) (:) et(dfe) cor(fffdg) ví(gh)du(gf)ae(ixf'/higgf.) (,) con(dc~)so(d!ewf)lá(f!g'h)tus(gfg) sum.(f'gvF'EDewf.) (:) O(cd/fef)cu(f)lus(f) fu(gh)i(g) cae(ef/g.f!gwhgh)co,(hg..) (;) et(f) pes(e.f!gwh_g) clau(ge//ghffe)do:(e.) (:) pa(ce/gff)ter(fv.fff_c) e(d!ewf!gvFE)ram(f.) (,) páu(ffd//fhg__/hfg)pe(e)rum.(egf/gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "92**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1269",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

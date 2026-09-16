@@ -1,0 +1,37 @@
+{
+  "id": "adducentur-3486",
+  "incipit": "Adducentur",
+  "title": "Adducentur",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Adducéntur regi vírgines post eam: próximae ejus afferéntur tibi * in laetítia.",
+  "gabc": "(c4) AL(eef)LE(dg)LÚ(gig/h!iwjjk)IA.(i) *(;) <i>ij.</i>(gh!iwjh//jh/ig) (,) (gh!iwjh//jh/igge) (,) (e!fg/hghFE/fgffe) <sp>V/</sp>.(::) Ad(cd!ewff)du(fg)cén(ixgf/g/ig/hffd//fg/ighhgh~)tur(f) (;) re(fh!iwjj)gi(ixjjvIG) vír(ixgjjh~)gi(hih)nes(h) (;) post(f!gh/jhhfg) e(fg)am:(gv//ff/ded) (:) pró(de!fg)xi(ghg)mae(fg) e(ghg)jus(g) (;) af(f)fe(ghg)rén(ixh/ig/hh//gg/hfg,ixgjjh/ig/hh//gg/hfg,ixjjjh/ig/hh//gg/hfg,ef/ghgfv//efd,de!fv/ghg/fffd~)tur(ef~) ti(ded)bi(d) *(;) in(fc~) lae(d)tí(d!fff/gf)ti(fhgh)a.(hhf) (,) (hghvFD/gfffvEC//ggf/ghddc/da) (,) (cd!fvvDCd!ff/gff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[46]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[54]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3486",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "in-salutari-1290",
+  "incipit": "In salutari",
+  "title": "In salutari",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "In salutári tuo * ánima mea, et in verbum tuum sperávi: quando fácies de persequéntibus me judícium? iníqui persecúti sunt me, ádjuva me, Dómine Deus meus.",
+  "gabc": "(c4) IN(d) sa(df)lu(fe)tá(f)ri(g) tu(g)o(g.) *(,) á(e)ni(f)ma(ef) me(ded___)a,(d.) (;) et(c) in(d) ver(f)bum(fe~) tu(ghg)um(h) spe(ghg)rá(fg!hvGF'g)vi:(gf..) (:) quan(h)do(h) fá(h)ci(gh)es(h.) de(h) per(h)se(g)quén(h)ti(g)bus(fe) me(g_h) (,) ju(fe)dí(d)ci(d!ew!fvED'e)um?(ed..) (:) in(f)í(gh)qui(h) per(h)se(h)cú(hj)ti(h) sunt(gf~) me,(f.) (;) ád(h)ju(h)va(g) me,(g) Dó(h)mi(gf)ne(fge___ed.) (,) De(d!ewf!g'h)us(f_e) me(de!fvED'e)us.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "383"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1069"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1290",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

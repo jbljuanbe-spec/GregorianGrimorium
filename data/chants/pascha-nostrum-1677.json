@@ -1,0 +1,31 @@
+{
+  "id": "pascha-nostrum-1677",
+  "incipit": "Pascha nostrum",
+  "title": "Pascha nostrum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Pascha nostrum * immolátus est Christus, allelúia: ítaque epulémur in ázymis sinceritátis et veritátis, allelúia, allelúia, allelúia.",
+  "gabc": "(c4) PA(f)SCHA(fhgh) nos(f)trum(ed!ewfd) *(;) im(fe~)mo(f)lá(gh)tus(gvFE/fwgfg) est(gf) Chris(f)tus,(fe/fdf) (,) al(f)le(f)lú(fhGF)ia:(f) (:) í(d)ta(fffvDC/dff/hg/hf)que(f) e(f)pu(fef)lé(fdec)mur(c) (;) in(f) á(ghgh)zy(hgh)mis(gfg) sin(fd~)ce(fe)ri(f)tá(g)tis(f) et(e) ve(gh)ri(gh)tá(fgf)tis,(f) (:) al(f)le(fd/fefd)lú(d!ewf)ia,(c) (,) al(dc~)le(f!gwhg/hvGF)lú(gh~)ia,(h) (,) al(fg~)le(ixgiHG)lú(hggfg)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "205"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1677",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

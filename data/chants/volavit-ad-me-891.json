@@ -1,0 +1,31 @@
+{
+  "id": "volavit-ad-me-891",
+  "incipit": "Volavit ad me",
+  "title": "Volavit ad me",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Volávit ad me * unus de Séraphim: et in manu ejus cálculus, quem túlerat de altári, et tétigit os meum. T.P. Allelúia.",
+  "gabc": "(c4) VO(d)lá(f)vit(fe) ad(fhg) me(fv.efd.) *(,) u(d!f'g)nus(gf) de(f) Sé(ghgh)ra(g)phim:(fgFD.) (:) et(d) in(f) ma(f_eg)nu(f) e(deD'C)jus(d_c) (,) cál(ixf!gwhg/hih)cu(g)lus,(f.) (;) quem(fd~) tú(f!g'h)le(g)rat(g) de(h) al(g)tá(ff/g_f)ri,(f.) (:) et(hg~) té(ghgh)ti(f)git(d!ewf) os(ge/f_e) me(de!fvED'e)um.(ed..) <i>T.P.</i>(::) Al(de)le(d)lú(dc/ffvED'ewf)ia.(ed..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "37**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "891",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "jubilate-domino-1794",
+  "incipit": "Jubilate Domino",
+  "title": "Jubilate Domino",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Jubiláte * Dómino omnis terra: servíte Dómino in laetítia. ℣. Intráte in conspéctu ejus, in exsultatióne. ℣. Scitóte quod Dóminus ipse est Deus. ℣ Ipse fecit nos, et non ipsi nos: nos autem pópulus ejus, et oves páscuae * ejus.",
+  "gabc": "(c4) JU(g)bi(g)lá(g/hih)te(g/hhg) *() Dó(gjjk)mi(h)no(gf/ghhg) (;) o(ij)mnis(hji) ter(j)ra:(jjj!khhg/hg/jjh/jggf) (:) ser(g)ví(hfg)te(gh/ji) Dó(j)mi(h!iwj)no(ijhhg) (;) in(ixfh/ih/ig~) lae(j)tí(jv//ijg//ixjjvHGhiGF,iyhjh/ig)ti(fg)a.(g/hhg) <sp>V/</sp>.(::) In(g)trá(g!hwi!jv)te(j) in(j) con(j)spéc(jji)tu(g) e(hg/h!iw!jvIHijh)jus,(hg) (;) in(f) ex(f!hj)sul(igh)ta(gfg)ti(gh/jij)ó(jh!iwj)ne.(jjjvIHivHGhg) <sp>V/</sp>.(::) Sci(f)tó(hj)te(igh) quod(gfg/hji) Dó(j)mi(h!iwj)nus(ijhhg) (;) ip(ixfh/ih/ig)se(j) est(j) De(jv//ijg//ixjjvHGhiGF,iyh/jh/ig)us.(g/hhg) <sp>V/</sp>(::) Ip(jjiji)se(ig) fe(jv//iji)cit(ihh) nos,(g) (;) et(hggf) non(ghgh) ip(hjij)si(hg) nos:(gfg//jv//hkJI//hjIH//giHG,hg/hg/hg/jjh/jggf) (:) nos(f) au(hj)tem(igh) pó(gf/gh)pu(g)lus(gh/jij) e(jh!iwj)jus,(jjjvIHivHGhg) (;) et(gh) o(gh)ves(g) pá(hg/h!iwj)scu(ghGF)ae(f!hj) *() e(j)jus.(jijHGgg/hggfg) (,) (jjjkvJIHhg/hjIHGghf) (,) (h!iw!jvIHihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "66"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1794",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

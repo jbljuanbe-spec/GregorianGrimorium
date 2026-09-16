@@ -1,0 +1,31 @@
+{
+  "id": "potestas-ejus-7399",
+  "incipit": "Potestas ejus",
+  "title": "Potestas ejus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Potéstas ejus, potéstas ætérna, quæ non auferétur: et regnum ejus, quod non corrumpétur.",
+  "gabc": "(c4) Al(dc~)le(d/fgFEDfvEDdc)lú(ixfg!hi)ia.(hfg) (::)\r\n(hvGFgi//hi!jvIHG;hvGFghhvGFg//dfddc;cf/ghGEDffd)\r\n<sp>V/</sp>.(::)\r\nPo(c)té(cd)stas(d) e(dc~)jus,(d/fgFED//fvEDdc) (;)\r\npo(f)té(ixghhvGFgfg/hg/hi)stas(hgg) (;)\r\næ(f)tér(ixgfghvGFgi;6hi!jvIGgfghg/hi)na,(h) (;)\r\nquæ(hvGFg//dfddc) non(cf/ghGF) au(ed)fe(cd)ré(ded)tur:(d) (:)\r\net(ixcf/giiivHFgfg/hjh;cf/giiivHFgfg/hjh;jvIHivHGhvGFgh) (,3)\r\nre(hvGF)gnum(gh) e(gf~)jus,(fgffvED) (::)\r\nquod(d) non(dc)\r\ncor(d/fgFED//fvED)rum(dc)pé(ixfg!hi)tur.(hfg;hvGFgi//hi!jvIHG;hvGFghhvGFg//dfddc;cf/ghGEDffd) (::)",
+  "transcriber": "Antonio González Fernández",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "609"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7399",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

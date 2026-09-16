@@ -1,0 +1,43 @@
+{
+  "id": "benedixisti-domine-113",
+  "incipit": "Benedixisti Domine",
+  "title": "Benedixisti Domine",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Benedixísti, * Dómine, terram tuam: avertísti captivitátem Jacob: remisísti iniquitátem plebis tuæ.",
+  "gabc": "(c4) BE(e)ne(e)di(e)xí(ege/ghg/f/fd!fw!gvFE)sti,(e.) *(,) Dó(e!f'g)mi(ixfhg/hi)ne,(h.) (,) ter(jhjvGF'fd./fghvGF')ram(gf/fd~) tu(dgF'E)am:(e.) (:) a(d)ver(g)tí(ixhg/hi)sti(h.) (,) cap(h)ti(h)vi(h)tá(h)tem(jh/hf~) Ja(ghg)cob:(dg/hvFD/gv./gg/hjh/hg.) (:) re(dg)mi(g)sí(hiHG'hwi'!jv)sti(j.) (,) in(j)i(j)qui(ih)tá(jkj)tem(ig~) ple(hv.ghG'Fg_h ghG'Fg_h)bis(g.) tu(egff)æ.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "8"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "337"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "23"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "113",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

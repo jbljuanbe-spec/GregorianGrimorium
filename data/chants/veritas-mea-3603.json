@@ -1,0 +1,31 @@
+{
+  "id": "veritas-mea-3603",
+  "incipit": "Veritas mea",
+  "title": "Veritas mea",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Veritas mea, * et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus.",
+  "gabc": "(c4) VE(ffg)RI(f)TAS(fh) me(hggfg)a,(gf) *(,) et(f) mi(gh)se(hg)ri(h)cór(fg)di(g)a(gh) me(h!iwjj/kh)a(h) (,) cum(gh) i(gf!gw!hvGFgh)pso:(g) (:) et(f) in(fg) nó(gh)mi(gf)ne(f) me(fd!ew!fvEDCd)o(dc) (;) ex(d)al(fffddc)tá(f!gwhghvGF)bi(ixfhg/hi)tur(h) (,) cor(fg/hjh)nu(f) e(fgf)jus.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[177]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3603",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

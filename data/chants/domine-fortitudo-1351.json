@@ -1,0 +1,31 @@
+{
+  "id": "domine-fortitudo-1351",
+  "incipit": "Domine fortitudo",
+  "title": "Domine fortitudo",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine, * fortitúdo mea et refúgium meum es tu: et propter nomen tuum dedúces me et enútries me.",
+  "gabc": "(c4) DO(f)mi(d)ne,(d!ewf/g_ff'fddc//ege.__) *(,) for(g)ti(gh)tú(h)do(ghg) me(ixhv.gih'ivG'Ff'g!hiH'Gih)a(h.) (;) et(jj) re(gh)fú(ff)gi(e)um(ge/ghg) me(gffvED)um(ed__) (,) es(fh) tu:(h_g/jjjvG'E//g_f/ghG'FgvFE.) (:) et(ef/ghg) pro(gh)pter(ghG'F) no(gh)men(h!jjjvIH) tu(g_h)um(egF'Efff) (:) de(dec)dú(fv.fff)ces(dc) me(cccc_a_) (;) et(cfde) e(eef)nú(d!ewf)tri(fff/ghG'D)es(fffhvGFgvFE) me.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "96**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1351",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "specie-tua-5114",
+  "incipit": "Specie tua",
+  "title": "Specie tua",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Allelúia. ℣. Spécie tua et pulchritúdine tua inténde, próspere procéde, et regna.",
+  "gabc": "(c3) Al(d!ef)le(fe//fhg)lú(f//hhg~)ia.(h//ivHFfe) (::) (hhv//efED) (;) (f!ghg) (;3) (ehf//gffe) <sp>V/</sp>.(::) Spé(hgih)ci(hg)e(h) tu(g!hi//ivHF//hf/gh)a(h) (;) et(h) pul(h)chri(hf)tú(hji)di(h)ne(gh) (;) tu(fe//hhvGE;4gxfgFD;4egFEfe)a(e) (:) in(e)tén(feh)de,(h) (;3) pró(gyhf//hvGE//fhFD;gxgvFEf//hhv//ijHF;gygig//ivHG//he//fe;4ge//gvFE//fd)spe(ed)re(d) (::) pro(fd)cé(ef)de,(f) (;) et(f) re(hg/hfh)gna.(ghFE) (;1) (df/hf//gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "58*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5114",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

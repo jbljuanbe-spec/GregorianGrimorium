@@ -1,0 +1,31 @@
+{
+  "id": "concupivit-rex-686",
+  "incipit": "Concupivit rex",
+  "title": "Concupivit rex",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Concupívit * rex de córem tuum, quóniam ipse est Dóminus tuus. ℣. Audi fília, et vide, et inclína * aurem tuam.",
+  "gabc": "(c4) COn(dh~)cu(h)pí(ixhih/ghGF.hiHG'hw!ivHGhi)vit(h.) *() rex(h!jjkvJH.ixgiH'Gh.) (,) de(f!gwhg) có(h)rem(ghG'Efgf/g_h) tu(d!ewfd)um,(d.) (:) quó(h)ni(hg)am(gj) i(jkj)pse(jijvIH) est(iij) (,) Dó(g)mi(g.h!iw!jvIH)nus(h.) tu(ixfhhg!jjvH'G//hig)us.(efd/f_h//ghG'Ef_g//fgFD.) <sp>V/</sp>.(::) Au(d)di(dh) fí(h)li(h)a,(hjH'GF.eg/hgh//fgFD.) (,) (cd/fd cd!ff/g.h!iw!jvIH.) (;) et(h) vi(h)de,(hjH'Gh!jjjh//jjjvIH'jggf.) (:) et(f) inc(f)lí(ghgh.ixfh!ivGF'E//f!gwh!ivHG)na(hg__) *(,) au(g)rem(gh~) tu(ixjhiGF'h!jjvH'G)am.(hghF'Efg..) (,) (d!ewf!gv.fhGF'ED'ewfd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[65]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "686",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

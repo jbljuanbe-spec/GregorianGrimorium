@@ -1,0 +1,31 @@
+{
+  "id": "propter-veritatem-3703",
+  "incipit": "Propter veritatem",
+  "title": "Propter veritatem",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ℣. Propter veritátem, et mansuetúdinem, et justítiam: et dedúcet te mirabíliter * déxtera tua.",
+  "gabc": "(f3) AL(ef)LE(f)LÚ(hhivHGhi)IA.(ijIHh//fihhe/f!gwhf) *(,) (hhf/hghvFE//ivHGhf!gwhf) <sp>V/</sp>.(::) Pro(fi!jvIH)pter(h) ve(f)ri(fihi)tá(ighf)tem,(f) (,) et(f) man(ef~)su(f)e(feg)tú(gv//fig/hf)di(f!gwhgh)nem,(hg) (;) et(gh~) ju(ijij)stí(hf/hjIGh,eg/ihi/ghf//hiHGh)ti(fgf)am:(f) (:) et(f) de(f!hi)dú(ijIHhh//gh!ivHF//g!hi)cet(i) te(i) (,) mi(kxji/jki)ra(h)bí(hji/hhf)li(f)ter(fh//fhhegvFE) *(;) déx(ef!hhi)te(f)ra(fhg) tu(hiihi)a.(i//jijIG//hiHE/f!gwhf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[59]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3703",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

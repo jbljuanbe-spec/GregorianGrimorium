@@ -1,0 +1,31 @@
+{
+  "id": "surrexit-dominus-vere-1762",
+  "incipit": "Surrexit Dominus vere",
+  "title": "Surrexit Dominus vere",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Surréxit Dóminus vere, et appáruit * Petro.",
+  "gabc": "(c4) AL(fg~)LE(g/hjg/hvGF)LÚ(fh!jjk)IA.(jjvIGh) *(,) <i>ij.</i>(ijHG/ixfihhg) <sp>V/</sp>.(::) Sur(fg)réx(g/hjg/hvGFg)it(f) (,) Dó(fh!jjk)mi(j)nus(j) ve(jvIGh , ijHG//ixfihhg)re,(g) (:) et(fg) ap(g/hjg/hvGFg)pá(fg)ru(f)it(f) *(,) Pe(fh!jjk)tro.(jjvIGh) (,) (ijHG//ixfihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "212"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1762",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

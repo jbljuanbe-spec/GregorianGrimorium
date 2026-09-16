@@ -1,0 +1,31 @@
+{
+  "id": "exsurge-et-intende-1617",
+  "incipit": "Exsurge... et intende",
+  "title": "Exsurge... et intende",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Exsúrge * Dómine, et inténde judícium meum, Deus meus, et Dóminus meus, in causam meam. ℣. Effúnde frámeam, et conclúde advérsus eos qui me * persequúntur.",
+  "gabc": "(c4) EX(c)SÚR(dfe)GE(e) *(,) Dó(ef!gwh)mi(g)ne,(ghg/fgFD) (,) (ixfhg//hiHGhf/gffe) (:) et(f) in(f)tén(ef!gwh)de(gh) ju(f)dí(e!fh)ci(hjg)um(gfg) me(gffe)um,(fd) (,) (ff/ge/fgd/eddc) (:) De(cd)us(dg!hv) me(gd!ewf!gvFE)us,(f) (;) et(f) Dó(e!fh)mi(hjg)nus(gfg) me(gffe)us,(fd) (,) (ff/ge/fgd/eddc) (:) in(cd) cau(dg!hv)sam(g) me(gd!ewf!gv//fg!hvF{E}ixfh/ig)am.(ghg//hiHG/hf/gffe) <sp>V/</sp>.(::) Ef(eef)fún(dg)de(g) frá(hj)me(j)am,(jjjh) (,) (h!jj/ki/jkh/ihhg) (;) et(g) con(hi~)clú(iki/jkj//ki/jkjk//ij/kjkki/jvHGh)de(hv) (,) (gh/jjjvHGhh//gjh/ihhg) (:) ad(ijg~)vér(hj)sus(j) e(jj//jjjh/ijHG,jj//jjjh/ijHG,jj/kh/jjk/jk/ljj/jh/ijHG,jg/jv)os(jh/jvIH//jh/jvIHjh/ihhg) (:) qui(g) me(gf//gh!jjjh/kljjvIHjggf) *(,) per(f)se(f)quún(f!hj)tur.(ig/ivHGhhf/hh) (,) (g/jj//jj//jjjvHGF{ix}Efh//ivGF/ghg/hgge) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "160"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1617",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

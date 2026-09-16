@@ -1,0 +1,31 @@
+{
+  "id": "dominus-fortitudo-7152",
+  "incipit": "Dominus fortitudo",
+  "title": "Dominus fortitudo",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Dominus fortitúdo plebis suæ, et protéctor salutárium Christi sui est: salvum fac pópulum tuum, Dómine, et bénedic hereditáti tuæ, et rege eos usque in sǽculum. ℣. Ad te, Dómine, clamábo, Deus meus ne síleas a me: nequando táceas a me, et assimilábor descendéntibus in lacum. Glória E u o u a e.",
+  "gabc": "(f3) Do(c!ef)mi(f)nus(f) (::) for(fgf~)ti(e)tú(f)do(e) ple(hhv)bis(ivHGh) su(fgf)æ,(f) (;) et(e) pro(f)té(fi)ctor(h) sa(hghf)lu(eh)tá(hghf)ri(fgf)um(f) (;) Chri(e!fh)sti(ghGE) su(ef!hvGF)i(ef) est:(feec) (:) sal(ce/fg)vum(f) fac(fhhf//gvEC) (;) pó(c)pu(ef)lum(fe) tu(fh)um,(h) Dó(h)mi(hiHG)ne,(g) (:) et(e) bé(fh)ne(h)dic(h) he(h)re(fh)di(hh)tá(f)ti(eh) tu(hiHG)æ,(g) (:) et(h) re(i)ge(h) e(hvGF)os(fhffe) (;) us(fhe)que(hhv) (;3) in(ivHGh) s<sp>'ae</sp>(fv//ehGF)cu(fgf)lum.(f) <sp>V/</sp>.(::) Ad(e) te,(f) Dó(eh)mi(h)ne,(h) cla(h)má(h)bo,(h) (;) De(h)us(h) me(h)us(h) ne(h) sí(h)le(h)as(h) a(h) me:(h) (;) ne(h)quan(h)do(hg) tá(hi)ce(i)as(i) a(hi) me,(h) (::) et(h) as(fh)si(h)mi(h)lá(h)bor(h) de(h)scen(h)dén(h)ti(i)bus(hf) in(h) la(ge)cum.(fgf) (::) Gló(e)ri(f)a(eh) (::) E(h) u(i) o(hf) u(h) a(ge) e.(fgf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "295"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7152",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

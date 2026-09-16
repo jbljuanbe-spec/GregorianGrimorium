@@ -1,0 +1,31 @@
+{
+  "id": "exaudi-deus-1636",
+  "incipit": "Exaudi Deus",
+  "title": "Exaudi Deus",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Exáudi Deus * oratiónem meam: et ne despéxeris deprecatiónem meam: inténde in me, et exáudi me.",
+  "gabc": "(c3) EX(f)ÁU(fe/gff)DI(e) De(fv//dfe)us(ef) *(,) o(ed)ra(e)ti(f!gwh)ó(high)nem(fehvvGFgw!hvGF) me(ef!gvFEf)am:(fe) (:) et(ed~) ne(e) de(fhg)spé(high)xe(feh)ris(h) (,) de(hihh)pre(ge)ca(f)ti(hg)ó(hv//fih)nem(gh/ih/iji) me(gihh)am:(hg) (:) in(e)tén(eg)de(gig/hi) in(fe~) me,(gxev//dgFE) (,) (df!hv//ih/ihhe//hhhvFDe) (;) et(d!ef) ex(e/fhg)áu(hvvFEfehvvFEfg)di(efe) me.(e) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "109"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1636",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

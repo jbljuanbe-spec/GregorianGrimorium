@@ -1,0 +1,31 @@
+{
+  "id": "custodi-me-7181",
+  "incipit": "Custodi me",
+  "title": "Custodi me",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Custódi me, Dómine, de manu peccatóris: et ab homínibus iníquis éripe me.",
+  "gabc": "(c4) Cu(d)stó(d)di(cd) me,(ffv) (::) (egFD/ffv) (;) Dó(fhhg/ixhiGF/gh/iyjvIH)mi(hih)ne,(h) (;) de(fg) ma(f!hj)nu(ji/jkj) pec(h)ca(fd)tó(dfED)ris:(d) (:) et(f) ab(f) ho(f)mí(ixhf//hig)ni(fe)bus(f) (;) i(f)ní(fh!ivHF//gvFD)quis(cffd) (;) é(f)ri(f)pe(ixhf//hiGF) (;3) (hiHF//gvFD//cffd) (;) (cf/ghhv) (;3) (ivHF/gvFD) me.(dc//ffd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "162"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7181",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

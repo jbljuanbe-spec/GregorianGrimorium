@@ -1,0 +1,31 @@
+{
+  "id": "confiteantur-quia-3709",
+  "incipit": "Confiteantur... quia",
+  "title": "Confiteantur... quia",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Confiteántur Dómino * misericórdiae ejus, et mirabília ejus fíliis hóminum: quia satiávit ánimam inánem, et ánimam esuriéntem satiávit bonis.",
+  "gabc": "(c4) CON(gd~)FI(fg)TE(g)ÁN(gh)TUR(g) Dó(h)mi(gf)no(f) *(,) mi(h)se(j)ri(i)cór(jkj)di(h)ae(g) e(hiHG)jus,(g) (;) et(g) mi(hj)ra(j)bí(ij)li(hk)a(k) e(ij)jus(ih) (,) fí(h)li(g)is(h) hó(hi)mi(hg)num:(g) (:) qui(g)a(gh) sa(d)ti(e)á(gh)vit(g/high) á(e)ni(f)mam(g) i(f)ná(efd)nem,(d) (;) et(d) á(dg)ni(g)mam(g) e(h)su(g)ri(f)én(g)tem(gh) (,) sa(d)ti(g)á(g/jjh)vit(ih) bo(ghg)nis.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[186]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3709",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

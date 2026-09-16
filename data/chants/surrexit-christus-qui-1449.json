@@ -1,0 +1,31 @@
+{
+  "id": "surrexit-christus-qui-1449",
+  "incipit": "Surrexit Christus qui",
+  "title": "Surrexit Christus qui",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Surréxit Christus, qui creávit ómnia: et misértus est humáno * géneri.",
+  "gabc": "(f3) AL(c)LE(ef//efef)LÚ(e!fg/hffe~)IA.(ef) *(,) <i>ij.</i>(fg!hi//giHGF//e!hhhvGF/ggf) <sp>V/</sp>.(::) Sur(c)ré(ef)xit(ef) Chris(f)tus,(fhf/gvFE) (;) qui(h) cre(h)á(h)vit(gh/ihhg) óm(f)ni(f!gwhgh)a:(gf) (:) et(f) mi(fi)sér(i)tus(hg/hvGFg) est(gf) (;) hu(fgffe)má(h)no(ghgg) *() gé(f)ne(fgf)ri.(f) (,) (fg!hi//giHGF//e!hhhvGF/ggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "214"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1449",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

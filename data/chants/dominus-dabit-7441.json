@@ -1,0 +1,24 @@
+{
+  "id": "dominus-dabit-7441",
+  "incipit": "Dóminus dábit",
+  "title": "Dóminus dábit",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": null,
+  "mode_variant": null,
+  "version": "Salmodia",
+  "text_latin": "Dóminus dábit benignitátem: * et térra nostra dábit frúctum súum.",
+  "gabc": "(c3) Dó(e)mi(fh)nus(h) dá(h)bit(h) be(h)ni(i')gni(h)tá(g'f)tem:(h.)\r\n*(:) et(h) tér(h)ra(h) no(h)stra(h) dá(h)bit(h) frú(h)ctum(f) sú(h)um.(gf..) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7441",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

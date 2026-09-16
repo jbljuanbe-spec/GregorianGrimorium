@@ -1,0 +1,31 @@
+{
+  "id": "vita-nostra-122",
+  "incipit": "Vita nostra",
+  "title": "Vita nostra",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Vita nostra est abscóndita cum Christo * in Deo.",
+  "gabc": "(c4) AL(dfddc)le(e)lú(gh~)ia.(hv.) *(,) (gjIG'ihhvGF'fvED//cfeed.) <sp>V/</sp>.(::) Vi(dfddc)ta(e) no(gh)stra(hv.gjIG'ih.) (,) est(hj) ab(hg)scón(ghG'EfvEDed)di(cd)ta(d.) (;) cum(cd~) Chri(dfddc)sto(e) *(,) in(g) De(gh)o.(hv.gjIG'ihhvGF'fvED//cfeed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "63"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "122",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

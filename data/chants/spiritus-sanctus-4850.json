@@ -1,0 +1,31 @@
+{
+  "id": "spiritus-sanctus-4850",
+  "incipit": "Spiritus Sanctus",
+  "title": "Spiritus Sanctus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Spíritus Sanctus docébit vos, allelúia, quæcúmque díxero vobis, allelúia, allelúia.",
+  "gabc": "(c4) Spí(gd)ri(fe)tus(fg) (::) San(gh)ctus(gf) (;4) do(h)cé(j)bit(i) vos,(jkj) (;) al(h)le(g)lú(hih)ia,(g) (:) quæ(h)cúm(j)que(i) dí(j)xe(h)ro(j) vo(hg)bis,(f) (;) al(g)le(h)lú(j)ia,(i) (;3) al(j)le(hjIG)lú(ghg)ia.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "254"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4850",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

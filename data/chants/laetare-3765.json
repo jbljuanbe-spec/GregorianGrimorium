@@ -1,0 +1,31 @@
+{
+  "id": "laetare-3765",
+  "incipit": "Laetare",
+  "title": "Laetare",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Laetáre, * mater nostra, quia dabit Dóminus cápiti tuo augménta gratiárum, et coróna ínclyta próteget te.",
+  "gabc": "(f3) LAE(fge)TÁ(fh)RE,(hg) *(,) ma(hg)ter(hf) no(hj)stra,(i) (;) qui(ig/hi)a(ijIG) da(hi)bit(gf) Dó(hg)mi(ef)nus(f) (,) cá(fg)pi(f)ti(f) tu(fv//ege/fg)o(f) (;) aug(f)mén(hffe~)ta(h) gra(h)ti(h)á(gh/ihi)rum,(hg) (:) et(g) co(ij)ró(ig)na(hihh) ín(fe~)cly(egef)ta(efEC) (,) pró(e)te(gih)get(hiHGh) te.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[146]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3765",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

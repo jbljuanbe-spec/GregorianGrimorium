@@ -1,0 +1,31 @@
+{
+  "id": "inquilini-domus-3802",
+  "incipit": "Inquilini domus",
+  "title": "Inquilini domus",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Inquilini * domus meae, et ancílae meae sicut aliénum habuérunt me, et quasi peregrínus fui in óculis eórum: Dóminus autem assúmpsit me.",
+  "gabc": "(c4) IN(c)QUI(d)LI(ff)NI(f) *() do(f)mus(fd) me(fhg)ae,(g) (,) et(g) an(ixi)cí(iii)lae(g) me(ixhiHGh)ae(hg) (;) si(g)cut(fh) a(h)li(h)é(hgh)num(hgh/e!fg) (,) ha(c)bu(df)é(f)runt(ef) me,(dcd) (:) et(f) qua(df)si(f) pe(gh)re(g)grí(f)nus(ghg) fu(fe)i(d) (,) in(c) ó(df)cu(f)lis(f) e(fe)ó(ixg!hw!ivHG)rum:(hg) (:) Dó(ffg)mi(f)nus(fef) au(deDC)tem(dc) (,) as(fe)súm(ixgig!hwi)psit(fgf) me.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[182]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3802",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

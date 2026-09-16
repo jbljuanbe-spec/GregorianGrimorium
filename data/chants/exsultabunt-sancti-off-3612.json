@@ -1,0 +1,31 @@
+{
+  "id": "exsultabunt-sancti-off-3612",
+  "incipit": "Exsultabunt sancti (Off.)",
+  "title": "Exsultabunt sancti (Off.)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Exsultábunt * sancti in glória, laetabúntur in cubílibus suis: exaltatiónes Dei in fáucibus eórum.",
+  "gabc": "(c4) EX(d)SUL(dfd~)TÁ(f)BUNT(e!fg) *(,) sanc(gh)ti(ef!ghFEfvEDed) (;) in(f) gló(ef!ghGEf)ri(f)a,(egff/ded) (:) lae(d)ta(dh)bún(he/fg)tur(ixgh/if/gge) (,) in(g) cu(gh)bí(h)li(g)bus(g) su(gh!jjh//fhf/gh)is:(g) (:) ex(d)al(dh~)ta(h)ti(h)ó(hgh)nes(h) De(ixhiHGhffef)i(fe) (;) in(e!fg~) fáu(gfh)ci(g)bus(fffdgvFE) (,) e(ef/hg)ó(gv//efDCd)rum.(fd/f!gwhgh//ghFEfgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[25]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3612",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

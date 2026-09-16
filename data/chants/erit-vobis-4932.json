@@ -1,0 +1,31 @@
+{
+  "id": "erit-vobis-4932",
+  "incipit": "Erit vobis",
+  "title": "Erit vobis",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Erit vobis hæc dies memoriális, allelúia: et diem festum celebrábitis solémnem Dómino in progénies vestras, legítimum sempitérnum diem, allelúia, allelúia, allelúia.",
+  "gabc": "(c4) E(dgf/gh)rit(g) (::) vo(ixg!hig)bis(g//ihiGFg) (;) hæc(d!fg) di(ghGFg)es(gf) (;4) me(f)mo(g)ri(h)á(hj)lis,(jkj) (;) al(j)le(jkjjg;3jjh/ijIHG//ixhiHG)lú(f!ghGFg)ia:(gf) (:) et(f) di(g)em(hg) fe(jkj)stum(j) (;6) ce(h)le(g)brá(jjv)bi(iyhiHGh)tis(hg) (;) so(gh)lé(hg~)mnem(ixg//fh/ihhg) (;4) Dó(ghGE)mi(fgFE)no(e) (;) in(d) pro(g)gé(g)ni(f)es(g) ve(gh/jhi)stras,(hg) (:) le(f)gí(fhg)ti(f)mum(ffddc) (;1) sem(d)pi(ffv)tér(fgf)num(f) di(feede)em,(ed) (:) al(ffv)le(dfe)lú(ffe~)ia,(dcd) (;) al(ff)le(dffddc)lú(cd)ia,(ccd) (;1) (ceDC) (;) al(c)le(ce//ghe//ghg;4gghg;g!hjjv//kvJIGh;jjh//ijg//eggv;4ghg)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "215"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4932",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

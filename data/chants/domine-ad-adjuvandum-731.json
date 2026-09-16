@@ -1,0 +1,31 @@
+{
+  "id": "domine-ad-adjuvandum-731",
+  "incipit": "Domine ad adjuvandum",
+  "title": "Domine ad adjuvandum",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Domine, * ad adjuvándum me festína : confundántur omnes advérsum me, qui cógitant servis tuis mala.",
+  "gabc": "(c4) DO(ixfh!ivHGhvGFhjj'jjkvJH)mi(iyhih___)ne,(h.) *(;) ad(hg) ad(f)ju(ghg)ván(hv.gh!jj//jjj)dum(hjgfvEDf') me(d!fff) (,) fes(fgffe)tí(d!ew!fvED)na :(d!ewf.) (:) con(d!ewf)fun(ghg~)dán(ixh!jjvH'GhiGF'gh!jjjkvJH)tur(h.) (,) om(f./hjh/ghg/fgF'Dfff/g_f)nes(f.) (,) ad(h)vér(f)sum(hj) me,(jv.ikJI'/kvJH./ixfhg/hiG'Fg.) (;) qui(f) có(f)gi(f)tant(fgfg) ser(fd~)vis(f!gwhg) tu(hg)is(ghg.) (,) ma(hv.fh!jvHGhvGFgvFDfff//f'gf___)la.(f.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "147"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "731",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

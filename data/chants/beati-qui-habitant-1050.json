@@ -1,0 +1,31 @@
+{
+  "id": "beati-qui-habitant-1050",
+  "incipit": "Beati qui habitant",
+  "title": "Beati qui habitant",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Beáti qui hábitant in domo tua, Dómine: in saécula saeculórum * laudábunt te.",
+  "gabc": "(c4) AL(f)le(f_d/ghf__fe)lú(f_d/g_!hi'HG/h_j)ia.(jji.) *(;) <i>ij.</i>(ghG'Eg/hh//g!jj//jj//jjjh/ggf) (,) (ghg/hgge.) <sp>V/</sp>.(::) Be(f)á(f_d/ghf__fe)ti(e.) (,) qui(ef) há(dg/hj)bi(j)tant(ikj__/j'jj_h//jhhg/h.g!hwih.) (;) in(j) do(j)mo(i_h) tu(jkjk)a,(j_i) Dó(jjj)mi(hg)ne:(g.) (:) in(g) saé(g!jjh/jjg//hhf/ggff'fd,fhG'F/ghg)cu(egff)la(eef.) (,) sae(ed)cu(df)ló(ef!hhg/hgh)rum(gef.) *(;) lau(g)dá(h_g/h!iwjij)bunt(j) te.(ij/k_j//ijh'/ivH'G/h!jj/kvH'F//hiG'E/ggfg.) (,) (jjvH'G//ivHG'F//hvGF'E/f_gffe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "2**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1050",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

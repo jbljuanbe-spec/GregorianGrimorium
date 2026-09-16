@@ -1,0 +1,31 @@
+{
+  "id": "dominus-virtutum-1408",
+  "incipit": "Dominus virtutum",
+  "title": "Dominus virtutum",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Dominus * virtútum ipse est Rex glóriae.",
+  "gabc": "(c3) DO(hjij)MI(h)NUS(gvFEfhhfh) *(,) vir(fj~)tú(ji/jhhf/hji)tum(hg) (;) ip(hi)se(hvGFEf) est(ehg/hhg) (,) Rex(ge/f!hh/ijIHhvGEf) (,) (ehg/hhg) gló(gvFEfdddb//de!fvfe)ri(cedd)ae.(dc) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "135"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1408",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "alleluia-lapis-revolutus-3977",
+  "incipit": "Alleluia, Lapis revolutus",
+  "title": "Alleluia, Lapis revolutus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia, Lápis revolútus est, allelúia, ab óstio monuménti, allelúia, allelúia. 2. Allelúia, Quem quaéris múlier? allelúia, vivéntem cum mórtuis, allelúia, allelúia. 3. Allelúia, Nóli flére, María, allelúia : resurréxit Dóminus, allelúia, allelúia.",
+  "gabc": "(c3) AL(h)le(h)lú(iji)ia,(hi..) (,) Lá(f)pis(f) re(f')vo(e)lú(f')tus(e) est,(d.) al(f)le(e)lú(fe)ia,(d.) (;) ab(f) ós(f')ti(f)o(f') mo(d)nu(f')mén(h)ti,(h.) (,) al(h)le(g)lú(hih)ia,(f.) al(f)le(efe)lú(d.)ia.(d.) (::z) 2. Al(h)le(h)lú(iji)ia,(hi..) (,) Quem(f) quaé(e')ris(f) mú(e')li(d)er?(d.) al(f)le(e)lú(fe)ia,(d.) (;) vi(f)vén(e)tem(d') cum(f) mór(h')tu(h)is,(h.) (,) al(h)le(g)lú(hih)ia,(f.) al(f)le(efe)lú(d.)ia.(d.) (::z) 3. Al(h)le(h)lú(iji)ia,(hi..) (,) Nó(f)li(f) flé(f')re,(e) Ma(f')rí(e)a,(d.) al(f)le(e)lú(fe)ia(d.) :(;) re(f)sur(e)ré(d')xit(f) Dó(h')mi(h)nus,(h.) (,) al(h)le(g)lú(hih)ia,(f.) al(f)le(efe)lú(d)ia.(d.) (::)",
+  "transcriber": "MarkM",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Cantus selecti",
+      "editor": "Solesmes",
+      "year": 1957,
+      "page": "67*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3977",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

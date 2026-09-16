@@ -1,0 +1,31 @@
+{
+  "id": "intellige-clamorem-1504",
+  "incipit": "Intellige clamorem",
+  "title": "Intellige clamorem",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Intellige * clamórem meum: inténde voci oratiónis meae, Rex meus, et Deus meus: quóniam ad te orábo, Dómine.",
+  "gabc": "(c4) IN(f)TEL(h!iwj)LI(k)GE(jk) *() cla(j)mó(jk)rem(j) me(jiihi)um:(ih) (;) in(h)tén(gi)de(g) vo(jij)ci(h) o(h)ra(f)ti(gh)ó(h!iw!jvIG)nis(hgh) me(f!gh)ae,(h) (;) Rex(j) me(jvIH)us,(h) (,) et(gi~) De(iji)us(g) me(hjHGhvGFg)us:(gf) (:) quó(f)ni(f)am(d!ewf) ad(fd~) te(f) o(gh)rá(h)bo,(g/h!iwji/jkj) (;) Dó(h!iw!jvIGixiw!jvHG)mi(fg!hvGFg)ne.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "96"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1504",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

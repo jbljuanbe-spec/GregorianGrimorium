@@ -1,0 +1,31 @@
+{
+  "id": "laudate-dominum-750",
+  "incipit": "Laudate Dominum",
+  "title": "Laudate Dominum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Laudáte Dóminum Deum nostrum, qui non deséruit sperántes in se, et in me, ancílla sua, adimplévit misericórdiam suam, quam promísit dómui * Israel.",
+  "gabc": "(c4) AL(ed~)le(g)lú(hj~)ia.(jjjvIH) *(;) <i>ij.</i>(jjjvIH'ig//hji/hig/efeed.) (,) (hhvGFgvFEfd/ef!gvvfhG'FgvFE.) <sp>V/</sp>.(::) Lau(ed~)dá(gh)te(g) Dó(hj)mi(j)num(i/jkj.) (,) De(jjvIH'Gij)um(hvGF'ghhe) no(fvEDef!gh)strum,(g.) (;) qui(hi) non(hg) de(g)sé(jjk)ru(j)it(j) spe(l)rán(k)tes(jvIH'G) in(ij) se,(hvGF'ghhg.) (:) et(hi) in(hg) me,(hji/hig') an(g)cíl(efeed~)la(d) su(ef!gh)a,(g.) (;) ad(g)im(h)plé(g)vit(e) mi(e)se(f)ri(ed)cór(df!gh)di(gf)am(g) su(g_fhvGFgvFE)am,(e.) (:) quam(fd) pro(f)mí(ef!gh)sit(g) dó(gh)mu(g)i(ed) *() Is(g)ra(hj)el.(jjjvIH) (;) (jjjvIH'ig//hji/hig/efeed.) (,) (hhvGFgvFEfd/ef!gvv//fhG'FgvFE.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "46**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "750",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

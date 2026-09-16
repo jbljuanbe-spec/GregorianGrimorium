@@ -1,0 +1,31 @@
+{
+  "id": "lux-aeterna-3879",
+  "incipit": "Lux aeterna",
+  "title": "Lux aeterna",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Lux aetérna * luceat eis, Dómine: * Cum sanctis tuis in aetérnum, quia pius es. ℣. Réquiem aetérnam dona eis Dómine, et lux perpétua lúceat eis. * Cum sanctis tuis in aetérnum, quia pius es.",
+  "gabc": "(c4) LUX(h) ae(gf)tér(gh)na(g) *(,) lu(h)ce(j)at(i) e(j)is,(h) Dó(g)mi(fg)ne:(g) *(:) Cum(h) sanc(j)tis(i) tu(j)is(h) in(i) ae(j)tér(h)num,(ghg) (,) qui(e)a(f) pi(gh)us(h) es.(g) <sp>V/</sp>.(::) Ré(g)qui(h)em(j) ae(j)tér(j)nam(j) do(j)na(j) e(j)is(k) Dó(k)mi(j)ne,(j) (;) et(h) lux(j) per(j)pé(j)tu(j)a(j) lú(j)ce(i)at(j) e(h)is.(g) *(::) Cum(h) sanc(j)tis(i) tu(j)is(h) in(i) ae(j)tér(h)num,(ghg) (,) qui(e)a(f) pi(gh)us(h) es.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "88*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3879",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

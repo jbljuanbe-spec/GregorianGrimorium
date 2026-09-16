@@ -1,0 +1,31 @@
+{
+  "id": "laetentur-caeli-7062",
+  "incipit": "Laetentur caeli",
+  "title": "Laetentur caeli",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Læténtur cæli, et exsúltet terra ante fáciem Dómini quóniam venit.",
+  "gabc": "(f3) Læ(e!fh)tén(h)tur(g!hi) (::) cæ(fiHG//ijIH/ivHG)li,(h) (:) et(h) ex(h)súl(hih//ihhg~)tet(hiHG) (;) ter(jijh//jiiv)ra(f//ivHG//hiHF) (:) an(f!hih)te(h) fá(gh//kxjkj)ci(ji)em(ij/kij) (;6) Dó(gh/ijji)mi(ih)ni(hi/jji) (:) quó(if)ni(fiHG)am(g) (;3) ve(gi!jvIH//iji)nit.(g//ihihhg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "28"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7062",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

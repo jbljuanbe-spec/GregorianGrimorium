@@ -1,0 +1,31 @@
+{
+  "id": "posuisti-domine-com-3552",
+  "incipit": "Posuisti Domine (Com.)",
+  "title": "Posuisti Domine (Com.)",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Posuísti Dómine * in cápite ejus corónam de lápide pretióso.",
+  "gabc": "(c4) PO(c)SU(d)Í(ff)STI(fe/ghf) Dó(f)mi(fgf)ne(f) *(;) in(f) cá(ixf!gwh!iv)pi(h)te(h) e(j)jus(hhg) co(h!iwj)ró(hg!hvGFg)nam(gf) (;) de(fv//egf) lá(fg)pi(deDCd)de(dc) pre(f)ti(gfhvGF)ó(fgf)so.(f) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[8]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3552",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

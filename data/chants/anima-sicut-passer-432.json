@@ -1,0 +1,49 @@
+{
+  "id": "anima-sicut-passer-432",
+  "incipit": "Anima... sicut passer",
+  "title": "Anima... sicut passer",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Anima nostra, * sicut passer, erépta est de láqueo venántium. ℣. Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit caelum * et terram.",
+  "gabc": "(c3) A(dd)ni(d)ma(d) no(ded//d'd)stra,(d_b/dec'/deb'/cbba.) *(;) si(d)cut(f) pas(hf/hhh)ser,(h.) (,) e(h_g/i!jwk)rép(i_h)ta(h) est(hihh/fgf.) (;) de(h_f) lá(h)que(hi)o(i) ve(ihhf)nán(gxhfgED')ti(d!f'h)um.(gyhighf.) (,) (de/f!hh/ijghf.gxegFD.) <sp>V/</sp>.(::) Lá(d)que(gxf)us(fh/ih/i_h/ivFD'//fh.ivFD'fhfg.) (,) (fh/ih/i_h//ivFD'e_d./ddd!f_h/ijh.) (,) con(h!i'j)trí(i_h)tus(h) est,(hg/i_hjvIH'G/hf..) (:) et(hh) nos(h) li(h)be(h)rá(ih/ij_h//ih/ij_ij/hi/jij)ti(jh/jki/hhf.) (,) su(hf/hhh)mus:(h.f!gwh!iv.hi/jhh/iih.) (:) ad(hhi)ju(h)tó(hi)ri(h)um(hf~) nos(hi)trum(h.) (,) in(hf~) nó(hi)mi(h)ne(hh) Dó(hih/ih/jvIG'hvF'Ef!hhivHG)mi(hg)ni,(h.) (;) qui(hh) fe(h)cit(h) cae(ivHF)lum(f.) *(,) et(f!h'i) ter(hgiHF)ram.(f.//de/f!hh/ijghf.gxegFD.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[26]"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "41"
+    },
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "98**"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1167"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "432",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

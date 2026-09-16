@@ -1,0 +1,31 @@
+{
+  "id": "veritas-mea-7170",
+  "incipit": "Veritas mea",
+  "title": "Veritas mea",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Veritas mea, et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus. T. P. Allelúia.",
+  "gabc": "(f3) Ve(ffv)ri(fgFE)tas(ef) (::) me(fhhf//hhvFE/gf)a,(f) (;) et(fhhv) mi(f)se(e)ri(f)cór(f//hihhg~)di(fh)a(hihhg) (;3) me(fh)a(hihhg) (;) cum(fe) i(fhGFg)pso:(fe) (:) et(f) in(hfh) nó(h)mi(ivHF)ne(h) me(hghe)o(cece) (;) ex(b)al(c)tá(ef)bi(fe)tur(e) (;) cor(h)nu(gh/ihiHG) e(fg/hgh)jus.(gf) <i>T. P.</i>(::) Al(fhg~)le(ehGF)lú(f;3high>)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "31*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7170",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

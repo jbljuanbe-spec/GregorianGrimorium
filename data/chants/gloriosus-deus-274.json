@@ -1,0 +1,31 @@
+{
+  "id": "gloriosus-deus-274",
+  "incipit": "Gloriosus Deus",
+  "title": "Gloriosus Deus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ℣. Gloriósus Deus in sanctis ejus: mirábilis in majestáte, fáciens * prodígia.",
+  "gabc": "(c4) AL(d!ff)le(ef)lú(ghG'Fg_h)ia.(hjH'G) *(,) (h_dev.fg/h_g h_dev.fg!hvGF'hgge.) <sp>V/</sp>.(::) Glo(h)ri(h)ó(h')sus(g) De(ghG'E)us(fgfg.) (,) in(gh) san(hg/hf/ghg)ctis(gd) e(egfg)jus:(fe..) (:) mi(f)rá(gh)bi(gf)lis(g') in(f) ma(d')je(f)stá(fv.fffdgvFE. , df/h_f/g_efv.df/gef)te,(fe..) (;) fá(e!f'g)ci(g)ens(gdf.) *() pro(e)dí(e!f'g)gi(fhgh)a.(hjH'G) (,) (h_dev.fg/h_g h_dev.fg!hvGF'hgge.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "99**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "274",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "emisi-vos-6370",
+  "incipit": "Emisi vos",
+  "title": "Emisi vos",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Emísi vos cum luctu et plorátu: redúcet autem vos mihi Dóminus cum gáudio et jucuntitáte in sempitérnum. ℣. Laudáte Dóminum in sanctis ejus: laudáte eum in firmaménto virtútis ejus. Glória E u o u a e.",
+  "gabc": "(c4) E(d!fg)mí(ghg)si(fh/ji) vos(ih) (::) cum(jjv) lu(hg)ctu(ghGF) (;4) et(h) plo(ixhiHG)rá(ghg)tu:(g) (:) re(j)dú(j)cet(h) au(j)tem(jjv) vos(gh) (;3) mi(h)hi(hfh) Dó(ixhiHG)mi(ghg)nus(g) (;) cum(iyg!hji) gáu(jjv)di(gh)o(ixhiHF) (;3) et(f) ju(g)cun(hg~)ti(f)tá(ixgih)te(h) (;) in(gf~) sem(f!hj)pi(iyjjvIH//ijIH)tér(g!hiHGh)num.(hg) <sp>V/</sp>.(::) Lau(g)dá(h)te(gj) Dó(j)mi(j)num(j) in(ji) san(jk)ctis(k) e(jk)jus:(j) (::) lau(j)dá(hj)te(j) e(j)um(j) in(j) fir(j)ma(j)mén(j)to(j) vir(ji)tú(gh)tis(ji) e(h)jus.(g) (::) Gló(g)ri(h)a(gj) (::) E(j) u(ji) o(gh) u(ji) a(h) e.(g) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "516"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6370",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "qui-me-invenerit-40",
+  "incipit": "Qui me invenerit",
+  "title": "Qui me invenerit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Qui me invénerit, invéniet vitam, et háuriet salútem * a Dómino.",
+  "gabc": "(c4) AL(d)le(cd)lú(df/gd'//fvED'Cee)ia.(d.) *(,) <i>ij.</i>(fefEDeed./fg!hvGF'fvED/) (,) (fefDCeed.) <sp>V/</sp>.(::) Qui(dcd) me(df/gd'//fvED'Ceed.) (,) in(dc~)vé(ixf!gwh!ivHGF'ED//fffvEDed)ne(cd)rit,(d.) (;) in(cd~)vé(dhg/hhggfh./df!hvGE'DfffvEDed)ni(cd)et(dc) vi(d!fff)tam,(ed..) (:) et(hg) háu(fe)ri(g)et(gh) sa(h)lú(ixhig/hvGFhv.df!hvGE'DfffvED)tem(dc/ded.) *(,) a(d) Dó(ce/ge/fd)mi(cd)no.(d.) (,) (fefEDeed./fg!hvGF'fvED.) (,) (fefDCeed.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "29**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "40",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

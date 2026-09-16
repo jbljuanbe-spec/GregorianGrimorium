@@ -1,0 +1,31 @@
+{
+  "id": "os-justi-5885",
+  "incipit": "Os justi",
+  "title": "Os justi",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium: lex Dei ejus in corde ipsíus. T. P. Allelúia, allelúia. ℣. Noli æmulári in malignántibus: neque zeláveris faciéntes iniquitátem. Glória E u o u a e",
+  "gabc": "(f3) Os(hhv) ju(hihhv)sti(e) (::) me(f)di(fef)tá(hf/hhi)bi(h)tur(hg) (;3) sa(i)pi(jijh)én(h)ti(hih)am,(h) (:) et(h) lin(ij)gua(j) e(kxjkJI)jus(ji) (;) lo(hi)qué(h)tur(hg) ju(fh)dí(hg/hi)ci(f/ghGFEf)um:(e/fgf) (:) lex(e) De(fh)i(h) e(g!ij)jus(j) (;3) in(iji~) cor(h)de(ijiji) i(h)psí(hih)us.(h) <i>T. P.</i>(::) Al(h)le(hf//hghf)lú(f!gh>)ia,(e) (;3) al(hi~)le(kxikJI)lú(jiihi)ia.(ih) <sp>V/</sp>.(::) No(hi)li(ih) æ(ij)mu(j)lá(j)ri(j) in(ji~) ma(kxik)li(j)gnán(i)ti(h)bus:(h) (::) ne(h)que(i) ze(j)lá(jl)ve(i)ris(h) (;3) fa(h)ci(h)én(h)tes(h) i(i)ni(hf)qui(h)tá(i)tem.(h) (::) Gló(hi)ri(ih)a(ij) (::) E(h) u(i) o(hf) u(h) a(i) e(h) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "42*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5885",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

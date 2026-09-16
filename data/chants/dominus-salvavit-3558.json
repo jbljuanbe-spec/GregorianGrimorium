@@ -1,0 +1,31 @@
+{
+  "id": "dominus-salvavit-3558",
+  "incipit": "Dominus salvavit",
+  "title": "Dominus salvavit",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Dóminus salvávit manum tuam tibi: quia proélia Dómini * tu praeliáris.",
+  "gabc": "(c3) AL(d!ef)LE(fe/f!gwhg)LÚ(fhhh)IA.(hiHF/fe) *(;) <i>ij.</i>(gh//efED//f!gwhhg ehf/gffe) <sp>V/</sp>.(::) Dó(hv//gih)mi(h)nus(h) sal(hg)vá(gh!ivvHF/hf/gh)vit(g) (;) ma(g)num(gf) tu(hji)am(hgh) ti(fe/hvvGE//gxfgFD//egFE/fe)bi:(e) (:) qui(e)a(e) proé(feh)li(h)a(h) Dó(hfhGE//fhFD//gxgvFE/f/hhh/ijHF , gig/ivHG/he/gxfe/ge//gvFE/fd)mi(ed)ni(d) *(;) tu(fd) prae(ef)li(f)á(hg/hfh)ris.(ghFE) (,) (df!hvFE//df!gwhg/hvGFg egf/gvED/efe) (,) (gxhhvFE/fgED//gyhhvFE/fgffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "395"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3558",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

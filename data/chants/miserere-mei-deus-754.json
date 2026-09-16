@@ -1,0 +1,31 @@
+{
+  "id": "miserere-mei-deus-754",
+  "incipit": "Miserere mei Deus",
+  "title": "Miserere mei Deus",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Miserére * mei Deus, miserére mei: quóniam in te confídit ánima mea. ℣. Misit de caelo, et liberávit me: dedit in oppróbrium conculcántes * me.",
+  "gabc": "(c4) MI(d)se(dv.ced)ré(d)re(d.) *() me(fffddc)i(d.) (,) De(f)us,(fv.d!f'g/fffd/ff/ge'fvDC'fd'/eddc.) (:) mi(cf)se(gfg)ré(ixg_f/g/igh)re(h) me(ixjhhg/hiGF' , gh!jjvHF'hvGF'fvED')()i:(d/ffd/fgff'f/ded.) (:) quó(d_c/f!gw!hgh)ni(hjH'G)am(g.) (,) in(gh) te(fg) con(ge/fhGF')fí(gffe)dit(d//ffd/fge'/fgd'/eddc.) (:) á(d_c/f!gw!hgh)ni(hvGF'fvED')ma(d!ffixhiGF'hvGF') me(gffvD'Cffc,fgfg)a.(ixhg/hiGF'ghgh'jvHG'hvF'Dfff/ded.___) <sp>V/</sp>.(::) Mi(dh)sit(h) de(hg) cae(ixhv.fh!ivHGhv.//,//f!gh/jij/h!jjjvGFh./jjh/jjg/jj)lo,(hih.___) (;) et(hj) li(hgh)be(gfg)rá(hhg/hhg/jj)vit(hih___) me:(h.) (:) de(j)dit(h) in(f) op(ghg)pró(h_f/gh!jv.ijh.,ixjjvH'G/hiG'FghF'Dfv.e!gw!hgh)bri(h)um(ixhf/hig/ff/ded.) (;) con(d!fffd~)cul(ef)cán(ixghghhghv.fh!ivGF'E//f!gwh!ivH~G~)tes(hg__) *(,) me.(ixhg/hiGF'ghgh'//jvHG'hvF'Dfff/ded.___) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "88"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "754",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

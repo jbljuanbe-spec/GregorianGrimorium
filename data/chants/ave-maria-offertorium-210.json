@@ -1,0 +1,37 @@
+{
+  "id": "ave-maria-offertorium-210",
+  "incipit": "Ave Maria (Offertorium)",
+  "title": "Ave Maria (Offertorium)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Ave * María, grátia plena: Dóminus tecum: benedícta tu in muliéribus, allelúia.",
+  "gabc": "(c3) A(gxd!ef!hvvFE'//gvFE)ve(e_f) *(,) Ma(fdf)rí(h_g//ijIH'hg/hf)a,(fe..) (;) grá(hhf!gwhefvED'CB.,ef/h.f!gwh)ti(h)a(g.) ple(hiHF.g/hiHE.,fhFEf./ih/ijh)na:(hi/ih.) (:) Dó(fvEDevDC'db.//cd!ef/fe)mi(de)nus(e.) (`) te(fe/hhe//ffd/ev.,de/f_de./df!hvGFE'f)cum:(fe..) (:) be(hi)ne(ih)dí(h'/jij)cta(h.f!gwh/ih) tu(he..) (,) in(ef) mu(fh)li(fe)é(e_d/efD'CB.,cd/e_d/f_e)ri(de)bus,(ef/fe.) (;) al(fe~)le(fdf)lú(h_g/ijIH'hg/hf)ia.(fe/fgf/fe.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "404"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1318"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "210",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

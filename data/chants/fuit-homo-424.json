@@ -1,0 +1,31 @@
+{
+  "id": "fuit-homo-424",
+  "incipit": "Fuit homo",
+  "title": "Fuit homo",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Fuit homo * missus a Deo, cui nomen Joánnes erat: hic venit. ℣. Ut testimónium perhibéret de lúmine, et paráre Dómino * plebem perféctam.",
+  "gabc": "(c4) FU(ff)it(f) ho(fgff'f)mo(f_d//fge'/fgd'/eddc.) *(;) mis(hf/gh!jj/kjk)sus(jij) a(h_g/h!jjvH'Gh) De(fgf__)o,(f.) (:) cu(ixfi)i(ihig) no(hj)men(ixi_jIFg.) (,) Jo(f)án(fh)nes(gh) e(f_d//ffd)rat:(dc..) (:) hic(ff/gh/jjvH'F) ve(fhg__//jv.jjjhhff//hvGFgf)nit.(f.) <sp>V/</sp>.(z0::c3) Ut(d) te(d)sti(fe)mó(eh)ni(h)um(hih__//i_hjvHF.) (,) (h_g/ijh'__ jvIH'jvIH'//hvGF.) (;) per(f)hi(h)bé(i)ret(hiHF.) (,) de(f) lú(f!h'i/hhf)mi(hfhhefd)ne,(d.) (:) et(hh) pa(h)rá(h)re(hg/ij) Dó(i_h)mi(h)no(hg/i_h//jvIH'Ghf..) *(;) ple(hh)bem(h) per(h)féc(ihhf)tam.(hhhf/hhhf/hhf.) (,) (de/f!hh/ijghf.gxegFD.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "522"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "424",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

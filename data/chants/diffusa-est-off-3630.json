@@ -1,0 +1,31 @@
+{
+  "id": "diffusa-est-off-3630",
+  "incipit": "Diffusa est (Off.)",
+  "title": "Diffusa est (Off.)",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Diffúsa est * grátia in lábiis tuis: proptérea benedíxit te Deus in aetérnum, et in saéculum saéculi. T. P. Allelúia.",
+  "gabc": "(c4) DIF(df)FÚ(ef!ghhghhgh)SA(fhg) est(g) *(,) grá(hv//jkjkvJI)ti(jjjh)a(hg) (;) in(hggf~) lá(hg/jjjh//jkJI)bi(jjjhhg)is(h) tu(gjIHhg)is:(ghggf) (:) pro(hj)pté(jjj//jkj)re(jj/kj)a(jkjjgh) (,) be(gihhg)ne(g)díx(hv/jkj)it(j) te(jkjj) De(ji)us(j) (;) in(jjjgh/jkj) ae(jjjg//hj/klj)tér(jjjg//jvIHhg~)num,(ghggf) (:) et(fh) in(hjIH) saé(gj//jj//jjj)cu(jj/kj)lum(j) (,) saé(jkjjg//hj/kj/kjjh//jjjh/jj//jkj//hiHG)cu(fg)li.(g) (,) (jjvHGhihhg) <i>T. P.</i>(::) Al(hg~)le(gjg/hggf//gh!iwj/kijvIHiwji/hiHG)lú(gh/jhi)ia.(hg) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[52]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3630",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

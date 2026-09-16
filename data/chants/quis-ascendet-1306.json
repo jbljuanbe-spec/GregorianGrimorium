@@ -1,0 +1,37 @@
+{
+  "id": "quis-ascendet-1306",
+  "incipit": "Quis ascendet",
+  "title": "Quis ascendet",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Quis ascéndet * in montem Dómini, aut quis stabit in loco sancto ejus? Innocens mánibus, et mundo corde.",
+  "gabc": "(c4) QUis(g!jjj) a(j)scén(h!iwj)det(j.) *(,) in(j) mon(i!klKJ)tem(kjjh~) Dó(h_ghvG'Fg_h)mi(gf)ni,(fgff/ded.) (:) aut(gj~) quis(jv.jjj) sta(h)bit(hih) (,) in(g) lo(ghG'F)co(gh!ivih) (`) san(h!jjj//giHG'gf , g.h!iwj/kjjvIH)cto(h) e(hiH'G)jus?(hg..) (:) In(gj~)no(j)cens(jki/jkhhg) má(ig/h!jjk)ni(ji)bus,(jjj) (;) et(hg~) mun(hvGF)do(fg) cor(g_fhvGFgvFE)de.(e.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "520"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1495"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1306",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

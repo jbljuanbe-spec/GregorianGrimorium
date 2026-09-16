@@ -1,0 +1,31 @@
+{
+  "id": "vivo-jam-non-ego-488",
+  "incipit": "Vivo jam non ego",
+  "title": "Vivo jam non ego",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Vivo jam non ego, vivit vero in me * Christus.",
+  "gabc": "(c4) AL(cd~)le(d/efd/eddc)lú(fg!hvhg)ia.(ghGE.ghGF'ED'ewfd.) *(;) <i>ij.</i>(ce!gvvFE.ghGF'ED//efefd.) <sp>V/</sp>.(::) Vi(dhhgh)vo(h!iw!jvIHG'ge/gh..) (,) jam(hg~) non(h) e(h//jkJ'IjkJH'//gjjh.,dhhgh.jkJ'IjkJH'//gjjh.,dh'hhvGF.ghG'F)go,(ed..) (;) vi(e)vit(ed) ve(e)ro(efe) in(cd~) me(d) *() Chri(fg!hvhg)stus.(ghGE.ghGF'ED'ewfd.) (;) (ce!gvvFE.ghGF'ED//efefd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "85**"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "488",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

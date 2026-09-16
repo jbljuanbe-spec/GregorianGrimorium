@@ -1,0 +1,31 @@
+{
+  "id": "domine-deus-meus-3658",
+  "incipit": "Domine Deus meus",
+  "title": "Domine Deus meus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Alleluia. * ij. ℣. Dómine Deus meus, clamávi ad te, et sanásti me: eduxísti ab inférno ánimam * meam.",
+  "gabc": "(c4) AL(dc~)LE(c!egFECd)LU(dc/fg!hvGFg)IA.(g) *(;) <i>ij.</i>(hg/hvGF//gf/gvFD/ffd/ev//dec) (;) (e/gghGF/gvFE/ffd//evDC/d!ewfd) <sp>V/</sp>.(::) Dó(h)mi(ghGF)ne(ev//ce!gvFEC/dw!evDCd) (,) De(d/ffe/ggh)us(fvED) me(cd!ewfd)us,(d) (;) cla(de)má(gh)vi(gh) ad(h!iwj/ki/jvHG//h!iwjh) te,(h) (;) et(h) sa(hg/hvGFE)ná(f!gh)sti(fvED) me:(cd!ewfd) (:) e(de)du(ghg//hgh)xí(h!iwj/ki/jvHG//h!iwjh)sti(h) (;) ab(hg/hvGF) in(fvED)fér(fg!hvFED//cd!ewfd)no(d) (;) á(de)ni(gh)mam(gh) *() me(h!iwj/ki/jvHG//h!iwjh)am.(hg/hvGF//gf/gvFD/ffd/ev//dec) (,) (e/gghGF/gvFE/ffd//evDC/d!ewfd) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "442"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3658",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

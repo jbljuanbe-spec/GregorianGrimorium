@@ -1,0 +1,31 @@
+{
+  "id": "tibi-dixit-5182",
+  "incipit": "Tibi dixit",
+  "title": "Tibi dixit",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "III",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Tibi dixit cor meum, quæsívi vultum tuum: vultum tuum, Dómine, requíram: ne avértas fáciem tuam a me. ℣. Dóminus illuminátio mea, et salus mea, quem timébo? Glória E u o u a e",
+  "gabc": "(c4) Ti(gj)bi(j) di(j)xit(j) (::) cor(hj) me(jvIH)um,(h) (:) quæ(gh)sí(fg)vi(g) vul(gh/jij>)tum(gh) tu(hkj)um:(ikj) (;) vul(hj)tum(j) tu(jvIH)um,(h) (;3) Dó(h)mi(g)ne,(h) re(hi)quí(gh)ram:(gh/jgh) (:) ne(g) a(i)vér(gh)tas(h) fá(h)ci(g)em(ef) tu(g)am(g) (;3) a(ghGF/gvFE) me.(e) <sp>V/</sp>.(::) Dó(g)mi(hj)nus(j) il(j)lu(j)mi(j)ná(j)ti(j)o(j) me(j)a,(j) (;6) et(j) sa(jk)lus(j) me(ih)a,(hj) (::) quem(hg) ti(h)mé(i)bo?(gh) (::) Gló(g)ri(hj)a(j) (::) E(j) u(ji) o(hg) u(h) a(i) e(gh) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "99"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "5182",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

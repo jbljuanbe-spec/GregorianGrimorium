@@ -1,0 +1,31 @@
+{
+  "id": "meditabor-alleluia-4854",
+  "incipit": "Meditabor... alleluia",
+  "title": "Meditabor... alleluia",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "II",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Meditábor in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mandáta tua, quæ diléxi, allelúia.",
+  "gabc": "(f3) Me(e)di(f)tá(fhhegf)bor(f) (::) in(e) man(f)dá(hih)tis(hih) (;3) tu(hihhvGF)is,(gf) (;) quæ(hg) di(h)lé(hji)xi(hji) val(hg)de:(f) (:) et(e) le(f)vá(hhi)bo(h) (;4) ma(fh)nus(ef) me(fh)as(h//ih//ihhvFEf) (;) ad(e) man(f)dá(hih)ta(hihi) tu(fgffe)a,(e) (:) quæ(hg) di(h)lé(dxhji/hhf//ihihhvFED;efED//efef)xi,(f) (;4) (hhvGF/ggf) (:) al(c)le(efef//ghg/hhvGE;4fg/hvGF)lú(fg/hgh)ia.(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "258"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "4854",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

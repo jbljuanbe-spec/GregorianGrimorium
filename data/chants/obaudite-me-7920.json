@@ -1,0 +1,31 @@
+{
+  "id": "obaudite-me-7920",
+  "incipit": "Obaudíte me",
+  "title": "Obaudíte me",
+  "cantus_id": null,
+  "genre": "Offertorium",
+  "genre_code": "of",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Obaudíte me divíni fructus, et quasi rosa plantáta super rivos aquárum fructificáte: quasi Líbanus odórem suavitátis habéte.",
+  "gabc": "(c4)Ob(ffvDCdf/f/hgh)au(fgf)dí(f!gh)te(h) me(hf;3ixhig/ffv/ded) (::) di(d)ví(dgfg/;4dgf/efd/ed)ni(cd) fru(dv/c!df/ef/hvGEfd)ctus,(d) (:) et(df/hv;3jjh/ixivGEfg) (;) qua(fe)si(ce) ro(ghGEfvDCd)sa(dv/fddc) (;) plan(dc~)tá(df/efd/cd)ta(d) (;3) su(cd)per(d) ri(ede)vos(dec) (;3) a(c!df/efgvEDfe)quá(ded)rum(d) (;) fruc(d)ti(cd)fi(d)cá(d!efd)te:(d) (:) qua(c)si(d) Lí(dh/jjh;3ixgihig;3f!gh/jjg;fhgh;3fh/jg/ffdf;eg/hjh/jh)ba(hgh)nus(f) (;) o(e!fgED/f;3efd)dó(cd)rem(dfddc) (;4) su(c!df)a(e!fg)vi(edfe)tá(ded)tis(d) (;1) ha(cd)bé(de/fef)te.(ed) (::)",
+  "transcriber": "Thomas Keogh",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "581"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7920",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

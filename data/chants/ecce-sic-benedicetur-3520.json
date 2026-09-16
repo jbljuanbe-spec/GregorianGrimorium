@@ -1,0 +1,31 @@
+{
+  "id": "ecce-sic-benedicetur-3520",
+  "incipit": "Ecce sic benedicetur",
+  "title": "Ecce sic benedicetur",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Ecce sic benedicétur * omnis homo qui timet Dóminum: et vídeas fílios filiórum tuórum: pax super Israel. T. P. Allelúia",
+  "gabc": "(c4) EC(f)CE(ef) sic(de) be(dc)ne(fg)di(f)cé(gh)tur(h) *(,) o(hj)mnis(hg) ho(f!gwhg)mo(h) (;) qui(h) ti(h!iwj)met(hg/hg) Dó(f)mi(fg!hvGFg)num:(gf) (:) et(f) ví(fh!iwjjk)de(j)as(j) (,) fí(jk)li(j)os(j) fi(ji)li(h)ó(i!jk)rum(j) tu(h)ó(fg!hvGFg)rum:(gf) (:) pax(ffeg) su(g)per(ixgh!jvHGhw!ivHG) Is(f)ra(fg!hvGFg)el.(gf) <i>T. P.</i>(::) Al(fg)le(f)lú(fg!hvGFg)ia(gf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[114]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3520",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

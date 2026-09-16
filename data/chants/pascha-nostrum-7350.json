@@ -1,0 +1,31 @@
+{
+  "id": "pascha-nostrum-7350",
+  "incipit": "Pascha nostrum",
+  "title": "Pascha nostrum",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VII",
+  "mode_variant": null,
+  "version": null,
+  "text_latin": "Allelúia. ℣. Pascha nostrum immo látus est Christus.",
+  "gabc": "(c3) AL(e)le(e)lú(e!f'h fi//gi~)ia.(ii) (;) (g!iwjij//iji/hiHF'/fe.) (;) (iv.ji/ji/jvIG./hih'/ivHF'fe.) (,) (iv.ef//efd./fhf/gffe.) <sp>V/</sp>.(::) Pa(h)scha(g) nos(ijij)trum(iji___/j_g//hi/Zj_i/j_g/hihhg.) (;) im(h)mo (i)lá(il.mvLK/lvKJ/kkki ; lv./mvLK/lvKJ/kkki//jvIHh'hf/g!h'i,_jk IH'/ivHF'/fe. , g!hwigiigi)tus(giG'FE./gvFE/fe) est(e.) (;) Chris(e/f'h//figi)tus.(iie.) (,) (i'jvIH'/ivHF'/fe.) (,) (iv.ef//efd./fhf/gffe.) (::)",
+  "transcriber": null,
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1974,
+      "page": "197"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "7350",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

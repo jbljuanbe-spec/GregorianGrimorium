@@ -1,0 +1,37 @@
+{
+  "id": "caro-mea-vere-90",
+  "incipit": "Caro mea vere",
+  "title": "Caro mea vere",
+  "cantus_id": null,
+  "genre": "Communio",
+  "genre_code": "co",
+  "mode": "IV",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Caro mea * vere est cibus, et sanguis meus vere est potus. Qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in illo.",
+  "gabc": "(c4) CA(d)ro(d!ewf) me(ced)a(d.) *(,) ve(d!f'g)re(gh) est(h) ci(ghe)bus,(e.) (;) et(e) san(e_g!hi)guis(h') me(hjjh)us(h_g) ve(g)re(f!g'h) est(ghf) po(egff)tus.(fe..) (:) Qui(e) man(e)dú(g')cat(h) me(i_h)am(h!iwj) car(hiHG'h)nem(hg..) (,) et(g) bi(h_g)bit(g_f) me(gh)um(f') sán(e)gui(ef!gvFEfvED)nem,(fd/efef.) (;) in(d) me(e) ma(g_h)net(g.) (,) et(g) e(g)go(g.d!ewf) in(f) il(egff)lo.(fe..) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "592F"
+    },
+    {
+      "title": "The Liber Usualis",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "1623E"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "90",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

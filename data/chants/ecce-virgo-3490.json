@@ -1,0 +1,31 @@
+{
+  "id": "ecce-virgo-3490",
+  "incipit": "Ecce Virgo",
+  "title": "Ecce Virgo",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "VI",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Allelúia. * ij. ℣. Ecce Virgo concípiet, et páriet fílium, et vocábitur nomen ejus * Emmánuel.",
+  "gabc": "(c4) AL(dff)LE(dcf)LÚ(gfh)IA.(h) *(,) <i>ij.</i>(fgFDC/ffg//fhggf) <sp>V/</sp>.(::) Ec(d)ce(ff) Vir(dcf)go(f) con(gf~)cí(f/hgh)pi(gf)et,(f) (;) et(f) pá(gh)ri(h)et(ixg/jvvIGF/gh) fí(ghGF)li(fgf)um,(f) (:) et(fd~) vo(f)cá(g)bi(f)tur(gh) (,) no(h)men(fgFDC/ff) e(gf/hvGF)jus(f) *(;) Em(dff)má(dcf)nu(gfh)el.(h) (,) (fgFDC/ffg//fhggf) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[188]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3490",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

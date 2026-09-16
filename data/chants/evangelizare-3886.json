@@ -1,0 +1,31 @@
+{
+  "id": "evangelizare-3886",
+  "incipit": "Evangelizare",
+  "title": "Evangelizare",
+  "cantus_id": null,
+  "genre": "Graduale",
+  "genre_code": "gr",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Evangelizáre * paupéribus misit me, sanáre contrítos corde. ℣. Parásti in dulcédine tua páuperi, Deus: Dóminus dabit verbum evangelizántibus virtúte * multa.",
+  "gabc": "(c4) E(d)VAN(ffg)GE(f)LI(gh)ZÁ(hg)RE(gv//fgFD) *(,) pau(d)pé(dgf/gh)ri(g)bus(ixg//hiGFfd/fgf) (,) mi(hj)sit(jh) me,(jhjjh) (:) sa(j)ná(ixij!kvJIHi)re(ih) (,) con(ixi)trí(hhg)tos(gh) cor(hg/hf/gf)de.(ixf//hiHF//hg/hjhh/fgf) <sp>V/</sp>.(z0::c3) Pa(df)rá(hvvGF/hvGE/ff//ixde!fgFEfvEDe , fh/ih/ih/ijh)sti(h) (,) in(h) dul(h)cé(hi)di(h)ne(h) tu(ih/kkh/ih/kkvIH)a(hv//ghGF) (;) páu(hi!jwk)pe(ih)ri,(h) De(gxfgFE//fgFD//fvEDed)us:(d) (:) Dó(de)mi(d)nus(ef) da(hf/ge)bit(ef!hih) (,) ver(hgh)bum(ixfhED//hf/gf) (,) e(d)van(ef)ge(f)li(f)zán(gxfg)ti(f)bus(f) vir(f)tú(f)te(hfg) *() mul(ef!gwh)ta.(he) (,) (gxhfgED//ef/hff/ded) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "[183]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "3886",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

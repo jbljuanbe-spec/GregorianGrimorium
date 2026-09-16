@@ -1,0 +1,31 @@
+{
+  "id": "circumdederunt-me-1746",
+  "incipit": "Circumdederunt me",
+  "title": "Circumdederunt me",
+  "cantus_id": null,
+  "genre": "Introitus",
+  "genre_code": "in",
+  "mode": "V",
+  "mode_variant": null,
+  "version": "Vatican",
+  "text_latin": "Circumdederunt me * gémitus mortis, dolóres inférni circumdedérunt me: et in tribulatióne mea invocávi Dóminum, et exaudívit de templo sancto suo vocem meam. Ps. Díligam te Dómine, fortitúdo mea: * Dóminus firmaméntum meum, et refúgium meum, et liberátor meus. Glória Patri. E u o u a e.",
+  "gabc": "(c3) CIR(df~)CUM(f)DE(f)DE(f)RUNT(feef) me(d) *(,) gé(fh)mi(f)tus(hh) mor(hi~)tis,(h) (;) do(h)ló(hih)res(hg) in(fe~)fér(fg~)ni(g) (,) cir(gf~)cum(hiHE)de(fhgh)dé(fheed)runt(d) me:(gxdf//egFD) (:) et(df) in(f) tri(fef)bu(f)la(f)ti(ef)ó(d!ef)ne(f) me(fefd)a(d) (;) in(d)vo(efe)cá(f!hi)vi(hie!f) Dó(fe)mi(h)num,(hif) (:) et(f) ex(hh)au(h)dí(hih)vit(hg) (,) de(e) tem(fh~)plo(h) sanc(h)to(gh) su(fheede)o(ed) (;) vo(d!ewfef/hhe/f)cem(efe) me(de!fvEDe)am.(ed) <i>Ps.</i>(::) Dí(d)li(f)gam(h) te(h) Dó(h)mi(h)ne,(h) for(h)ti(h)tú(h)do(i) me(i)a:(h) *(:) Dó(f)mi(h)nus(h) fir(h)ma(h)mén(h)tum(h) me(h)um,(h) et(h) re(h)fú(h)gi(h)um(h) me(h)um,(h) (,) et(h) li(h)be(h)rá(i)tor(g) me(h)us.(f) (::) Gló(d)ri(f)a(h) Pa(h)tri.(h) (::) E(h) u(h) o(i) u(g) a(h) e.(fefvEDe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Vatican",
+      "year": 1908,
+      "page": "58"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1746",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

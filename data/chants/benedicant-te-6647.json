@@ -1,0 +1,31 @@
+{
+  "id": "benedicant-te-6647",
+  "incipit": "Benedicant te",
+  "title": "Benedicant te",
+  "cantus_id": null,
+  "genre": "Tractus",
+  "genre_code": "tr",
+  "mode": "VIII",
+  "mode_variant": null,
+  "version": "Dominican",
+  "text_latin": "Benedícant te, Dómine, omnes Angeli, et Sancti tui. ℣. Benedícant te cæli, terra, mare, et ómnia quæ in eis sunt. ℣. Benedíctum sit nomen glóriæ tuæ, quod est sanctum, laudábile, et gloriósum.",
+  "gabc": "(c3) Be(e)ne(e)dí(e!fgf)cant(effe) te,(e) (::) Dó(ehhi)mi(f)ne,(ed/effe) (;) o(hhv)mnes(fgf) (;3) An(h)ge(fh)li,(hhiffefe//hhf/heed) (:) et(e) San(fde)cti(ef/hgh) tu(hfh)i.(hhvGF//gvFE/fe) <sp>V/</sp>.(::) Be(e)ne(e)dí(e!fhhv)cant(h) te(h) (;) cæ(h)li,(h) ter(h)ra,(h) ma(hiHGE/fe//f!ghGF//ghf)re,(efe) (:) et(d) ó(fh)mni(gef)a(ed/ef) (;) quæ(ef) in(e) e(ef/hgh)is(hfh) sunt.(hhvGF//gvFE/fe) <sp>V/</sp>.(::) Be(e)ne(e)dí(e!fhhv)ctum(h) sit(h) (;) no(h)men(h) gló(h)ri(h)æ(h) tu(gi/jhhf)æ,(hffefe//hhf//heed) (:) quod(d) est(fh) san(gef)ctum,(ed/ef) (;) lau(e)dá(ef/hgh)bi(hfh)le,(hhvGF//gvFEfe) (::) et(fe/fh) glo(efED)ri(d!fh)ó(h)sum.(hghFE//eev/feede) (;) (ehhiHGF/fe//efED) (;) (fhGF//gffe) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale O.P. (Suarez)",
+      "editor": "Dominican",
+      "year": 1950,
+      "page": "61*"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "6647",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}

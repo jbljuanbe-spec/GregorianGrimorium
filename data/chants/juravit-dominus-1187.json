@@ -1,0 +1,31 @@
+{
+  "id": "juravit-dominus-1187",
+  "incipit": "Juravit Dominus",
+  "title": "Juravit Dominus",
+  "cantus_id": null,
+  "genre": "Alleluia",
+  "genre_code": "al",
+  "mode": "I",
+  "mode_variant": null,
+  "version": "Solesmes",
+  "text_latin": "Allelúia. * ij. ℣. Jurávit Dóminus, et non paenitébit eum: Tu es sacérdos in aetérnum, secúndum órdinem * Melchísedech.",
+  "gabc": "(c4) AL(cd~)le(de/ge/feed)lú(eg//fhg/efd/c!ee)ia.(d.) *(;) <i>ij.</i>(ixhh/gih/ghggvF'ED.) (,) (cd/ede//g_hf/e!fg.) (,) (hvGF'EdfED.c!efd.) <sp>V/</sp>.(::) Ju(dh)rá(ixh_g/hiHG'h)vit(f_e) Dó(ef!gvFE)mi(de)nus,(e.) (;) et(eg!hv_GF) non(edd) pae(c)ni(ef/gf)té(ed)bit(cd) e(deed)um:(d.) (:) Tu(cd) es(d) sa(ef!gh)cér(egFE'ed~)dos(d.) (,) in(hhg/hvGF'gvF'ED.) ae(ef!gh)tér(egFE'ed~)num,(d.) (;) se(dede)cún(c)dum(e) ór(ixgh/igh./egF'ED. , ixce!gh/igh./egF'ED'dc~)di(c!ef)nem(ed..) *(;) Mel(cd)chí(de/ge/feed)se(eg//fhg/efd/c!ee)dech.(d.) (;) (ixhh/gih/ghggvF'ED.) (,) (cd/ede//g_hf/e!fg.) (,) (hvGF'EdfED.c!efd.) (::)",
+  "transcriber": "Andrew Hinkley",
+  "commentary": null,
+  "liturgical_occurrences": [],
+  "bibliography": [
+    {
+      "title": "Graduale Romanum",
+      "editor": "Solesmes",
+      "year": 1961,
+      "page": "[37]"
+    }
+  ],
+  "provenance": {
+    "origin": "gregobase",
+    "license": "CC0-1.0",
+    "external_id": "1187",
+    "snapshot": "gregobase_20191024"
+  },
+  "review_status": "needs_review"
+}
