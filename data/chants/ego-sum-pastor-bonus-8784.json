@@ -9,6 +9,8 @@
   "mode_variant": "a",
   "version": "Vatican",
   "text_latin": "Ego sum * pastor bonus, qui pasco oves meas, et pro óvibus meis pono ánimam meam.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) E(g)go(hj) sum(j) *() pa(j)stor(hj~) bo(ji)nus,(g) (,) qui(g) pa(g)sco(hi) o(h)ves(g) me(efwg)as,(g) (;) et(g) pro(hj) ó(j)vi(h)bus(j) me(ih)is(g) (,) po(h)no(g) á(f)ni(g)mam(gf~) me(e)am.(e) (::)",
   "transcriber": "Mateusz Ciesiółka",
   "commentary": null,

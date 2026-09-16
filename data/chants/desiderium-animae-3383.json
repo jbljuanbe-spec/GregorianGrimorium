@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Desidérium *ánimae ejus tribuísti ei, Dómine, et voluntáte labiórum ejus non fraudásti eum: posuísti in cápite ejus corónam de lápide pretióso. T. P. Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DE(c)SI(d)DÉ(ff)RI(fhg)UM(ghff) *á(d!fffg)ni(f)mae(f) e(fg!hvGF)jus(gf) (;) tri(fg)bu(f)í(gf)sti(fe) e(fg)i,(ixg!iiivGF) (,) Dó(fg)mi(f)ne,(fggf) (:) et(fd~) vo(fgf)lun(gh)tá(hj)te(g) la(f)bi(f)ó(f)rum(fhg) e(fg!hvGF)jus(gf) (;) non(fh/jhj) frau(gf~)dá(fgFD)sti(fg) e(fgFD)um:(dfddc) (:) po(f)su(g)í(gh/jhj)sti(g) in(f) cá(gh)pi(g)te(f) e(hf/gh)jus(g) (;) co(f)ró(hv//fhg)nam(g) (,) de(ixgih) lá(ixij)pi(g)de(fgFD) pre(ff)ti(gh)ó(ixhf/gh/jjh//giHGF//,fff//fgf/ghg/hf/gf)so.(f) <i>T. P.</i>(::) Al(gf~)le(fff//hg/hg)lú(fg!hvGFg)ia.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

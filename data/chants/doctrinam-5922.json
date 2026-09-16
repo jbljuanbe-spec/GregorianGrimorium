@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Doctrínam quasi antelucánum illúmino ómnibus, et enarrábo illam usque ad longínquum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Do(dfd)ctrí(eef/dgf//ff//fvDC//dfDC//dfd!ef)nam(f) (::) qua(ef!gh)si(hg) an(g)te(d!ef)lu(gf)cá(f!ghgh)num(eef) (;) il(d)lú(dg)mi(hg)no(g) ó(hjh!ij)mni(g)bus,(fgffd) (:) et(f) e(fe/f!gh)nar(hg)rá(g//jj//jvIH)bo(gh) il(egFE)lam(fff) (;) u(dec)sque(fv//fff) ad(eef) lon(d!ef)gín(fff/ghGD/fff/hvGF/gvFE)quum.(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

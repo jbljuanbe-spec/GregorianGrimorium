@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Optimam partem * elégit sibi María, quae non auferétur ab ea in aetérnum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) O(gg)PTI(g)MAM(gh~) par(hvGF//gh!iwjg)tem(g) *(,) e(gh)lé(jkjk)git(ij~) si(h)bi(hvGF) Ma(h)rí(hjIG)a,(g) (:) quae(g) non(hih) au(g)fe(e)ré(ffg)tur(gvFED) ab(fg) e(g)a(ghgh) (,) in(f) ae(ghg)tér(h!jj/hi~)num.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

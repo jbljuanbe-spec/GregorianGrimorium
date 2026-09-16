@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Reges Tharsis * et ínsulae múnera ófferent: reges Arabum et Saba dona addúcent: et adorábunt eum omnes reges terrae, * omnes gentes sérvient ei.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) RE(h)ges(fh) Thar(h)sis(hhh//hv//hhh) *(,) et(fh) ín(hhhjvIH)su(hvGF)lae(fhGFh) (;) mú(d!efivHG)ne(hggfg)ra(gf) óf(gxdf!gvFE)fe(feede)rent:(ed) (:) re(f)ges(e) A(ef!gvgf)ra(ef!hhvFE)bum(feed) (,) et(de) Sa(f)ba(highvFE//highvFEed) (;) do(fhhhhi)na(i) ad(hhh)dú(hi!jvIHGhvGFg)cent:(gf) (:) et(hf) a(h)do(hi)rá(iv//hihhe)bunt(fhg) e(hg)um(highvFD) (;) o(df)mnes(fe) re(f!hhh)ges(fe) ter(egFEfe)rae,(e) *(:) o(f!hihhh)mnes(ef/gf) gen(f!hihhh)tes(ef/gf) (;) sér(fh/ih)vi(gxf!hhf/ge)ent(de/fhf) e(gxegFEfd)i.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

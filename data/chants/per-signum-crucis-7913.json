@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Per signum Crucis de inimícis nostris líbera nos, Deus noster.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Per(e) si(gih)gnum(g) (::) Cru(ef)cis(efED) (;) de(fh) i(h)ni(hf)mí(h)cis(hi/jvji) no(gihhv)stris(hg) (;) lí(h)be(iji)ra(jljji//jkjjij) nos,(ijIH) (;) De(g!hi)us(h) no(gvFEf,4ehg//hhg,3hjijh//ivHG)ster.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

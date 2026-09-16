@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Cantábo * Dómino, qui bona tríbuit mihi: et psallam nómini Dómini altíssimi.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) CAN(d)TÁ(gxege)BO(g) *() Dó(gxf/ghg)mi(gvFE)no,(ge/fgf) (,) qui(ef) bo(hhi)na(h) trí(hihhe)bu(f)it(fiHGh) mi(fgf)hi:(f) (:) et(h) psal(hi~)lam(gf) nó(hi!jk)mi(k)ni(j/klk) Dó(ij)mi(ih)ni(hih/hvGFE/fe) (,) al(gig//ijhh/hvFED//fhf)tís(f)si(fgf)mi.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

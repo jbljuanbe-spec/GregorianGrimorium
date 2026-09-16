@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Psállite Dómino, * qui ascéndit super caelos caelórum ad Oriéntem, allelúia",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) PSÁL(d)LI(c)TE(dfe) Dó(fg)mi(gvFE/fvEDe)no,(ed) *(;) qui(f) a(gh)scén(hgh~)dit(h) (,) su(h!iwji/jkj)per(hf~) cae(ixgiHG)los(hg) cae(ef)ló(ixgiHG)rum(hg) (,) ad(fgeed) O(d!ewf!gh)ri(fe)én(de~)tem,(c) (;) al(fg~)le(ed/fh//ghg/e!fg/hf/gvFE)lú(d!ewfef)ia(ed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

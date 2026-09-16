@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Si quis sitit, véniat ad me et bibat, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Si(fd) quis(ffg) si(f)tit,(ghg) (::) vé(f)ni(fe)at(d) ad(f) me(g) (;) et(ff) bi(dec)bat,(c) (;) al(f)le(g)lú(ixi)ia,(h) (;3) al(i)le(hv//gih)lú(fgf)ia.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

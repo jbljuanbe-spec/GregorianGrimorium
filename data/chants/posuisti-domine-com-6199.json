@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Posuísti, Dómine, in cápite ejus corónam de lápide pretióso, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Po(c)su(d)í(f)sti,(fe/ghf) (::) Dó(f)mi(fgf)ne,(f) (;) in(f) cá(ixfg!hi)pi(h)te(h) e(hj)jus(hg) co(hj)ró(ghGFg)nam(gf) (;) de(dfe) lá(fg)pi(d!efEDCd)de(dc) (;4) pre(ffv)ti(gf/hvGF)ó(fgf)so,(f) (;) al(d)le(f)lú(fhggf~)ia.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

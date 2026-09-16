@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Exsúlta * fília Sion, lauda fília Jerúsalem: ecce Rex tuus venit sanctus, et Salvátor mundi.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) EX(d!ewf)SÚL(cd~)TA(d) *(,) fí(d!fg)li(gh)a(h) Si(ghe)on,(e) (;) lau(eg!hi)da(h) (,) fí(hjj)li(hg)a(g) Je(f!gh)rú(ghf)sa(egff)lem:(fe) (:) ec(e)ce(g) Rex(h) tu(ih)us(ij) ve(hiHGh)nit(hg) (,) sanc(hg~)tus,(gf) et(gh) Sal(f)vá(ef!gwh)tor(hg~) mun(egff)di.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Ignem * veni mítere in terram: et quid volo, nisi ut accendátur?",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) I(fhg)gnem(ghF'E/fvE'DCdc..) *(,) ve(ff)ni(ffg) mí(fd)te(f)re(gh) in(h) ter(hj!kvJH)ram:(h.) (:) et(h) quid(ghg) vo(ef)lo,(ghg.) (;) ni(hv./fhg/hvF'ED)si(dfddc.) (,) ut(f) ac(g)cen(e_d/fgF'Ef)dá(ded__)tur?(d.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

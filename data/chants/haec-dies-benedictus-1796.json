@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Haec dies, * quam fecit Dóminus: exsultémus, et laetémur in ea. ℣. Benedíctus qui venit in nómine Dómini: Deus Dóminus, et illúxit * nobis.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) HAEC(gxfe/gvFEfd/fh) di(hhhvFE/fef)es,(f) *(;) quam(ef) fe(hh)cit(hh//ijhhvFEf) (,) Dó(hfh)mi(hhh)nus:(hf!gwh!iv//hi/jhh/iih) (:) ex(f)sul(h)té(hg/hi!jvHG/hhg , ih/ivHF)mus,(fhFE/fhhf//hvvGF/heed) (:) et(d!ef) lae(fef)té(hf/hhh)mur(hiHF) (;) in(ef) e(hf/hi)a.(ih/ijIH,jh/jkIG/hvFE//f!gwh!iv//h!ij) (,) (ijijHF/gwhf) <sp>V/</sp>.(::) Be(f)ne(h)díc(hi)tus(i) qui(hi) ve(jvIHG/hvFE , ge/f!hh/ijij , hj!kvIG/hvFE//fgFEf , i!jwkj/kvJIj)nit(ji) (:) in(i) nó(ki!jw!kvJI)mi(i)ne(ij) Dó(jh/jvIH/hf//hhf/hv//hhhf , hi!jvIH//jvIHi)mi(f!gwhf)ni:(f) (:) De(hh)us(hi) Dó(ivHGE//fhGE/fh,gi!jvHF)mi(f)nus,(fhFE/fhhf//hvvGF/heed) (:) et(d) il(ef~)lú(fhvGFg)xit(ef) *() no(hf/hi)bis.(ijHGhi) (,) (e!fhhjIHGF/gwhf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

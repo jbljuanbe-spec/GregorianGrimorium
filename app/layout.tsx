@@ -1,23 +1,25 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import { Crimson_Text, Inter } from "next/font/google";
+import { Archivo, Spectral } from "next/font/google";
+import SiteNav from "@/components/SiteNav";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
 import "./globals.css";
 
-// Crimson Text es una tipografía de estilo Garamond: es la que usa Exsurge
-// para la letra bajo los neumas, así que el texto de la web y el de la
-// partitura casan.
-const serif = Crimson_Text({
+// Archivo para la interfaz: una grotesca de trabajo, con carácter y buena
+// densidad para filas de metadatos.
+const display = Archivo({
   subsets: ["latin", "latin-ext"],
-  weight: ["400", "600"],
-  style: ["normal", "italic"],
-  variable: "--font-serif",
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-display",
   display: "swap",
 });
 
-const sans = Inter({
+// Spectral para el latín y para la letra bajo los neumas: serif pensada para
+// pantalla, con diacríticos sólidos (é, æ, ǽ) que este repertorio necesita.
+const chant = Spectral({
   subsets: ["latin", "latin-ext"],
-  variable: "--font-sans",
+  weight: ["400", "500"],
+  style: ["normal", "italic"],
+  variable: "--font-chant",
   display: "swap",
 });
 
@@ -41,25 +43,18 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="es" className={`${serif.variable} ${sans.variable}`}>
+    <html lang="es" className={`${display.variable} ${chant.variable}`}>
       <body>
         <a href="#contenido" className="skip-link">
           Ir al contenido
         </a>
-        <header className="site-header">
-          <div className="wrap">
-            <Link href="/" className="brand">
-              <span className="brand-mark" aria-hidden="true">
-                ℟
-              </span>
-              <span className="brand-name">{SITE_NAME}</span>
-            </Link>
-            <span className="tagline">Biblioteca de canto gregoriano</span>
-          </div>
-        </header>
+
+        <SiteNav />
+
         <main id="contenido">
           <div className="wrap">{children}</div>
         </main>
+
         <footer className="site-footer">
           <div className="wrap">
             <p>
@@ -71,11 +66,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="https://github.com/bacor/gregobasecorpus" rel="noreferrer">
                 GregoBaseCorpus
               </a>
-              , en dominio público (CC0-1.0). Partituras compuestas en tu navegador con{" "}
+              , en dominio público (CC0-1.0). Las partituras se componen en tu navegador desde su
+              notación gabc con{" "}
               <a href="https://github.com/frmatthew/exsurge" rel="noreferrer">
                 Exsurge
               </a>{" "}
-              (MIT).
+              (MIT); no son imágenes escaneadas.
             </p>
           </div>
         </footer>

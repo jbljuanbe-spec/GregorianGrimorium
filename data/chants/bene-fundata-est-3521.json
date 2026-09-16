@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣. Bene fundáta est domus Dómini supra firmam * petram.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(cd)LE(ef!ghhg)LÚ(gi/jh/ivHG)IA.(g) *(;) (gh/ijh//jvIHG//fhfg//egFEDC) (,) (cd!ef!gh/hvGFD/eddc) <sp>V/</sp>.(::) Be(cd)ne(fe) fun(fg~)dá(gvFEDfg!hvhg)ta(fg) est(g) (,) do(ghhg)mus(fvED) Dó(dgFE)mi(cdc)ni(c) (:) su(g/hgjv//ijhhvGEfg)pra(g) fir(cd!ef!ghhv//gi/jhivHG)mam(g) *(;) pe(gh/ijh//jvIHG//fhfg)tram.(egFEDC) (,) (cd!ef!gh/hvGFD/eddc) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

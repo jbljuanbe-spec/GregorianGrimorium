@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Opórtet te, fili, gaudére, quia frater tuus mórtuus fúerat, et revíxit: períerat, et invéntus est.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) O(g)pór(gj)tet(h) te,(g) (::) fi(h)li,(f) gau(h)dé(g)re,(g) (:) qui(g)a(g) fra(hj)ter(j) tu(j)us(j) (;) mór(j)tu(i)us(h) fú(j)e(i)rat,(g) (;3) et(h) re(gf)ví(gh)xit:(g) (:) pe(h)rí(j)e(i)rat,(g) (;3) et(h) in(gf)vén(gh)tus(h) est.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

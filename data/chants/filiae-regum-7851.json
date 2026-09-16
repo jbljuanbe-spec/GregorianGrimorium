@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Cistercian",
   "text_latin": "Filiae regum in honóre tuo, ástitit regína a dextris tuis in vestítu de auráto, circúmdata varietáte.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) FI(e/hhh)LI(h)AE(h) re(hihh)gum(hihhhhfh) (::) in(e) ho(fh)nó(hi)re(hi) tu(f!hi)o,(iji/jvIHih) (:) á(fh/ih)sti(h)tit(hhh) re(h)gí(fh!ivHGF)na(fhffe) (;) a(ef) dex(hf/hji)tris(hji) tu(hiHF)is(gf) (:) in(e) ve(f)stí(fh!ivHF)tu(fh) de(f!hhfhvED) au(de/fe/fe~)rá(f!hhh/ij)to,(ijiih) (:) cir(hg~)cúm(fh)da(hhh/ijHF)ta(fhffe) (;) va(e)ri(fe)e(hhg)tá(hih//ghFE;zhv/ghFEhighvFE)te.(ef/ehf/gffe) (::) <v>(</v>Al(f)le(e!fhFEf/e!hh/gh/ijh)lú(hhhe;hvGFfe~)ia.<v>)</v>(ef/ehf/gffe) (::)",
   "transcriber": "Aelredus",
   "commentary": null,

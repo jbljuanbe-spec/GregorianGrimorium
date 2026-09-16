@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Quis ascéndet * in montem Dómini, aut quis stabit in loco sancto ejus? Innocens mánibus, et mundo corde.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) QUis(g!jjj) a(j)scén(h!iwj)det(j.) *(,) in(j) mon(i!klKJ)tem(kjjh~) Dó(h_ghvG'Fg_h)mi(gf)ni,(fgff/ded.) (:) aut(gj~) quis(jv.jjj) sta(h)bit(hih) (,) in(g) lo(ghG'F)co(gh!ivih) (`) san(h!jjj//giHG'gf , g.h!iwj/kjjvIH)cto(h) e(hiH'G)jus?(hg..) (:) In(gj~)no(j)cens(jki/jkhhg) má(ig/h!jjk)ni(ji)bus,(jjj) (;) et(hg~) mun(hvGF)do(fg) cor(g_fhvGFgvFE)de.(e.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

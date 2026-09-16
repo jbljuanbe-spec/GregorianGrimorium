@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Illúmina * óculos meos, nequándo obdórmiam in morte: nequándo dicat inimícus meus: Praeválui advérsus eum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) IL(ff)lú(fhg'/hf)mi(dgF'E)na(e.) *(,) ó(g_e)cu(ghg)los(h) me(ixhv./gih'/ivG'F/f'g!hiH'G/ih )os,(h.) (;) ne(jj)quán(gh)do(ff) ob(e)dór(ge/ghg)mi(gffvED)am(ed__) (,) in(fh~) mor(h_g/jjjvG'E//g_f/ghG'F/gvFE)te:(e.) (:) ne(ef!ghg)quán(gh)do(ghG'F) di(gh)cat(h/jjjvIH.) (,) in(h)i(ghg)mí(h/jjjvIH)cus(g_h) me(egF'E)us:(fff) (;) Prae(dec)vá(fv.fff)lu(dc)i(ccc/ca__) (;) ad(cfde~)vér(eef)sus(d!ewf) e(fff/ghG'D//fff/hvGF/gvFE)um.(e.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

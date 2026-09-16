@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Domine Deus, * in simplicitáte cordis mei laetus óbtuli univérsa: et pópulum tuum vidi cum ingénti gáudio tibi offérre domária: Deus Israel, custódi hanc voluntátem cordis eórum, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DO(fg)MI(f)NE(f) De(fg!hvGFg)us,(gf) *(;) in(f) sim(fd~)pli(fgf)ci(h)tá(hjh!iwj)te(g) cor(f)dis(d!ewf) me(fgffvED)i(dfddc) (;) lae(ff)tus(ff) ób(fe/fg)tu(dc)li(ff) u(gf/hg)ni(f)vér(fg!hvGF)sa:(gf) (:) et(f) pó(ixf!gwh!iv)pu(h)lum(h) tu(hjh)um(hggfg) (,) vi(d!fg)di(g) cum(g) in(g)gén(gh~)ti(g) gáu(ghgg)di(fgFE)o(f) (;) ti(f)bi(fd) of(fgf)fér(fd~)re(fg) do(g)má(gh!iw!jvIH)ri(hih)a:(h) (:) De(h)us(hg) Is(ghg)ra(f)el,(fg!hvhg) (;) cu(f)stó(fg/hgh)di(g) hanc(ghg/ff/ded) (,) vo(ffe)lun(fg/hg/hg)tá(fg)tem(f//hjGF/gvFDCfv) (,) cor(fg)dis(f) e(f)ó(fg!hvGFg)rum,(gf) (;) al(gf~)le(fff//hg/hg)lú(fg!hvGFg)ia.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

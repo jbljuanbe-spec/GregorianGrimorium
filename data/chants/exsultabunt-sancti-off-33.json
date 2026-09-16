@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Exsultábunt * sancti in glória, laetabúntur in cubílibus suis: exaltatiónes Dei in fáucibus eórum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) EX(d)sul(dfd~)tá(f)bunt(e!f'g) *(,) sanc(gh)ti(ef!ghF'EfvEDed..) (;) in(f) gló(ef!ghGE'f)ri(f)a,(egff/ded.) (:) lae(d)ta(dh)bún(he/f_g)tur(ixgh/if/gge.) (,) in(g) cu(gh)bí(h)li(g)bus(g) su(gh!jjh//fhf/gh)is:(g.) (:) ex(d)al(dh~)ta(h)ti(h)ó(hgh)nes(h) De(ixhiHG'hffef)i(fe..) (;) in(e!f'g~) fáu(g_fh)ci(g)bus(fffdgvFE.) (,) e(ef/hg)ó(gv.efD'Cd)rum.(f_d/f!gwhgh//ghF'Ef_gffe.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

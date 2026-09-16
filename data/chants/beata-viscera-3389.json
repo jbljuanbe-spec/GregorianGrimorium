@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Beáta víscera * Maríae Vírginis, quae portavérunt aetérni Patris Fílium. T. P. Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) BE(d)Á(f)TA(fe) ví(fg)sce(efEDe)ra(ed) *(,) Ma(f)rí(gh)ae(hvGF) Vír(ixghg/hi)gi(h)nis,(h) (:) quae(f) por(gh~)ta(hg/hfgvFE)vé(d!ewfef)runt(ed) (,) ae(h)tér(ixjhhg/hi)ni(h) Pa(dc/f!gh)tris(fe) Fí(cd)li(dc/d!ewf)um.(ed) <i>T. P.</i>(::) Al(fg~)le(ed/fh//ghg/e!fg/hfgvFE)lú(d!ewfef)ia.(ed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

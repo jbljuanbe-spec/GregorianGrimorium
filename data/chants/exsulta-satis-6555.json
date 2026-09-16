@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Exsúlta satis fília Sion, prǽdica, fília Jerúsalem: Ecce Rex tuus venit tibi Sanctus, et Salvátor.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Ex(g)súl(gjji~)ta(h) (:) sa(jji)tis(j) (;) fí(j)li(jjh)a(hg) Si(ghGF)on,(h) (;) (jkjjh//ggf//hjh//ig) (:) pr<sp>'ae</sp>(j)di(jjv)ca,(h) (;) fí(hjjv)li(hg)a(g) (;3) Je(h)rú(fe)sa(f)lem:(ixfg/hiHF//gd//ffd) (:) Ec(d!fg)ce(g) Rex(hgh) tu(ixf!ghg/hi)us(h) (;) ve(f)nit(h) ti(iyjijh)bi(g) (;) San(hg~)ctus,(hg) et(fe~) Sal(fg)vá(ghGF/gvFE)tor.(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -24,6 +24,10 @@ export interface Chant {
   mode_variant: string | null;
   version: string | null;
   text_latin: string;
+  /** "ij" = bis, "iij" = ter. Rúbrica de ejecución, no texto cantado. */
+  repeat_indication: string | null;
+  /** Termina con la fórmula salmódica, escrita "E u o u a e". */
+  psalm_tone_ending: boolean;
   gabc: string;
   transcriber: string | null;
   commentary: string | null;
@@ -114,4 +118,102 @@ export function corpusFacets(chants: Chant[]) {
     modes: [...modes.entries()].sort((a, b) => MODE_ORDER.indexOf(a[0]) - MODE_ORDER.indexOf(b[0])),
     sources: [...sources.entries()].sort(byCount),
   };
+}
+
+/** Slug para las rutas de taxonomía: "Responsorium breve" -> "responsorium-breve". */
+export function toSlug(value: string): string {
+  return foldAccents(value)
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+export interface Taxon {
+  slug: string;
+  label: string;
+  count: number;
+}
+
+function taxonomy(values: (chant: Chant) => string[]): Taxon[] {
+  const counts = new Map<string, { label: string; count: number }>();
+
+  for (const chant of loadCorpus()) {
+    for (const label of new Set(values(chant))) {
+      const slug = toSlug(label);
+      const entry = counts.get(slug);
+      if (entry) entry.count += 1;
+      else counts.set(slug, { label, count: 1 });
+    }
+  }
+
+  return [...counts.entries()]
+    .map(([slug, entry]) => ({ slug, ...entry }))
+    .sort((a, b) => b.count - a.count);
+}
+
+export function genres(): Taxon[] {
+  return taxonomy((chant) => [chant.genre]);
+}
+
+export function editions(): Taxon[] {
+  return taxonomy((chant) => chant.bibliography.map((reference) => reference.title));
+}
+
+/** Los modos se ordenan I–VIII, que es su orden propio, no por frecuencia. */
+export function modes(): Taxon[] {
+  const order = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"];
+  return taxonomy((chant) => (chant.mode ? [chant.mode] : [])).sort(
+    (a, b) => order.indexOf(a.label) - order.indexOf(b.label),
+  );
+}
+
+export function chantsByGenre(slug: string): Chant[] {
+  return loadCorpus().filter((chant) => toSlug(chant.genre) === slug);
+}
+
+export function chantsByMode(slug: string): Chant[] {
+  return loadCorpus().filter((chant) => chant.mode && toSlug(chant.mode) === slug);
+}
+
+export function chantsByEdition(slug: string): Chant[] {
+  return loadCorpus().filter((chant) =>
+    chant.bibliography.some((reference) => toSlug(reference.title) === slug),
+  );
+}
+
+/**
+ * Pieza anterior y siguiente dentro del mismo género, por orden alfabético.
+ * Sin esto no hay forma de recorrer el corpus: solo se puede volver a buscar.
+ */
+export function neighbours(chant: Chant): { previous: Chant | null; next: Chant | null } {
+  const siblings = chantsByGenre(toSlug(chant.genre));
+  const position = siblings.findIndex((other) => other.id === chant.id);
+  return {
+    previous: position > 0 ? siblings[position - 1] : null,
+    next: position >= 0 && position < siblings.length - 1 ? siblings[position + 1] : null,
+  };
+}
+
+/**
+ * Agrupa transcripciones de la misma pieza en una fila por pieza, igual que
+ * hace el buscador en el cliente.
+ */
+export function toListItems(chants: Chant[]) {
+  const pieces = new Map<string, { chant: Chant; versions: number }>();
+
+  for (const chant of chants) {
+    const key = pieceKey(chant);
+    const piece = pieces.get(key);
+    if (piece) piece.versions += 1;
+    else pieces.set(key, { chant, versions: 1 });
+  }
+
+  return [...pieces.values()].map(({ chant, versions }) => ({
+    id: chant.id,
+    incipit: chant.incipit,
+    mode: chant.mode,
+    versions,
+    detail: [chant.genre, chant.version, chant.bibliography[0]?.title]
+      .filter(Boolean)
+      .join(" · "),
+  }));
 }

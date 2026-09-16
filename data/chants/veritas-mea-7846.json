@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Cistercian",
   "text_latin": "Veritas mea, et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f4) VE(hh)RI(hiHG)TAS(gh) (::) me(h/jjjh/jjvHGih)a,(h) (:) et(h/jjj) mi(h)se(g)ri(h)cór(hj/kj/ji~)di(hj)a(jkjji)  me(hj)a(jkjji) cum(hg~) i(hjIHi)pso:(hg) (:) et(h) in(jhj) nó(j)mi(kvJH)ne(j) me(ji/jg)o(egeg) (;) ex(d)al(e)tá(gh)bi(hg)tur(h) cor(j)nu(ij/kj/kvJI) e(hi/jij)jus.(ih) (::) <v>\\black{(}</v>Al(hji~)le(gjIH)lú(hj/kij)ia.<v>\\black{)}</v>(ih) (::)",
   "transcriber": "Aelredus",
   "commentary": null,

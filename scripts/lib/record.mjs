@@ -1,7 +1,7 @@
 // Constructor único de registros de canto. Todos los importadores pasan por
 // aquí, para que el esquema se honre en un solo sitio.
 
-import { extractText, stripHeaders } from "../../lib/gabc.mjs";
+import { extractText, splitPerformanceMarks, stripHeaders } from "../../lib/gabc.mjs";
 
 // Vocabulario de géneros, tomado de los códigos de dos letras de GregoBase.
 const GENRE_BY_CODE = new Map([
@@ -87,8 +87,17 @@ export function buildRecord({
   const notation = gabc?.trim();
   if (!notation) throw new Error(`Sin notación gabc: ${name}`);
 
-  const textLatin = extractText(stripHeaders(notation));
-  if (!textLatin) throw new Error(`Sin texto legible: ${name}`);
+  const extracted = extractText(stripHeaders(notation));
+  if (!extracted) throw new Error(`Sin texto legible: ${name}`);
+
+  // Un puñado de registros de la fuente traen basura en lugar de texto: JSON
+  // crudo, o traducciones incrustadas entre corchetes. No se publican a
+  // medias; se rechazan y se reportan.
+  const corruption = detectCorruption(extracted);
+  if (corruption) throw new Error(`${corruption}: ${name}`);
+
+  const { text: textLatin, repeat, psalmToneEnding } = splitPerformanceMarks(extracted);
+  if (!textLatin) throw new Error(`Solo marcas de ejecución, sin texto: ${name}`);
 
   const slug = slugify(name);
   if (!slug) throw new Error(`El íncipit no produce un identificador válido: ${name}`);
@@ -104,6 +113,10 @@ export function buildRecord({
     mode_variant: modeVariant || null,
     version: version || null,
     text_latin: textLatin,
+    // Marcas de ejecución, fuera del texto cantado: "ij." indica repetir, y
+    // "E u o u a e" son las vocales de "saeculorum amen".
+    repeat_indication: repeat,
+    psalm_tone_ending: psalmToneEnding,
     gabc: notation,
     transcriber: transcriber || null,
     commentary: commentary || null,
@@ -153,5 +166,19 @@ export function toMode(mode) {
     const upper = roman[1].toUpperCase();
     return ROMAN_MODES.includes(upper) ? upper : null;
   }
+  return null;
+}
+
+/**
+ * Devuelve el motivo si el texto extraído está corrupto, o null.
+ *
+ * Un puñado de registros de GregoBase traen basura donde debería ir el texto:
+ * JSON crudo de alguna importación anterior, o traducciones incrustadas entre
+ * corchetes. No se publican a medias.
+ */
+export function detectCorruption(text) {
+  if (/\[\[|\{"|"gabc"/.test(text)) return "El texto es JSON crudo de la fuente";
+  if (/[<>]/.test(text)) return "El texto arrastra marcado sin resolver";
+  if (/[[\]{}]/.test(text)) return "El texto lleva contenido incrustado entre corchetes";
   return null;
 }

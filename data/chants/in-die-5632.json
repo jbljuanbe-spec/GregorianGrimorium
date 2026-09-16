@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. In die resurrectiónis meæ, dicit Dóminus, præcédam vos in Galilǽam.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Al(e)le(e)lú(ef//df//hvGF/hi~)ia.(i) (::) (e!fhhvGFE//fge) (;) (df/hhvGFE//fgffe) <sp>V/</sp>.(::) In(i) di(hi)e(i//hhf//hie) (;4) re(d)sur(fh)re(hg)cti(fe)ó(fg)nis(f) me(ef)æ,(e) (;) di(dc)cit(de) Dó(e)mi(ef/hfg)nus,(fe) (:) præ(ikj//klKJI)cé(i//kj//klKJI;hj/kvJH//ivHF)dam(hi~) vos(i) (::) in(e) Ga(e)li(e)l<sp>'ae</sp>(ef//df//hvGF/hi)am.(i) (;) (ef/hhvGFE//fgffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

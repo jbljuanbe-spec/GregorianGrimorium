@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "In conspéctu * Angelórum psallam tibi: adorábo ad templum sanctum tuum, et confitébor nómini tuo.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) IN(c) con(d)spé(ixdh!iv)ctu(h) *() An(h)ge(h)ló(hjh)rum(ghggf) (,) psal(h/jjh/ij)lam(gfg) ti(fhhg/hv//gh/jjjh)bi:(hhgh) (:) a(hj)do(jk)rá(klkl)bo(jh) (,) ad(hgh) tem(hj/kjk)plum(kh) san(hj)ctum(jjj) tu(hhg)um,(gfg) (:) et(f) con(gh)fi(hg)té(ge!fwgfg)bor(gd) (,) nó(df/gfgf//ffffd/gef , hjg)mi(fdf)ni(fgffe) tu(de!fvEDe)o.(ed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

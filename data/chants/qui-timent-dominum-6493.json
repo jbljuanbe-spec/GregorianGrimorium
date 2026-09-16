@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Qui timent Dóminum, sperent in eum: adjútor et protéctor eorum est.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Al(d)le(ff)lú(gf//ghgh)ia.(h//jvHGF) (::) (eg/hgh) (;4) (fhg//hffvEC) (;) (d!fg) (;4) (egFED//ffd) <sp>V/</sp>.(::) Qui(cd) ti(dh;3ixgih//ivGF;ggf//ggv//f!gh//jjg;hhg//hvGF//hiHG//hi)ment(h) (;) Dó(hg//jjvHG;3ixhihi)mi(g)num,(gf) (:) spe(fe//fg/hgh)rent(hghf//ghg) (;4) in(fd) e(ffe//gfgFD//efd)um:(d) (:) ad(d)jú(dffd//ffd;4de/fg!hv)tor(ghg) (;) et(f) pro(ghg)té(h//jjhhgh;fh/jg//ffd//ffv//hvGF//fvED)ctor(ed) (::) e(d)o(dffv//gf)rum(fg/hgh) est.(hjHGF) (;) (eg!hvGE//feed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Ego sum * pastor bonus, allelúia: et cognósco oves meas, et cognóscunt me meae, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) E(ggh)GO(f!gwh) sum(he~) *() pas(ggh)tor(hf~) bo(gihi)nus,(ggh) (,) al(g)le(e)lú(ghGF)ia:(f) (:) et(e) co(fg~)gnó(g)sco(f/giffe) o(gi)ves(h) me(ijIG)as,(g) (;) et(e) co(fg~)gnó(g)scunt(f) me(e) me(e!fg)ae,(ggf) (;) al(f)le(f)lú(ede)ia,(c) (,) al(ef~)le(f)lú(fgf)ia.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

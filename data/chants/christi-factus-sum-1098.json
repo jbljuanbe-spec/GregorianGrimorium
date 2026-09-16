@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Christi * factus sum ego miníster secúndum dispensatiónem Dei, quae data est mihi, ut ímpleam verbum Dómini. T. P. Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) CHri(d_cd)sti(d!ewf) *() fa(fg)ctus(g) sum(ixgiggf) e(iyhjH'Gih)go(h.) (,) mi(h)ní(h!iwj/ki'jvHG'hwihi)ster(ih..) (;) se(dh/ih)cún(h'jhhg)dum(ghgh) (,) di(gfg)spen(gh)sa(gf)ti(gh)ó(h!iwj/ki'/jhhg)nem(g) De(g.h!iw!jvIH'hg)i,(gf/gff/ded.) (;) quae(d!fffd) da(ff)ta(fg) est(gf) mi(hjH'Gih)hi,(h.) (:) ut(h) ím(jjk)ple(hg)am(ghffd.) (,) ver(fgF'E)bum(fg!hvhg.) Dó(giHG'g//fhGF'fdfv.//fff/gf/gff)mi(d)ni.(fffgd.__) <i>T. P.</i>(::) Al(fff_d/f/{ix}f//hiH'GF'fe~)le(ghGF'ge/f_d,fge/fhGF'fd//gf'/gff)lú(dc~)ia.(d/fff_d/fff/ded.__) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Mirabántur omnes * de his quae procedébant de ore Dei.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) MI(ef)RA(ef!gwh)BÁN(hhhvGF)TUR(hf!gw!hvGF) o(ef/gfg)mnes(fe) *(;) de(ehg/hih/ij) his(i) quae(ef) pro(efED)ce(f)dé(hi)bant(hih) (;) de(hi) o(ihhvGF)re(h) De(fheed//e!fg)i.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

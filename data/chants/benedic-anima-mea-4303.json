@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Bénedic ánima mea Dómino, et noli oblivísci omnes retributiónes ejus: et renovábitur, sicut áquilæ, juvéntus tua.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Bé(d)ne(f)dic(hhv) (::)\r\n á(hihi)ni(f)ma(fe) me(fh)a(hi) Dó(ijIH)mi(ih)no,(hih) (:)\r\n et(f) no(f!hi)li(ih) ob(hihhg)li(fe)ví(f)sci(hh) (;)\r\n\r\n o(hhf~)mnes(gf) re(d)tri(ef)bu(fe)ti(fh)ó(hg)nes(hihhg) (;4) e(fg/hgh)jus:(gf) (:)\r\n\r\n et(h) re(e)no(f)vá(h)bi(h)tur,(h) (;3)\r\n si(ivHF)cut(hf/ghg) á(hfh)qui(fgFEf)læ,(fe) (;)\r\n ju(h)vén(hf/hhf/d!ef;hhv//ijHFhvGEf;ehhf/gh)tus(hhf) tu(ded)a.(d) (::)",
   "transcriber": "Innocent Smith, op",
   "commentary": null,

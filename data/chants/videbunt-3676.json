@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Vidébunt * in quem transfixérunt, cum moveréntur fundaménta terrae.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) VI(fg)DÉ(gff)BUNT(de~) *(,) in(cd~) quem(d) trans(d!fg)fi(gh)xé(hjjg)runt,(gv//fhGE) (:) cum(fd~) mo(f)ve(ghg)rén(hv//fh!jvvHGEf)tur(f) (,) fun(g)da(ef)mén(fdfvECfhg)ta(ghFEf) ter(ded)rae.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

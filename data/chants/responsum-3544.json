@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Respónsum * accépit Símeon a Spíritu Sancto, non visúrum se mortem, nisi vidéret Christum Dómini.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) RES(d)PÓN(fh~)SUM(g) *() ac(g)cé(gh)pit(ghg) Sí(f)me(ghg)on(hvGF/ghd) (,) a(d) Spí(g)ri(f)tu(e) San(fg~)cto,(d!ewf) (;) non(d) vi(d)sú(f!gh)rum(g) se(gf) mor(hj)tem,(ji/jkJI) (,) ni(h)si(ji) vi(g)dé(h)ret(ghGF) Chris(fh)tum(ji) Dó(g)mi(ghg)ni.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

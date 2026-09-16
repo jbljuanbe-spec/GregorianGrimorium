@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣. Vita nostra est abscóndita cum Christo * in Deo.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(dfddc)LE(e)LÚ(gh~)IA.(hv) *(,) (gjIGihhvGFfvED//cfeed) <sp>V/</sp>.(::) Vi(dfddc)ta(e) no(gh)stra(hv//gjIGih) (,) est(hj) ab(hg)scón(ghGEfvEDed)di(cd)ta(d) (;) cum(cd~) Chri(dfddc)sto(e) *(,) in(g) De(gh)o.(hv//gjIGihhvGFfvED//cfeed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

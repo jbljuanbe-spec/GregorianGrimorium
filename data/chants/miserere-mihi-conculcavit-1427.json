@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Miserére mihi * Dómine, quóniam conculcávit me homo: tota die bellans tribulávit me. Ps. Conculcavérunt me inimíci mei tota die: * quóniam multi bellántes advérsum me. Miserére.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) MI(ef)SE(dg)RÉ(h)RE(gih) mi(i)hi(gih) *() Dó(i)mi(gih)ne,(j) (;) quó(j)ni(jijh)am(jijHGh) (,) con(g)cul(hi~)cá(iij)vit(hg~) me(hi) ho(hv//ghg)mo:(e) (:) to(h)ta(hg) di(high)e(e) bel(fgef)lans(d) (;) tri(fe)bu(fg)lá(ghfg//e!fg/hfg)vit(e!fw!gvFE) me.(e) <i>Ps.</i>(::) Con(g)cul(hj)ca(j)vé(j)runt(j) me(j) i(j)ni(j)mí(j)ci(j) me(j)i(j) to(k)ta(j) di(ih)e:(jjj) *(:) quó(ig)ni(hj)am(j) mul(j)ti(j) bel(j)lán(j)tes(jji) ad(hg)vér(h)sum(i) me.(gh) (::) Mi(ef)se(dh)ré(h)re.(gih) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

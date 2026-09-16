@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Vidimus * stellam ejus in Oriénte, et vénimus cum munéribus adoráre Dóminum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) VI(e!f'g)di(hgh)mus(gfg//efd.) *(,) stel(gi~)lam(i) e(j)jus(g) in(g) O(f!g'h)ri(i)én(gh~)te,(e.) (:) et(e!f'h) vé(h!iwj)ni(g)mus(g) cum(g) mu(g)né(fg)ri(efED'e)bus(ed..) (;) ad(f)o(gh)rá(g)re(ghG'Fghg') Dó(e)mi(egff)num.(fe..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

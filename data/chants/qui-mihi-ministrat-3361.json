@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Qui mihi minístrat, * me sequátur: et ubi ego sum, illic et miníster meus erit.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) QUI(d) mi(gxf!gwh)hi(h) mi(gxhf)ní(ghg)strat,(f) *(,) me(hi) se(h)quá(hfh)tur:(fhffd) (:) et(d) u(d)bi(fh) e(hf/hi/kjk)go(ih) sum,(hg/hf) (;) il(f)lic(hih/ghFEedevfhffe) (;) et(hv//ghfhvED) mi(d)ní(bca)ster(ba~) me(dfe)us(e!fwg!hvFEf) e(ded)rit.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Viri Galilǽi, quid admirámini aspiciéntes in cælum? Hic Jesus, qui assúmptus est a vobis in cælum, sic véniet, quemádmodum vidístis eum ascendéntem in cælum, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4)Vi(fffvDCdf/f/hgh)ri(fgf.) <v>\\greheightstar</v>(,) Ga(f)li(ghg)l<sp>'ae</sp>(hv_//fhg)i,(ixhig/ff/ded.) (;) quid(f) ad(f)mi(fg)rá(ge/fd)mi(cd)ni(d.) (,) a(de)spi(c)ci(df)én(f/fd//f/fd/d'/dgf/fde)tes(c.) (;) in(f) cæ(hgh/fh_//gh/FE/gd__/fv_//ef/DC/d)lum?(d.) (:)\r\nHic(cd!fvfv) Je(g)sus,(fv_//egf'/efd.) (,) qui(c) as(d)súm(f)ptus(f) est(fe) a(cd) vo(d!ewfd)bis(d.) (,) in(c!df) cæ(f/fd/f/fd/d'/dgf/fd/ec)lum,(c.) (;) sic(da//cd/fvED/efd) vé(dgf/fd)ni(edec)et,(c.) (,) que(d)mád(cd~)mo(d)dum(d) vi(d)dí(d)stis(cd) e(d!ewfd)um(d.) (;) a(c)scen(d)dén(ixdh.//j/jh//gih/ig.//f!gh/j/jg,fhgh_//fh!jvGF/fdf.///eg/hjh/jh/hgh)tem(f.) (;) in(e!fg) cæ(gvED/fv_//efd)lum,(dfd/dc.) (:) al(cd)le(fgf___/hv_//gh/FD.////cd/fef/ge__,hg__/efd'//fvED/ed)lú(cd~)ia.(d.) (::)",
   "transcriber": "Benjamin Bloomfield",
   "commentary": null,

@@ -2,7 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ChantScore from "@/components/ChantScore";
-import { getChant, getOtherVersions, loadCorpus, type Chant } from "@/lib/corpus";
+import {
+  getChant,
+  getOtherVersions,
+  loadCorpus,
+  neighbours,
+  toSlug,
+  type Chant,
+} from "@/lib/corpus";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 export function generateStaticParams() {
@@ -15,7 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   if (!chant) return {};
 
   const descriptors = [chant.genre, chant.mode ? `modo ${chant.mode}` : null].filter(Boolean).join(", ");
-  const description = `${chant.incipit} — ${descriptors}. Texto latino y partitura en notación cuadrada. ${truncate(chant.text_latin, 100)}`;
+  const description = `${chant.incipit} — ${descriptors}. Texto latino, partitura en notación cuadrada y tono ajustable. ${truncate(chant.text_latin, 90)}`;
   const path = `/cantos/${chant.id}/`;
 
   return {
@@ -39,114 +46,155 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
 
   const reviewed = chant.review_status === "verified";
   const otherVersions = getOtherVersions(chant);
+  const { previous, next } = neighbours(chant);
+  const genreSlug = toSlug(chant.genre);
 
   return (
     <article>
       <script
         type="application/ld+json"
-        // Datos estructurados: permiten que un buscador entienda que la página
-        // es una obra musical con su texto, su modo y su fuente impresa.
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData(chant)) }}
       />
 
-      <nav className="breadcrumb">
-        <Link href="/">← Todos los cantos</Link>
-      </nav>
+      <div className="chant-top">
+        <Link href={`/generos/${genreSlug}/`}>← {chant.genre}</Link>
+        <div className="step-links">
+          {previous ? <Link href={`/cantos/${previous.id}/`}>← {previous.incipit}</Link> : null}
+          {next ? <Link href={`/cantos/${next.id}/`}>{next.incipit} →</Link> : null}
+        </div>
+      </div>
 
       <header className="chant-header">
         <h1>{chant.incipit}</h1>
-        <div className="chant-meta">
-          <span className="rubric">{chant.genre}</span>
-          {chant.mode ? <span>Modo {chant.mode}</span> : null}
+        <div className="chant-facts">
+          <Link href={`/generos/${genreSlug}/`} className="rubric">
+            {chant.genre}
+          </Link>
+          {chant.mode ? (
+            <Link href={`/modos/${toSlug(chant.mode)}/`}>
+              <span className="mode-tag">{chant.mode}</span> modo
+            </Link>
+          ) : null}
           {chant.mode_variant ? <span>{chant.mode_variant}</span> : null}
           {chant.version ? <span>Versión {chant.version}</span> : null}
           <span className="badge">{reviewed ? "Revisado" : "Sin revisar"}</span>
         </div>
       </header>
 
-      <ChantScore gabc={chant.gabc} />
+      <ChantScore gabc={chant.gabc} filename={chant.id} />
 
-      <section className="section">
-        <h2>Texto latino</h2>
-        <p className="latin-text">{chant.text_latin}</p>
-      </section>
-
-      {chant.bibliography.length > 0 ? (
-        <section className="section">
-          <h2>Ediciones impresas</h2>
-          <ul className="references">
-            {chant.bibliography.map((reference, position) => (
-              <li key={`${reference.title}-${reference.page}-${position}`}>
-                {reference.title}
-                {reference.year ? `, ${reference.year}` : ""}
-                {reference.editor ? ` · ${reference.editor}` : ""}
-                {reference.page ? <span className="page"> — p. {reference.page}</span> : null}
-              </li>
-            ))}
-          </ul>
-        </section>
-      ) : null}
-
-      {otherVersions.length > 0 ? (
-        <section className="section">
-          <h2>Otras versiones de esta pieza</h2>
-          <ul className="references">
-            {otherVersions.map((other) => (
-              <li key={other.id}>
-                <Link href={`/cantos/${other.id}/`}>
-                  {[
-                    other.version ?? "Sin versión declarada",
-                    other.mode ? `modo ${other.mode}` : null,
-                    other.bibliography[0]?.title,
-                    other.bibliography[0]?.page ? `p. ${other.bibliography[0].page}` : null,
-                  ]
-                    .filter(Boolean)
-                    .join(" · ")}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ) : null}
-
-      {chant.liturgical_occurrences.length > 0 ? (
-        <section className="section">
-          <h2>Uso litúrgico</h2>
-          <ul className="references">
-            {chant.liturgical_occurrences.map((occurrence) => (
-              <li key={occurrence.celebration}>
-                {occurrence.celebration} <span className="provenance">({occurrence.calendar})</span>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ) : null}
-
-      <section className="section">
-        <h2>Procedencia</h2>
-        <p className="provenance">
-          Origen: {chant.provenance.origin}
-          {chant.provenance.external_id ? ` #${chant.provenance.external_id}` : ""} · Licencia:{" "}
-          {chant.provenance.license}
-          {chant.provenance.snapshot ? ` · Volcado: ${chant.provenance.snapshot}` : ""}
-          {chant.transcriber ? ` · Transcripción: ${chant.transcriber}` : ""}
+      {chant.repeat_indication || chant.psalm_tone_ending ? (
+        <p className="performance">
+          <span className="rubric">Ejecución</span>
+          {chant.repeat_indication ? (
+            <span>
+              Se repite {chant.repeat_indication === "iij" ? "tres veces" : "dos veces"} (
+              {chant.repeat_indication}.)
+            </span>
+          ) : null}
+          {chant.psalm_tone_ending ? (
+            <span>Termina con la fórmula salmódica «E u o u a e»</span>
+          ) : null}
         </p>
-        {chant.cantus_id ? (
-          <p className="provenance">
-            Cantus ID:{" "}
-            <a href={`https://cantusindex.org/id/${chant.cantus_id}`} rel="noreferrer">
-              {chant.cantus_id}
-            </a>
-          </p>
-        ) : null}
-        {chant.commentary ? <p className="provenance">Nota de la fuente: {chant.commentary}</p> : null}
-        {reviewed ? null : (
-          <p className="notice">
-            Esta ficha viene de una importación automática y aún no ha pasado revisión humana. El
-            texto y el modo pueden contener errores heredados de la fuente.
-          </p>
-        )}
-      </section>
+      ) : null}
+
+      <div className="chant-body">
+        <div>
+          <div className="block">
+            <h2>Texto latino</h2>
+            <p className="latin-text">{chant.text_latin}</p>
+          </div>
+
+          {otherVersions.length > 0 ? (
+            <div className="block">
+              <h2>Otras versiones de esta pieza</h2>
+              <ul className="refs">
+                {otherVersions.map((other) => (
+                  <li key={other.id}>
+                    <Link href={`/cantos/${other.id}/`}>
+                      {[other.version ?? "Sin versión declarada", other.bibliography[0]?.title]
+                        .filter(Boolean)
+                        .join(" · ")}
+                      {other.bibliography[0]?.page ? (
+                        <span className="page"> p. {other.bibliography[0].page}</span>
+                      ) : null}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
+
+          {reviewed ? null : (
+            <p className="notice">
+              Ficha de importación automática, aún sin revisión humana: el texto o el modo pueden
+              arrastrar errores de la fuente.
+            </p>
+          )}
+        </div>
+
+        <aside>
+          {chant.bibliography.length > 0 ? (
+            <div className="panel">
+              <h2>Ediciones impresas</h2>
+              <ul className="refs">
+                {chant.bibliography.map((reference, position) => (
+                  <li key={`${reference.title}-${reference.page}-${position}`}>
+                    <Link href={`/ediciones/${toSlug(reference.title)}/`}>{reference.title}</Link>
+                    {reference.year ? `, ${reference.year}` : ""}
+                    {reference.page ? <span className="page"> — p. {reference.page}</span> : null}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
+
+          {chant.liturgical_occurrences.length > 0 ? (
+            <div className="panel">
+              <h2>Uso litúrgico</h2>
+              <ul className="refs">
+                {chant.liturgical_occurrences.map((occurrence) => (
+                  <li key={occurrence.celebration}>{occurrence.celebration}</li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
+
+          <div className="panel">
+            <h2>Procedencia</h2>
+            <dl className="meta-list">
+              <div>
+                <dt>Fuente</dt>
+                <dd>
+                  {chant.provenance.origin}
+                  {chant.provenance.external_id ? ` #${chant.provenance.external_id}` : ""}
+                </dd>
+              </div>
+              <div>
+                <dt>Licencia</dt>
+                <dd>{chant.provenance.license}</dd>
+              </div>
+              {chant.transcriber ? (
+                <div>
+                  <dt>Transcripción</dt>
+                  <dd>{chant.transcriber}</dd>
+                </div>
+              ) : null}
+              {chant.cantus_id ? (
+                <div>
+                  <dt>Cantus ID</dt>
+                  <dd>
+                    <a href={`https://cantusindex.org/id/${chant.cantus_id}`} rel="noreferrer">
+                      {chant.cantus_id}
+                    </a>
+                  </dd>
+                </div>
+              ) : null}
+            </dl>
+            {chant.commentary ? <p className="pitch-note">Nota de la fuente: {chant.commentary}</p> : null}
+          </div>
+        </aside>
+      </div>
     </article>
   );
 }

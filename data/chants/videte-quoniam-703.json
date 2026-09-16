@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Vidéte * quóniam non soli mihi laborávi, sed ómnibus exquiréntibus veritátem.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) VI(d)dé(fhg)te(gh) *(,) quó(gh)ni(g)am(g) non(g) so(gh)li(g) mi(fgff)hi(d!ew!fvEC.) (,) la(f!g'h)bo(fg)rá(g!hwihi)vi,(hg..) (:) sed(ji) ó(jk)mni(j)bus(ji/jkj.) ex(j)qui(j)rén(kij)ti(h_g)bus(g_f/h!iwj) (,) ve(ij)ri(hg)tá(gffd//fh/jggf!gwhgh)tem.(hg..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

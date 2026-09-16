@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Inquilini * domus meae, et ancílae meae sicut aliénum habuérunt me, et quasi peregrínus fui in óculis eórum: Dóminus autem assúmpsit me.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) IN(c)QUI(d)LI(ff)NI(f) *() do(f)mus(fd) me(fhg)ae,(g) (,) et(g) an(ixi)cí(iii)lae(g) me(ixhiHGh)ae(hg) (;) si(g)cut(fh) a(h)li(h)é(hgh)num(hgh/e!fg) (,) ha(c)bu(df)é(f)runt(ef) me,(dcd) (:) et(f) qua(df)si(f) pe(gh)re(g)grí(f)nus(ghg) fu(fe)i(d) (,) in(c) ó(df)cu(f)lis(f) e(fe)ó(ixg!hw!ivHG)rum:(hg) (:) Dó(ffg)mi(f)nus(fef) au(deDC)tem(dc) (,) as(fe)súm(ixgig!hwi)psit(fgf) me.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

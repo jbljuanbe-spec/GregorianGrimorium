@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Domine * Deus virtútum, convérte nos: et osténde fáciem tuam, et salvi érimus. ℣. Excita Dómine, poténtiam tuam, et veni, ut salvos * fácias nos.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Do(egf)mi(f)ne(f) *(,) De(f)us(f) vir(f)tú(hfg/hvFEge/fg)tum,(f) (;) con(f)vér(hf/h!ij)te(gxhf/fe/gvFE) nos:(ed/fef/fd/ef!hvvFE//f!gwh/ihh/fgf) (:) et(hh) os(h)tén(hji)de(ih/hf) fá(f)ci(f)em(fi~) tu(if/ij)am,(hfhv//ghFEf) (;) et(d) sal(d!efhvGFg)vi(e) é(f)ri(hf/hi)mus.(ih/ijIH,jh/jkIGhvFE//f!gwh!iv//h!ij,ijijHFgwhf) <sp>V/</sp>.(::) Ex(f)ci(h)ta(ij) Dó(jvIHGhvFE,ge/f!hh/ijij,hj!kvIGhvFE//hiHGh,i!jwkj/kvJI)mi(ji)ne,(i) (:) po(i)tén(ki!jw!kvJI)ti(i)am(i) tu(i)am,(i) (;) et(ij~) ve(jhjvIHhf//hhfhv//hhhf,hi!jvIHjvIHif)ni,(f) (:) ut(d) sal(d!ef)vos(f) *() fá(fhvGFg)ci(ef)as(hf/hi) nos.(ijHGhi,e!fh/hjIHGFgwhf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

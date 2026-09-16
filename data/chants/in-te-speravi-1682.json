@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "In te sperávi * Dómine: dixi: Tu es Deus meus, in mánibus tuis témpora mea.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) IN(c) te(e!fg) spe(f)rá(hf!gwh/ih)vi(hhhvGE/f!gw!hvGF) *(,) Dó(f)mi(f!gwhgh)ne:(gf) (:) di(fh)xi:(hhh/ij) (,) Tu(hiHF) es(f) De(f!gw!hvGF)us(ef) me(f!gwh/ihhgh)us,(hg) (:) in(hh) má(hi/jij)ni(h)bus(hhvGF) tu(hh/ih)is(h) (;) tém(hf/hhvFE//f!hhh)po(fe)ra(egf) me(fgf)a.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

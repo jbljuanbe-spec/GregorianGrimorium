@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Revelábitur * glória Dómini: et vidébit omnis caro salutáre Dei nostri.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) RE(dfe)VE(f)LÁ(fhg)BI(gf)TUR(fv//efd) *(;) gló(d!fg)ri(gf)a(f) Dó(ghgh)mi(g)ni:(fgFD) (:) et(d) vi(fe)dé(feg)bit(f) o(fff)mnis(d) ca(fv//egf)ro(f) (;) sa(f)lu(ghg)tá(hv//fh!jvvHGEf)re(f) (,) De(fd/fvEC/fhg)i(ghFEf) nos(ded)tri.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

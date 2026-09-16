@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Dominus firmaméntum meum, et refúgium meum, et liberátor meus: Deus meus adjútor meus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) Do(h)mi(h)nus(fhe) (::) fir(hg~)ma(hi)mén(iih)tum(fhhv//egf) me(fgf)um,(f) (;) et(e) re(f)fú(fh)gi(f)um(f) me(e!fhGF)um,(fh) (;) et(hf~) li(hih)be(iji)rá(jji)tor(hi) me(hiih)us:(h) (:) De(i)us(gi) me(hvGF)us(fhffe) (;) ad(g!hi)jú(ih)tor(fhhv//egf) me(fgf)us.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

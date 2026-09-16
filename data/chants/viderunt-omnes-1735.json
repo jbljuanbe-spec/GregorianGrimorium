@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Vidérunt omnes * fines terrae salutáre Dei nostri.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) VI(fg)DÉ(gff)RUNT(de~) o(cd~)mnes(d) *(,) fi(d!fg)nes(gh) ter(hj/jg)rae(gfhvGE) (;) sa(f)lu(ghg)tá(hv//fh!jvvHGEf)re(f) (,) De(fdfvEC/fhg)i(ghFEf) no(ded)stri.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

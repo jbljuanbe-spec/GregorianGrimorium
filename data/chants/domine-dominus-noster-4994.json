@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Domine Dóminus noster, quam admirábile est nomen tuum in univérsa terra!",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) Do(f)mi(e!fhGFg)ne(gf) (::) Dó(hih)mi(hg)nus(ef) no(fg/hgh)ster,(gf) (:) quam(kxhi/jkj) ad(j)mi(ji)rá(j)bi(i)le(i) est(ij) (;) no(hvGFE/fg)men(f) (;3) tu(fihhvGE//f!ghGFg)um(gf) (;) in(c) u(ef)ni(fe)vér(dxfv//hhvFED//efef)sa(f) (;3) ter(f!ghGFg)ra!(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

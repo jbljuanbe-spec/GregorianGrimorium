@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "A summo * coe- lo egréssio ejus: et occúrsus ejus usque ad summum ejus. ℣. Coeli enár rant glóriam De i et ópera mánuum e jus annúntiat * firmaméntum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) A(c) su(ef~)mmo(f) *() coe-(hfg/hv/F!E/ge/fg) lo(f) (;) e(f)grés(hf/h!ij)si(hvGF)o(gxfe/gvFE) e(ed/fef )jus:(fd/ef/hvhv/FE//f!gwh/ihh/fgf) (:) et(hh) o(h)ccúr(hji)sus(ih/hf) e(hfgwh/if/ij~)jus(hf/hv/gh/FEf) (;) us(d)que(ef) ad(f) sum(f/hvGF/g)mum(ef) e(hf/hi)jus.(ih/ij/IH) (,)(jh/jk/I/G/hvFE/f!gwh!iv/h!ij) (,) (i/!jij/HF/gwhf) <sp>V/</sp>.(::) Coe(f)li(h) e(ij)nár(jv!I!H!G!hv!F!E) (,) (ge!f!hh/i/jij) (,) (hj!kv/I/G/hv/FE/fg/f) (,) (ijwkj/kv/JI/j)rant(vji) (:)  gló(ij<kv/JI/ij<kv/JI)ri(i)am(ij~) De(vjh/jvIH/vhf/h/vhf/hv/hh/vhf) (,) (hi!jvIH/jvIH/vif)i(f) (:) et(hh) ó(h)pe(h)ra(h) má(h)nu(h)um(hi) e(ivHG/E/fh/GE/fh) (,) (gijv/HF)jus(fhFE/fh/vhf/hvhv/GF/vhe/ved) (:) an(d)nún(d!ef)ti(f)at(f/hvGFg) *() fir(e)ma(f)mén(vhf/hi~)tum.(ijHG/hi) (,) (e!fh/hjIH!GF/ghf) (::)",
   "transcriber": "MarkM",
   "commentary": null,

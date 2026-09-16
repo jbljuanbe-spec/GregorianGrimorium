@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Ave, María grátia plena: Dóminus tecum: benedícta tu in muliéribus, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) A(f)ve,(gh) (::) Ma(h)rí(hgh)a(hf/gh) (;) (jhjg//ffd//fddc) (;) grá(d)ti(dc)a(dffv//gh/jvHG/ixhiHG) (;3) ple(f!ghGFg)na:(gf) (:) Dó(fh)mi(hg)nus(hj) te(hvGF)cum:(ixg!hih) (:) be(h)ne(hghGF)dí(f!ghg)cta(gffe) tu(d) (;) (ffd//fg//ffgd//eddc) (;) in(f) mu(d)li(ef)é(ghgh;3jh//ijHG)ri(gf/ixhiGF)bus,(f//ghffe) (:) al(f)le(fd//fg/hgh//jvHG/hvFD;fg/hgh)lú(h//jvHG/hvFD;ffgf)ia.(fv//gffv/ded) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

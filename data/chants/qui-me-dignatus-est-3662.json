@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Qui me dignátus est * ab omni plaga curáre, et mamíllam meam meo péctori restitútere, ipsum ínvoco Deum vivum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) QUI(d) me(ff) di(f)gná(ghgh)tus(g) est(fgFD) *(,) ab(d) om(fg~)ni(g) pla(gh)ga(f) cu(ff)rá(fgd!ew!fvEDCd)re,(dc) (;) et(f) ma(f)míl(fg~)lam(f) me(fg)am(f) (,) me(f)o(f) péc(g)to(f)ri(fe) re(g)sti(ixig!hwi)tú(f)te(fgf)re,(f) (:) ip(h)sum(g) ín(h!iwj)vo(gf)co(fgff/ded) (,) De(df/gh)um(ff) vi(fgf)vum.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

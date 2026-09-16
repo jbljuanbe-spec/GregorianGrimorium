@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Inclína * aurem tuam, accélera, ut éruas nos.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) IN(f)CLÍ(fgf)NA(fd) *() au(fe~)rem(f) tu(ghGF/gh)am,(h) (:) ac(f)cé(h)le(ghGFEf)ra,(fe) (,) ut(f) é(ghGF)ru(g)as(ghGF/ghGF) nos.(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

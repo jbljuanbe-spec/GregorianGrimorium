@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Omnes, qui in Christo baptizáti estis, Christum induístis, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) O(fc/ef)mnes,(f) (::) qui(e) in(f) Chri(f!ghf)sto(fef) (;) bap(e)ti(h)zá(h)ti(f) es(fh!ivHG//hihi)tis,(ih) (:) Chri(fe/fh)stum(hiHF) in(hhf~)du(hh)í(fgFE)stis,(e) (;) al(c)le(efef//hhvGEf)lú(fg/hgh)ia.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

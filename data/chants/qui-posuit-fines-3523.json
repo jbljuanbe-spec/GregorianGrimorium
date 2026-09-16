@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣. Qui pósuit fines tuos pacem, et ádipe fruménti * sátiat te.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(fd~)LE(e!fg)LÚ(hgh)IA.(ixhiHGgf) *(,) (ixhiHGge//ghGFEfgffe) <sp>V/</sp>.(::) Qui(h) pó(h)su(g)it(ixg//ivHGhffe) (,) fi(fd/ef!ghhg)nes(gh) tu(hg/hf/ghg)os(gd) pa(egfg)cem,(fe) (:) et(f) á(gh)di(gf)pe(g) fru(fd)mén(fv//fffd/gvFE,df/hf/ge/fv//df/gef~)ti(fe) *(;) sá(e!fg)ti(gdgvFE)at(fd/ef!gh) te.(ixhiHGgf) (,) (ixhiHGge//ghGFEfgffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Allelúia. * ℣. Spíritus est qui vivíficat: caro autem non prodest * quidquam. Non repetitur Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(g)le(g)lú(gh!jvI~H~)ia.(jkJG'//hvG'Fg.) *(;) <i>(Non repetitur.)</i>(dg/hggf//h'/jh'/i_g.) (,) (dg/hggf//h'/ijg.) <sp>V/</sp>.(::) Spí(gg)ri(g)tus(gi) est(ijI'G//hihhg.) (,) qui(gh) vi(gd)ví(g)fi(gh!ivHG'h)cat:(hg..) (:) ca(g)ro(g_e//fgF'E/fvED) au(gh!ivHG'h)tem(hjg.___) (,) non(gfh) prod(hv./gjh/ih./gjhi)est(hg..) *(;) quid(gh!jvI~H~)quam.(jkJG'//hvG'Fg.) (;) <i>Non repetitur</i> Allelúia.(dg/hggf//h'/jh'/i_g. , dg/hggf//h'/ijg.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

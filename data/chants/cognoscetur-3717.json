@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Cognoscétur Dóminus * ab Aegýpto, et cognóscent Aegýptii Dóminum in die illa, et colent eum in hóstiis et in munéribus, et vota vovébunt Dómino, et solvent.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) CO(g)GNO(g)SCÉ(ikj)TUR(h!iwj) Dó(j)mi(ikjj)nus(ji) *(,) ab(ji) Ae(g!hi)gý(hhgh)pto,(h!jj/khhg) (:) et(h) co(j)gnó(ijHGh!jjj)scent(ji) AE(j)gý(ijIH)pti(i)i(h) Dó(hjjh)mi(hg)num(hg) (;) in(g) di(g!jjjhkvJIj)e(ih) il(gh!jvHF)la,(gf) (:) et(fg) co(e!fg)lent(g) e(gh/ji)um(j) in(j) hó(ih!iwj)sti(hg)is(g) (,) et(ghe) in(g) mu(g)né(gihhg)ri(gf)bus,(fgff/ded) (:) et(g) vo(hg/h!iwji)ta(j) (,) vo(ikj)vé(jjj)bunt(hg) Dó(hjh!iwj)mi(g)no,(fg) (;) et(g!jjj) sol(ixhg/hiGFghFEfgFE)vent.(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

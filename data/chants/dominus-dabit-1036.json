@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Dominus * dábit benignitátem: et térra nóstra dábit frúctum súum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DO(ff)mi(fhg)nus(ghF'E/fvE'DC/dc..) *(,) dá(ff)bit(ffg) be(fd)ni(f)gni(gh)tá(hj!kvJH)tem:(h.) (:) et(h) tér(ghg)ra(ef) nó(ghhg)stra(g.) (;) dá(hv./fhg/hvF'ED)bit(dfddc.) (,) frúc(fg)tum(e_d/fgF'Ef) sú(ded___)um.(d.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

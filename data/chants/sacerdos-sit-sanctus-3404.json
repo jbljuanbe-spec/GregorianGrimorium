@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * Sacérdos sit sanctus, sicut et ego sanctus sum, Dóminus * qui sanctífico vos.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) AL(fg~)LE(f)LÚ(fg!hiivHGhwi)IA.(ih!iw!jvIHif) *(;) (fg!hjh/ig//ef!hvhgivHGF) (::) Sa(f)cér(fhg)dos(hi) sit(i) sanc(kxii/jkIHGhwihi)tus,(hg) (;) si(gf)cut(hji) et(h) e(gf/gh)go(g) (,) sanc(fhg)tus(hi) sum,(ie//giHGFgwhf) (:) Dó(ef!hhi)mi(h)nus(gf!gwh) *(,) qui(f) sanc(f!gwhf)tí(fg)fi(f)co(fg!hiivHGhwi) vos.(ih!iw!jvIHif) (;) (fg!hjh/ig//ef!hvhgivHGF) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

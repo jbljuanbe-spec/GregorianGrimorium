@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Laudáte Deum omnes Angeli ejus: laudáte eum omnes virtútes ejus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Al(fd~)le(e!fg)lú(hgh)ia.(h//ixih/ggf) (::) (hih/gge) (;3) (ghGFE//fgffe) <sp>V/</sp>.(::) Lau(h)dá(h)te(g) De(ghGE)um(fgfg) (;) o(g)mnes(gh) An(h)ge(gv//hg/hf)li(ed) e(egFD)jus:(d) (:) lau(dc~)dá(f)te(ghg) e(ixhiGEg;hiGF//ffd//gvFE;df//hf/gff//df//gvFEf)um(fe) (:) o(fd~)mnes(f) vir(f)tú(ef/gfg//df//gvFEf)tes(fe) (::) e(fd//f!gh)jus.(ixhih/ggf) (;) (hih/gge) (;3) (ghGFE//fgffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

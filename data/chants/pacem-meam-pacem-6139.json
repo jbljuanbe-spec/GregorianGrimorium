@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Pacem meam do vobis: pacem relínquo vobis. T. P. Allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Pa(h)cem(h) me(hg)am(f) (::) do(fe) vo(fgffv)bis:(e) (:) pa(h)cem(hhv) re(hf)lín(hi)quo(h) vo(ih)bis.(ffe) <i>T. P.</i>(::) Al(hj)le(j)lú(jij>)ia,(g) (;3) al(hg~)le(fv//e!fg)lú(gffef)ia.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

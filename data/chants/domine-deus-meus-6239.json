@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Domine Deus meus, in te sperávi: líbera me ab ómnibus persequéntibus me, et éripe me.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) Do(h)mi(hhv)ne(f) (::) De(h)us(g) me(f)us,(fh) (;) in(ef) te(h) spe(hg)rá(hi)vi:(ivHG/hf) (:) lí(hj)be(j)ra(i) me(hg) (;) ab(hi) ó(hi)mni(fgFEf)bus(fe) (;4) per(f)se(h)quén(hi)ti(h)bus(h) me,(hf//hvEC) (;) et(c) é(ef)ri(hih)pe(ge//f!ghGFg) me.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

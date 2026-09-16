@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Laetábitur justus * in Dómino, et sperábit in eo: et laudabúntur omnes recti corde allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) LAE(f)TÁ(ggh)BI(g)TUR(fe~) ju(fgf)stus(f) *(,) in(fh~) Dó(hg!jjh/jg/hg)mi(fg!hvGFg)no,(gf) (;) et(fh) spe(j)rá(jlKJ)bit(jkjj/hih) in(j) e(ixhig)o:(gf) (:) et(fg) lau(fg)da(f)bún(fdevDC)tur(dc) (,) o(fh)mnes(g!jjk) re(j)cti(ixjh!iw!jvIGhw!ivHG) cor(fg!hvGFg)de(gf) (:) al(fh)le(j)lú(jk)ia,(jk!mvLJlvKJ) (,) al(fh)le(ixg/jvjh!iw!jvIGhw!ivHG)lú(fg!hvGFg)ia.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

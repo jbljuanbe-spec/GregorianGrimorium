@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Posuísti Dómine * in cápite ejus corónam de lápide pretióso.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) PO(c)SU(d)Í(ff)STI(fe/ghf) Dó(f)mi(fgf)ne(f) *(;) in(f) cá(ixf!gwh!iv)pi(h)te(h) e(j)jus(hhg) co(h!iwj)ró(hg!hvGFg)nam(gf) (;) de(fv//egf) lá(fg)pi(deDCd)de(dc) pre(f)ti(gfhvGF)ó(fgf)so.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

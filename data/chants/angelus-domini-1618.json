@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Angelus * Dómini descéndit de caelo, et dixit muliéribus: Quem quaéritis, surréxit, sicut dixit, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AN(fg~)GE(g/hjHGgf/ghg)LUS(g) *(,) Dó(hg/h!jjkvJH)mi(gfh)ni(h) (;) de(h)scén(jhhf/ghGF/fdec,cd!ff/gh!jvHG/gfg)dit(g) (;) de(gh!iwj) cae(jji/jg//hjij/kljj)lo,(ki/jhhg) (;) et(g) di(gggvED/eghvGFg)xit(g) (,) mu(g)li(hj)é(ig/h!jj/klKI/jkj)ri(ij)bus:(hig) (:) Quem(gh~) quaé(hvGF/gvFEf//ghffdg)ri(fg)tis,(g) (;) sur(h)ré(gjIG/hh//fh!jvGF/fd/ef!ghg)xit,(g) (;) si(g)cut(gj) di(jji/jhhg)xit,(h) (;) al(h!iwji~)le(jkJH//gi hjIH//g!jj/hig)lú(ghg)ia.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

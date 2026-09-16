@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Pacem relínquo vobis: * pacem meam do vobis, dicit Dóminus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) PA(h)cem(h) re(h)lín(hg)quo(fh) vo(hg)bis:(fe..) *(;) pa(d)cem(gxeg) me(gxg)am(ggge) do(gxgh) vo(gxhg/hg)bis,(e.) (;) di(gxfg)cit(e) Dó(d)mi(de!fvED'e)nus.(ed..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

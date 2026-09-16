@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣. Exíte de médio Babylónis: mundámini, qui fértis vasa * Dómini",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(cd)LE(ef!ghhg)LÚ(gi/jhivHG)IA.(g) *(;) (gh/ijh//jvIHG//fhfg//egFEDC) (,) (cd!ef!ghhvGFD/eddc) <sp>V/</sp>.(::) Ex(cd)í(fe/fg)te(gvFED/fg!hvhg) (,) de(g) mé(gh)di(hg)o(fvED) Ba(d)by(dgFE)ló(cdc)nis:(c) (:) mun(g)dá(hg/jv//ijhhvGE)mi(fg)ni,(g) (,) qui(cd) fér(ef!ghhg)tis(g) va(gi/jhivHG)sa(g) *(;) Dó(gh/ijh//jvIHG)mi(fhfg)ni(egFEDC) (,) (cd!ef!ghhvGFD/eddc) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

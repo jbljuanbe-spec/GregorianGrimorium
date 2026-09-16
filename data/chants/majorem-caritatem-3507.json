@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Majórem * caritátem nemo habet, ut ánimam suam ponat quis pro amícis suis.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) MA(c)JÓ(egf)REM(f) *(,) ca(f)ri(ef)tá(f!hhhf/hjIHihhhhvFEf!gwhf)tem(f) (;) ne(fhf!gwh)mo(ef) ha(f!gwh/ih)bet,(fhfh) (:) ut(ef) á(hi)ni(i)mam(ij) su(h)am(kxhj/kjji) (,) po(kxhi!jwkj)nat(ijiih) quis(h!iwji/hh/fgf) (;) pro(hg) a(gihh)mí(iv//hjIHhf/hih)cis(hv//hhh) (,) su(f)is.(f!hhhf/hhh/fgf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

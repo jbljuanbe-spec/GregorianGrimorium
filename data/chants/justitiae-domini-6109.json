@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Justítiæ Dómini rectæ, lætificántes corda, et judícia ejus dulcióra super mel et favum: nam et servus tuus custódit ea.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Ju(d)stí(ffg)ti(f)æ(fg/hghg) (::) Dó(f)mi(f!ghGFg)ni(gf) re(fg/hgh)ctæ,(gf) (:) læ(ffv)ti(d!efEC)fi(d)cán(f)tes(f) (;3) cor(fg/hghggf~)da,(gf) (:) et(f) ju(gh)dí(ixhi)ci(h)a(h) e(jhhg//hi)jus(h) (;) dul(hg~)ci(f!gh)ó(hggf//ghGFg)ra(gf) (;) su(fe)per(d) mel(d!fg) (;3) et(ge~) fa(fv//dffv//gefddcd)vum:(dc) (:) nam(df) et(fe) ser(gh)vus(fe) tu(fhg)us(g) (;) cu(f)stó(hf//hghGF)dit(efddc) (;) e(ffe//ghghf//ggf)a.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

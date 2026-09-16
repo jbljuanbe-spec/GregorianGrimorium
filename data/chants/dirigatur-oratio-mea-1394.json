@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Dirigátur * orátio mea sicut incénsum in conspéctu tuo, Dómine. ℣. Elevátio mánuum meárum sacrifícium * vespertínum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c2) DI(c)RI(cg)GÁ(g)TUR(ge/fgddc) *(,) o(c)rá(cfeg)ti(gh)o(hfg) me(gh!ivHGh)a(gh/ih) (;) si(f)cut(g) in(hj~)cén(j)sum(jg/hg) (,) in(g) con(h)spéc(hj)tu(i) tu(hfg)o,(ge//fgf/gddc) (;) Dó(ffd/fef)mi(e)ne.(ce!ghGFfe//ced/eddc) <sp>V/</sp>.(::) E(f)le(g)vá(gj//ij/kiiiivGFfd,ffd/ffg)ti(g)o(gf//gih/ijhhg) (;) má(gj)nu(j)um(k) me(g)á(igge//fhGFfd!ew!fvEDCd)rum(dc) (:) sa(c)cri(d)fí(fgf)ci(dgf/gh)um(g) *(,) ves(c)per(ff)tí(fv//ef/gfg)num.(gge//giHGivHGge) (,) (fgefvDCdeddc) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

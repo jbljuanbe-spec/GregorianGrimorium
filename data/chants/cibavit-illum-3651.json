@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Cibávit * illum Dóminus pane vitae et intelléctus, et aqua sapiéntiae salutáris potávit illum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) CI(d)BÁ(fe)VIT(f) *() il(fhg)lum(gf) Dó(g)mi(fe)nus(d!ewf) (,) pa(cd)ne(d) vi(dfef)tae(d) et(e) in(f)tel(gh)lé(gf)ctus,(fv//efd) (:) et(dh) a(hg/jjh)qua(h) sa(h)pi(g)én(ixhih)ti(g)ae(fe) sa(g)lu(g)tá(fef)ris(deDC) (;) po(cd)tá(fg)vit(ghfgvFE) il(d!ewfef)lum.(ed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

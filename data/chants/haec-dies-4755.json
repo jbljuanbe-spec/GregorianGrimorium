@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Hæc dies, quam fecit Dóminus: exsultémus, et lætémur in ea.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Al(d!ef)le(fe//fhg)lú(f//hhg~)ia.(h//ivHF/fe) (::) (hhv//efED) (;) (f!ghg) (;4) (ehf//gffe) <sp>V/</sp>.(::) Hæc(hgih) di(g!hi//ivHF//hf/gh)es,(h) (;) quam(hf) fe(hji)cit(h) Dó(gh)mi(fe)nus:(e) (;4) (hhvGE) (;4) (gxfgFD) (;4) (egFE/fe) (:) ex(e)sul(feh)té(hf/hvGE//fhFD;gxgvFEf//hhv//ijHF;gygig//ivHG//he//fe;ge/gvFE/fd)mus,(d) (::) et(fd~) læ(e)té(ef)mur(f) in(f) e(hg/hfh)a.(ghFE) (;1) (df/hf//gffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

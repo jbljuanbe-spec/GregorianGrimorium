@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Benedícta * et venerábilis es, Virgo María, quae sine tactu pudóris invénta es mater Salvatóris.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) BE(h)ne(hf)dí(hi)cta(h.) *(,) et(h) ve(i)ne(h)rá(ij)bi(i)lis(hg) es,(h_i) (,) Vir(i)go(i) Ma(i)rí(hif__)a,(f.) (:) quae(fe) si(f)ne(d) ta(ef)ctu(e) pu(f)dó(h)ris(hg/hih.) (;) in(f)vén(fhGE'f)ta(de) es(e.) ma(df)ter(e) Sal(ehgh)va(f)tó(ded__)ris.(d.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

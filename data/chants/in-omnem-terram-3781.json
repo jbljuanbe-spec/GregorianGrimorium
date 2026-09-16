@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "In omnem terram * exívit sonus eórum: et in fines orbis terrae verba eórum, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) IN(g) o(hj~)mnem(j) ter(jhjvIG)ram(g) *(;) ex(g)í(gh/ji)vit(j) so(i!jk)nus(kh) e(h)ó(hkj)rum:(ikjj/ghg) (:) et(g) in(h) fi(gh!iwj)nes(j) or(hi)bis(hg) ter(hjghvGFg)rae(gf) (;) ver(gh~)ba(hgh) e(fg)ó(gh/jhi)rum,(hg) (;) al(gi~)le(i)lú(jkj)ia,(h) (,) al(gi~)le(iv//hji)lú(ghg)ia.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

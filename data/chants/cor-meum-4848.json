@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Cor meum, et caro mea exsultavérunt in Deum vivum. T. P. Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Cor(fg) me(gffv)um,(df) (::) et(cd) ca(d!fg)ro(gh) me(hjjg)a(gfhGF) (;) ex(fd)sul(f)ta(ghg)vé(h;3fh/jjvHG/fg)runt(f) (;) in(fg) De(fd//fvEC;4fhg)um(ghFEf) vi(ded)vum.(d) <i>T. P.</i>(::) Al(df~)le(fefd)lú(ded)ia.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

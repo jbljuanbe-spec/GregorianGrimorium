@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Allelúia. * ℣. Nunc cum eo regnas * in aetérnum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) AL(e)le(f)lú(hi~)ia.(i_h/iggf.) *(,) (hv./iji./ef/h_f//hv.ghe/hhh.f!gwhf.) <sp>V/</sp>.(::) Nunc(hi) cum(i) e(jiihi)o(iv.hh/fgf.) (;) re(f!hh/ijHF'/ivH'GE/f./hfhhf/ge)gnas(e.) *(;) in(hh) ae(hi)tér(i_h/jij)num.(jvvIH'GE//f!gwhf.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

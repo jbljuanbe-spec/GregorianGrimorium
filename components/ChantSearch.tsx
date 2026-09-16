@@ -1,10 +1,10 @@
 "use client";
 
-import Link from "next/link";
-import { useDeferredValue, useEffect, useMemo, useState } from "react";
+import { useDeferredValue, useEffect, useMemo, useRef, useState } from "react";
+import ChantList, { type ChantListItem } from "@/components/ChantList";
 import type { IndexEntry } from "@/lib/corpus";
 
-const PAGE_SIZE = 60;
+const PAGE_SIZE = 50;
 
 function fold(value: string): string {
   return value
@@ -22,6 +22,7 @@ interface Facets {
 }
 
 export default function ChantSearch({ facets, total }: { facets: Facets; total: number }) {
+  const input = useRef<HTMLInputElement>(null);
   const [index, setIndex] = useState<IndexEntry[] | null>(null);
   const [query, setQuery] = useState("");
   const [genre, setGenre] = useState("");
@@ -45,21 +46,53 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
     };
   }, []);
 
+  // "/" enfoca el buscador, como en cualquier herramienta de consulta.
+  useEffect(() => {
+    const onKey = (event: KeyboardEvent) => {
+      if (event.key !== "/" || event.metaKey || event.ctrlKey) return;
+      const active = document.activeElement;
+      if (active instanceof HTMLInputElement || active instanceof HTMLSelectElement) return;
+      event.preventDefault();
+      input.current?.focus();
+    };
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, []);
+
   const deferredQuery = useDeferredValue(query);
 
-  // Sin criterio no se lista el corpus entero: 3.054 íncipits seguidos, muchos
-  // casi idénticos, no ayudan a nadie y tapan lo que la web ofrece.
+  // Sin criterio no se lista el corpus entero: 3.000 íncipits seguidos no
+  // ayudan a nadie y tapan lo que la web ofrece.
   const hasCriteria = Boolean(deferredQuery.trim() || genre || mode || source);
 
-  const results = useMemo(() => {
+  const results = useMemo<ChantListItem[]>(() => {
     if (!index || !hasCriteria) return [];
     const terms = fold(deferredQuery).split(/\s+/).filter(Boolean);
-    return index.filter((entry) => {
+
+    const matches = index.filter((entry) => {
       if (genre && entry.genre !== genre) return false;
       if (mode && entry.mode !== mode) return false;
       if (source && !entry.sources.includes(source)) return false;
       return terms.every((term) => entry.haystack.includes(term));
     });
+
+    // Se agrupan las transcripciones de la misma pieza y se enseña una fila
+    // por pieza, con el recuento de versiones.
+    const pieces = new Map<string, { entry: IndexEntry; versions: number }>();
+    for (const entry of matches) {
+      const key = `${fold(entry.incipit)}|${entry.genre}`;
+      const piece = pieces.get(key);
+      if (piece) piece.versions += 1;
+      else pieces.set(key, { entry, versions: 1 });
+    }
+
+    return [...pieces.values()].map(({ entry, versions }) => ({
+      id: entry.id,
+      incipit: entry.incipit,
+      mode: entry.mode,
+      versions,
+      detail: [entry.genre, entry.version, entry.sources[0]].filter(Boolean).join(" · "),
+    }));
   }, [index, hasCriteria, deferredQuery, genre, mode, source]);
 
   useEffect(() => {
@@ -70,19 +103,24 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
     <>
       <div className="search-field">
         <input
+          ref={input}
+          id="buscar"
           className="search-box"
           type="search"
           value={query}
           onChange={(event) => setQuery(event.target.value)}
-          placeholder="Busca por íncipit o por cualquier palabra del texto latino…"
+          placeholder="Íncipit o cualquier palabra del texto latino…"
           aria-label="Buscar cantos"
           autoFocus
         />
+        <span className="search-hint" aria-hidden="true">
+          <kbd>/</kbd>
+        </span>
       </div>
 
       <div className="filters">
         <label>
-          Género
+          <span className="rubric">Género</span>
           <select value={genre} onChange={(event) => setGenre(event.target.value)}>
             <option value="">Todos</option>
             {facets.genres.map(([name, count]) => (
@@ -93,7 +131,7 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
           </select>
         </label>
         <label>
-          Modo
+          <span className="rubric">Modo</span>
           <select value={mode} onChange={(event) => setMode(event.target.value)}>
             <option value="">Todos</option>
             {facets.modes.map(([name, count]) => (
@@ -104,7 +142,7 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
           </select>
         </label>
         <label>
-          Edición
+          <span className="rubric">Edición</span>
           <select value={source} onChange={(event) => setSource(event.target.value)}>
             <option value="">Todas</option>
             {facets.sources.map(([name, count]) => (
@@ -117,46 +155,43 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
       </div>
 
       {hasCriteria ? (
-        <p className="result-count">
-          {index === null
-            ? `Cargando el índice de ${total} cantos…`
-            : `${results.length} de ${total} cantos`}
-        </p>
+        <div className="result-bar">
+          <span>
+            {index === null
+              ? `Cargando el índice de ${total} cantos…`
+              : `${results.length} ${results.length === 1 ? "pieza" : "piezas"}`}
+          </span>
+          {genre || mode || source ? (
+            <button
+              type="button"
+              className="button button-quiet"
+              onClick={() => {
+                setGenre("");
+                setMode("");
+                setSource("");
+              }}
+            >
+              Quitar filtros
+            </button>
+          ) : null}
+        </div>
       ) : null}
 
-      <ul className="results">
-        {results.slice(0, limit).map((entry) => (
-          <li key={entry.id}>
-            <Link href={`/cantos/${entry.id}/`}>
-              <span className="incipit">{entry.incipit}</span>
-              <span className="meta">
-                {[
-                  entry.genre,
-                  entry.mode ? `modo ${entry.mode}` : null,
-                  entry.version,
-                  entry.sources[0],
-                ]
-                  .filter(Boolean)
-                  .join(" · ")}
-              </span>
-            </Link>
-          </li>
-        ))}
-      </ul>
+      {results.length > 0 ? <ChantList items={results.slice(0, limit)} /> : null}
 
       {hasCriteria && index !== null && results.length === 0 ? (
         <p className="empty">
-          Sin resultados. Prueba con menos palabras, o quita algún filtro: el texto latino usa la
-          ortografía de la edición, así que «coeli» y «cæli» pueden no coincidir.
+          Sin resultados. Prueba con menos palabras o quita algún filtro: el texto sigue la
+          ortografía de cada edición, así que «coeli» y «cæli» no siempre coinciden.
         </p>
       ) : null}
 
       {results.length > limit ? (
-        <p className="result-count">
-          <button type="button" onClick={() => setLimit(limit + PAGE_SIZE)}>
-            Mostrar más
+        <div className="result-bar">
+          <button type="button" className="button" onClick={() => setLimit(limit + PAGE_SIZE)}>
+            Mostrar {Math.min(PAGE_SIZE, results.length - limit)} más
           </button>
-        </p>
+        </div>
       ) : null}
     </>
   );

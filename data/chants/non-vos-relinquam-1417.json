@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣. Non vos relínquam órphanos: vado, et vénio ad vos, et gaudébit * cor vestrum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(d!ewfe)LE(dc/ddc)LÚ(ixf!gwh!ivHG)IA.(gh) *(;) (ixdh!ivHG/hvGF/gf/gh) (,) (ixdh!ivHG/hvGF/gf/gh) (,) (ixdh!ivHG/ge//ghGFEC//egFED/ewfd) <sp>V/</sp>.(::) Non(d!ewfe) vos(dc/ddc) re(ixf!gwh!iv)lín(hvGF/gwhg/hi)quam(h) (,) ór(hh/gh~)pha(f!gh)nos:(ixih) (:) va(ixdh!ivHG/hvGF/gf/gh)do,(ih) (;) et(hg~) vé(hg)ni(fg)o(gvFD/ew!fvEDC) ad(fhfg~) vos,(g) (:) et(f) gau(ghg~)dé(ixh/ig/hf hiGF//eg/hf/ge/fd , ixcffd/cfffhh/ivHG/hvGF/gf/gh)bit(ih) *(;) cor(d!ew!fvEDC/ddc) ves(ixf!gwh!ivHG)trum.(gh) (;) (ixdh!ivHG/hvGF/gf/gh) (,) (ixdh!ivHG/hvGF/gf/gh) (,) (ixdh!ivHG/ge//ghGFEC//egFED/ewfd) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

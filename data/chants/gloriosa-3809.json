@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Gloriósa * dicta sunt de te, María: quia fecit tibi magna qui potens est.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) GLO(gg)RI(gh)Ó(hvGF//gh!iwjg)SA(g) *(,) di(g!jj)cta(j) sunt(kij) de(h) te,(hvGF) Ma(h)rí(hjIG)a:(g) (:) qui(g)a(hih) fe(g)cit(e) ti(ffg)bi(gvFED) ma(f/gh/jg)gna(g) (,) qui(f) po(ghg/h!jjh)tens(hig) est.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

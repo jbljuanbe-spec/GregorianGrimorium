@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Tollite hóstias, * et introíte in átria ejus: adoráte Dóminum in aula sancta ejus.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) TOl(i)li(h)te(g) hó(ijij)sti(hi)as,(i_g) *(,) et(h) in(g)tro(hi)í(i_g/hih)te(g.) (,) in(h) á(h_f//hgh)tri(gf)a(f) e(fhg/hvG~F~)jus:(gf..) (:) a(hg)do(h)rá(ih__)te(h_f) Dó(f_e)mi(e_d)num(d.) (,) in(f) au(fhg/ivH~G~)la(g) san(g)cta(gih) e(fiH~'G~)jus.(g.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

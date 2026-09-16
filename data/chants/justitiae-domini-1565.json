@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Justítiae Dómini * rectae, laetificántes corda, et dulcióra super mel et favum: nam et servus tuus custódiet ea.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) JU(d)STÍ(f)TI(fff)AE(f!gwhg/hg) Dó(f)mi(fg!hvGFg)ni(gf) *(,) re(fff!gwhgh)ctae,(gf) (;) lae(fff)ti(d!ew!fvEC)fi(d)cán(f)tes(fff) cor(f!gwhg/hvGF)da,(gf) (:) et(fd~) dul(fg)ci(f!gh)ó(hggf/ghGFg)ra(gf) (;) su(f)per(d) mel(df!gv) et(gf) fa(fd!ewf/ge//fddcd)vum:(dc) (:) nam(c!fff) et(fe~) ser(gh)vus(fe) tu(fhg)us(g) (;) cu(f)stó(hf/hgh)di(gf)et(fvfffc/fv) e(fvfffhvGFgvFE)a.(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

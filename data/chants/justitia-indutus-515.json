@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Justítia * indútus sum, et vestívi me, sicut vestiménto et diadémate, judício meo. Oculus fui caeco, et pes claudo: pater eram páuperum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) JU(c)stí(cd/fef)ti(f)a(f.) *(,) in(ff//fff_d)dú(c!d'f)tus(f_e) sum,(egff) (,) et(d) ve(dg~)stí(gv.f!h'j)vi(g_e) me,(ghF'DgvFE.) (;) si(d!fg)cut(gfg) ve(gd)sti(df)mén(ixef/hig)to(ghffe.) (,) et(fffd~) di(f)a(ef)dé(gh)ma(g)te,(gv.efD'Cd.) (;) ju(fffd)dí(f)ci(gf)o(fgff) me(d/ffd)o.(d!ewf.) (:) O(cd/fef)cu(f)lus(f) fu(gh)i(g) cae(ef/g.f!gwhgh)co,(hg..) (;) et(f) pes(e.f!gwh_g) clau(ge/ghffe)do:(e.) (:) pa(ce/gff)ter(fv.fff_c) e(d!ewf!gvFE)ram(f.) (,) páu(ffd//fhg__/hfg)pe(e)rum.(egf/gffe.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Dilígite Dóminum omnes Sancti ejus, quóniam veritátem requíret Dóminus, et retríbuet abundánter faciéntibus supérbiam. ℣. Viríliter ágite, et confortétur cor vestrum, omnes qui sperátis * in Dómino.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DI(d)lí(d_c)gi(d)te(fef) Dó(g)mi(fe)num(d./fgF'D//fvED'fddc.) (;) o(ixf!gwh'!iv)mnes(h) Sanc(hjhhg~)ti(gfgd) e(fg)jus,(gv.) (,) (fg!hjGF'fvED'fddc.) (:) quó(f!gwhgh)ni(jhhg)am(gh) ve(h)ri(h)tá(hjh/jjj)tem(ih..) (,) re(g)quí(gh)ret(fg) Dó(f)mi(fvED)nus,(d./ef'!gvF'ED.fgf'gvF'ED.) (:) et(d_c) re(f)trí(ghgh)bu(hjH'G)et(g) a(gh)bun(fg)dán(gffvED)ter(d/ffd) (,) (fge'/fgd'/eddc.) (;) fa(f)ci(gf)én(f!gh!jvIH'G)ti(gf)bus(f.) (,) su(f)pér(f)bi(gvFD)am.(dc/d/ff//ghG'Efgff/ded.) <sp>V/</sp>.(::) Vi(d)rí(dh)li(h)ter(hjH'GF.eg/hgh//fgFD.) (,) (cd/fd/cd/ff/g.h!iw!jvIH.) (,) á(h)gi(h)te,(hjH'Gh/jjjh/jjjvIH'jggf.) (;) et(h) con(hk)for(kj)té(j_lKJ'kjj'jh)tur(i_h) (,) cor(f) ve(ixhv.fhg/hiG'F//gf/ghff'fd!ewfef)strum,(ed..) (:) o(f)mnes(fc) qui(d) spe(c)rá(df)tis(ff) *() in(fg) Dó(g_f)mi(fhgh)no.(hhf.) (,) (h_ghvFDgff'fvE'C//ddc/da..) (,) (cd/ffvDC'd/ff/gff/ded.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

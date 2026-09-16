@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Eripe me de inimícis meis Deus meus: et ab insurgéntibus in me líbera me, Dómine.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c2) E(cd)ri(c)pe(dc/dffe//fg/hgh) me(hg) (::) de(g) i(g)ni(g)mí(g!hiHG)cis(ghf//gvFE/fe) (;) me(gh//ffgf//hg)is(gvFE//fvEDC/dc) (;) De(ec/dffv//giHG)us(gffvED) (;1) me(fd/efEDCd)us:(dc) (:) et(c) ab(c) in(cfe)sur(fg~)gén(gc/deDC;fgFE;4ghg//fvED/fg;iiv/jiji//jkj~)ti(ih)bus(ig/hih) (;) in(gf~) me(giig//fgFEDf) (;) lí(d)be(g)ra(f!ghffe) me,(c) (;) Dó(ce/ge//ghFD//ffvDC;fgECd;1ffvED/efED)mi(c!deDCd)ne.(dc) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

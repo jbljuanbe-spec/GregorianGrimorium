@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Voce mea ad Dóminum clamávi, et exaudívit me de monte sancto suo: non timébo mília pópuli circumdántis me.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Vo(fh)ce(h) me(hggfg)a(gf) (::) ad(f) Dó(g)mi(hf)num(ixgi) cla(i)má(hjii)vi,(ih) (:) et(f) ex(gh)au(g)dí(ffv)vit(d!efEDCd) me(dc) (;) de(f) mon(gh)te(hg) san(hj)cto(hghg) su(f!ghGFg)o:(gf) (:) non(h) ti(h)mé(ghg)bo(fgf) mí(g)li(f)a(fe/fgf) (;4) pó(d!fgf)pu(d!efEDCd)li(dc) (;) cir(fg/hgh)cum(hjHGF;4eg/ixhig//hiHG)dán(f)tis(f!ghGFg) me.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

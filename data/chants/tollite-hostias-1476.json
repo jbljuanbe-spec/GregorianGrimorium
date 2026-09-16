@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Tollite * hóstias, et introíte in átria ejus: adoráte Dóminum in aula sancta ejus. ℣. Revelábit Dóminus condénsa: et in templo ejus omnes dicent * glóriam.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) TOl(de)li(efe)te(d) *(,) hós(d!ewfef)ti(d!ewfe)as,(ed!ewfe/fhFEDCdeed) (;) et(d) in(df!gwh!iv)tro(h)í(hi)te(h) (,) in(f) á(feed/fh)tri(highf)a(fv//egf) e(dfehv//ijii)jus:(hihh/fgf) (:) a(f)do(h)rá(ij)te(i) Dó(hi)mi(ih)num(h) (;) in(f) au(fefvEDe)la(ed) (,) sanc(dfe/hgh)ta(f) e(de)jus.(dfe/hvhhhff//dfe/feed) <sp>V/</sp>.(::) Re(d)ve(fe)lá(eh)bit(h) (,) Dó(ihhhhf/hh//ihhhhe/gxfgEDhh)mi(ih)nus(h) (;) con(h)dén(ih/kkh/ih/kkkiih~)sa:(hihh/fgf) (:) et(f) in(h) tem(ij)plo(ih) e(ffeffef/hffeede)jus(ed) (;) om(d)nes(d) di(dfED)cent(ef) *() gló(fhGFhhh)ri(h)am.(hhf) (,) (gxgf/gvED//fgEDfe/hvhhhff//dfe/feed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

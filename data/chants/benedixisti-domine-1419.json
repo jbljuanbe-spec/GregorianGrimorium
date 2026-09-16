@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Benedixísti, * Dómine, terram tuam: avertísti captivitátem Jacob: remisísti iniquitátem plebis tuae.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) BE(e)NE(e)DI(e)XÍ(ege/ghg/f/fd!fw!gvFE)STI,(e) *(,) Dó(e!fg)mi(ixfhg/hi)ne,(h) (,) ter(jhjvGFfd//fghvGF)ram(gf/fd~) tu(dgFE)am:(e) (:) a(d)ver(g)tí(ixhg/hi)sti(h) (,) cap(h)ti(h)vi(h)tá(h)tem(jh/hf~) Ja(ghg)cob:(dg//hvFD/gv//gg/hjh/hg) (:) re(dg)mi(g)sí(hiHGhwi!jv)sti(j) (,) i(j)ni(j)qui(ih)tá(jkj)tem(ig~) ple(hv//ghGFgh ghGFgh)bis(g) tu(egff)ae.(fe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Dominus * dabit benignitátem: et terra nostra dabit fructum suum",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Do(ff)mi(fhg)nus(ghFEfvEDCdc) *(,) da(ff)bit(ffg) be(fd)ni(f)gni(gh)tá(hj!kvJH)tem:(h) (:) et(h) ter(ghg)ra(ef) nos(gh/hg)tra(g) (;) da(hv//fhghvFED)bit(dfd/dc) (,) fruc(fg)tum(ed/fgFEf) su(efe)um(e) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

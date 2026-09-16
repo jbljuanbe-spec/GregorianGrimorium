@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Dico vobis, * gáudium est Angelis Dei super uno peccatóre paeniténtiam agénte.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) DI(h)CO(f) vo(hi)bis,(i) *(,) gáu(ij)di(i)um(h) est(h) An(h)ge(g)lis(i) De(hif)i(f) (;) su(f)per(e) u(f)no(e) pec(f)ca(d)tó(ef)re(f) (,) pae(f)ni(h)tén(f)ti(e)am(f!gwhg/hih) a(f)gén(d!ed~)te.(d) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

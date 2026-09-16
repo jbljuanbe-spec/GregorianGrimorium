@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Qui fécerit * et docúerit, hic magnus vocábitur in regno caelórum. T.P. Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) QUI(i) fé(i')ce(h)rit(g.) *() et(ij) do(gh)cú(f)e(e)rit,(fhg.) (,) hic(ih) ma(ijI'H)gnus(h) vo(hf)cá(hi)bi(h)tur(g.) (,) in(h) re(i)gno(g) cae(h)ló(f_e/f!gw!hvGF'g)rum.(fe..) <i>T.P.</i>(::) Al(eg~)le(gv.fhg)lú(efe__)ia.(e.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

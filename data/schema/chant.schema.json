@@ -4,104 +4,224 @@
   "title": "Chant",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "incipit", "title", "genre", "text_latin", "gabc", "provenance", "review_status"],
+  "required": [
+    "id",
+    "incipit",
+    "title",
+    "genre",
+    "text_latin",
+    "gabc",
+    "provenance",
+    "review_status"
+  ],
   "properties": {
     "id": {
       "type": "string",
       "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
-      "description": "Slug único, derivado del íncipit y desambiguado con el id de origen."
+      "description": "Slug \u00fanico, derivado del \u00edncipit y desambiguado con el id de origen."
     },
-    "incipit": { "type": "string" },
-    "title": { "type": "string" },
+    "incipit": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
     "cantus_id": {
-      "type": ["string", "null"],
-      "description": "Identificador en Cantus Index, cuando la fuente lo aporta. Permite cruzar la pieza con los catálogos de musicología."
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Identificador en Cantus Index, cuando la fuente lo aporta. Permite cruzar la pieza con los cat\u00e1logos de musicolog\u00eda."
     },
     "genre": {
       "type": "string",
       "enum": [
-        "Introitus", "Graduale", "Alleluia", "Tractus", "Offertorium", "Communio",
-        "Antiphona", "Responsorium", "Responsorium breve", "Hymnus", "Sequentia",
-        "Kyriale", "Psalmus", "Canticum", "Oratio", "Preces", "Improperia",
-        "Varia", "Other"
+        "Introitus",
+        "Graduale",
+        "Alleluia",
+        "Tractus",
+        "Offertorium",
+        "Communio",
+        "Antiphona",
+        "Responsorium",
+        "Responsorium breve",
+        "Hymnus",
+        "Sequentia",
+        "Kyriale",
+        "Psalmus",
+        "Canticum",
+        "Oratio",
+        "Preces",
+        "Improperia",
+        "Varia",
+        "Other"
       ]
     },
     "genre_code": {
-      "type": ["string", "null"],
-      "description": "Código de dos letras de la fuente (in, gr, al...), conservado para trazabilidad."
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "C\u00f3digo de dos letras de la fuente (in, gr, al...), conservado para trazabilidad."
     },
     "mode": {
-      "type": ["string", "null"],
-      "enum": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", null]
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        null
+      ]
     },
     "mode_variant": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Variante o modo irregular (peregrinus, etc.) tal como lo declara la fuente."
     },
     "version": {
-      "type": ["string", "null"],
-      "description": "Versión melódica (p.ej. \"Solesmes\"), cuando la fuente la distingue."
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Versi\u00f3n mel\u00f3dica (p.ej. \"Solesmes\"), cuando la fuente la distingue."
     },
     "text_latin": {
       "type": "string",
-      "description": "Texto latino extraído del gabc, sin la notación."
+      "description": "Texto latino extra\u00eddo del gabc, sin la notaci\u00f3n."
     },
     "gabc": {
       "type": "string",
-      "description": "Notación en gabc. Es la partitura: el frontend la dibuja con Exsurge, en vez de reproducir la maquetación de una edición ajena."
+      "description": "Notaci\u00f3n en gabc. Es la partitura: el frontend la dibuja con Exsurge, en vez de reproducir la maquetaci\u00f3n de una edici\u00f3n ajena."
     },
-    "transcriber": { "type": ["string", "null"] },
-    "commentary": { "type": ["string", "null"] },
+    "transcriber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "commentary": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
     "liturgical_occurrences": {
       "type": "array",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["calendar", "celebration"],
+        "required": [
+          "calendar",
+          "celebration"
+        ],
         "properties": {
-          "calendar": { "type": "string" },
-          "celebration": { "type": "string" }
+          "calendar": {
+            "type": "string"
+          },
+          "celebration": {
+            "type": "string"
+          }
         }
       }
     },
     "bibliography": {
       "type": "array",
-      "description": "Ediciones impresas donde aparece la pieza, con su página.",
+      "description": "Ediciones impresas donde aparece la pieza, con su p\u00e1gina.",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["title"],
+        "required": [
+          "title"
+        ],
         "properties": {
-          "title": { "type": "string" },
-          "editor": { "type": ["string", "null"] },
-          "year": { "type": ["integer", "null"] },
-          "page": { "type": ["string", "null"] }
+          "title": {
+            "type": "string"
+          },
+          "editor": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "year": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "page": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
         }
       }
     },
     "provenance": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["origin", "license"],
+      "required": [
+        "origin",
+        "license"
+      ],
       "properties": {
         "origin": {
           "type": "string",
-          "enum": ["gregobase", "gabc-file", "public-domain-scan", "licensed"]
+          "enum": [
+            "gregobase",
+            "gabc-file",
+            "public-domain-scan",
+            "licensed"
+          ]
         },
         "license": {
           "type": "string",
           "description": "Licencia del registro de origen (p.ej. CC0-1.0)."
         },
-        "external_id": { "type": ["string", "null"] },
+        "external_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
         "snapshot": {
-          "type": ["string", "null"],
-          "description": "Volcado o fecha concreta de la fuente, para poder reproducir la importación."
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Volcado o fecha concreta de la fuente, para poder reproducir la importaci\u00f3n."
         }
       }
     },
     "review_status": {
       "type": "string",
-      "enum": ["draft", "needs_review", "verified"]
+      "enum": [
+        "draft",
+        "needs_review",
+        "verified"
+      ]
+    },
+    "repeat_indication": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Indicaci\u00f3n de repetici\u00f3n de la fuente (\"ij\" = bis, \"iij\" = ter). Es una r\u00fabrica de ejecuci\u00f3n, no texto cantado."
+    },
+    "psalm_tone_ending": {
+      "type": "boolean",
+      "description": "La pieza termina con la f\u00f3rmula salm\u00f3dica, escrita \"E u o u a e\" (las vocales de saeculorum amen)."
     }
   }
 }

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Valde mirábilis es, o María, et fácies tua plena est gratiárum. T.P. Allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) Val(gg)de(g) mi(g)rá(g)bi(gh)lis(hvGF//gh!ijg) es,(g) (::) o(g!jj) Ma(jkij)rí(ijIG)a,(g) (;) et(g) fá(hih)ci(g)es(e) tu(ffg)a(gvFED) (;) ple(f!gh)na(fg) est(gh!ijg) gra(f)ti(ghg)á(h!jjhi)rum.(g) <i>T.P.</i>(::) Al(gi~)le(iv//hji)lú(ghg)ia.(g) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

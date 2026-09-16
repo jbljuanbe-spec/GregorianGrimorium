@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Si quis sitit * véniat ad me et bibat, allelúia, allelúia.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) SI(fd) quis(ffg) si(f)tit(ghg.) *(,) vé(f)ni(fe)at(d) ad(f) me(g.) (,) et(ff) bi(dec__)bat,(c.) (;) al(f)le(g)lú(ixi)ia,(h.) (,) al(ixi)le(hv.gih)lú(fgf__)ia.(f.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

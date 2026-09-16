@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Et si coram homínibus * torménta passi sunt, Deus tentávit eos: tamquam aurum in fornáce probávit eos, et quasi holocáusta accépit eos.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) ET(d) si(d) co(fdf)ram(f) ho(f)mí(ghG'F)ni(gh)bus(h.) *(,) tor(h)mén(jhhg~)ta(h!jjk) pas(h)si(hih__) sunt,(h.) (;) De(h)us(ghg) ten(fe~)tá(f!gwhg)vit(ge/f_e) e(de!fvED'e)os:(ed..) (:) tam(fe~)quam(f) au(ixgiH'G)rum(g.) in(fg) for(hj~)ná(jijh)ce(h.) (,) pro(h)bá(hv.f!g'h)vit(hg/h_g) e(fg!hvGF'g)os,(gf..) (:) et(ixhi~) qua(ixhi)si(h) ho(hgge)lo(gh)cáu(fg~)sta(fef.) (,) ac(g)cé(ge)pit(gfgvFE) e(de!fvED'e)os.(ed..) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

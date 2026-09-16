@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Solesmes",
   "text_latin": "Calix * benedictiónis, cui benedícimus, nonne communicátio sánguinis Christi est? Et panis quem frángimus, nonne participátio córporis Dómini est?",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) CA(d!fffgvFD)lix(d_c) *(,) be(d)ne(dc)di(fg)cti(fe)ó(ge//ghffvED)nis,(ff) (;) cu(fgf)i(fd) be(dg)ne(ghg)dí(ef!gh)ci(gf)mus,(ixff//hg/ihhf.) (;) non(h!jj/kj)ne(jjjgh.) com(g)mu(ge)ni(g)cá(gh)ti(g)o(gihh) (,) sán(g.h!iwj)gui(hg)nis(g.) Chri(hg/hf)sti(d) est?(fd/fffg..) (:) Et(cd) pa(dgF'E//f!gwhgh)nis(h_g) (,) quem(gf~) frán(fg~)gi(g)mus,(ghff//dgFE'fgd.) (;) non(d!ff/gf)ne(fffc/d.) par(d)ti(e)ci(f)pá(g)ti(f)o(egff) (,) cór(dfef)po(d)ris(cff) Dó(e!fwg'!hv)mi(g)ni(fgee//dfe) est?(dc/dde.) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Læténtur cæli, et exsúltet terra ante fáciem Dómini quóniam venit.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(f3) Læ(e!fh)tén(h)tur(g!hi) (::) cæ(fiHG//ijIH/ivHG)li,(h) (:) et(h) ex(h)súl(hih//ihhg~)tet(hiHG) (;) ter(jijh//jiiv)ra(f//ivHG//hiHF) (:) an(f!hih)te(h) fá(gh//kxjkj)ci(ji)em(ij/kij) (;6) Dó(gh/ijji)mi(ih)ni(hi/jji) (:) quó(if)ni(fiHG)am(g) (;3) ve(gi!jvIH//iji)nit.(g//ihihhg) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Benedíctus sit * Deus Pater, unigenitúsque Dei Fílius, Sanctus quoque Spíritus: quia fecit nobíscum misericórdiam suam.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) BE(dg)NE(g/hji)DÍC(jkj)TUS(jvIH) sit(h) *(,) De(hj!kvJH)us(hjhhg) Pa(ikjjvIH)ter,(hg//ih/igh) (;) u(ef)ni(g)ge(hg/jki/jvHGhg)ni(gfh)tús(ghfg)que(f) (;) De(ffffd!gih)i(g) Fí(g/hjh)li(fd/fhg)us,(e!fg) (:) Sanc(gh/jij)tus(gjjjjg/jv) quo(ixjjjvHGF/gwh!ivHGh)que(hg) (,) Spí(hji)ri(jkj/ijh)tus:(ih) (:) qui(dg)a(gj) fe(jjjvHG)cit(gf) no(hji)bís(jkj/ijHG)cum(gf) (;) mi(e!fg)se(fh/jgh)ri(ef)cór(g)di(gh!iw!jvIH)am(h) (,) su(hjHG)am.(gvFE/fe//gf/gffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

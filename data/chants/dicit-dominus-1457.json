@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Dicit Dóminus: * Impléte hýdrias aqua et ferte architriclíno. Cum gustásset architriclínus aquam vinum factam, dicit sponso: Servásti vinum bonum usque adhuc. Hoc signum fecit Jesus primum coram discípulis suis.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) DI(fh)CIT(h) Dó(ixhiHG)mi(hggfg)nus:(fg) *(;) Im(df~)plé(f)te(df) hý(f)dri(fff)as(df) a(ff/gf)qua(f) (;) et(f) fer(gh~)te(h) arch(hg~)i(h)tri(h!iwj)clí(ghGFg)no.(gf) (:) Cum(f) gus(ghg)tás(hjij)set(/ixhhi) arch(gh~)i(f)tri(ghgh)clí(ghGFg)nus(gf) (;) a(h)quam (ghg)vi(hg)num(fg) fac(ghg)tam,(g) (;) di(ixii//g!ij)cit(ih~) spon(fgf~)so:(f) (:) Ser(hg~)vás(jlk)ti(j) vi(jlk)num(j) bo(ih!iwj)num(hg) (,) us(gh!jlk)que(j) ad(hj)huc.(jg) (:) Hoc(j) si(j)gnum(i) fe(h)cit(g) Je(g)sus(fh) pri(fg)mum(g) (,) co(h)ram(i) di(j)scí(ih)pu(gf)lis(gh) su(f)is.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

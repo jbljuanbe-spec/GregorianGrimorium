@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Tu es Petrus, * et super hanc petram aedificábo Ecclésiam meam.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) TU(f) es(df) Pe(fgff)trus,(cdc) *(;) et(d) su(ffg)per(f) hanc(f) pe(fgf)tram(f) (;) ae(f)di(f!gh)fi(hg)cá(g)bo(fgFD) (,) Ec(d)clé(ffg)si(f)am(fg/hg/hg) me(fg!hvGFg)am.(gf) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

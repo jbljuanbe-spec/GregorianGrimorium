@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Allelúia. * ℣. Posuísti, Dómine, super caput ejus corónam de lápide * pretióso.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) AL(cd/fg)LE(edf//efd/ed)LÚ(cd~)IA.(d) *(;) (ixfg!hvhf//hv//giHF) (,) (ixhv//giHGF//deddc) (,) (cf/g/hh//fhghvFEDffd) <sp>V/</sp>.(::) Po(cd/fg)su(edf//efd/ed)í(cd)sti,(d) (,) Dó(ixfg!hvhf//hv//giHF//,ixhv//giHGF//deddc ,cd/fg)mi(edffd)ne,(d) (:) su(h)per(g) ca(h)put(g) e(f!hhg/hh//ixfh!ivGFhh//fhfgvFD)jus(d) (;) co(dcf)ró(ixhfhivGFhv//,ixf!gwhghivGFh)nam(hgg) (,) de(e!fg) lá(edf//efd/ed)pi(cd)de(d) *(;) pre(cd/fg)ti(edf//efd/ed)ó(cd)so.(d) (;) (ixfg!hvhf//hv//giHF) (,) (ixhv//giHGF//deddc) (,) (cf/g/hh//fhghvFEDffd) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

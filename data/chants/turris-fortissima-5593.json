@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Dominican",
   "text_latin": "Allelúia. ℣. Turris fortíssima, nomen Dómini: ad ipsum currit justus, et exaltábitur.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) Al(d!fh)le(hf)lú(f//hih~)ia.(ih) (::) (ih/ffd) (;4) (gxfgFE) (;) (hihhf) (;4) (dfefeed) <sp>V/</sp>.(::) Tur(d!fh)ris(h//ivHE) (;4) (gxgfgED) (;) for(d)tís(fh)si(hf)ma,(fv//hih//jiih) (;) no(hf/gvFE//hihhf)men(egFEf) Dó(d)mi(ded)ni:(d) (:) ad(d) i(efef)psum(f) cur(ffef;hihih//ffef;hiHF)rit(gxgvFE) ju(fhggfg)stus,(gf) (::) et(d) ex(d!ef)al(f)tá(gxfgFE)bi(i)tur.(hhffv) (;4) (dfefeed) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Honóra * Dóminum de tua substántia, et de primítiis ómnium frugum tuárum da ei. Noli prohibére benefácere eum qui potést: si vales, et ipse bénefac.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) HO(dfd)NÓ(eef//dgffffvDC//dfDC//dfd/ef)RA(e) *(,) Dó(ef!ghhg)mi(gf)num(fg!hvhg) (;) de(g) tu(g)a(d!ewf) sub(f)stán(ef!ghGEf)ti(f)a,(egff/ded) (:) et(d) de(d) pri(dh)mí(hghvGE//f!gwhgh//f!gwhgh)ti(f)is(eef) (,) ó(ec//ege/gh)mni(gf)um(f) fru(hjh)gum(ghg) tu(f)á(ghff)rum(ed) (,) da(fv//ghgh) e(egff)i.(fe) (:) No(g/iij)li(g) pro(h)hi(h)bé(ghGFEf)re(fe) (;) be(f)ne(f)fá(e!fwg!hv)ce(g)re(g) (,) e(g)um(ghgg) qui(fd) po(egFE)tést:(eef) (:) si(dg) va(gf!gwhgh)les,(hg) (;) et(g!jj) i(jjj)pse(gh) (,) bé(ef!gwhg)ne(gv//efDCd)fac.(fd/f!gwhgh//ghFEfgffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

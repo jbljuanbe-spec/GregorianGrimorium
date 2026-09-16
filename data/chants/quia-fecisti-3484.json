@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Quia fecísti * viríliter, et confortátum est cor tuum, ídeo et manus Dómini confortávit te, et eris benedícta in aetérnum.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c4) QUI(c)A(df) fe(gf)cí(fd!ewf/ge/fddcd)sti(dc) *() vi(d)rí(ffg)li(f)ter,(f) (;) et(f) con(gh~)for(gf~)tá(fgffc//d!ff/gh/jh!iwj)tum(gfh) est(h) (,) cor(h/jjj) tu(h!iw!jvIHGh)um,(hg) (:) í(hj)de(gf)o(fgfg) (,) et(d) ma(fg)nus(gh) Dó(gf/hg)mi(fe)ni(f) (,) con(c)for(d)tá(fv//fffvED)vit(deDC) te,(dc) (:) et(fgffe) e(d)ris(d!ewf) (,) be(fgf)ne(gh)dí(ixh/jjvHG/hiGF/gwhgh//gh!jjj/kvJH)cta(h) (;) in(ff) ae(gh)tér(ixhf/gh!jjh//giHGF,fff//fgf/ghg/hf/gf)num.(f) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,

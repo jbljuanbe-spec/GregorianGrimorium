@@ -9,6 +9,8 @@
   "mode_variant": null,
   "version": "Vatican",
   "text_latin": "Orátio * mea munda est: et ídeo peto, ut detur locus voci meae in coelo: quia ibi est judex meus, et cónscius meus in excélsis: ascéndat ad Dóminum deprecátio mea.",
+  "repeat_indication": null,
+  "psalm_tone_ending": false,
   "gabc": "(c3) O(b!cwd)RÁ(de)TI(e)O(e) *() me(ef!hvFEhg)a(hih) (,) mun(hhhfgvFE)da(fe) est:(e) (:) et(de) í(ehh)de(hg)o(g) pe(hih/ihh)to,(ef) (,) ut(d!ef~) de(e!hh//hhh)tur(fg~) lo(e!hh//hhh)cus(f!gw!hvGFEfe) (,) vo(f)ci(h) me(h)ae(hg) in(ij) coe(ijIHivHG)lo:(g) (:) qui(hi)a(i) i(kk)bi(kj) est(kkij) (,) ju(i)dex(i) me(hjIH)us,(ihhg) (;) et(ig~) cón(hi)sci(i)us(i) me(ijIH)us(ihhi) (,) in(f) ex(fe)cél(g/ih/ighvGF)sis:(gf) (:) a(hh)scén(hi/ji/jh//ji/jhhvGE)dat(f) (,) ad(fhf/hh) Dó(fhf/hh//hhh)mi(ef)num(ec~) (,) de(e)pre(f)cá(h)ti(ih)o(h) me(hf/hhivFE)a.(efED//f/hihhhhf) (,) (hhf/hhvFEfgffe) (::)",
   "transcriber": "Andrew Hinkley",
   "commentary": null,
