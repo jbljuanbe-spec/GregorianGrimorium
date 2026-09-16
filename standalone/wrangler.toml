@@ -1,7 +1,0 @@
-name = "byscador-ofertas-espana"
-main = "src/worker.js"
-compatibility_date = "2026-08-22"
-
-[assets]
-directory = "public"
-binding = "ASSETS"
