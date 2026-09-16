@@ -15,7 +15,7 @@ import { fileURLToPath } from "node:url";
 import { mkdirSync, writeFileSync, rmSync, readFileSync } from "node:fs";
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
-const source = join(root, "node_modules/exsurge/src");
+const source = join(root, "vendor/exsurge/src");
 const outfile = join(root, "public/vendor/exsurge.js");
 
 const MODULES = [
@@ -33,7 +33,7 @@ const MODULES = [
 
 // Se entra por Drawing y Gabc, no por index.js: ese registra un custom element
 // con `document.registerElement`, API retirada de los navegadores.
-const entry = join(root, "node_modules/.cache/exsurge-entry.js");
+const entry = join(root, ".exsurge-entry.mjs");
 mkdirSync(dirname(entry), { recursive: true });
 mkdirSync(dirname(outfile), { recursive: true });
 writeFileSync(

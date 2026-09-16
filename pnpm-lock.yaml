@@ -11,9 +11,6 @@ importers:
       ajv:
         specifier: ^8.17.1
         version: 8.20.0
-      exsurge:
-        specifier: github:frmatthew/exsurge
-        version: git+https://git@github.com:frmatthew/exsurge.git#f828578b2fc4f501697414080d4241a322ae3cc0
       next:
         specifier: ^15.5.25
         version: 15.5.25(@types/node@22.20.3)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)
@@ -448,10 +445,6 @@ packages:
     engines: {node: '>=18'}
     hasBin: true
 
-  exsurge@git+https://git@github.com:frmatthew/exsurge.git#f828578b2fc4f501697414080d4241a322ae3cc0:
-    resolution: {commit: f828578b2fc4f501697414080d4241a322ae3cc0, repo: git@github.com:frmatthew/exsurge.git, type: git}
-    version: 0.0.0
-
   fast-deep-equal@3.1.3:
     resolution: {integrity: sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==}
 
@@ -836,8 +829,6 @@ snapshots:
       '@esbuild/win32-arm64': 0.28.2
       '@esbuild/win32-ia32': 0.28.2
       '@esbuild/win32-x64': 0.28.2
-
-  exsurge@git+https://git@github.com:frmatthew/exsurge.git#f828578b2fc4f501697414080d4241a322ae3cc0: {}
 
   fast-deep-equal@3.1.3: {}
 
