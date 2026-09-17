@@ -18,7 +18,7 @@
     "id": {
       "type": "string",
       "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
-      "description": "Slug \u00fanico, derivado del \u00edncipit y desambiguado con el id de origen."
+      "description": "Slug único, derivado del íncipit y desambiguado con el id de origen."
     },
     "incipit": {
       "type": "string"
@@ -31,7 +31,7 @@
         "string",
         "null"
       ],
-      "description": "Identificador en Cantus Index, cuando la fuente lo aporta. Permite cruzar la pieza con los cat\u00e1logos de musicolog\u00eda."
+      "description": "Identificador en Cantus Index, cuando la fuente lo aporta. Permite cruzar la pieza con los catálogos de musicología."
     },
     "genre": {
       "type": "string",
@@ -62,7 +62,7 @@
         "string",
         "null"
       ],
-      "description": "C\u00f3digo de dos letras de la fuente (in, gr, al...), conservado para trazabilidad."
+      "description": "Código de dos letras de la fuente (in, gr, al...), conservado para trazabilidad."
     },
     "mode": {
       "type": [
@@ -93,15 +93,15 @@
         "string",
         "null"
       ],
-      "description": "Versi\u00f3n mel\u00f3dica (p.ej. \"Solesmes\"), cuando la fuente la distingue."
+      "description": "Versión melódica (p.ej. \"Solesmes\"), cuando la fuente la distingue."
     },
     "text_latin": {
       "type": "string",
-      "description": "Texto latino extra\u00eddo del gabc, sin la notaci\u00f3n."
+      "description": "Texto latino extraído del gabc, sin la notación."
     },
     "gabc": {
       "type": "string",
-      "description": "Notaci\u00f3n en gabc. Es la partitura: el frontend la dibuja con Exsurge, en vez de reproducir la maquetaci\u00f3n de una edici\u00f3n ajena."
+      "description": "Notación en gabc. Es la partitura: el frontend la dibuja con Exsurge, en vez de reproducir la maquetación de una edición ajena."
     },
     "transcriber": {
       "type": [
@@ -136,7 +136,7 @@
     },
     "bibliography": {
       "type": "array",
-      "description": "Ediciones impresas donde aparece la pieza, con su p\u00e1gina.",
+      "description": "Ediciones impresas donde aparece la pieza, con su página.",
       "items": {
         "type": "object",
         "additionalProperties": false,
@@ -200,7 +200,7 @@
             "string",
             "null"
           ],
-          "description": "Volcado o fecha concreta de la fuente, para poder reproducir la importaci\u00f3n."
+          "description": "Volcado o fecha concreta de la fuente, para poder reproducir la importación."
         }
       }
     },
@@ -217,11 +217,19 @@
         "string",
         "null"
       ],
-      "description": "Indicaci\u00f3n de repetici\u00f3n de la fuente (\"ij\" = bis, \"iij\" = ter). Es una r\u00fabrica de ejecuci\u00f3n, no texto cantado."
+      "description": "Indicación de repetición de la fuente (\"ij\" = bis, \"iij\" = ter). Es una rúbrica de ejecución, no texto cantado."
     },
     "psalm_tone_ending": {
       "type": "boolean",
-      "description": "La pieza termina con la f\u00f3rmula salm\u00f3dica, escrita \"E u o u a e\" (las vocales de saeculorum amen)."
+      "description": "La pieza termina con la fórmula salmódica, escrita \"E u o u a e\" (las vocales de saeculorum amen)."
+    },
+    "performance_notes": {
+      "description": "Rúbricas que el libro imprime sobre el pentagrama y que no se cantan: «Hic genuflectitur», «Cantor», «Omnes». Salen de las etiquetas <alt> del gabc.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
     }
   }
 }

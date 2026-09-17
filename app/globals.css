@@ -1430,3 +1430,225 @@ main {
     display: none !important;
   }
 }
+
+/* ---------- Revisión: la evidencia a la vista ----------
+ *
+ * Una ficha no dice «sin revisar» y se calla: enseña qué se le ha
+ * comprobado, una línea por comprobación. Los colores siguen la convención
+ * del libro litúrgico —el rojo de rúbrica solo para marcar—, así que un
+ * reparo se marca en rúbrica y lo que pasa queda en tinta.
+ */
+
+.review {
+  margin-top: 2rem;
+  padding: 0.9rem 1rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.review-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.review-head h2 {
+  margin: 0;
+}
+
+.review-grade {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.18rem 0.5rem;
+  border-radius: 3px;
+  border: 1px solid var(--line-strong);
+  color: var(--ink-soft);
+}
+
+.review-grade.is-verificado {
+  background: var(--rubric);
+  border-color: var(--rubric);
+  color: var(--sheet);
+}
+
+.review-grade.is-comprobado {
+  border-color: var(--gold);
+  color: var(--ink);
+}
+
+.review-blurb {
+  margin: 0.6rem 0 0;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+}
+
+.review-signature {
+  margin: 0.5rem 0 0;
+  font-size: 0.85rem;
+}
+
+.review-checks {
+  list-style: none;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.4rem;
+}
+
+.review-checks li {
+  display: grid;
+  grid-template-columns: 1.1rem minmax(0, 1fr);
+  gap: 0.4rem;
+  align-items: start;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.review-mark {
+  font-weight: 700;
+  text-align: center;
+  color: var(--ink-faint);
+}
+
+.review-checks li[data-state="pass"] .review-mark {
+  color: var(--gold);
+}
+
+.review-checks li[data-state="fail"] .review-mark {
+  color: var(--rubric);
+}
+
+.review-checks li[data-state="fail"] strong {
+  color: var(--rubric);
+}
+
+.review-detail {
+  display: block;
+  color: var(--ink-soft);
+}
+
+.review-checks li[data-state="skip"] {
+  color: var(--ink-faint);
+}
+
+.review-note {
+  margin: 0.9rem 0 0;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+}
+
+/* Estado en la fila de fichas de la cabecera. */
+.chant-chips .is-grade-con-reparos {
+  border-color: var(--rubric);
+  color: var(--rubric);
+}
+
+.chant-chips .is-grade-verificado {
+  background: var(--rubric);
+  border-color: var(--rubric);
+  color: var(--sheet);
+}
+
+/* ---------- Página de revisión ---------- */
+
+.tally {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 0.8rem;
+  margin: 1.5rem 0;
+}
+
+.tally-cell {
+  padding: 0.9rem 1rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--line-strong);
+  border-radius: var(--radius);
+}
+
+.tally-cell.is-verificado {
+  border-left-color: var(--rubric);
+}
+
+.tally-cell.is-comprobado {
+  border-left-color: var(--gold);
+}
+
+.tally-cell strong {
+  display: block;
+  font-family: var(--chant);
+  font-size: 1.9rem;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.tally-cell span {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.checks-doc {
+  margin: 1rem 0 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.checks-doc dt {
+  font-family: var(--chant);
+  font-size: 1.05rem;
+  margin-bottom: 0.2rem;
+}
+
+.checks-doc dd {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+.queue {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.queue > li {
+  padding: 0.6rem 0.75rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--rubric);
+  border-radius: var(--radius);
+}
+
+.queue > li > a {
+  text-decoration: none;
+}
+
+.queue .incipit {
+  font-family: var(--chant);
+  font-size: 1.05rem;
+}
+
+.queue .detail {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+}
+
+.queue-reasons {
+  margin: 0.4rem 0 0;
+  padding-left: 1.1rem;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+}

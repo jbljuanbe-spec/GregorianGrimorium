@@ -8,7 +8,7 @@
   "mode": "IV",
   "mode_variant": null,
   "version": "Dominican",
-  "text_latin": "Lauda Jerúsalem Dóminum: quóniam confortávit seras portárum tuárum: benedíxit fíliis tuis * in te, allelúia. * Extra Temp. Pasch. in te.",
+  "text_latin": "Lauda Jerúsalem Dóminum: quóniam confortávit seras portárum tuárum: benedíxit fíliis tuis * in te, allelúia. * in te.",
   "repeat_indication": null,
   "psalm_tone_ending": false,
   "gabc": "(c4) Lau(ce/ge//ghGF//fvED)da(fd/efe) (::) Je(fd)rú(e)sa(f)lem(hggd) (;3) (fhGF/ghg) (;4) Dó(f)mi(egffv)num:(ef) (:) quó(ed)ni(ghg)am(h) con(hjh/ij)for(g)tá(fg)vit(fe) (;) se(fe/f!gh)ras(hg) por(ge)tá(fh)rum(g) (;4) tu(ge)á(fhGF//fvED)rum:(fd/efe) (:) be(ce/gf)ne(ffc)dí(df/gvFE)xit(e) (;) fí(ixdh!iv)li(hg)is(gh) tu(ef//hig)is(gf) *(;1) in(ffe~) te,(d!efED) (:) al(ce/gf)le(ffc//ffe;3hghffe)lú(egffv)ia.(fe) *(::) <alt>Extra Temp. Pasch.</alt>() in(egffv) te.(fe) (::)",
@@ -29,5 +29,8 @@
     "external_id": "5712",
     "snapshot": "gregobase_20191024"
   },
-  "review_status": "needs_review"
+  "review_status": "needs_review",
+  "performance_notes": [
+    "Extra Temp. Pasch."
+  ]
 }

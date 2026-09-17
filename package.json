@@ -2,7 +2,7 @@
   "name": "gregorian-grimorium",
   "version": "0.0.1",
   "private": true,
-  "description": "Biblioteca digital de canto gregoriano: buscador de \u00edncipits con partituras verificadas.",
+  "description": "Biblioteca digital de canto gregoriano: buscador de íncipits con partituras verificadas.",
   "type": "module",
   "scripts": {
     "dev": "next dev",
@@ -11,6 +11,7 @@
     "start": "npx serve out",
     "test": "node --test \"scripts/**/*.test.mjs\" \"lib/**/*.test.mjs\"",
     "validate": "node scripts/validate-data.mjs",
+    "refresh:text": "node scripts/refresh-text.mjs",
     "typecheck": "tsc --noEmit",
     "import:gregobase": "node scripts/import-gregobase.mjs",
     "import:gabc": "node scripts/import-gabc.mjs",

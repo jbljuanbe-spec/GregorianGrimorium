@@ -1,18 +1,18 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { editions, loadCorpus } from "@/lib/corpus";
+import { editions, loadCorpus, reviewTally } from "@/lib/corpus";
 import { formatCount } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Acerca de este proyecto",
   description:
-    "De dónde sale el corpus, con qué licencia, cómo se dibujan las partituras y qué significa que una ficha esté sin revisar.",
+    "De dónde sale el corpus, con qué licencia, cómo se dibujan las partituras y qué se comprueba de cada ficha.",
   alternates: { canonical: "/acerca-de/" },
 };
 
 export default function AcercaDePage() {
   const chants = loadCorpus();
-  const reviewed = chants.filter((chant) => chant.review_status === "verified").length;
+  const tally = reviewTally();
 
   return (
     <>
@@ -53,13 +53,24 @@ export default function AcercaDePage() {
       </div>
 
       <div className="block">
-        <h2>Qué significa «sin revisar»</h2>
+        <h2>Qué se comprueba de cada ficha</h2>
         <p>
-          La importación es automática y <strong>nunca marca nada como revisado</strong>: ahora
-          mismo hay {formatCount(reviewed)} fichas revisadas a mano de {formatCount(chants.length)}
-          . Una ficha sin revisar puede arrastrar errores de la fuente —una palabra partida, un
-          modo mal declarado— y lo dice en su propia página. Preferimos decirlo a aparentar una
-          precisión que aún no tenemos.
+          La importación es automática y <strong>nunca firma nada como revisado</strong>: hay{" "}
+          {formatCount(tally.verificado)} fichas cotejadas a mano de {formatCount(chants.length)}.
+          Pero decirlo y callar lo demás sería no haber mirado, porque el canto gregoriano tiene
+          propiedades que se comprueban solas.
+        </p>
+        <p>
+          Así que cada ficha publica su evidencia: siete comprobaciones, una por línea, con lo que
+          ha salido. La más exigente es musicológica —que la melodía cierre en la finalis de su
+          modo o en su afinal—, y es la que más errores encuentra. Ahora mismo{" "}
+          <strong>{formatCount(tally.comprobado)}</strong> fichas pasan todas las aplicables y{" "}
+          <strong>{formatCount(tally["con-reparos"])}</strong> tienen un reparo con nombre.
+        </p>
+        <p>
+          Nada de eso mira la ficha contra el libro impreso, que es lo que sigue exigiendo una
+          persona. Por eso el sello dice «comprobado» y no «revisado»:{" "}
+          <Link href="/revision/">el método, las cifras y la cola abierta</Link>.
         </p>
       </div>
 

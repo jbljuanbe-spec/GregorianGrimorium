@@ -4,7 +4,9 @@ import { notFound } from "next/navigation";
 import AddToRepertoire from "@/components/AddToRepertoire";
 import ChantWorkspace from "@/components/ChantWorkspace";
 import LibraryRail from "@/components/LibraryRail";
+import ReviewPanel from "@/components/ReviewPanel";
 import {
+  auditOf,
   getChant,
   getOtherVersions,
   loadCorpus,
@@ -12,6 +14,7 @@ import {
   toSlug,
   type Chant,
 } from "@/lib/corpus";
+import { GRADES } from "@/lib/review.mjs";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 export function generateStaticParams() {
@@ -46,7 +49,7 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
   const chant = getChant(id);
   if (!chant) notFound();
 
-  const reviewed = chant.review_status === "verified";
+  const audit = auditOf(chant);
   const otherVersions = getOtherVersions(chant);
   const { previous, next } = neighbours(chant);
   const genreSlug = toSlug(chant.genre);
@@ -70,7 +73,7 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
         {chant.mode ? <Link href={`/modos/${toSlug(chant.mode)}/`}>modo {chant.mode}</Link> : null}
         {chant.mode_variant ? <span>{chant.mode_variant}</span> : null}
         {chant.version ? <span>Versión {chant.version}</span> : null}
-        <span>{reviewed ? "Revisado" : "Sin revisar"}</span>
+        <span className={`is-grade-${audit.grade}`}>{GRADES[audit.grade].label}</span>
       </div>
     </header>
   );
@@ -85,7 +88,7 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
       <LibraryRail currentId={chant.id} />
 
       <ChantWorkspace gabc={chant.gabc} filename={chant.id} header={header}>
-        {chant.repeat_indication || chant.psalm_tone_ending ? (
+        {chant.repeat_indication || chant.psalm_tone_ending || chant.performance_notes?.length ? (
           <p className="performance">
             <span className="rubric">Ejecución</span>
             {chant.repeat_indication ? (
@@ -97,6 +100,13 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
             {chant.psalm_tone_ending ? (
               <span>Termina con la fórmula salmódica «E u o u a e»</span>
             ) : null}
+            {/* Rúbricas que el libro pone sobre el pentagrama: quién canta,
+                dónde se arrodilla. No se cantan, pero sí se obedecen. */}
+            {chant.performance_notes?.map((note) => (
+              <span key={note} lang="la">
+                {note}
+              </span>
+            ))}
           </p>
         ) : null}
 
@@ -125,12 +135,7 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
           </div>
         ) : null}
 
-        {reviewed ? null : (
-          <p className="notice">
-            Ficha de importación automática, aún sin revisión humana: el texto o el modo pueden
-            arrastrar errores de la fuente.
-          </p>
-        )}
+        <ReviewPanel audit={audit} />
 
         <div className="chant-refs">
           <AddToRepertoire chantId={chant.id} />
