@@ -1,0 +1,25 @@
+{
+  "_comment": [
+    "Firmas de revisión humana. Una entrada por ficha cotejada a mano contra",
+    "su edición impresa, con quién la firma, cuándo y contra qué.",
+    "",
+    "Esto es deliberadamente un archivo en el repositorio y no una base de",
+    "datos: la firma queda en el historial de git, con autor y fecha, y",
+    "cualquiera puede auditar quién dio por buena qué ficha. Una fila en una",
+    "tabla no da eso.",
+    "",
+    "Formato de cada entrada:",
+    "  \"<id-de-la-ficha>\": {",
+    "    \"by\":   \"Nombre de quien firma\",",
+    "    \"date\": \"YYYY-MM-DD\",",
+    "    \"note\": \"contra qué se cotejó y cualquier salvedad\"",
+    "  }",
+    "",
+    "Firmar una ficha no borra sus reparos automáticos: si una comprobación",
+    "sigue fallando, la ficha lo enseña igual. La contradicción se ve, no se",
+    "tapa. Ver docs/REVISION.md.",
+    "",
+    "Empezar por la cola de /revision, que está ordenada por gravedad."
+  ],
+  "signatures": {}
+}

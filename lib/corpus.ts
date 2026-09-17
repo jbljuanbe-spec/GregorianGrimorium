@@ -3,6 +3,9 @@
 
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
+import { auditCorpus, type Audit, type Grade, type Signature } from "@/lib/review.mjs";
+
+export type { Audit, Check, CheckId, Grade, Signature } from "@/lib/review.mjs";
 
 export type ReviewStatus = "draft" | "needs_review" | "verified";
 
@@ -28,6 +31,11 @@ export interface Chant {
   repeat_indication: string | null;
   /** Termina con la fórmula salmódica, escrita "E u o u a e". */
   psalm_tone_ending: boolean;
+  /**
+   * Rúbricas que el libro imprime sobre el pentagrama y que no se cantan:
+   * "Hic genuflectitur", "Cantor", "Omnes". Salen de las etiquetas <alt>.
+   */
+  performance_notes?: string[];
   gabc: string;
   transcriber: string | null;
   commentary: string | null;
@@ -57,6 +65,73 @@ export function loadCorpus(): Chant[] {
 
 export function getChant(id: string): Chant | undefined {
   return loadCorpus().find((chant) => chant.id === id);
+}
+
+// ---------- Auditoría de revisión ----------
+//
+// Se calcula una vez por compilación para las 3.051 fichas y se guarda en un
+// índice por id: cada ficha la necesita, y la cola de /revision las necesita
+// todas a la vez.
+
+let audits: Map<string, Audit> | null = null;
+
+function loadSignatures(): Record<string, Signature> {
+  try {
+    const raw = JSON.parse(readFileSync(join(process.cwd(), "data/reviewed.json"), "utf8"));
+    return (raw.signatures ?? {}) as Record<string, Signature>;
+  } catch {
+    // Sin el archivo, nadie ha firmado nada: es el estado inicial, no un error.
+    return {};
+  }
+}
+
+function loadAudits(): Map<string, Audit> {
+  if (audits) return audits;
+  audits = new Map(
+    auditCorpus(loadCorpus(), loadSignatures()).map(({ id, ...audit }) => [id, audit]),
+  );
+  return audits;
+}
+
+/** La auditoría de una ficha: qué se ha comprobado y con qué resultado. */
+export function auditOf(chant: Chant): Audit {
+  return loadAudits().get(chant.id)!;
+}
+
+/**
+ * Las fichas con algún reparo, ordenadas por gravedad: primero las que
+ * fallan más comprobaciones, y dentro de eso las que fallan lo más serio.
+ * Es la cola de trabajo de quien vaya a revisar a mano.
+ */
+export function reviewQueue(): { chant: Chant; audit: Audit }[] {
+  const severity: Record<string, number> = {
+    notacion: 0,
+    texto: 1,
+    derivado: 2,
+    modo: 3,
+    finalis: 4,
+    ediciones: 5,
+    procedencia: 6,
+  };
+
+  return loadCorpus()
+    .map((chant) => ({ chant, audit: auditOf(chant) }))
+    .filter(({ audit }) => audit.failed.length > 0)
+    .sort((a, b) => {
+      if (b.audit.failed.length !== a.audit.failed.length) {
+        return b.audit.failed.length - a.audit.failed.length;
+      }
+      const worst = (entry: { audit: Audit }) =>
+        Math.min(...entry.audit.failed.map((check) => severity[check.id] ?? 9));
+      return worst(a) - worst(b);
+    });
+}
+
+/** Recuento por grado, para poder decir en qué estado está el corpus. */
+export function reviewTally(): Record<Grade, number> {
+  const tally = { verificado: 0, comprobado: 0, "con-reparos": 0 } as Record<Grade, number>;
+  for (const audit of loadAudits().values()) tally[audit.grade]++;
+  return tally;
 }
 
 /** Clave de pieza: mismo íncipit y mismo género, aunque cambie la edición. */
