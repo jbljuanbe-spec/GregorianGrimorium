@@ -29,9 +29,9 @@
   --display: var(--font-display), "Helvetica Neue", Arial, sans-serif;
   --chant: var(--font-chant), "Iowan Old Style", Georgia, serif;
 
-  --radius: 4px;
-  --radius-lg: 8px;
-  --lift: 0 1px 1px rgba(42, 31, 22, 0.05), 0 10px 24px -16px rgba(42, 31, 22, 0.35);
+  --radius: 0;
+  --radius-lg: 0;
+  --lift: none;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -49,7 +49,7 @@
     --rubric-wash: #2d1a18;
     --sheet: #f9f4e7;
     --sheet-line: #cdbf9f;
-    --lift: 0 0 0 1px rgba(255, 255, 255, 0.03), 0 18px 40px -22px rgba(0, 0, 0, 0.85);
+  --lift: none;
   }
 }
 
@@ -67,7 +67,7 @@
   --rubric-wash: #2d1a18;
   --sheet: #f9f4e7;
   --sheet-line: #cdbf9f;
-  --lift: 0 0 0 1px rgba(255, 255, 255, 0.03), 0 18px 40px -22px rgba(0, 0, 0, 0.85);
+  --lift: none;
 }
 
 * {
@@ -173,7 +173,7 @@ a {
   width: 1.6rem;
   height: 1.6rem;
   border: 1px solid var(--rubric);
-  border-radius: 2px;
+  border-radius: 0;
   color: var(--rubric);
   font-family: var(--chant);
   font-size: 0.95rem;
@@ -249,11 +249,12 @@ main {
 }
 
 .hero h1 {
-  font-size: clamp(1.8rem, 4.6vw, 2.5rem);
-  font-weight: 700;
-  line-height: 1.1;
+  font-family: var(--chant);
+  font-size: clamp(2.4rem, 6vw, 4rem);
+  font-weight: 400;
+  line-height: 1.02;
   letter-spacing: -0.02em;
-  margin: 0 0 0.6rem;
+  margin: 0 0 0.75rem;
   text-wrap: balance;
 }
 
@@ -293,7 +294,7 @@ main {
 }
 
 .search-box:focus {
-  border-color: var(--rubric);
+  border-color: var(--ink);
 }
 
 .search-hint {
@@ -313,7 +314,7 @@ main {
   padding: 0.1rem 0.35rem;
   border: 1px solid var(--line);
   border-bottom-width: 2px;
-  border-radius: 3px;
+  border-radius: 0;
   background: var(--panel-sunk);
 }
 
@@ -446,7 +447,7 @@ main {
   min-width: 2.4rem;
   padding: 0.05rem 0.3rem;
   border: 1px solid var(--line-strong);
-  border-radius: 2px;
+  border-radius: 0;
   font-size: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -480,8 +481,9 @@ main {
 
 .taxon-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
-  gap: 0.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+  gap: 0;
+  column-gap: 2.5rem;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -492,10 +494,8 @@ main {
   align-items: baseline;
   justify-content: space-between;
   gap: 0.5rem;
-  padding: 0.55rem 0.7rem;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--line);
   text-decoration: none;
   font-size: 0.9rem;
 }
@@ -564,7 +564,7 @@ main {
 .badge {
   padding: 0.1rem 0.45rem;
   border: 1px solid var(--line-strong);
-  border-radius: 999px;
+  border-radius: 0;
   font-size: 0.7rem;
   color: var(--ink-faint);
 }
@@ -699,7 +699,7 @@ main {
 .ambitus-track {
   position: relative;
   height: 1.5rem;
-  border-radius: 2px;
+  border-radius: 0;
   background: rgba(20, 23, 25, 0.06);
   overflow: hidden;
 }
@@ -774,14 +774,12 @@ main {
 }
 
 .panel {
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  padding: 0.8rem;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--line);
 }
 
 .panel + .panel {
-  margin-top: 0.8rem;
+  margin-top: 1.4rem;
 }
 
 .panel h2,
@@ -938,7 +936,7 @@ main {
   width: 1.7rem;
   height: 1.7rem;
   border: 1px solid var(--line-strong);
-  border-radius: 2px;
+  border-radius: 0;
   font-size: 0.8rem;
   font-weight: 600;
   font-variant-numeric: tabular-nums;
@@ -1083,7 +1081,7 @@ main {
 .player-track {
   height: 3px;
   margin-top: 0.6rem;
-  border-radius: 2px;
+  border-radius: 0;
   background: rgba(20, 23, 25, 0.1);
   overflow: hidden;
 }
@@ -1177,10 +1175,25 @@ main {
 }
 
 .workspace-aside {
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: var(--radius-lg);
-  padding: 0.85rem;
+  padding: 0;
+}
+
+@media (min-width: 62rem) {
+  .rail-tools {
+    padding-left: 1.5rem;
+    border-left: 1px solid var(--line);
+  }
+
+  .rail-library {
+    padding-right: 1.5rem;
+  }
+}
+
+@media (min-width: 82rem) {
+  .rail-library {
+    padding-right: 1.5rem;
+    border-right: 1px solid var(--line);
+  }
 }
 
 /* Los útiles siguen a la vista mientras se baja por una pieza larga. La
@@ -1249,7 +1262,7 @@ main {
   color: var(--ink-soft);
   background: var(--panel-sunk);
   border: 1px solid var(--line);
-  border-radius: 3px;
+  border-radius: 0;
   cursor: pointer;
 }
 
@@ -1408,7 +1421,7 @@ main {
 .chant-chips > * {
   padding: 0.18rem 0.45rem;
   border: 1px solid var(--line);
-  border-radius: 3px;
+  border-radius: 0;
   background: var(--panel);
   color: var(--ink-soft);
   text-decoration: none;
@@ -1440,11 +1453,9 @@ main {
  */
 
 .review {
-  margin-top: 2rem;
-  padding: 0.9rem 1rem;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
+  margin-top: 2.5rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--line-strong);
 }
 
 .review-head {
@@ -1465,7 +1476,7 @@ main {
   letter-spacing: 0.06em;
   text-transform: uppercase;
   padding: 0.18rem 0.5rem;
-  border-radius: 3px;
+  border-radius: 0;
   border: 1px solid var(--line-strong);
   color: var(--ink-soft);
 }
@@ -1566,11 +1577,8 @@ main {
 }
 
 .tally-cell {
-  padding: 0.9rem 1rem;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-left: 3px solid var(--line-strong);
-  border-radius: var(--radius);
+  padding: 0 0 0 0.9rem;
+  border-left: 2px solid var(--line-strong);
 }
 
 .tally-cell.is-verificado {
@@ -1624,11 +1632,9 @@ main {
 }
 
 .queue > li {
-  padding: 0.6rem 0.75rem;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-left: 3px solid var(--rubric);
-  border-radius: var(--radius);
+  padding: 0.55rem 0 0.55rem 0.75rem;
+  border-left: 2px solid var(--rubric);
+  border-bottom: 1px solid var(--line);
 }
 
 .queue > li > a {
@@ -1650,5 +1656,136 @@ main {
   margin: 0.4rem 0 0;
   padding-left: 1.1rem;
   font-size: 0.82rem;
+  color: var(--ink-soft);
+}
+
+/* ---------- Portada: el índice del gradual ----------
+ *
+ * Un libro de coro abre por su tabla de contenidos, no por una propuesta de
+ * valor. Estructura de imprenta: columnas separadas por aire, filas
+ * separadas por filetes, cifras al margen derecho. Ver DESIGN.md.
+ */
+
+.index-columns {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2rem;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line-strong);
+}
+
+@media (min-width: 46rem) {
+  .index-columns {
+    grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+    gap: 3.5rem;
+  }
+}
+
+.taxon-group > h2,
+.opening > h2 {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--rubric);
+  margin: 0 0 0.6rem;
+}
+
+/* Los ocho modos en cifra romana, como se anotan al margen de un libro. */
+.mode-index {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 2rem;
+}
+
+.mode-index a {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+}
+
+.mode-index a:hover {
+  background: var(--panel-sunk);
+}
+
+.mode-numeral {
+  font-family: var(--chant);
+  font-size: 1.1rem;
+}
+
+/* Muestra del repertorio: la biblioteca se ve nada más entrar. */
+.opening {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line-strong);
+}
+
+.entries {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.entries a {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.15rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+}
+
+@media (min-width: 52rem) {
+  .entries a {
+    grid-template-columns: 16rem minmax(0, 1fr) 11rem;
+    align-items: baseline;
+    gap: 1.5rem;
+  }
+}
+
+.entries a:hover {
+  background: var(--panel-sunk);
+}
+
+.entry-incipit {
+  font-family: var(--chant);
+  font-size: 1.15rem;
+  line-height: 1.25;
+}
+
+.entry-text {
+  font-family: var(--chant);
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  line-height: 1.45;
+}
+
+.entry-meta {
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: var(--ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+@media (min-width: 52rem) {
+  .entry-meta {
+    text-align: right;
+  }
+}
+
+.opening-more {
+  margin: 1.2rem 0 0;
+  font-size: 0.85rem;
+}
+
+.opening-more a {
   color: var(--ink-soft);
 }
