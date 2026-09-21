@@ -53,12 +53,21 @@ botón «primario», nunca para decorar.
 Tres familias, tres oficios. No hay una cuarta.
 
 ```
-chant   Spectral          El latín, los íncipits, las cifras grandes.
-                          Serif de pantalla con diacríticos sólidos (é, æ, ǽ),
-                          que este repertorio necesita.
-ui      Archivo           Etiquetas, navegación, botones, metadatos.
-hand    Spectral italic   Glosa y comentario de fuente.
+chant   Cardo             El latín, los íncipits y los titulares.
+ui      Inter Tight       Etiquetas, navegación, botones, cifras.
+hand    Cardo italic      Glosa y comentario de fuente.
 ```
+
+**Por qué Cardo.** Está diseñada por David Perry *para* medievalistas y
+clasicistas: una Bembo renacentista con la cobertura de diacríticos que este
+repertorio necesita de verdad (é, æ, ǽ, œ) y con el aire de un libro
+compuesto en plomo. Antes iba Spectral, que es buena pero es una de las serif
+por defecto de Google Fonts y aparece en miles de webs generadas. **El tipo
+de letra es lo que más delata una interfaz sin autor**, así que la cara tiene
+que tener un referente y un motivo; esta los tiene.
+
+La sans va en papel secundario a propósito: lo que se le pide es densidad y
+cifras tabulares limpias, no carácter. La voz de la página es la serif.
 
 | token | familia | tamaño | peso | interlínea | tracking |
 |---|---|---|---|---|---|
@@ -144,6 +153,13 @@ el borde pasa a `ink` — no a rojo.
 ### `sheet` — la hoja de la partitura
 La única superficie con fondo propio (`sheet`) y filete completo. Es el papel:
 tiene derecho a distinguirse porque contiene la notación.
+
+### `title` — el título de una pieza
+Sale de `lib/chant-title.mjs`, no del campo crudo. Los 705 Alleluia vienen
+titulados por su versículo —la fuente hace bien, porque los 705 empiezan
+cantando «Allelúia»—, pero crudo se lee «In multitudine» con la etiqueta
+«Alleluia» al lado y no parece que tengan que ver. Se imprime como en los
+libros: **«Allelúia: In multitúdine»**.
 
 ### `figure` — la cifra al margen
 Números alineados a la derecha en `figure` tabular, color `ink-faint`. Como

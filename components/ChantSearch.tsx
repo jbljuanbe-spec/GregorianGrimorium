@@ -89,6 +89,7 @@ export default function ChantSearch({ facets, total }: { facets: Facets; total: 
     return [...pieces.values()].map(({ entry, versions }) => ({
       id: entry.id,
       incipit: entry.incipit,
+      title: entry.title,
       mode: entry.mode,
       versions,
       detail: [entry.genre, entry.version, entry.sources[0]].filter(Boolean).join(" · "),

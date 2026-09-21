@@ -6,6 +6,8 @@ import { join } from "node:path";
 import { auditCorpus, type Audit, type Grade, type Signature } from "@/lib/review.mjs";
 
 export type { Audit, Check, CheckId, Grade, Signature } from "@/lib/review.mjs";
+import { displayTitle } from "@/lib/chant-title.mjs";
+export { displayTitle };
 
 export type ReviewStatus = "draft" | "needs_review" | "verified";
 
@@ -106,12 +108,13 @@ export function auditOf(chant: Chant): Audit {
 export function reviewQueue(): { chant: Chant; audit: Audit }[] {
   const severity: Record<string, number> = {
     notacion: 0,
-    texto: 1,
-    derivado: 2,
-    modo: 3,
-    finalis: 4,
-    ediciones: 5,
-    procedencia: 6,
+    incipit: 1,
+    texto: 2,
+    derivado: 3,
+    modo: 4,
+    finalis: 5,
+    ediciones: 6,
+    procedencia: 7,
   };
 
   return loadCorpus()
@@ -163,6 +166,8 @@ export function foldAccents(value: string): string {
 export interface IndexEntry {
   id: string;
   incipit: string;
+  /** El íncipit ya presentable: ver lib/chant-title.mjs. */
+  title: string;
   genre: string;
   mode: string | null;
   version: string | null;
@@ -285,6 +290,7 @@ export function toListItems(chants: Chant[]) {
   return [...pieces.values()].map(({ chant, versions }) => ({
     id: chant.id,
     incipit: chant.incipit,
+    title: displayTitle(chant),
     mode: chant.mode,
     versions,
     detail: [chant.genre, chant.version, chant.bibliography[0]?.title]

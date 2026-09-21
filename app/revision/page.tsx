@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { formatCount } from "@/lib/site";
-import { loadCorpus, reviewQueue, reviewTally } from "@/lib/corpus";
+import { displayTitle, loadCorpus, reviewQueue, reviewTally } from "@/lib/corpus";
 import { CHECKS, GRADES } from "@/lib/review.mjs";
 
 export const dynamic = "force-static";
@@ -150,7 +150,7 @@ export default function ReviewPage() {
           {queue.slice(0, SHOWN).map(({ chant, audit }) => (
             <li key={chant.id}>
               <Link href={`/cantos/${chant.id}/`}>
-                <span className="incipit">{chant.incipit}</span>
+                <span className="incipit">{displayTitle(chant)}</span>
                 <span className="detail">
                   {[
                     chant.genre,

@@ -7,6 +7,7 @@ import LibraryRail from "@/components/LibraryRail";
 import ReviewPanel from "@/components/ReviewPanel";
 import {
   auditOf,
+  displayTitle,
   getChant,
   getOtherVersions,
   loadCorpus,
@@ -27,17 +28,17 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   if (!chant) return {};
 
   const descriptors = [chant.genre, chant.mode ? `modo ${chant.mode}` : null].filter(Boolean).join(", ");
-  const description = `${chant.incipit} — ${descriptors}. Texto latino, partitura en notación cuadrada y tono ajustable. ${truncate(chant.text_latin, 90)}`;
+  const description = `${displayTitle(chant)} — ${descriptors}. Texto latino, partitura en notación cuadrada y tono ajustable. ${truncate(chant.text_latin, 90)}`;
   const path = `/cantos/${chant.id}/`;
 
   return {
-    title: chant.incipit,
+    title: displayTitle(chant),
     description,
     alternates: { canonical: path },
     openGraph: {
       type: "article",
       url: path,
-      title: `${chant.incipit} — ${descriptors}`,
+      title: `${displayTitle(chant)} — ${descriptors}`,
       description,
       siteName: SITE_NAME,
     },
@@ -59,12 +60,12 @@ export default async function ChantPage({ params }: { params: Promise<{ id: stri
       <div className="chant-top">
         <Link href={`/generos/${genreSlug}/`}>← {chant.genre}</Link>
         <div className="step-links">
-          {previous ? <Link href={`/cantos/${previous.id}/`}>← {previous.incipit}</Link> : null}
-          {next ? <Link href={`/cantos/${next.id}/`}>{next.incipit} →</Link> : null}
+          {previous ? <Link href={`/cantos/${previous.id}/`}>← {displayTitle(previous)}</Link> : null}
+          {next ? <Link href={`/cantos/${next.id}/`}>{displayTitle(next)} →</Link> : null}
         </div>
       </div>
 
-      <h1>{chant.incipit}</h1>
+      <h1>{displayTitle(chant)}</h1>
 
       <div className="chant-chips">
         <Link href={`/generos/${genreSlug}/`} className="is-rubric">
@@ -211,7 +212,7 @@ function structuredData(chant: Chant) {
   return {
     "@context": "https://schema.org",
     "@type": "MusicComposition",
-    name: chant.incipit,
+    name: displayTitle(chant),
     url: `${SITE_URL}/cantos/${chant.id}/`,
     inLanguage: "la",
     musicalKey: chant.mode ? `Modo ${chant.mode}` : undefined,

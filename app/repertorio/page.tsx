@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { displayTitle } from "@/lib/chant-title.mjs";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import RepertoireScore, { type RepertoireChant } from "@/components/RepertoireScore";
 import {
@@ -227,7 +228,7 @@ export default function RepertoirePage() {
                 <span className="repertoire-order">{position + 1}</span>
                 <div>
                   <Link href={`/cantos/${item.id}/`} className="incipit">
-                    {chant ? chant.incipit : item.id}
+                    {chant ? displayTitle(chant) : item.id}
                   </Link>
                   <span className="detail">
                     {chant
@@ -273,7 +274,7 @@ export default function RepertoirePage() {
                 value={item.note}
                 placeholder="Anotación para el coro: tono, versos, quién canta…"
                 onChange={(event) => update(annotate(repertoire, position, event.target.value))}
-                aria-label={`Anotación para ${chant?.incipit ?? item.id}`}
+                aria-label={`Anotación para ${chant ? displayTitle(chant) : item.id}`}
               />
 
               {chant ? <RepertoireScore chant={chant} /> : null}
