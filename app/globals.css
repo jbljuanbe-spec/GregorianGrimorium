@@ -95,8 +95,10 @@ a {
   color: inherit;
 }
 
+/* El cerco de foco va en tinta, no en rojo: el rojo es rúbrica. Y además
+   contrasta más sobre pergamino que el rojo, así que se ve mejor. */
 :focus-visible {
-  outline: 2px solid var(--rubric);
+  outline: 2px solid var(--ink);
   outline-offset: 2px;
 }
 

@@ -129,7 +129,7 @@ export default function LibraryRail({ currentId }: { currentId?: string }) {
                 href={`/cantos/${entry.id}/`}
                 aria-current={entry.id === currentId ? "page" : undefined}
               >
-                <span className="incipit">{entry.incipit}</span>
+                <span className="incipit">{entry.title}</span>
                 <span className="detail">
                   {[entry.genre, entry.mode ? `modo ${entry.mode}` : null].filter(Boolean).join(" · ")}
                 </span>

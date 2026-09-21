@@ -1,6 +1,6 @@
 import Link from "next/link";
 import ChantSearch from "@/components/ChantSearch";
-import { corpusFacets, genres, loadCorpus, modes, type Chant } from "@/lib/corpus";
+import { corpusFacets, displayTitle, genres, loadCorpus, modes, type Chant } from "@/lib/corpus";
 import { formatCount } from "@/lib/site";
 
 /**
@@ -68,7 +68,7 @@ export default function HomePage() {
           {sample(chants, byGenre.map((taxon) => taxon.label)).map((chant) => (
             <li key={chant.id}>
               <Link href={`/cantos/${chant.id}/`}>
-                <span className="entry-incipit">{chant.incipit}</span>
+                <span className="entry-incipit">{displayTitle(chant)}</span>
                 <span className="entry-text">{opening(chant.text_latin)}</span>
                 <span className="entry-meta">
                   {[chant.genre, chant.mode ? `modo ${chant.mode}` : null]

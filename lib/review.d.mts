@@ -1,5 +1,6 @@
 export type CheckId =
   | "notacion"
+  | "incipit"
   | "texto"
   | "derivado"
   | "modo"

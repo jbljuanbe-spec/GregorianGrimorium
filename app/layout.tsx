@@ -1,23 +1,31 @@
 import type { Metadata } from "next";
-import { Archivo, Spectral } from "next/font/google";
+import { Cardo, Inter_Tight } from "next/font/google";
 import SiteNav from "@/components/SiteNav";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
 import "./globals.css";
 
-// Archivo para la interfaz: una grotesca de trabajo, con carácter y buena
-// densidad para filas de metadatos.
-const display = Archivo({
+// Inter Tight para la interfaz: etiquetas, cifras y navegación. Va en papel
+// secundario a propósito —la voz de la página es la serif—, así que lo que se
+// le pide es densidad y cifras tabulares limpias, no carácter.
+const display = Inter_Tight({
   subsets: ["latin", "latin-ext"],
-  weight: ["400", "500", "600", "700"],
+  weight: ["400", "500", "600"],
   variable: "--font-display",
   display: "swap",
 });
 
-// Spectral para el latín y para la letra bajo los neumas: serif pensada para
-// pantalla, con diacríticos sólidos (é, æ, ǽ) que este repertorio necesita.
-const chant = Spectral({
+// Cardo para el latín, los íncipits y los titulares.
+//
+// Está diseñada por David Perry PARA medievalistas y clasicistas: es una
+// Bembo renacentista con la cobertura de diacríticos que este repertorio
+// necesita de verdad (é, æ, ǽ, œ) y con el aire de un libro compuesto en
+// plomo. Antes iba Spectral, que es buena pero es una de las serif por
+// defecto de Google Fonts y aparece en miles de webs generadas: el tipo de
+// letra es lo que más delata una interfaz sin autor. Esta cara tiene un
+// referente y un motivo.
+const chant = Cardo({
   subsets: ["latin", "latin-ext"],
-  weight: ["400", "500"],
+  weight: ["400", "700"],
   style: ["normal", "italic"],
   variable: "--font-chant",
   display: "swap",

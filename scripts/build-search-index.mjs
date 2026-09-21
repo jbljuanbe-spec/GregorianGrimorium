@@ -5,6 +5,7 @@
 import { readFileSync, readdirSync, writeFileSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { displayTitle } from "../lib/chant-title.mjs";
 
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const corpusDir = join(root, "data/chants");
@@ -26,6 +27,7 @@ const index = readdirSync(corpusDir)
   .map((chant) => ({
     id: chant.id,
     incipit: chant.incipit,
+    title: displayTitle(chant),
     genre: chant.genre,
     mode: chant.mode,
     version: chant.version,
