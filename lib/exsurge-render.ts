@@ -102,9 +102,29 @@ export function renderScore({
   return new Promise((resolve) => {
     score.layoutChantLines(ctxt, width, () => {
       target.innerHTML = score.createSvg(ctxt);
+      addViewBox(target);
       resolve(readSemitones(score));
     });
   });
+}
+
+/**
+ * Exsurge dibuja el SVG con `width`/`height` pero sin `viewBox`. Sin
+ * `viewBox`, esos atributos no fijan solo el tamaño intrínseco: fijan
+ * también el sistema de coordenadas interno, así que si algo (la impresión,
+ * ver app/globals.css) impone después una caja más pequeña por CSS, el
+ * navegador no reescala el dibujo — lo recorta, porque el `<svg>` raíz
+ * recorta lo que se sale de su ventana por defecto. Se añade aquí, no en
+ * vendor/exsurge/, para no tocar la fuente vendida: con `viewBox`, imponer
+ * una caja más pequeña por CSS reescala la partitura entera en vez de
+ * cortarla, que es lo que cabía esperar.
+ */
+function addViewBox(target: HTMLElement) {
+  const svg = target.querySelector("svg");
+  if (!svg || svg.hasAttribute("viewBox")) return;
+  const width = svg.getAttribute("width");
+  const height = svg.getAttribute("height");
+  if (width && height) svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
 }
 
 function readSemitones(score: ExsurgeScore): number[] {

@@ -1034,12 +1034,26 @@ main {
     padding: 0;
   }
 
+  /* Selector heredado del maquetado anterior a la mesa de tres paneles; ya
+     no hay ningún .chant-body en el DOM (ver .workspace más abajo), pero se
+     deja explícito por si algo lo reintroduce. */
   .chant-body {
     display: block;
   }
 
+  /* La partitura no se puede partir a mitad de un sistema: una hoja de
+     verdad tampoco corta un pentagrama por la mitad. Pero un SVG es una
+     unidad atómica para la paginación del navegador, así que "no partir" +
+     una pieza más alta que una página física no da una página más —
+     recorta silenciosamente lo que sobra. Es el tracto más largo del
+     corpus el caso límite: por eso lleva además un techo de altura real,
+     no solo de ancho, para que quepa entera aunque haya que encogerla.
+     Ver docs/IMPRESION.md. */
   .score-surface svg {
     max-width: 100%;
+    max-height: 21cm;
+    width: auto;
+    height: auto;
     break-inside: avoid;
   }
 
